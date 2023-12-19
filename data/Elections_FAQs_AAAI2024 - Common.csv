@@ -1,0 +1,112 @@
+Question Category - stakeholder,Question sub-category,Q No.,Question - general,Parameters,Region(s) Applicable - Assumption as well as from source,Reference to country specific tab
+Voter Questions (1),Voter-what (1.1),,,,,
+,,1,Why does election matter (in <region>)?,<region>,<region> = * ,"IND-Q1, IDN-Q5"
+,,2,How much are election workers paid (in a <region>)?,<region>,<region> = * ,IND-Q2
+,,3,Who will win the elections in <region> in <year>?,"<region>, <year>",<region> = * ,IND-Q3
+,,4,Are elections democratic in <region>?,<region>,<region> = * ,IND-Q4
+,,5,Does election in <region> involve betting?,<region>,<region> = * ,IND-Q5
+,,6,Can election in <region> be hacked?,<region>,<region> = * ,IND-Q8
+,,7,Is there a holiday for election (in <region>)? ,<region>,<region> = * ,IND-Q9
+,,8,What happens if I cannot come to the polling station (in <region>) ?,<region>,<region> = * ,IRE-Q10
+,,9,"In <region>, how many seats are each of the main parties contesting?",<region>,<region> = * ,UK-4
+,,10,"What counts as a ""fair"" election?",,,IDN-Q6
+,,11,What are the most populated (in terms of number of voters) and least populated seats being contested in the general elections (in <region>)?,<region>,<region> = * ,UK-Q1
+,,12,Why have other countries discontinued their internet voting projects?,,,EST-Q29
+,,13,Is it safe to vote over the internet (in <region>)?,<region>,<region> = * ,EST-Q48
+,,14,Why don't other countries use voting over the internet at national elections?,,,EST-Q50
+,,15,Can permanent residents in <region> vote in elections?,<region>,"<region> = {US, Canada}",SA-Q15
+,,16,"I have registered to vote in <region>, but I do not want to vote. Will anything happen to me if I do not vote?",<region>,<region> = * ,
+,,17,Are more people expected to vote by mail in <year> in <region>? ,"<year>, <region>","year = *, <region> = * ",CA-Q6
+,,18,I feel apathetic about the different party platforms and am not sure if I’m going to vote. What should I do?,,,CA-Q11
+,,19,"Is it that big of a deal, historically or otherwise, not to have the results of the election on Election Day?",,,USA-Q2
+,,20,Should we put a first-class stamp on our ballot if we don't drop it into a vote box?,,,USA-Q6
+,,21,What about adding drive-thru voting so people can feel safe remaining in their vehicles?,,,USA-Q10
+,,22,What kind of access do <foreign country> people have to the election system? Can they manipulate vote totals or voter lists?,<foreign country>,<foreign country> = * ,USA-Q12
+,,23,Is it better to vote by mail or vote in person?,,,USA-Q14
+,,24,Will we know the winner on election night?,,,USA-Q17
+,,25,Why do so few people vote in <region> elections?,<region>,<region> = * ,USA-Q18
+,,26,I received my <region> ballot and at the end it says I have to have a witness sign. Is this true? Do you have to have a witness in everywhere or just in <region>?,<region>,<region> = * ,USA-Q20
+,,27,What measures are being taken to stop <candidate> from rigging the election?,<candidate>,<candidate> = * ,USA-Q26
+,,28,What happens if my voting location closes due to a Covid surge?,,,USA-Q33
+,,29,Will <news organization> project states on election night like they do every year? Will there be too many mail-in ballots cast that the number of in-person votes cast just won’t be enough to project a winner?,<news organization>,<news organization> = *,USA-Q36
+,,30,"In <region>, can I send my mail-in ballot by <mail service>, and can I put the ballots of my other family members in the same <mail service> envelope?",<region>,"<region> = * , <mail service> = *",USA-Q39
+,,,,,,
+,,,,,,
+,Voter-how (1.2),,,,,
+,,1,Is there somewhere where we can enter the name of an <elected-representative> and see the <elected-representative> 's full voting records in the <house>?,"<elected-represetntative>, <house>","<elected-represetntative> = *, <house> = *",UK-Q7
+,,2,How many seats are each of the main parties contesting for in <region>?,<region>,<region> = *,UK-Q4
+,,3,Would it be possible to vote at a polling place and also online at home in <region>?,<region>,<region> = *,EST-Q7
+,,4,Where do I get an ID card in <region>?,<region>,<region> = *,EST-Q8
+,,5,"If my ID card is not valid (is expired, suspended or annulled). How can I get new ones in <region>?",<region>,<region> = *,EST-Q9
+,,6,How is the voter identified in <region>?,<region>,<region> = *,EST-Q19
+,,7,How would the voters of advanced age vote as actively as the young?,,,EST-Q36
+,,8,How can I still vote in <region> if I cannot get to the voting station on Election Day because I am heavily pregnant?,<region>,<region> = *,SA-Q1
+,,9,How can I vote in <region> if I registered but am now in prison?,<region>,<region> = *,SA-Q2
+,,10,How can I vote if I turn 18 soon after Election Day in <region>?,<region>,<region> = *,SA-Q4
+,,11,How can I vote in <region> if I am in another town or provinence on Election Day?,<region>,<region> = *,SA-Q5
+,,12,How can I vote in <region> if I am in another country on Election Day?,<region>,<region> = *,SA-Q6
+,,13,How can I vote in <region> if I will be out of the country on government service on Election Day?,<region>,<region> = *,SA-Q7
+,,14,How can I vote if I am a <region> citizen but no longer live in <region>?,<region>,<region> = *,SA-Q8
+,,15,How can I vote if I am bedridden and unable to go to my voting station in <region> on Election Day?,<region>,<region> = *,SA-Q9
+,,16,How can I vote in <region> if I am in hospital?,<region>,<region> = *,SA-Q10
+,,17,I am blind. Would someone be able to help me at the voting station in <region>?,<region>,<region> = *,SA-Q18
+,,18,How do I register to vote in <region>?,<region>,<region> = *,CA-Q3
+,,19,How does mail-in voting work in <region>?,<region>,<region> = *,CA-Q5
+,,20,"I’ve requested my mail-in ballot in <region>. If I change my mind and want to vote in person, how can I do that?",<region>,<region> = *,USA-Q4
+,,21,"In <region>, how far in advance of the election day must we send our mail-in ballots?",<region>,<region> = *,USA-Q7
+,,22,"In <region>, How will people who lost their homes receive their voting information and their mail-in ballots?",<region>,<region> = *,USA-Q9
+,,23,How can people volunteer to help the post office process ballots for delivery?,,,USA-Q11
+,,24,How can I make sure my mail-in ballot is received and counted?,,,USA-Q13
+,,,,,,
+,,,,,,
+,Voter-when (1.3),,,,,
+,,1,Why are elections always held on a <day of the week> in <region>?,"<day of the week>, <region>","<day of the week>, <region> = {{Tuesday, USA}, {Wednesday, Indonesia}}",IDN-Q2
+,,2,"I recently renewed my ID card, but still cannot vote in <region>. Why?",<region>,<region> = *,EST-Q12
+,,3,"In <region>, when is the last date to register to vote?",<region>,<region> = *,USA-Q19
+,,4,When can the <region> begin to count absentee & mail-in ballots?,<region>,<region> = *,USA-Q35
+,,,,,,
+,Voter-who (1.4),,,,,
+,,1,Who can run for President of <region>?,<region>,"<region> = {USA, Ireland, India}",IRE-Q2
+,,2,Who can run for <Head-of-govenment> of <region>?,"<Head-of-govenment>, <region>","<Head-of-govenment>, <region> = {{Prime Minister, {Canada, India}}, {President, {USA, India, South Africa}} }",IRE-Q2
+,,3,Who can run for <Head-of-state> of <region>?,"<Head-of-state>, <region>","<Head-of-state>, <region> = { {{King | Queen}, Canada}, {President, {USA, India, South Africa, Indonesia}}  }",IRE-Q2
+,,4,Which countries use voting through the internet?,,,EST-Q27
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Candidate questions (2),,,,,,
+,Candidate-what (2.1),,,,,
+,,1,Which are the most populated (in terms of number of voters) and least populated seats being contested in the general election?,,,UK-Q1
+,,2,In what conditions can a candidate request a recount in a close result?,,,UK-Q3
+,,3,Do <poll officers> have any guidelines about conditions when a candidate can request a recount in a close result?,<poll officer>,,UK-Q3
+,,4,What if <candidate> refuses to accept the election results?,<candidate>,,USA-Q5
+,,5,"What are the conditions in which a candidate can request a recount in a close result, do <poll officers> have any guidelines (in <region>)?","<poll officers>, <region>",,UK-Q3
+,,6,What happens if there is a hung <house>?,<house>,<region> = *,UK-Q5
+,,7,Do you have to vote for the party you are registrered for?,,,USA-Q1
+,,8,How much can a candidate spend in <region>?,<region>,<region> = *,IRE-4
+,,,,,,
+,Candidate-how (2.2),,,,,
+,,1,How is it ensured that each voter votes themselves (independently) (in <region>)?,<region>,<region> = *,"EST-Q20, EST-Q43"
+,,2,How can I be sure that the electoral committee or anybody else cannot change the contents of the vote-collecting tank (in <region>)?,<region>,<region> = *,EST-Q45
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Election Administration / Journalist questions (3),,,,,,
+,Election-What (3.1),,,,,
+,,1,What goes into the cost of an election in <region>?,<region>,<region> = *,CA-Q7
+,,2,Why do the elections matter?,,,IDN-Q4
+,,,,,,
+,Election-Who (3.2),,,,,
+,,1,Who are first-time voters? ,,,IDN-Q1
+,,2,Who are Millennial voters?,,,IDN-Q1
+,,,,,,
+,Election-How (3.3),,,,,
+,,1,How does <region> handle voter abstention?,<region>,<region> = *,IDN-Q3
+,,2,"What counts as a ""fair"" election?",,,IDN-Q5
+,,3,How do local officials verify signatures on mail-in ballots?,,,USA-Q8

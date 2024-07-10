@@ -3,6 +3,15 @@ document.addEventListener('DOMContentLoaded', () => {
     const papersContainer = document.getElementById('papers-container');
     const categoryDescriptionText = document.getElementById('category-description-text');
 
+    // Add "All" tab
+    const allLi = document.createElement('li');
+    const allA = document.createElement('a');
+    allA.href = '#';
+    allA.textContent = 'All';
+    allA.setAttribute('data-country', 'all');
+    allLi.appendChild(allA);
+    countryList.appendChild(allLi);
+
     // Populate country list dynamically
     for (const country in elecData) {
         const li = document.createElement('li');
@@ -24,20 +33,36 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     function displayQuestions(country) {
-        const questions = elecData[country].Questions;
         let questionsHTML = '';
 
-        if (questions.length) {
-            questionsHTML += '<ul>'; // Use a simple ul container for questions
-            questions.forEach((question) => {
-                questionsHTML += `<li>${question}</li>`;
-            });
-            questionsHTML += '</ul>';
+        if (country === 'all') {
+            let allQuestions = [];
+            for (const country in elecData) {
+                allQuestions = allQuestions.concat(elecData[country].Questions);
+            }
+            if (allQuestions.length) {
+                questionsHTML += '<ul class="questions-list">';
+                allQuestions.forEach((question) => {
+                    questionsHTML += `<li>${question}</li>`;
+                });
+                questionsHTML += '</ul>';
+            } else {
+                questionsHTML += '<p>No questions available.</p>';
+            }
         } else {
-            questionsHTML += '<p>No questions available for this country.</p>';
+            const questions = elecData[country].Questions;
+            if (questions.length) {
+                questionsHTML += '<ul class="questions-list">';
+                questions.forEach((question) => {
+                    questionsHTML += `<li>${question}</li>`;
+                });
+                questionsHTML += '</ul>';
+            } else {
+                questionsHTML += '<p>No questions available for this country.</p>';
+            }
         }
 
-        // categoryDescriptionText.textContent = `Questions for ${country}:`;
+        categoryDescriptionText.textContent = country === 'all' ? 'All Questions' : `Questions for ${country}:`;
         papersContainer.innerHTML = questionsHTML;
     }
 });

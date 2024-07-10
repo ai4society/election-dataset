@@ -154,14 +154,22 @@
   }
   
   /* Enhanced Category List Styling */
-  .category-list {
+  /* .category-list {
     flex: 1;
     padding: 0 30px;
-    max-width: 300px; /* Limit width for better readability */
+    max-width: 300px; 
     display: flex;
     flex-direction: column;
-    align-items: center; /* Center category names */
-  }
+    align-items: center; 
+  } */
+  
+  .category-list {
+    width: 300px;
+    padding: 0 30px;
+    border-radius: 5px;
+    flex-shrink: 0; /* Prevent the sidebar from shrinking */
+    align-items: center;
+}
   
   .category-list h2 {
     margin-bottom: 30px;
@@ -253,6 +261,25 @@
     font-weight: bold; /* Make the year stand out */
   }
   
+  #papers-container {
+    margin-top: 20px;
+}
+
+.questions-list {
+    list-style-type: none; /* Remove bullets */
+    padding-left: 0; /* Remove default padding */
+}
+
+.questions-list li {
+    font-size: 1.1em;
+    margin-bottom: 10px;
+    line-height: 1.5;
+    background-color: #e9ecef;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
   .team-section {
     text-align: center;
     padding: 50px;

@@ -1,0 +1,404 @@
+{
+    "state": "WI",
+    "num_questions": 66,
+    "num_answers": 66,
+    "contributor": "Ruiyang Yu",
+    "questions": [
+        {
+            "q": "Can I choose to vote in person either at a location for in-person absentee voting or on Election Day when I live in a care facility served by SVDs?",
+            "a": "Yes! When the SVDs visit, you can decline to vote your ballot and vote at an in-person absentee polling location before election day or at the polls on election day instead. ",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "I live in a care facility and I would like my ballot sent to someone else (spouse, child, guardian, etc.) so they can bring it to me and be my assistant. How do I do that? ",
+            "a": "If you are registered to vote from the care facility (meaning you used the care facility address as your residence) AND that care facility is served by SVDs, your absentee ballot will be delivered by the SVD's or mailed to your mailing address if you are unable to vote during either SVD visit. Your family member is welcome to be in attendance when the SVDs visit and act as your assistant.\nRather than vote with the SVDs, you could vote at the polls on election day or vote absentee in-person at your municipal clerk's office or alternate site.\nAlternatively, if you maintain a home outside of the care facility, you would be able to register to vote from that address and could apply to receive an absentee ballot with that registration. ",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "Can my Power of Attorney get me registered to vote, request my absentee ballot, and/or vote my ballot for me? ",
+            "a": "If your Power of Attorney is a family member, they may assist you with registering to vote and voting your ballot* but they may not do those things on your behalf without your presence (Wis. Stat. 6.875(6)(c)1). Your Power of Attorney may request your absentee ballot on your behalf. \n*If you are in a care facility served by SVDs, they will need to be in attendance during one of those visits in order to assist you. ",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "Who do I file my candidacy forms with?",
+            "a": "Candidates file their forms with the filing officer at the level of office they are running for. Federal, Statewide, and multijurisdictional judicial candidates file their Declaration of Candidacy and Nomination Papers with Wisconsin Elections Commission. Statewide, and multijurisdictional judicial candidates file their Campaign Finance Registration Statement and Statement of Economic Interests with Wisconsin Ethics Commission. ",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "How do I see who is running for an office?",
+            "a": "Anyone can view the list of candidates running for office. For federal, statewide, and multijurisdictional judge positions, Wisconsin Elections Commission publishes and posts the Candidate Tracking by Office report ahead of the election. Voters can view exactly who will be on their ballot on the Type B notice published by the clerks on the Friday before the election. They may also view a sample ballot on MyVote.\nNote: Sample ballots will not appear in MyVote until the list of candidates has been certified and added to the election by the clerks. Voter can expect to be able to view their sample ballot up to two weeks before the election.",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "How many signatures do I need to get on my nomination papers?",
+            "a": "The number of signatures needed to get your name added to the ballot is dependent on the level of office you are running for. Please consult the Ballot Access checklist for the office for federal, statewide, and multi-jurisdictional judicial offices. Local candidates should check with their local filing officers (county, municipal, or school district clerks).",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "Can a candidate run for an office when they don't live within the district boundaries?",
+            "a": "The short answer is yes. Each office has specific rules about when the candidate must live within the district in order to serve in the office. Please consult the page for the level office for which candidate is running to view the residency requirements:",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "What is a HAVA/DMV check and how do they work?",
+            "a": "HAVA Checks are comparisons between a voter registration record and a DMV or Social Security record.  They are also sometimes referred to as “DMV Checks.”  They are designed to catch typos and data entry errors to improve the quality of the voter registration list. They are not designed to be a qualification to vote.\nHAVA is the Help America Vote Act of 2002, which was passed in the wake of the problems in Florida following the 2000 election.  Among other things, HAVA required Wisconsin to create a statewide voter registration database and provided funding for that system.  Before 2006, when the system went online, Wisconsin law only required voter registration in larger cities.  In smaller towns, there was no voter registration, just a book where poll workers would write the names of voters when they came to vote.   \nSpecifically, Section 303 of HAVA, titled “Computerized Statewide Voter Registration List Requirements and Requirements for Voters Who Register by Mail,” mandates the creation of a computerized list containing the name and registration information of every legally registered voter in the State, which shall serve as the official voter registration list for federal and state elections. HAVA § 303(a)(1)(A) codified at 52 U.S.C. § 21083(a)(1)(A).  HAVA requires that individuals, upon registering to vote, provide a current driver license number, if they have one, or last four digits of their Social Security Number, for those who do not. Voters who have neither a driver license nor a Social Security Number are assigned a separate identification number for purposes of the official registration list. HAVA § 303(a)(5)(A) codified at 52 U.S.C. § 21083(a)(5)(A).\n“HAVA Checks” (known more commonly as DMV Checks) occur automatically when the statewide voter registration system attempts to match data from voters with data from the Wisconsin Department of Transportation and the Social Security Administration.  \nThere are two kinds of DMV Checks. The first kind are run in batches overnight on voters who register on a paper form, whether in person or by mail. This check attempts to match the voter’s name, date of birth and driver license (or state ID) number.  If the voter does not have a Wisconsin driver license or state ID card, the system tries to match the name, date of birth and the last four digits of their Social Security Number with Social Security records.\nChecks for Online Voter Registration\nThe second kind of DMV check happens during online voter registration (OVR).  Unlike the nightly HAVA check process, the OVR DMV check occurs nearly instantly to verify that a voter’s name, date of birth, license number, and jurisdiction match DMV records.  If the OVR DMV check does not match, the voter is not permitted to register online.  Therefore, all records with a source of “Online Registration” passed the OVR DMV check with a 100% match.\nWisconsin law does require anyone who registers to vote online to correctly match four separate fields from their DMV record.  These DMV checks occur in real time, and there must be an exact match for the voter’s name, date of birth, DMV number and residence jurisdiction.  This check is required for proof of residence in registration.\nAbout HAVA Checks\nWhen people register to vote with their municipal clerk or at the polling place on Election Day, the WEC checks their names, dates of birth and driver license number against Wisconsin DMV records. If they do not have a Wisconsin driver license or state ID card, their names are matched with Social Security records.  These matches, known as HAVA checks, are made within 24 hours of the clerk entering the information in the statewide voter database. HAVA is an acronym for the federal Help America Vote Act of 2002.\nApproximately 5% of the people who registered to vote between January 1 and November 3, 2020, were at least initially non-matches with either DMV or Social Security databases.  That does not mean these voters are not real Wisconsin citizens.\nWhen there is not a match, we know that in most cases, it is the result of errors. The most common error (63%) is a mismatched name, often due to misspelling, name variation (Bob instead of Robert), nickname or a missing suffix missing (Jr. or Sr.). The next most common error (22%) is a driver license or state ID number mismatch.  Wisconsin DMV numbers have one letter and 13 digits, and non-matches often result from writing the number incorrectly on the voter registration form or entering it incorrectly in the voter database. Other innocent reasons for mismatches include typos in the data.  For example, one voter registered at the polling place on 8/11/2020.  The clerk inadvertently recorded the voter’s birthdate as 7/5/1990 instead of 7/15/1990, resulting in a non-match.\nWhen there is a non-match, a registered voter is never “removed” from the statewide voter database.  Neither Wisconsin nor federal law require a match, and Wisconsin law does not permit clerks or the WEC to remove a voter from the list for not matching.\nThe issue of what happens with a HAVA Check mismatch is not new. In fact, it was extensively litigated in 2008 when the Wisconsin Attorney General sued the Government Accountability Board (WEC’s predecessor agency).  The AG claimed the GAB was required to remove voters with HAVA Check mismatches.\nIn J.B. Van Hollen et. al v. Government Accountability Board et. al, the judge found that none of the provisions of HAVA affect the fundamental voter eligibility qualifications.  HAVA mandates action by States with regard to voting systems, accessibility for individuals with disabilities, and establishment and maintenance of the official statewide voter registration list.  HAVA establishes no additional voter qualifications, except in the limited case of a first-time voter who registered by mail and who must either provide a photo identification or current proof of residence, or else must vote by provisional ballot. A successful HAVA match eliminates this additional requirement.\nThe court further determined that HAVA does not mandate the imposition of a consequence or penalty for a voter whose voter registration data does not precisely match information contained in the DOT or SSA databases. The HAVA match process also does not alter the voter eligibility requirements established by state law.  The court ultimately concluded that HAVA Checks are intended to assist in improving the quality of voter data in the State’s official voter registration list on an ongoing basis, not to convert an otherwise qualified voter into an ineligible voter.  The GAB adopted the court’s findings on January 15, 2009.  \nSo what happens if the DMV Check doesn’t match?\nIf there is a non-match, the voter’s record is flagged in the statewide voter database for clerks to review, and the clerk receives a DMV Check alert.  Clerks are asked to review non-matches to ensure a data entry error was not responsible for the non-match result.  Clerks often are able to identify things like data entry errors but will also attempt to contact voters whose non-matches they cannot resolve.  For the treatment of non-match records in the database, the WEC observes procedures established after litigation involving its predecessor agency, the Government Accountability Board (GAB).  In J.B. Van Hollen et. al v. Government Accountability Board et. al, Dane County Court Case 08CV4085, the judge found that none of the provisions of HAVA affect the fundamental voter eligibility qualifications.  HAVA mandates action by States with regard to voting systems, accessibility for individuals with disabilities, and establishment and maintenance of the official statewide voter registration list.  HAVA establishes no additional voter qualifications, except in the limited case of a first-time voter who registered by mail and who must either provide a photo identification or current proof of residence, or else must vote by provisional ballot. A successful HAVA match eliminates this additional requirement.\nThe court further determined that HAVA does not mandate the imposition of a consequence or penalty for a voter whose voter registration data does not precisely match information contained in the DOT or SSA databases. The HAVA match process also does not alter the voter eligibility requirements established by state law.  Order in Dane County Court Case 08CV4085 at 10.  The judge emphasized that HAVA must be read in the context of the Voting Rights Act of 1965 and its prohibition on official government action denying the right to vote “because of an error or omission on any record or paper relating to any application, registration, or other act requisite to voting, if such error or omission is not material in determining whether such individual is qualified under state law to vote in such election.” Court Order at 12.\nThe court ultimately concluded that HAVA Checks are intended to assist in improving the quality of voter data in the State’s official voter registration list on an ongoing basis, not to convert an otherwise qualified voter into an ineligible voter.  By enacting and implementing HAVA, neither Congress nor the Legislature has altered the longstanding basic voter eligibility requirements, namely U.S. citizenship, age, and residency, along with an absence of disqualifying factors such as a felony conviction or a finding of incompetency.  The GAB adopted the court’s findings.  Wisconsin Government Accountability Board meeting minutes, Item F, January 15, 2009.  \nElection Day Registration Verification\nWisconsin election law (Wis. Stat. § 6.56) requires a separate verification process for people who register to vote on Election Day.  \nIf you register to vote at the polling place, the Wisconsin Elections Commission will mail an address verification postcard to you after your municipal clerk enters your voter registration into the statewide database. If the post office returns your postcard to the clerk as undeliverable, the clerk must change your record to inactive, and the clerk is required to make a referral to the district attorney’s office for investigation and possible prosecution.\n                                                                                                                                                                             \nAccording to statistics about the November 2020 election posted on the WEC’s website (https://elections.wi.gov/statistics-data/voting-statistics), there were 6,488 undeliverable postcards and 2,922 voters who have been inactivated because of the postcard being returned. Clerks reported making 373 referrals to district attorneys so far.  After November 2016, there were far more undeliverable postcards and referrals.  There were 10,429 undeliverable postcards and 3,870 voters who were inactivated 954 as a result. Clerks reported making 954 referrals to district attorneys.\nElection Day Registration and Voting Security\nWisconsin has allowed Election Day registration for many years, and it is extremely popular with voters who need to update their registration after they move or change their names.  It is also secure. \nTo register to vote at the polls on Election Day, a voter must provide:\n•\tA proof-of-residence document with a current address, such as a driver license, bank statement, tax bill, utility bill or letter from a unit of government.\n•\tTheir driver license or state ID number (or the last four digits of their Social Security number if they don’t have a DMV number). However, there is no requirement or process in state law to verify that DMV data before they vote.  \nTo vote on Election Day, all voters must show an acceptable photo ID, including a Wisconsin driver license or state ID card, U.S. Passport, military ID, veterans ID, some student IDs, tribal ID, and certificate of naturalization.  Poll workers are provided samples of acceptable photo IDs, and there has never been a problem with voters presenting fake photo IDs.",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "Can third-party groups design Wisconsin’s ballots?",
+            "a": "No.  Wisconsin State Statute 7.10 explicitly gives the responsibility of preparing, printing, and distributing ballots to county clerks, based on templates developed and approved by the Wisconsin Elections Commission for each election cycle.  Some clerks print ballots in-house, while others use vendors who specialize in ballot printing.  Once printed, county clerks are also responsible for delivering ballots to the municipal clerks by deadlines established in state statutes so they can be mailed to absentee voters.  ",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "Are Wisconsin’s electronic poll books connected to the Internet?",
+            "a": "No, Badger Books never touch the internet, which is in accordance with the Commission’s directive outlining the creation and implementation of an electronic poll book program.  In polling places where there is more than one Badger Book station, the devices do connect to each other to update the electronic poll list.  The network they use to communicate is either via an encrypted wireless router or a hardwired ethernet cable through a secure router that is not connected to the Internet.  All guidance and training provided to the municipalities by WEC staff stress the importance of this lack of external connectivity. ",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "Do some pens or markers used by voters prevent their ballots from being counted?",
+            "a": "No. Voters do not need to worry, their ballots were counted. Voting equipment in Wisconsin is tested at the local, state and federal level for all kinds of pens and other marking devices.  While we recommend that voters use the pen or marking device provided at their polling place or as instructed in their absentee ballot, the use of a felt-tip pen doesn’t invalidate a ballot.",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "Does Wisconsin audit signatures for absentee voters?",
+            "a": "State law does not authorize or require signature comparison as a part of the voting process or during any post-election recount or audit.  Instead, for security purposes, Wisconsin requires most absentee voters to show or provide a copy of their photo ID when requesting a ballot.\nAs a part of the absentee ballot counting process, every absentee certificate envelope is checked to ensure the voter and witness signed the certificate.  However, nothing in Wisconsin law establishes a process for comparing those signatures, as there is not necessarily any original signature for them to be compared with.  Signature matching is a specialized field, and Wisconsin election officials have received no training or certification in signature matching.  For those reasons, conducting an audit of absentee voters’ signatures would be impractical and unwarranted.",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "Why are so many absentee ballots not folded and have the same initials? ",
+            "a": "If an absentee ballot is unfolded, that means the voter cast an absentee ballot in the clerk’s office on a piece of voting equipment known as the ES&S ExpressVote. The ExpressVote is a touch-screen ballot marking device (BMD) which prints the voter’s choices on a smaller paper ballot which does not need to be folded. ExpressVote ballots can be counted using the ES&S DS200 precinct scanner, just like regular sized paper ballots. ExpressVote BMDs are also used by people with disabilities to vote in person at polling places.\nThe clerk or deputy clerk is required to initial the absentee ballot before issuing it to the voter, so it is natural that many of them all have the same set of initials.",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "What are some accommodations for poll workers?",
+            "a": "What are the positions at a polling place?\nThere are four different positions that help conduct elections at a polling place.\n1.\tA poll worker, or election inspector, is someone who conducts duties at a polling place on Election Day. The poll worker can issue ballots to registered voters, registering voters, monitor the voting equipment, explain how to mark the ballot or use the voting equipment, and count votes. There are typically 3 to 7 election inspectors at a polling place with 1 chief inspector. There must always be an odd number of election inspectors.\n2.\tEach polling place is allowed up to one greeter. The greeter assists with answering questions and directing voters to the voting area. A greeter may become an election inspector on election day if there is an even number of poll workers to maintain an odd number.\n3.\tThe municipal clerk or board of election commissioners may assign an election registration official (ERO) to a polling place to register voters. EROs do not count toward the number of election inspectors at a polling place.\n4.\tLastly, the governing body or board of election commissioners of a municipality may pass a resolution to employ tabulators in an election. Tabulators assist at the polling place after it closes.\nWhat are the essential functions of becoming a poll worker?\nUnder Wis. Stat. s. 7.30(2), election inspectors must be able to read and write the English language, be capable, and be of good understanding. However, there are many different duties that an individual can conduct at the polling place that do not require the ability to read or write the English language. These could include being a greeter, monitoring the voting equipment, or issuing ballots to registered voters. \nHow do I get an accommodation to become a poll worker?\nUnder ADA, all poll workers, including greeters and tabulators, are entitled to receive a reasonable accommodation to perform the essential functions of the job if the accommodation does not create an undue hardship to the employer.  Therefore, many municipalities may be able to provide reasonable accommodations for individuals to become a poll worker. However, not every position may be able to be performed by every individual, so a reasonable accommodation could be reassignment to a different position. \nTo get a reasonable accommodation, contact your municipal clerk. You may also contact the Wisconsin Elections Commission with any questions.\nWhat are examples of accommodations that are generally reasonable at a polling place?\n•\tAssignment to be a greeter.\n•\tAssignment to a specific task.\n•\tProviding a translator.\n•\tProviding an aid to assist with assigned tasks.\n•\tProviding extra breaks.\n•\tAllowing flexible work hours.\n•\tProviding equipment to improve accessibility, such as a chair or magnifying glass.\n \nAn accommodation would not be reasonable if the individual is unable to perform the essential functions of the job or if the accommodation causes undue hardship for the municipality. These determinations are decided by each municipality, but the Wisconsin Elections Commission can work with a clerk to identify accommodation options or eliminate barriers to providing an accommodation.",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "Are voters who request to vote at the entrance of the polling place (curbside voters) required to sign the poll list?",
+            "a": "No.  A voter who casts a ballot pursuant to § 6.82 (1) Wis Stats. is not required to sign the poll list under § 6.79 (1m) Wis. Stats.  Election inspectors shall mark the poll list “Ballot received at poll entrance-exempt.”",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "Can municipal clerks retain the provisional ballots past the 4 p.m. Wednesday deadline?",
+            "a": "Municipal clerks deliver all ballots, statements, tally sheets, lists and envelopes,excluding any absentee ballots received after closing hour on election night and any provisional ballots, related to any county, school district or special purpose district election to the appropriate clerks by 4:00 p.m. on the day following each such election. The municipal clerk shall deliver to the county clerk any additional provisional and absentee ballots canvassed late together with amended statements, tally sheets, lists, and envelopes no later than 4 p.m. on the Monday following the election.  Wis. Stat. § 7.51(5)(b).",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "Are election inspectors required to scrutinize voter signatures?",
+            "a": "Election inspectors are not required under 2011 Wisconsin Act 23 to compare the signature to any other record.  Voters should be directed to sign using their normal signature as they would sign any other official document and election inspectors should indicate the line number on which the voter is to sign.  The law does not require voter signatures to be legible. ",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "Voters are now required to provide a previous address for which they were registered last. What happens if the voter is unable to recall their previous address?",
+            "a": "The voter must provide as much information as they can recall.",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "Does a voter have to appear in person to provide the missing information that required them to vote provisionally?",
+            "a": "If the missing information was proof of identification, the voter must appear in person.  If the missing information is the driver license or DOT issued ID number, they may mail, fax, email or telephone the information to the municipal clerk.",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "Are municipal clerks required to be available on registration, absentee, and provisional deadlines?",
+            "a": "Yes.  Municipal clerks must be available at least until 5 p.m. on these deadlines.  If municipal clerks do not have set office hours, voters must be provided information where they may readily contact the municipal clerk.  If the municipal clerk will not be available, a deputy clerk must be appointed to provide coverage.",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "What happens if a voter refuses to the sign the poll list?",
+            "a": "If the voter refuses to sign the poll list, a ballot shall not be issued. \n\nHowever, electors who have a disability that prevents them from physically being able to sign the poll list are exempt from this provision.  If another person signed the voter’s registration form because the voter was unable to sign due to disability, the election inspector writes the word “exempt” on the signature line.  If the voter is already registered but the voter claims to be unable to sign due to physical disability, and both inspectors concur, the inspectors shall enter the words “exempt by order of inspectors” on the signature line.  If both inspectors do not waive the signature requirement, the voter shall be allowed to cast a ballot and the inspector or inspectors who did not waive the requirement shall challenge the ballot.",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "Can university or college student ID’s be used as proof of residence?",
+            "a": "University and college students may use their student photo ID in conjunction with a fee payment receipt that contains the student’s residential address dated no earlier than nine months before the election.  University and college students may also use their student photo ID if the university or college has provided a certified list to the municipal clerk of students, containing the students’ residential addresses and indicating which students are U.S. citizens.",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "In section seven on the Voter Registration Application (EL-131), what identifying number must a voter provide?",
+            "a": "The progression is as follows:\n\nVoter who possesses a WI driver license or WI DOT issued ID:\n\n•    If it is current and valid (not revoked, suspended or expired)\n\no        Voter must provide the license number\no        If they cannot or won’t provide the number, they can register and vote provisionally\n\n•    If driver license is revoked, suspended or expired \n\no        Voter must provide the last 4 digits of their Social Security number (SS#)\no        They may also provide the number on their license or ID (optional)\n\nVoter who does not possess a WI driver license\n\n•    Voter must provide the last 4 digits of their SS#\n\no        If the voter cannot provide the last 4 digits of their SS#, they may not register or vote\n\nVoter who possesses neither a WI driver license nor a state ID nor an SS# \n\n•    Checks in the box indicating they have no WI driver license/state ID nor SS#",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "What is the process for recall in Wisconsin?",
+            "a": "The Wisconsin Elections Commission has published two recall manuals (for Congressional, County, and State Officials; for Local Officials) explaining the process of recalling an elected official. Please consult these publications for answers about how to initiate a recall, deadlines for recall petitions to be circulated, and timelines for review and scheduling of recall elections.",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "\nHow long is the term of office for a high school poll worker? ",
+            "a": "A high school student serving as an election inspector is appointed for a specific election, not a two year term. The student may be appointed for more than one election.",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "What if all three election inspectors represent the same political party?",
+            "a": "If a municipality has only three election inspectors available to work at an election, and all represent the same political party, does it matter during a nonpartisan election?\nThe type of election is not the issue.  If lists of election inspector nominees are provided by the county parties, and appointments are made with regard to political affiliation, one of the inspectors will have to agree to represent the other party at that election.",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "What is the procedure for reducing the number of election inspectors?",
+            "a": "Any municipality may, by resolution, reduce the number of election officials to no less than three.  S. 7.32, Wis. Stats.  Rather than create a resolution prior to each election, a resolution may be worded so that the municipal clerk is able to make the decision with respect to number of inspectors to be used at a particular election.  S. 7.32, Wis. Stats.\n\nRemember:  If a polling place utilizes only three inspectors, and one inspector must leave the voting area, voting stops until the inspector returns.  The clerk may want to provide for an alternate who can replace inspectors for lunch or other breaks.  A municipal ordinance that provides for the use of alternate inspectors is required.  S. 7.30(1), Wis. Stats.  2/11/2003",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "Can I be excused from my regular job to be a poll worker? ",
+            "a": "Wisconsin law requires every employer to grant an unpaid leave of absence to each employee who is appointed to serve as an election official, if the employee who serves as an election official provides his or her employer with at least seven days' notice.  The leave is for the entire 24-hour period of each election day in which the employee serves in his or her official capacity as an election official.   Upon request of any employer municipal clerks must verify appointments.",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "What are the specific qualifications to be an Election Inspector (poll worker)? ",
+            "a": "To be an election inspector (poll worker), a person must:\n\n\tBe a qualified elector of the county in which the polling place is established  (i.e., an adult citizen of the United States who has resided in the election district for 28 consecutive days and is not otherwise disqualified to vote);\n\tBe able to speak, read, and write fluently in the English language;\n\tHave strong clerical skills;\n\tBe able to solve problems;\n\tBe an effective communicator; and\n\tNOT be a candidate for any office to be voted on at the polling place at that election.\n",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "What are the Training Requirements for Election Inspectors? ",
+            "a": "Municipal clerks are required by state law to provide training. This training provides all of the necessary information and knowledge to be a successful poll worker.  (Many municipalities require poll workers to attend a comprehensive training course prior to each Primary election.)  \n\n\n\nAn experienced chief inspector who has been certified by the State Elections Board must be present at each polling place for each election.   Chief inspectors must receive six hours of continuing election education training during each two-year period.",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "What are the responsibilities of an Election Inspector (poll worker)? ",
+            "a": "Election Inspectors (poll workers) conduct assigned duties at a polling site on Election Day.  Duties can include issuing ballots to registered voters, registering voters, monitoring the voting equipment, explaining how to mark the ballot or use the voting equipment or counting votes.",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": " How long may a voter linger at the polling place on election day? ",
+            "a": "Anyone can remain at the polling place for purposes of observing the election.  They may not, however, interfere with the orderly conduct of the election.  A candidate must leave the polling place after voting to avoid the appearance of electioneering.",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": " If a person is causing disruption at the polling place, when can the chief inspector call law enforcement for assistance?\n  ",
+            "a": "The chief inspector is in charge of keeping order at the polling place.  If a person is interfering with the orderly conduct of the election, the chief inspector may ask that person to leave the polling place.  If the person refuses, the inspectors may seek assistance from the municipal clerk.  If the municipal clerk cannot be contacted, or if the person refuses an order by the municipal clerk, law enforcement may be called.  3/24/2003",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": " Is the clerk required to be at the polling place on election day? \n  ",
+            "a": "On election day, the polling place is under the control of the election inspectors.  The clerk is an election administrator and has other duties on election day outside of the polling place.  Therefore, the Government Accountability Board does not advise that a municipal clerk serve as an election inspector.  If the municipal clerk must serve as an inspector, he or she must be appointed an an inspector and may not be a candidate at the election.  3/24/2003",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": " What is the role of the municipal clerk on election day? ",
+            "a": "The municipal clerk is an election administrator and, as such, should be available to the election inspectors on election day for advice, supplies, etc.  In addition, there are circumstances where a hospitalized elector or sequestered juror may request an absentee ballot from the clerk on election day.  Therefore, if the clerk is unable to be available on election day, a deputy should be appointed to act in the clerk's absence.  3/24/2003",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "What do I do if a problem happened while I was trying to vote and I feel I was treated unfairly or discriminated against? ",
+            "a": "You have the right to file a complaint with the Wisconsin Elections Commission.  However, most people are able to resolve their complaints informally.  We suggest you may want to follow the steps below as a starting point to resolve your concern.\n\n\n\nCall or write your municipal (i.e., city, village or town) clerk’s office to let them know about the problem. The clerk’s office may be able to resolve your concern right away. Find your municipal clerk under Directory of Wisconsin Clerks on this web site.\n\n\n\nContact other employees who work for your city, town or village to see if they can help you.\n\n\n\nIf you still have problems, you can call the Wisconsin Elections Commission at (608)266-8005 or email us at @email.\n\n\n\nIf your complaint is still not resolved, you can file a formal, verified  complaint with the WEC. The WEC web site contains a complete guide for filing a formal complaint.\n\n\n\nIf the WEC is unable to resolve the formal complaint to your satisfaction, you may have the option of filing a complaint under certain laws such as the Americans with Disabilities Act (ADA), if they apply to your situation.\n\n\n\nOrganizations that advocate for persons with disabilities such as Disability Rights Wisconsin (DRW) may be able to assist you in resolving your complaint if it is related to a disability.  To reach DRW’s Voting Rights Line, call 800/928-8778 (voice) or 888/758-6049 (TTY).",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": " What can a person do if he or she becomes aware of a violation of the Help America Vote Act (HAVA)? ",
+            "a": "Wisconsin law provides that whenever any person believes that a violation of the Help America Vote Act (HAVA) has occurred, is occurring, or is proposed to occur with respect to an election for national office in this state, that person may file a written, verified complaint with the Wisconsin Elections Commission.\n\n \n\nA verified (or sworn) complaint is a written challenge, sworn to before a person authorized to administer oaths.  The complaint must set forth facts within the knowledge of the complainant (the individual filing the complaint) to show probable cause to believe that a violation of law or abuse of discretion has occurred or will occur.  The complaint may be accompanied by relevant supporting documents.  This process can be found on the WEC web site.",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": " If I believe I have witnessed efforts to commit fraud or corruption in the voting process, how do I report this? ",
+            "a": "If you have witnessed efforts to commit any kind of fraud or corruption in the voting process, you may report this to local law enforcement officials such as your sheriff’s or police department.   You may also report this to the District Attorney in your county.\n\nYou may report this to federal law enforcement officials at:\n\n\n\nUnited States Attorney's Offices\n\nEastern District of Wisconsin:  414-297-1700  \n\nWestern District of Wisconsin:  608-264-5158",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": " If I believe I have witnessed discrimination or intimidation in the voting process, how do I report this? ",
+            "a": "If you have witnessed actual or attempted acts of discrimination or intimidation in the voting process, you may report this to the Civil Rights Division of the United States Department of Justice at 1-800-253-3931.\n\n",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "How do I report concerns about polling place accessibility or accessible voting equipment?",
+            "a": "If you have questions or concerns about the voting process, including polling place accessibility or accessible voting equipment, you may contact your municipal clerk.\n\n\n\nYou can check the Directory of Wisconsin Municipal Clerks on this website to find contact information for your municipal clerk. This listing contains telephone and fax numbers as well as addresses.\n\n\n\nYou may also use our online complaint form contact the Wisconsin Elections Commission at 608-266-8005, or e-mail: @email.",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": " In a county that uses a Central Count system, who delivers the ballots to the central count location? ",
+            "a": "When there are municipal offices or referenda on the ballot: \n\nOne option is for at least three inspectors (preferably all inspectors ) to accompany the ballots to the central count.  When the municipality's ballots are counted, the inspectors sign the municipal board of canvassers statement, and deliver the completed document to the municipal clerk. \n\nThe second option is for the clerk* or two inspectors to deliver the ballots to the central count.  At least three inspectors (preferably all inspectors) acting as the municipal board of canvassers meet the following morning to sign the municipal canvass, which includes the tabular statement, summary and certification. \n\nWhen there are no municipal offices or referenda on the ballot: \n\nEither two election inspectors or the municipal clerk* deliver the ballots to the central count location. \n\n*It’s a good idea for the municipal clerk not to deliver ballots to the central count if the clerk is a candidate at the election.\n\n5.85(5), 7.51, and 7.53, Wis. Stats.",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": " Can a candidate be present at the polling place on election day for any reason other than voting? \n  ",
+            "a": "The presence of a candidate at a location where ballots are given to voters may give the appearance of electioneering. During hours when ballots may be cast, Wis. Stat. § 12.03 prohibits electioneering at polling places, in-person absentee voting sites, and locations where special voting deputies are present. It also prevents electioneering on public property within 100 feet of an entrance to one of these locations. Electioneering is defined by the statute as “any activity which is intended to influence voting at an election.” Additionally, while most individuals may observe voting at polling places and in-person absentee voting sites, any candidate whose name appears on a ballot at one of those locations is not extended that right under Wis. Stat. § 7.41(1). For these reasons, the Wisconsin Elections Commission recommends that a candidate only be present at one of these locations in order to vote, and to leave as soon as the candidate has finished voting. ",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "Must the board of canvassers always consist of three people?",
+            "a": "The County Board of Canvassers, the Municipal Board of Canvassers, and the School District Board of Canvassers always consist of 3 persons:  Boards of Canvassers are comprised as follows:\n\n\t\nCounty Board of Canvassers:  The County Clerk and two qualified electors of the county appointed by the clerk. \n\n\n\t\nSchool District Board of Canvassers:  The School District Clerk and 2 qualified electors of the school district appointed by the clerk.\n\n\n\t\nMunicipal Board of Canvassers:  If the municipality has one ward or one set of results, the canvass shall be conducted publicly, and the election inspectors shall act as the municipal board of canvassers. Ss. 5.15(6)(b), 7.51, and 7.53(1), Wis. Stats. A separate board of canvassers, comprised of the municipal clerk and 2 other qualified electors appointed by the clerk, is required when the municipality has more than 1 reporting unit or more than 1 set of results.  The municipal board of canvassers must start the municipal canvass by 9am the Monday following the election. Wis. Stat. §7.53.",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "Who is the Municipal Board of Canvassers?",
+            "a": "If the municipality has one ward or one set of results, the canvass shall be conducted publicly, and the election inspectors shall act as the municipal board of canvassers. Ss. 5.15(6)(b), 7.51, and 7.53(1), Wis. Stats.\n\nA separate board of canvassers, comprised of the municipal clerk and two other qualified electors appointed by the clerk, is required when the municipality has more than one reporting unit or more than one set of results.  The municipal board of canvassers must start the municipal canvass by 9am the Monday following the election. Wis. Stat. §7.53.",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": " How is the order of candidates' names appearing on the ballot determined?",
+            "a": "In a nonpartisan (Spring) election, the order in which candidates names appear on the ballot is determined by the drawing of lots, or by any method that is by chance.  S. 5.60(1)(b), Wis. Stats.  3/24/2003\n\nIn a partisan primary, the order in which candidates of one party's names appear is also determined by lot.\n\nAt a partisan General Election (such as for Governor or President) the ballot order is determined by which political party's candidate received the most votes at the last General Election. For example, Governor Walker received the most votes in the 2010 General Election, so Republican candidates were first on the 2012 General Election ballot. In 2012, President Obama received the most votes, so Democratic candidates are first on the 2014 General Election ballot.\n\nThe ballot order for independent candidates is determined by lot.",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "What is the statutory language on a ballot where more than one officer is to be elected?",
+            "a": "In the above example, the statutory language is:  “Vote for not more than three.”  The number of candidates an elector is allowed to vote for, whether at a primary or an election, is the same as the number of officers to be elected.  S. 5.52, Wis. Stats.  3/24/2003",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "Can a candidate withdraw from a race and have his or her name removed from the ballot?",
+            "a": "Once a candidate qualifies for ballot status, her name appears on the ballot. The candidate cannot withdraw and have her name removed. Only in case of death of the candidate can the name be removed from the ballot. S. 8.35, Wis. Stats.\n\nThe candidate can make a statement to notice the electors that she no longer wishes to seek the office by election, but her name will appear on the ballot. Should the candidate win the election, she may decline to hold the office. This creates a vacancy that is filled following the provisions of Ch. 17.  3/12/2003",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": " Can a Power of Attorney (POA) complete an Application for Absentee Ballot for an elector?\n  ",
+            "a": "Yes.  A Power of Attorney can request an absentee ballot for an elector.  No person (not even a POA) may \"vote\" a ballot for another elector.  If the elector requires assistance in completing the ballot, the elector may designate another person to assist the elector in marking the ballot.*  In the presence of the elector, the ballot is marked according to the elector's direction.  The assisting elector must sign their name on the ballot under the section entitled \"Signature of Assisting Individual.\"\n\n\n\n*The assisting elector cannot be the elector's employer or an agent of that employer or an officer or agent of a labor organization which represents the elector.  S. 6.82(2)(a), Wis. Stats.  3/12/2003",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": " If a voter casts an absentee ballot, but dies before election day, can the ballot be counted?\n  ",
+            "a": "No.  Absentee voting procedures allow an elector to complete a ballot before election day.  However, absentee ballots are not considered cast until election day.  If the voter is deceased at the time the absentee ballot is being processed at the polling place, the ballot cannot be counted.  S. 6.21, Wis. Stats.  3/12/2003",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": " Are Absentee Ballots Ever Rejected?",
+            "a": "Yes. Along with meeting all the usual requirements, voters who vote by absentee ballot must follow special rules in completing and signing the certificate on the ballot envelope, and having the certificate witnessed.\n\nIf any of these rules aren't followed, election officials at the polling place must reject the absentee ballot.  These rules replace the safeguards normally present when a voter appears in person at the polling place.\n\n",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": " What Are The Deadlines for Making an Absentee Ballot Request?",
+            "a": "If the request is made by mail by a regular voter, it must be in the office of the municipal clerk no later than 5:00 p.m. on the Thursday preceding an election. \n\nIf the request is a calendar year request, it can be made until 5:00 p.m. on the Friday preceding the election.\n\nIf the request is made in-person, the deadline is the last day that the clerk is offering in-person absentee voting.\n\nSpecial provisions are made for hospitalized electors and sequestered jurors to request and vote by absentee ballot on election day.\n\n\n",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": " How does a Voter Request an Absentee Ballot?",
+            "a": "The absentee ballot request is made to the municipal clerk in writing using the Application For Absentee Ballot (EL-121) or by letter or email to your municipal clerk requesting an absentee ballot which provides substantially the same information required on the application form.\nYou can find your municipal clerk on the MyVote Wisconsin website: myvote.wi.gov by searching for your voter record or performing an address search.\nYou will need to provide a copy of your acceptable photo ID with your absentee ballot request. More information about the photo ID requirement can be found on our photo ID page.",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "Who can request and receive an absentee ballot?",
+            "a": "Any qualified elector who registers to vote. (A qualified elector is a United States citizen, 18 years of age or older, who has resided in the district in which he or she intends to vote for at least 28 days.)",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": " What is an Absentee Ballot?",
+            "a": "Not all voters can get to the polling place on election day. An absentee ballot is the printed ballot marked by an absent voter, sealed in a special envelope, and given or mailed to the municipal clerk. The municipal clerk ensures that each absentee ballot that is returned in a timely manner gets to the right polling place on election day. If accepted, the absentee ballot is counted as if the voter had cast the ballot in person.",
+            "s": "elections.wi.gov",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "WHO CAN REQUEST AN ABSENTEE BALLOT?",
+            "a": "Any registered Wisconsin voter is eligible to request an absentee ballot.",
+            "s": "Voter411",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT?",
+            "a": "You can request an absentee ballot online, by mail, or in person.\n\nOnline. You may request an absentee ballot online by visiting myvote.wi.gov and clicking “Vote Absentee By Mail.” This request must be made no later than 5pm on the Thursday before the election.\nBy Mail. Download the application, complete the form, and mail it to your municipal clerk's office. The application must be received no later than 5pm on the Thursday before the election.\nIn Person. You may vote early in person – at the clerk’s office or another site designated by the clerk. Dates and hours for early voting may vary, though it can begin no earlier than 14 days before the election and end no later than the Sunday before the election. Please contact your municipal clerk for absentee voting hours.\nIf you have not previously provided a copy of your photo ID, your photo ID must accompany your application. Military and permanent overseas voters do not need to provide a photo ID with their request.",
+            "s": "Voter411",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE TO REQUEST AN ABSENTEE BALLOT BY MAIL? ",
+            "a": "The last day to request an absentee ballot is 5 days before the election. ",
+            "s": "Voter411",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE FOR SUBMITTING AN ABSENTEE BALLOT BY MAIL? ",
+            "a": "Your marked absentee ballot must be delivered no later than 8pm on Election Day. The US Postal Service recommends you mail your absentee ballot one week before Election Day to ensure it arrives in time. You may also hand-deliver your absentee ballot to your polling place or clerk’s office by 8pm on Election Day.\n",
+            "s": "Voter411",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM? ",
+            "a": "Absentee ballots are mailed 3 weeks before local (spring) elections and 47 days before national (fall) elections.",
+            "s": "Voter411",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "HOW DO I COMPLETE MY MAIL BALLOT? ",
+            "a": "Before you begin, line up a witness who can verify that you filled out your own ballot. Choose an adult US citizen who is not a candidate in the upcoming election. \n\nNext, fill out your ballot carefully with a blue or black pen. Once your ballot is complete, place it in the certified envelope. Then seal, sign, and date the certificate envelope, and make sure your witness adds their address and signature.\n\nIf you make a mistake or change your mind about a selection, contact your municipal clerk's office for help.",
+            "s": "Voter411",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "HOW DO I RETURN MY ABSENTEE BALLOT? ",
+            "a": "You can return your absentee ballot by mail or in-person at your municipal clerk’s office or polling site. It must be received by 8pm on Election Day. Here are more details:\n\nMail it back using the pre-addressed, postage paid envelope included with your ballot packet. USPS recommends mailing your ballot back at least 7 days before Election Day. Once your ballot is in the mail, you may not vote in person at the polls.\nGo to your clerk's office to drop off your ballot or vote in-person absentee. Your clerk might require an appointment or offer other in-person absentee voting locations, like your local library.\nTake it to your assigned polling place or absentee counting location on Election Day.\nDesignate another person to deliver it for you. If it is too close to the election to mail your completed ballot, and you are not able to deliver your ballot because of a disability, you have the right to have someone else deliver your completed ballot.\nAny voter who requires assistance with mailing or delivering their absentee ballot to the municipal clerk, or with any other part of the voting process, because of a disability must be permitted to receive such assistance. Voters are entitled to receive assistance from a person of the voter’s choice, other than the voter’s employer or agent of that employer or officer or agent of the voter’s union. ",
+            "s": "Voter411",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "HOW CAN I TRACK MY MAILED ABSENTEE BALLOT?",
+            "a": " You can sign up to track your absentee ballot on the My Vote Wisconsin website.",
+            "s": "Voter411",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON? ",
+            "a": "Voters who requested an absentee ballot, but decide they want to vote in person may do so. Do not mail a ballot and vote in person. Registered voters may still vote early at their municipal clerk’s office OR in person at the polls on Election Day. Do not give your unused ballot to someone else.",
+            "s": "Voter411",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "HOW DO I SIGN UP TO RECEIVE PERMANENT ABSENTEE BALLOT?",
+            "a": "Voters who are indefinitely confined, meaning they have a difficult time getting to the polls due to age, illness, infirmity, or disability, may request that a ballot be automatically sent to them for each election. Indefinitely confined voters do not need to provide a photo ID with their absentee ballot request. Voters on the permanent absentee ballot list must vote in each election or they will be dropped from the absentee ballot rolls.",
+            "s": "Voter411",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "WHAT IF I AM IN THE HOSPITAL?",
+            "a": "Each hospitalized voter can request a ballot (in writing), and the voter may appoint an agent to pick up the ballot from the hospitalized voter’s clerk’s office.If you know you will be in the hospital, request a regular absentee ballot in advance.",
+            "s": "Voter411",
+            "t": "2024-10-15T19:32:20Z"
+        },
+        {
+            "q": "HOW DO I REQUEST A BALLOT BY MAIL AS AN OVERSEAS OR U.S. MILITARY VOTER? ",
+            "a": "Overseas citizens and U.S. military personnel can find information on how to register to vote and request a mail ballot at the Overseas Vote Foundation.",
+            "s": "Voter411",
+            "t": "2024-10-15T19:32:20Z"
+        }
+    ]
+}

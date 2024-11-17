@@ -1,0 +1,356 @@
+{
+    "state": "PA",
+    "num_questions": 58,
+    "num_answers": 58,
+    "contributor": "Seyed Saeed Ahmadi",
+    "questions": [
+        {
+            "q": "When is the 2024 U.S. presidential election?",
+            "a": "November 5, 2024.",
+            "s": "LVV",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "How do I register to vote?",
+            "a": "You can register to vote online, by mail, or in person at your local election office. Check your state\u2019s deadline.",
+            "s": "LVV",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "What is the deadline to register to vote in the 2024 election",
+            "a": "Voter registration deadlines vary by state. Check your state\u2019s election office for the specific date",
+            "s": "LVV",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "How do I check if I am registered to vote?",
+            "a": "You can check your voter registration status online through your state\u2019s election office or through the National Voter Registration Lookup tool",
+            "s": "LVV",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "What identification do I need to bring to vote?",
+            "a": "Identification requirements vary by state. Check your state's rules to see if ID is required and what forms are acceptable",
+            "s": "LVV",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "Can I vote by mail?",
+            "a": "Yes, most states offer mail-in or absentee voting. Requirements vary, so check with your state for eligibility and deadlines.",
+            "s": "LVV",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "How do I request a mail-in or absentee ballot?",
+            "a": "You can request a mail-in or absentee ballot from your state\u2019s election office either online, by mail, or in person.",
+            "s": "LVV",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "When is the deadline to request a mail-in or absentee ballot?",
+            "a": "The deadline to request a ballot varies by state, typically a few days to two weeks before Election Day. Check your state\u2019s deadline.",
+            "s": "LVV",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "How do I return my mail-in or absentee ballot?",
+            "a": "You can return your ballot by mail, at a designated drop box, or in person at your local election office. Follow the instructions provided with the ballot.",
+            "s": "LVV",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "What should I do if I lose my mail-in or absentee ballot?",
+            "a": "Contact your local election office immediately for instructions on how to receive a replacement ballot.",
+            "s": "LVV",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "Where is my polling place?",
+            "a": "You can find your polling place through your state or local election office\u2019s website.",
+            "s": "LVV",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "What are the hours for voting on Election Day?",
+            "a": "Polling hours vary by state, but they typically open between 6:00 AM and 8:00 AM and close between 7:00 PM and 9:00 PM. Check your state\u2019s schedule.",
+            "s": "LVV",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "Can I vote early?",
+            "a": "Many states offer early voting. Check your state\u2019s election office for locations, dates, and hours for early voting.",
+            "s": "LVV",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "Can I vote if I\u2019ve moved recently?",
+            "a": "Yes, but you may need to update your voter registration. Check with your state\u2019s election office to see how to update your address.",
+            "s": "LVV",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "Can I vote if I am overseas or in the military?",
+            "a": "Yes, U.S. citizens abroad and military personnel can vote using an absentee ballot. Visit the Federal Voting Assistance Program (FVAP) website for more information.",
+            "s": "LVV",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "What do I do if my name is not on the voter list at the polling place?",
+            "a": "Ask for a provisional ballot. You will still be allowed to vote, and election officials will verify your eligibility before counting the ballot.",
+            "s": "LVV",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "What should I do if I make a mistake on my ballot?",
+            "a": "Contact your local election office for instructions. In most cases, you can request a replacement ballot",
+            "s": "LVV",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "How can I vote if I have a disability?",
+            "a": "Many polling places offer accessible voting machines, curbside voting, and assistance from poll workers. Check your state\u2019s resources for voters with disabilities or request an absentee ballot",
+            "s": "LVV",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "Can I bring someone to assist me at the polling place?",
+            "a": "Yes, voters with disabilities or those who need language assistance can bring someone to help them, as long as that person is not their employer or a union representative",
+            "s": "LVV",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "Can I vote if I\u2019m in line when the polls close?",
+            "a": "Yes, if you are in line when the polls close, you have the right to vote.",
+            "s": "LVV",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "What should I do if I experience problems at the polling place?",
+            "a": "Report any issues to a poll worker or the local election office. You can also contact the Election Protection Hotline at 1-866-OUR-VOTE (1-866-687-8683).",
+            "s": "LVV",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "What is provisional voting?",
+            "a": "A provisional ballot is used when there\u2019s a question about your eligibility. Your vote will be counted once officials verify your eligibility after Election Day.",
+            "s": "LVV",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "Can I vote if I have a criminal record?",
+            "a": "Yes, you can",
+            "s": "LVV",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "Can I wear political clothing or accessories to the polling place?",
+            "a": "Yes, you can",
+            "s": "LVV",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "How do I confirm that my mail-in or absentee ballot was received?",
+            "a": "Many states allow voters to track their absentee ballots online through a ballot tracking system.",
+            "s": "PA Gov",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "Can I change my vote after submitting a mail-in or absentee ballot?",
+            "a": "No, you can't",
+            "s": "PA Gov",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "Can I vote if I turn 18 on Election Day?",
+            "a": "Yes, as long as you turn 18 by Election Day, you are eligible to vote",
+            "s": "PA Gov",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "Can I bring a sample ballot or notes into the voting booth?",
+            "a": "No, you can't",
+            "s": "PA Gov",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "What if my signature on the mail-in ballot doesn't match the one on file?",
+            "a": "Election officials will contact you to \"cure\" the signature mismatch. This may involve submitting an affidavit or providing another form of verification.",
+            "s": "PA Gov",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "Can I vote in-person if I already requested a mail-in ballot?",
+            "a": "Yes, you can",
+            "s": "PA Gov",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "What should I do if I change my name before the election?",
+            "a": "Update your voter registration with your new name. In some cases, you may need to bring proof of your name change to the polling place.",
+            "s": "PA Gov",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "What should I bring with me if I am voting in person for the first time?",
+            "a": "First-time voters who registered by mail may need to provide proof of identification, such as a driver's license, passport, or a utility bill with their current address.",
+            "s": "PA Gov",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "Is voter intimidation illegal?",
+            "a": "Yes, voter intimidation is illegal. If you feel threatened or harassed at the polling place, report it immediately to a poll worker or contact the Election Protection Hotline.",
+            "s": "PA Gov",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "I\u2019m in the right polling place but my name is not in the poll book, can I still vote?",
+            "a": "Yes. If this happens, you have the right to vote using a provisional ballot.",
+            "s": "PA Gov",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "What are my options for voting in the election?",
+            "a": "All registered PA voters can cast their ballot by mail.Apply online today. Applications are available in multiple languages. You do not need an excuse to apply for a mail-in ballot. Vote at your county election office. Once your county\u2019s ballots are finalized and printed, you can go to your county election office, apply for a mail ballot, vote your ballot, and submit your ballot in the same visit. Vote in person at your polling place on Election Day. Polls will be open from 7 a.m. to 8 p.m. on Election Day. Find your polling place at vote.pa.gov/",
+            "s": "PA Gov",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "Am I registered?",
+            "a": "You can check your voter registration status online. You can also contact your county's election and voter registration officials, or call 1-877-VOTESPA (1-877-868-3772).If you are already registered to vote, you do not have to register again in Pennsylvania unless you changed your address, changed your name, or want to change your political party.",
+            "s": "PA Gov",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "I need help with various voting questions or have language access issues. Who do I call?",
+            "a": "Call the Department of State's election hotline at 1-877-VOTES-PA for assistance. Telephone interpreters are available.",
+            "s": "PA Gov",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "Do I need to show ID at the polls?",
+            "a": "No. Unless it's your first time voting at a new polling place. If it's your first time voting at a new location, you must bring one of the approved forms of identification. Your ID doesn't need to be a photo ID. There are many forms of non-photo ID that are acceptable.",
+            "s": "PA Gov",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "how can I help make sure elections run smoothly?",
+            "a": "Sign up to be a poll worker. Check before you share information on social media. Unfortunately, in every election cycle, dishonest sources deliberately spread false information to try to suppress the vote. They use social media to amplify their disinformation. Rely only on trusted, official sources of information, such as vote.pa.gov and help inform others. On social media, look for the department's hashtags - #ReadyToVotePA and #TrustedInfo.Follow @PAStateDept and @PAStateSec on Twitter and @PADepartmentofState on Facebook.Vote!",
+            "s": "PA Gov",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "Can someone else return my ballot?",
+            "a": "No. The only exceptions are if you are a voter with a disability and have designated someone, in writing, to deliver your ballot, or if you need an emergency absentee ballot. Return your own ballot as soon as you receive it. \u00a0Mail it or deliver it in person to your county board of elections office or other official location designated by your county board of elections.",
+            "s": "PA Gov",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "If I applied for a mail-in or absentee ballot in the primary, do I need to reapply for the general election?",
+            "a": "It depends on whether you asked to be an annual voter on your primary ballot application. Check the status of your mail ballot. If yes, then you do not need to reapply. If no, then you do. If you're not sure, contact your county board of elections.",
+            "s": "PA Gov",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "Where is my mail-in or absentee ballot?",
+            "a": "Check the status of your ballot online. Contact your county election office. If you did not receive or cast your mail ballot, you may request to vote a provisional ballot at your polling place on Election Day. After county election officials verify that you did not vote by mail, they will count your provisional ballot.",
+            "s": "PA Gov",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "What must be included when I return my mail-in or absentee ballot by mail or in person?",
+            "a": "Read the instructions carefully and mark your ballot. Be sure to complete the front and back of each page. Seal your ballot in the yellow envelope marked \"official election ballot.\" Do not make any stray marks on the yellow envelope. Your ballot must be enclosed and sealed in the yellow envelope marked \"official election ballot\" or it will not be counted. Seal the yellow envelope in the pre-addressed outer return envelope. Sign and write the current date on the voter\u2019s declaration on the outside of the outer return envelope. If you do not complete the declaration on the return envelope your ballot will not be counted. Return your completed ballot to the county election board. Absentee and Mail-in Ballots must be received by 8 p.m. on election day at your county election board. To ensure your ballot is received by the deadline, return the ballot as soon as possible.",
+            "s": "PA Gov",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "Can I receive assistance completing my mail-in or absentee ballot if I need help due to a disability or because I have limited English proficiency?",
+            "a": "Yes. If a voter is unable to complete their mail-in or absentee ballot independently, they may designate someone in writing using the Authorize a Designated Agent Form or a form provided by your county to help them. Pennsylvania has also implemented an accessible remote ballot-marking solution for mail voting for use by voters with a disability. If you need assistance, you may\u00a0call 1-877-VOTES-PA (1-877-868-3772).",
+            "s": "PA Gov",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "If I don't fill out and return the annual mail ballot application that is mailed to me by my county each February, can I vote a regular ballot at my polling place on Election Day?",
+            "a": "Yes. If you don't want to receive mail ballots for a specific year, just don't return the annual application you receive from your county. You'll be able to vote in person, on Election Day, using a regular ballot.",
+            "s": "PA Gov",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "If I don't fill out and return the annual mail ballot application that is mailed by my county in February, will I receive an application the following year?",
+            "a": "Yes. You will receive an application every year until you cancel your annual mail-in or absentee status or move to another county and do not request to transfer your status to the new county.",
+            "s": "PA Gov",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "Can I return my completed mail-in or absentee ballot at my polling place?",
+            "a": "No. If you received a mail ballot but did not return it, you may surrender your mail ballot and outer return envelope at your polling place and vote a regular ballot. If you did vote your mail ballot and returned it to your county board of elections, you are not eligible to vote at your polling place. If you believe that you are eligible to vote in person, you can vote by provisional ballot. Your provisional ballot will be reviewed by the county board of elections after Election Day. If you requested a mail ballot but did not receive it, or you do not have the ballot and outer return envelope to surrender at your polling place, you may vote by provisional ballot at your polling place. Remember that it is unlawful to fraudulently vote more than once in the same election.",
+            "s": "PA Gov",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "If I move, do I need to update my annual mail ballot voter status?",
+            "a": "Yes. If you move, you should update your address by submitting a voter registration form. You can check \u201ctransfer\u201d on the voter registration form to indicate you would like to maintain your annual mail ballot status. Contact your county board of elections if you have additional questions or need assistance.",
+            "s": "PA Gov",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "If I requested to be on the annual mail-in or absentee voter list last year, do I have to apply for a mail-in or absentee ballot this year?",
+            "a": "Yes. Voters must apply every year to receive ballots in the mail for the remainder of that year (and through the third Monday in February of the following year). If you are on the annual list, your county board of elections will mail an annual application to you in February of each year. Complete and return that application to receive ballots for each election in which you are eligible to vote that year. If you're not already on the annual mail-in voter list, you can\u00a0\u00a0request to be placed on it.",
+            "s": "PA Gov",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "I'm at the wrong polling place. What should I do?",
+            "a": "You must go to your correct polling place to vote. However, if you believe you are eligible to vote at that polling place, you may vote using a provisional ballot",
+            "s": "PA Gov",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "I am at the right polling place but my name isn't in the poll book. Can I still vote?",
+            "a": "Yes. If this happens, you have the right to vote using a provisional ballot.",
+            "s": "PA Gov",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "Is one method of voting more secure than the other methods?",
+            "a": "No. The Department of State has confidence in the security of Pennsylvania's election process and mail ballot system. Additional Details: Each mail ballot packet sent to a voter has a unique ID number. That same number is also printed on the pre-addressed outer return envelope where the voter must sign. When either type of mail ballot (absentee or no-excuse mail-in) is received and pre-canvassed, the unique ID number is scanned into the statewide system. To issue a second ballot to a voter, the county must first cancel the ballot initially issued to the voter. In other words, each voter can receive only one ballot.\u00a0If a voter attempts to vote a second ballot, the system will flag that there is already a ballot from that voter. If a voter returns a mail ballot, their record is marked, and that notation is included in the poll book to ensure that poll workers are aware that the voter's ballot has been cast. The department also updated the poll book format to move the names of voters who have returned their ballots to a separate list at the end of the poll book. Those voters can only vote at a polling place by means of a provisional ballot, which is reviewed by the county after the election. If the county determines that a voter did, in fact, already cast a mail ballot, the voter's provisional ballot will not be counted.",
+            "s": "PA Gov",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "Does Pennsylvania send mail ballot applications to voters who have not requested them?",
+            "a": "No. Many voter education and get-out-the-vote organizations send mail ballot information and applications to Pennsylvania voters. For that reason, you may receive multiple applications. Returning more than one application will result in additional workload for the election staff in your county office, but you will still be sent only one ballot. In addition, voters have reported receiving mail ballots even though they did not apply for them. In nearly all cases, these voters opted to be added to the annual mail ballot list\u00a0when they applied for a mail ballot for the primary. Opting into this list means that your county will send you a ballot for all elections during that calendar year.If you would like to receive a mail ballot, the Department of State recommends using the official absentee or mail-in ballot application.",
+            "s": "PA Gov",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "Will we know election results the night of the election?",
+            "a": "Counting the hundreds of thousands \u2013 sometimes millions \u2013 of mail ballots cast in every election takes time. Unlike other states, state law in Pennsylvania prevents counties from even beginning to open ballots until 7 a.m. on Election Day \u2013 when those same election officials are managing in-person voting at more than 9,100 polling places. That law can only be changed if the Pennsylvania legislature sends a bill to the Governor\u2019s desk to allow counties to open mail ballot envelopes, flatten the ballots, and prepare them to be tallied BEFORE Election Day as most other states already allow. While we know there may be an eagerness to predict the outcomes, counties a reprioritizing accuracy and security as they count ballots. The results of\u00a0federal and state elections in Pennsylvania\u00a0are available on our election results website starting after 8 p.m.\u00a0on election night. The\u00a0results of\u00a0county, city, and local elections in Pennsylvania\u00a0may be found on your county's board of elections website. Finally, when it comes to results and any other election-related information, make sure you are getting your information from trusted sources, such as the Department of State's voting website, vote.pa.gov.",
+            "s": "PA Gov",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "What if I go to the wrong polling place?",
+            "a": "You must go to your correct polling place to vote. Ask one of the Election Officials to help you find your correct poll location.\u00a0 However, if you believe you are eligible to vote at that polling place, you may vote using a provisional ballot",
+            "s": "PA Gov",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "What do I need to take to the polls?",
+            "a": "If you've voted at your polling place before, you don't need to show ID to vote. If you're a first-time voter, or if you moved within Pennsylvania and are voting for the first time at a new polling place, you must show ID to vote. Click\u00a0here\u00a0for voter ID requirements.",
+            "s": "PA Gov",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "Where are the ballot drop boxes in Bucks County?",
+            "a": "The locations and hours of operation for absentee/mail-in ballot drop boxes can be found\u00a0here.\u00a0",
+            "s": "PA Gov",
+            "t": "2024-10-15T19:31:55Z"
+        },
+        {
+            "q": "What if I miss the application deadline for a mail ballot?",
+            "a": "If you have an\u00a0emergency\u00a0(such as an unexpected illness or disability or last-minute absence from your municipality) you may still be able to get a ballot after the deadline. Find information about how to get an\u00a0emergency absentee ballot.",
+            "s": "",
+            "t": "2024-10-15T19:31:55Z"
+        }
+    ]
+}

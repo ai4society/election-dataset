@@ -1,0 +1,212 @@
+{
+    "state": "sc",
+    "num_questions": 34,
+    "num_answers": 34,
+    "contributor": "AI4SGroup",
+    "questions": [
+        {
+            "q": "When is the 2024 General Election?",
+            "a": "Election Day is November 5, 2024.",
+            "s": "https://scvotes.gov/voters/voter-faq/",
+            "t": "2024-09-15T00:00:00Z"
+        },
+        {
+            "q": "What candidates and/or offices are on the ballot?",
+            "a": "The candidates and offices on a particular ballot will differ depending on the county and districts in which you reside. Note that many voters districts have changed as a result of the 2020 redistricting process.\n Find your sample ballot at scVOTES.gov to see your up-to-date districts and the candidates that will appear on your ballot.\n (https://info.scvotes.sc.gov/eng/voterinquiry/VoterInformationRequest.aspx?PageMode=VoterInfo)",
+            "s": "https://scvotes.gov/voters/voter-faq/",
+            "t": "2024-09-15T00:00:00Z"
+        },
+        {
+            "q": "When do I need to register to vote?",
+            "a": "The deadline to register to vote in any election in South Carolina is 30 days prior to Election Day.\n \n\n The deadline to register to vote online or by fax or email is Sunday, October 6.\n The deadline to register to vote in person is Friday, October 4.\n The deadline to register by mail is Monday, October 7 (must be postmarked by this date).\n \n\n Dont wait until the deadline, it only takes a couple of minutes to register to vote! Register now.\n (https://scvotes.gov/voters/register-to-vote/)",
+            "s": "https://scvotes.gov/voters/voter-faq/",
+            "t": "2024-09-15T00:00:00Z"
+        },
+        {
+            "q": "Ive moved since the last time I voted and I havent updated my voter registration. Can I still vote?",
+            "a": "If you moved to\n \n\n  another residence within your precinct, you can update your address at your polling place and vote a regular ballot.\n  a different precinct within your county, you are eligible vote Failsafe (see below).\n another residence in another county within 30 days of the election, you are eligible to vote Failsafe (see below).\n another residence in another county prior to the October 6 registration deadline, you are not eligible to vote. State law requires you to be registered prior to the deadline to be eligible to vote.\n South Carolina after the October 6 registration deadline, you are not eligible to vote. State law requires you to be registered prior to the deadline to be eligible to vote.\n \n\n Two Options for Voting Failsafe:\n \n\n Vote at the polling place in your previous precinct using a failsafe provisional ballot. A failsafe provisional ballot contains only federal, statewide, countywide, and municipality-wide offices.\n Go to the voter registration office in the county in which you currently reside, change your address, and vote a regular ballot there.",
+            "s": "https://scvotes.gov/voters/voter-faq/",
+            "t": "2024-09-15T00:00:00Z"
+        },
+        {
+            "q": "Can I take my child with me to vote?",
+            "a": "Yes. Minor children (under age 18) of a voter may accompany the voter in the voting booth.",
+            "s": "https://scvotes.gov/voters/voter-faq/",
+            "t": "2024-09-15T00:00:00Z"
+        },
+        {
+            "q": "What do I need to take with me to vote?",
+            "a": "At your polling place, you will be asked to show one of the following Photo IDs:\n \n\n C. Drivers license\n ID card issued by the S.C. Department of Motor Vehicles\n C. Voter Registration Card with Photo\n Federal Military ID\n US Passport",
+            "s": "https://scvotes.gov/voters/voter-faq/",
+            "t": "2024-09-15T00:00:00Z"
+        },
+        {
+            "q": "What if I dont have one of these Photo IDs?",
+            "a": "If you do not have one of these photo IDs, you can make your voting experience as fast and easy as possible by getting one before Election Day. If you are already registered to vote, you can go to your county voter registration and elections office, provide your date of birth and the last four digits of your Social Security Number, and have your photo taken. You can do this even on Election Day. Free ID Cards are also available from the Department of Motor Vehicles.\n If you cannot get a photo ID, bring your non-photo voter registration card with you to the polling place. You can contact your county voter registration office if you need to replace your non-photo voter registration card. You may vote a provisional ballot after signing an affidavit stating you have a reasonable impediment to obtaining a photo ID. A reasonable impediment is any valid reason, beyond your control, which created an obstacle obtaining a photo ID. Some examples include: a disability or illness, a conflict with your work schedule, a lack of transportation, a lack of a birth certificate, family responsibilities, a religious objection to being photographed, and any other obstacle you find reasonable. This ballot will count unless someone proves to the county board of voter registration and elections that you are lying about your identity or having the listed impediment.\n To vote under the reasonable impediment exception:\n \n\n Inform the poll managers that you do not have a photo ID and could not get one.\n Present your current, non-photo registration card.\n Sign the affidavit provided by the poll managers stating why you could not obtain a photo ID.\n Cast a provisional ballot that will be counted unless the county board of voter registration and elections has reason to believe your affidavit is false.",
+            "s": "https://scvotes.gov/voters/voter-faq/",
+            "t": "2024-09-15T00:00:00Z"
+        },
+        {
+            "q": "What happens if I forget to bring my Photo ID when voting in person?",
+            "a": "If you forget to bring your photo ID to your polling place, you may vote a provisional ballot that will count only if you show your photo ID to your county board of voter registration and elections office prior to certification of the election. Results are certified on the Friday after the General Election (November 8).",
+            "s": "https://scvotes.gov/voters/voter-faq/",
+            "t": "2024-09-15T00:00:00Z"
+        },
+        {
+            "q": "Ive lost my non-photo voter registration card. Can I still vote?",
+            "a": "Yes. Voters may also vote with their drivers license, DMV issued ID card, federal military ID, or U.S. passport. Voters may also get a replacement photo voter registration card from their county voter registration and elections office, even on Election Day.",
+            "s": "https://scvotes.gov/voters/voter-faq/",
+            "t": "2024-09-15T00:00:00Z"
+        },
+        {
+            "q": "How and where can I vote early in person?",
+            "a": "Visit an early voting center in your county during the early voting period and vote in person like you would at your polling place on Election Day. Remember to bring your Photo ID when checking in to vote.\n Early Voting Period for the Statewide General Election \n \n\n Monday, October 21 Saturday, November 2 (Closed Sunday, October 27).\n 8:30 a.m. 6:00 p.m.\n \n\n Visit the early voting page on scVOTES.gov to see a list of locations for early voting centers in your county.\n (https://scvotes.gov/voters/early-voting/)",
+            "s": "https://scvotes.gov/voters/voter-faq/",
+            "t": "2024-09-15T00:00:00Z"
+        },
+        {
+            "q": "Who can vote absentee?",
+            "a": "State law allows voters with qualifying reasons to vote absentee by mail:\n \n\n Persons with employment obligations which prevent them from voting during early voting hours for the duration of the early voting period, and during the hours the polls are open on election day.\n Persons attending a sick or physically disabled person which prevents them from voting during early voting hours for the duration of the early voting period, and during the hours the polls are open on election day.\n Persons confined to a jail or pretrial facility pending disposition of arrest or trial which prevents them from voting during early voting hours for the duration of the early voting period, and during the hours the polls are open on election day.\n Persons who will be absent from their county of residence during early voting hours for the duration of the early voting period, and during the hours the polls are open on election day.\n Persons with physical disabilities.\n Persons sixty-five years of age or older.\n Members of the Armed Forces and Merchant Marines of the United States, their spouses, and dependents residing with them.\n Persons admitted to a hospital as an emergency patient on the day of the election or within a four-day period before the election.",
+            "s": "https://scvotes.gov/voters/voter-faq/",
+            "t": "2024-09-15T00:00:00Z"
+        },
+        {
+            "q": "How can I vote absentee?",
+            "a": "Voters must apply for an absentee ballot by completing and returning an absentee application to their county voter registration office by 5:00 p.m. on October 25. Visit our absentee voting page to learn more.\n (https://scvotes.gov/voters/absentee-voting/)",
+            "s": "https://scvotes.gov/voters/voter-faq/",
+            "t": "2024-09-15T00:00:00Z"
+        },
+        {
+            "q": "It's almost Election Day and I still have my absentee ballot. What should I do?",
+            "a": "You can vote your absentee ballot and return it to your county elections office by mail or personal delivery by 7:00 p.m. on Election Day (or an early voting center during the early voting period).\n \n\n Ballots returned by mail should be mailed no later than one week prior to election day to help ensure timely delivery.\n If you still have your ballot within a week prior to election day, consider returning the ballot in person.\n You may also vote a provisional ballot in person that will count as long as your absentee ballot is not returned before the polls close on election day.\n Visit absentee voting page to see Photo ID requirements for returning a ballot in person and to learn how Immediate Family Members and Authorized Representatives can return another voters ballot.\n (https://scvotes.gov/voters/absentee-voting/)",
+            "s": "https://scvotes.gov/voters/voter-faq/",
+            "t": "2024-09-15T00:00:00Z"
+        },
+        {
+            "q": "I'm not voting early. Where do I vote on Election Day?",
+            "a": "At the polling place in your precinct.\n Visit scVOTES.gov and select Find My Polling Place under MySCVotes or check with your county voter registration office.\n Your precinct and polling place are also listed on your voter registration card; however, it is possible your polling place may have changed since the card was issued. Always check your polling place at scVOTES.gov before leaving to vote.\n (https://scvotes.gov/)\n \n\n (https://vrems.scvotes.sc.gov/Voter/Login?PageMode=PollingPlace)\n \n\n (https://vrems.scvotes.sc.gov/Voter/Login)\n \n\n (https://scvotes.gov/)",
+            "s": "https://scvotes.gov/voters/voter-faq/",
+            "t": "2024-09-15T00:00:00Z"
+        },
+        {
+            "q": "What hours will the polls be open on Election Day?",
+            "a": "Polling places are open 7:00 a.m. to 7:00 p.m. Anyone in line at 7:00 p.m. will be allowed to vote.",
+            "s": "https://scvotes.gov/voters/voter-faq/",
+            "t": "2024-09-15T00:00:00Z"
+        },
+        {
+            "q": "Are there any laws about candidates posting their signs along the roadway?",
+            "a": "Yes, there are several state laws addressing political signs on roadways, as well as county and municipal ordinances. See S.C. Code of Laws Sections 57-25-10, 57-25-140, and 7-25-210. Ultimately, it is the responsibility of the entity that maintains the road (state, county, or municipality) to enforce applicable sign laws.",
+            "s": "https://scvotes.gov/voters/voter-faq/",
+            "t": "2024-09-15T00:00:00Z"
+        },
+        {
+            "q": "Can candidates or their representatives take people to the polls to vote?",
+            "a": "Yes. It is permissible for any person, even a candidate, to give a voter a ride as long as it is being done solely to help facilitate voting. However, no one can offer a voter anything of value in exchange for voting.",
+            "s": "https://scvotes.gov/voters/voter-faq/",
+            "t": "2024-09-15T00:00:00Z"
+        },
+        {
+            "q": "I saw a candidate/member of candidates campaign at my polling place talking to voters. Can they do that?",
+            "a": "Yes, but there are restrictions:\n Inside the polling place: No campaigning is allowed. Candidates may be inside the polling place and talk to voters as long as they are not campaigning, intimidating voters, or interfering with the election process.\n Within 500 feet of an entrance to a polling place: Candidates and campaign staff may campaign as long as they are not intimidating voters or interfering with the election process. However, no campaign literature, signs, or posters are allowed. Candidates are allowed to wear a badge no larger than 4.25 x 4.25 featuring only the candidates name and office sought. Candidates must remove their badge upon entering a polling place.",
+            "s": "https://scvotes.gov/voters/voter-faq/",
+            "t": "2024-09-15T00:00:00Z"
+        },
+        {
+            "q": "A candidate is definitely campaigning while in the polling place, or there is campaign literature within 500 feet of the entrance. What can I do?",
+            "a": "Inform the poll clerk immediately. If the issue is not resolved, contact the county board of voter registration and elections. The county board will address the complaint.",
+            "s": "https://scvotes.gov/voters/voter-faq/",
+            "t": "2024-09-15T00:00:00Z"
+        },
+        {
+            "q": "When I left the polls, I was asked to participate in an exit poll. Is this legal?",
+            "a": "Exit polls are legal and participation is voluntary. They are NOT conducted by the State Election Commission or the county boards of voter registration and elections. Generally, polls may not be conducted inside the polling place, and we ask that voters not be approached before they have voted. If a voter feels threatened or intimidated by a pollster, it should be reported immediately to the precincts poll clerk.",
+            "s": "https://scvotes.gov/voters/voter-faq/",
+            "t": "2024-09-15T00:00:00Z"
+        },
+        {
+            "q": "Where should I file a complaint about the election?",
+            "a": "Its best to report any concerns to a poll manager or notify your county voter registration and elections office as soon as possible. To send a complaint to the SEC, visit the contact page on scVOTES.gov. Complaints regarding voting and elections should be addressed to your county board of voter registration and elections.",
+            "s": "https://scvotes.gov/voters/voter-faq/",
+            "t": "2024-09-15T00:00:00Z"
+        },
+        {
+            "q": "How is the winner determined in a General Election?",
+            "a": "The candidate with the highest number of votes wins.",
+            "s": "https://scvotes.gov/voters/voter-faq/",
+            "t": "2024-09-15T00:00:00Z"
+        },
+        {
+            "q": "When and where will results be reported?",
+            "a": "Unofficial results will be reported by the SEC on election night at scVOTES.gov. Results are reported in real time as we receive them from each county board of voter registration and elections. Results may also be reported locally by the county board.\n On Friday following the election, county election boards determine which provisional ballots to count, and those votes are added to the totals. The SEC meets later to certify the results at which time the results become official.\n (http://www.scvotes.org/)",
+            "s": "https://scvotes.gov/voters/voter-faq/",
+            "t": "2024-09-15T00:00:00Z"
+        },
+        {
+            "q": "What are the rules regarding campaign finance contributions and expenditures?",
+            "a": "For information on federal campaign contributions, please visit Open Secrets.\n For information on state campaign contributions, please visit your state's resource.\n \n\n \n\n (http://www.opensecrets.org)\n (http://ethics.sc.gov/)",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2024-09-15T00:00:00Z"
+        },
+        {
+            "q": "Where can I find information about candidates and ballot measures for the upcoming election?",
+            "a": "Information on local, state and federal candidates and ballot measures may be available here.\n  \n \n\n \n\n (https://www.vote411.org/ballot#.UFoDEFHh-Sp)",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2024-09-15T00:00:00Z"
+        },
+        {
+            "q": "What ID or identification documents are required to register to vote?",
+            "a": "If you are registering for the first time by mail, you must attach a copy of a current valid photo ID or a copy of a current utility bill, bank statement, paycheck or other government document that shows your name and address in the county where you wish to vote.\n If you do not provide this identification information by mail, you will be required to provide it when you vote.",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2024-09-15T00:00:00Z"
+        },
+        {
+            "q": "What are the procedures and special provisions for overseas and military voters to register and cast their ballots?",
+            "a": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation.\n If you have additional questions about elections and voting overseas you can use our state specific elections official directory or contact the Overseas Vote Foundation.\n \n\n \n\n (https://www.overseasvotefoundation.org/about-contact)\n (https://www.overseasvotefoundation.org/about-contact)",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2024-09-15T00:00:00Z"
+        },
+        {
+            "q": "How can I become a poll worker, and what are the qualifications and responsibilities involved?",
+            "a": "You can make sure we have safe, fair, and efficient elections for all. Become a poll worker today!\n In order to be a poll worker in South Carolina, you must be:\n \n\n Registered to vote in South Carolina\n At least 18 years of age\n A resident of the county 30 days prior to the election\n Complete required training\n Students 16 years or older may serve as poll manager's assistant\n \n\n You will be entitled to compensation. You can fill out the application to become a poll worker here!\n To sign up, contact your local board of elections.\n \n\n \n\n (https://powerthepolls.org/lwv )\n (https://www.scvotes.org/files/yes.html)\n (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2024-09-15T00:00:00Z"
+        },
+        {
+            "q": "How can I locate my assigned polling place for Election Day?",
+            "a": "You can find your polling place by utilizing your state resource.\n If you have further questions on your polling place location, please contact your county clerk.\n \n\n \n\n (https://info.scvotes.sc.gov/eng/voterinquiry/VoterInformationRequest.aspx?PageMode=VoterInfo)\n (https://www.overseasvotefoundation.org/vote/election-official-directory)\n (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2024-09-15T00:00:00Z"
+        },
+        {
+            "q": "What is the process for participating in primary elections, and how does it differ from general elections?",
+            "a": "South Carolina is an \u201copen primary\u201d state. You can choose the party\u2019s ballot you wish to vote. This decision does not register you with that party and it is a private decision.\n In a primary election if a candidate does not with the majority of the votes (50%+1) there will be a primary runoff election scheduled for a few weeks after the primary election date. The runoff election will have the top two candidates with the most votes to ensure that one of them receives the majority of the voters.\n If you have any questions about your state\u2019s primary election, please contact your local election officials.\n \n\n \n\n (https://absentee.vote411.org/vote/eoddomestic.htm)",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2024-09-15T00:00:00Z"
+        },
+        {
+            "q": "What is provisional voting, and under what circumstances should it be used?",
+            "a": "You may vote a provisional ballot if you meet specific conditions.\n You can cast a provisional ballot if:\n \n\n A poll manager or any voter has reason to believe that you might be ineligible to vote\n Your name does not appear on the voter registration rolls\n You do not have your proper photo ID\n \n\n All provisional ballots are kept separate and not counted on election night. You will be given written instructions on the time and place of the provisional ballot hearings and, if the voter registration office can determine you were registered, the provisional ballot will be counted.\n Provisional Ballots are counted before the Friday after a General Election or the Thursday after a Primary or Runoff Election. You can check the status of your provisional ballot online.\n \n\n \n\n (https://info.scvotes.sc.gov/eng/voterinquiry/VoterInformationRequest.aspx?PageMode=ProvisionalBallotInfo)",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2024-09-15T00:00:00Z"
+        },
+        {
+            "q": "What accommodations or provisions are available for voters with disabilities at polling places?",
+            "a": "Assistance in marking a ballot is allowed only if you are blind, illiterate or physically handicapped. If you are entitled to receive assistance you may choose anyone to assist except your employer, an agent of your employer, or an officer or agent of your union.\n If you, because of physical handicap or age (65 or older,) cannot enter the polling place in which you are registered to vote, or are unable to stand in line to vote, you may vote outside that polling place in the closest available parking area utilizing the vehicle in which you have driven or have been driven to the polls.\n Each precinct offers an accessible voting machine featuring an audio ballot, headphones and braille.\n For more information, you can utilize the American Association of People With Disabilities (AAPD) resource.\n \n\n \n\n (http://www.aapd.com/what-we-do/voting/)",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2024-09-15T00:00:00Z"
+        },
+        {
+            "q": "How can I verify that my voter registration is current and what should I do if it is not?",
+            "a": "To verify your voter registration status\n \n\n  click here!\n  \n \n\n \n\n (https://info.scvotes.sc.gov/eng/voterinquiry/VoterInformationRequest.aspx?PageMode=VoterInfo)",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2024-09-15T00:00:00Z"
+        },
+        {
+            "q": "What types of voting machines are used in elections, and how can I learn about their security and functionality?",
+            "a": "The voting system used in South Carolina is a paper-based voting system.\n Paper-Based Voting System: After signing in at your polling place, voters are given a blank ballot card to insert into the voting machine. Voters then make their selections by touching the screen on the voting machine. After completing the last page, hit the \"next\" button on the machine to review your selections. You can change a selection at this time, or move forward with the process by clicking \"next.\" \n Once you are done making your selections, print your ballot by pressing the PRINT CARD icon found at the bottom of the voting machine screen. Review the printed ballot card - if you need to make a change to the card you can contact a poll manager to ask for a replacement. When you're ready to cast your ballot, take the ballot card to the scanner and insert it face down on the green arrow. The scanner counts your vote and places the paper ballot into a locked ballot box.\n For more information, please contact the South Carolina Election Commission.\n \n\n \n\n (https://scvotes.gov/voters/how-to-vote/)\n (https://scvotes.gov/voters/how-to-vote/)",
+            "s": "https://www.vote411.org/south-carolina",
+            "t": "2024-09-15T00:00:00Z"
+        }
+    ]
+}

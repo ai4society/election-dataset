@@ -1,0 +1,482 @@
+{
+    "state": "ga",
+    "num_questions": 79,
+    "num_answers": 79,
+    "contributor": "aishneet",
+    "questions": [
+        {
+            "q": "Who is eligible to vote?",
+            "a": "To register to vote you must be:\nA citizen of the United States.\nA legal resident of Georgia and of the county in which you wish to vote.\nAt least 17 1/2 years of age to register and 18 to vote.\nYou may NOT register to vote if you are currently:\nServing a sentence for a felony.\nHave been ruled determined mentally incompetent by a court.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "How can I be sure I\u2019m registered to vote?",
+            "a": "Check your registration on the \nMy Voter Page\n.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "I changed my legal name. How do I update my voter registration?",
+            "a": "The simplest way is to submit a new registration\napplication\n. The\ncounty registrar\n will see your existing registration and update the information from the new application. You can also change your address\nonline\n.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "What do I do if I got a notice that my voter application is pending because my citizenship information didn\u2019t match the records at the Department of Driver Services?",
+            "a": "If you are a U.S. citizen, you can provide proof of citizenship at your county registrar\u2019s office or at your polling place when you go to vote.\nProof of citizenship could include a U.S. birth certificate, passport, or naturalization papers, but there are other acceptable documents you can show as proof of your citizenship.\nClick here\nfor a list of acceptable proof of citizenship you can show. If you do not have documentation with you when you go to vote, you can cast a provisional ballot and present documentation to your county elections office within three days after Election Day for your ballot to be counted.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "What is the deadline for registering to vote?",
+            "a": "You can register any time. You must be registered at least 30 days before an election to vote in that election. Look at the\nkey dates\n to ensure you\u2019re registering before the deadline for the election you want to participate in.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "How do I change the address on my voter registration?",
+            "a": "The simplest way is to submit a new registration\napplication\n. The\ncounty registrar\n will see your existing registration and update the information from the new application. You can also change your legal name\nonline\n.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "I have a felony conviction. Can I vote?",
+            "a": "Convicted felons are not eligible to register and vote in the State of Georgia except upon completion of the sentence, including any probation, parole, or payment of fines owed.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "I did not vote in the last election, do I need to re-register?",
+            "a": "No, you will not be required to reregister if you elect not to vote in a particular election. If, however, your record shows that you are in \"Inactive\" status, this means that you have not had contact with your county election office within the last five years. Please see the\nInactive Status section of the Voter Resources page, under \"Quick Voter Links\"\nfor more information. ",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "I registered to vote a while ago but I never got a registration card from my county elections official. Am I registered?",
+            "a": "You can verify whether you are a registered voter in Georgia by accessing\nMy Voter Page\n. Contact your\ncounty registrar\nfor further assistance.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "How do I cancel my Georgia voter registration?",
+            "a": "Contact your\ncounty registration office\nand advise them you would like to cancel your voter registration in Georgia.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "Is voter registration information confidential?",
+            "a": "No with exceptions for Vote Safe voters; refer to O.C.G.A \u00a7 21-2-225.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "Can I vote online? Is online voter registration related to online voting?",
+            "a": "Currently the State of Georgia does not offer online voting, but the State of Georgia does offer online registration.  See the\nHow-To Guide: Registering to Vote\npage for more information.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "I am a victim of domestic violence. How can I protect myself with the VoteSafe program?",
+            "a": "Please visit the\nVoteSafe page\nfor detailed information on the program and how to apply.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "Do I need my voter card to vote?",
+            "a": "You do not need to have your voter card with you to vote, just a government-issued photo ID.\nVisit the\nGeorgia Voter Identification Requirements page\nfor more information regarding acceptable forms of identification.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "Does Georgia offer \"early voting?\"",
+            "a": "Yes. Please see the\nEarly Voting section of the How to Vote\npage for more information. ",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "Who are the candidates?",
+            "a": "You can see all of the\nqualified candidates\n, their addresses, occupations, contact information and a link to their websites. And you can see a sample ballot on\nMy Voter Page\n.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "What are the ballot questions?",
+            "a": "You can see questions, constitutional amendments and local referenda by looking at a sample ballot on\nMy Voter Page\n.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "Where do I vote?",
+            "a": "You can see the early voting locations in your county and your assigned Election Day polling place on\nMy Voter Page\n. \nDuring early voting, you can vote in any of your county\u2019s early voting sites. If one has a line, find another with a shorter line. On Election Day, vote in your assigned precinct.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "How do I know my ballot will count?",
+            "a": "If you voted in person, you know your ballot was counted when you inserted it into the ballot scanner. If you voted by absentee ballot, you can check the status on\nMy Voter Page\n.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "Do I need to show identification when I vote?",
+            "a": "Yes. Georgia law is focused on verifying who votes so that only eligible people cast ballots. You will need to present a government-issued photo ID when you vote in person. You can use a valid driver\u2019s license \u2013 even one that\u2019s expired \u2013 a free state-issued ID, passport, military ID, student ID from a public college or employee ID issued by a local, state or federal government. You will also need identification if you vote by absentee ballot.\nVisit the\nGeorgia Voter Identification Requirements page\nfor more information regarding acceptable forms of identification.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "Can I take a photo of my ballot or get a receipt?",
+            "a": "No. You can take pictures outside of the polling area. We encourage it and hope you\u2019re proud of your vote. The reason for the prohibition against ballot copies, receipts and photography of ballots \u2013 including absentee ballots \u2013 is to prevent vote buying. A candidate who promised to pay people for their votes would want proof. If there is no receipt or photo, then the candidate can\u2019t know who you voted for.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "Are there rules on what I can wear or say at the polls?",
+            "a": "It is against the law to campaign within 150 feet of a polling place. That means you cannot have signs on your vehicle in that area and you cannot wear shirts, hats, jackets or other clothing with the name of a candidate, political party or slogan.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "Can I bring water and a snack to the poll?",
+            "a": "Yes. You can have food and drink while waiting in line. Some polling places do not allow food inside to keep from having a mess. Please check with your county election office. ",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "Can I take my child to the polls with me?",
+            "a": "Parents can take their children into the voting booth with them. It is a good way for them to learn about voting and for you to show them it is important.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "Are the elderly allowed to go to the front of the line of voters?",
+            "a": "Any voter who is 75 years of age or older, or who is disabled and requires assistance in voting, may vote immediately at the next available voting compartment or booth without having to wait in line.\n(As authorized by Code Section 21-2-409.)",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "If I make a mistake on my ballot, can I get a new one?",
+            "a": "You can ask a poll worker for another ballot to correct a mistake before you cast it.\nIf voting in person, simply ask a nearby poll worker.\nIf voting absentee, contact your county elections office about cancelling your ballot and getting a new one.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "Will my ballot count if I don\u2019t vote for all of the races and questions?",
+            "a": "You may vote as many election contests or ballot questions as you wish. All of the votes properly cast will be counted.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "How do I get an absentee ballot?",
+            "a": "Download the \nabsentee ballot application\n, complete it and mail or deliver it to your county election office. Or you can scan it or take a photo of it and email that to the election office.\nDownload the Absentee Voting In Georgia guide>>\nFind more information on Absentee Voting in the\nAbsentee Voting section of the How To Guide: Voting\npage.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "How do I get an absentee ballot for someone else?",
+            "a": "To protect against voter fraud, Georgia law only allows close relatives and caregivers to request and return absentee ballots for another person. If you are either a close relative or caregiver, you can download an Absentee Ballot Application and send it to the voter\u2019s county election office.\nDownload the Absentee Voting In Georgia guide>>",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "How long does it take to get my absentee ballot?",
+            "a": "Your county, which runs the election where you live, can begin sending out absentee ballots to military and overseas voters 45 days before a federal election, 29 days before an election to all other voters or 22 days before municipal or special elections. The U.S. Postal Service recommends allowing 7-10 days for delivery.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "What do I do if my absentee ballot never arrived?",
+            "a": "Contact your\ncounty elections office\nsince they run elections locally. They can issue you a new one or tell you how to cancel that absentee ballot so you can vote in person.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "Can I cancel my absentee ballot and vote in person?",
+            "a": "Once your absentee ballot has been placed in the mail or in a ballot drop box, it has been cast and cannot be canceled. If you never received the absentee ballot you requested or have but didn\u2019t yet return it, you can cancel it to vote in person. It will save time if you bring the ballot with you when you go to vote.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "If I make a mistake on my ballot, can I get a new one?",
+            "a": "You can ask a poll worker for another ballot to correct a mistake before you cast it.\nIf voting in person, simply ask a nearby poll worker.\nIf voting absentee, contact your county elections office about cancelling your ballot and getting a new one.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "What do I do if my absentee ballot never arrived?",
+            "a": "Contact your\ncounty elections office\nsince they run elections locally. They can issue you a new one or tell you how to cancel that absentee ballot so you can vote in person.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "I received my absentee ballot by mail as I requested, but my plans changed and I want to vote in person, what do I do?",
+            "a": "Take your absentee ballot with you to the poll and the poll manager or poll worker can cancel that ballot and allow you to vote on the touch screen. You must RETURN your cancelled ballot in order to vote, however.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "Can I distribute absentee ballots?",
+            "a": "Any application for an absentee ballot sent to any elector by any person or entity shall utilize form\nAPP-21_V2\n. Please complete the gray fields at the bottom of pages 1 and 2 to include the name and address of the person, organization, or other entity distributing the application.\nThis form is provided pursuant to Ga. Code \u00a7 21-2-381(a)(1)(C)(ii)(iii)(I)(II)(III)\nDownload\nApplication for Georgia Official Absentee Ballot form APP-21_V2\n.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "How do I file a complaint or report voter fraud?",
+            "a": "You can\nfile a complaint\nor report suspected voter fraud\nonline\n. Be sure to include as much detail as possible about when and where for the investigators.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "Are the voting machines secure?",
+            "a": "The paper-ballot system protects Georgia against computer hackers and delivers reliable election results which can be audited using paper ballots.\nThe machines do not connect to the internet, which limits cybersecurity risks. They also create an auditable paper-ballot, with other enhanced review capabilities for the public.\nDominion\u2019s product security protocols meet or exceed U.S. Election Assistance Commission Voluntary Voting System Requirements.\nThe paper-ballot system uses encryption, multi-factor authentication and role-based access controls.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "Can members of the public watch elections?",
+            "a": "Yes, most of what goes on in election administration is open to the public. The counties, which run elections, are required to post notice of when and where they are conducting work related to elections, from verifying absentee ballots to testing voting machines and counting votes.\nCandidates and political parties can request to have poll watchers present during these procedures. They may observe without disrupting poll workers or voters. They may not see how individuals voted. As you would expect, limited information must be kept confidential due to laws protecting election security and voters\u2019 personal information like email addresses, dates of birth and driver\u2019s license number.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "State Election Board Duties",
+            "a": "It shall be the duty of the State Election Board:\n(1) To promulgate rules and regulations so as to obtain uniformity in the practices and proceedings of superintendents, registrars, deputy registrars, poll officers, and other officials, as well as the legality and purity in all primaries and elections;\n(2) To formulate, adopt, and promulgate such rules and regulations, consistent with law, as will be conducive to the fair, legal, and orderly conduct of primaries and elections; and, upon the adoption of each rule and regulation, the board shall promptly file certified copies thereof with the Secretary of State and each superintendent;\n(3) To publish and furnish to primary and election officials, from time to time, a sufficient number of indexed copies of all primary and election laws and pertinent rules and regulations then in force;\n(4) To publish and distribute such explanatory pamphlets regarding the interpretation and application of primary and election laws as in the opinion of the board should be distributed to the electorate;\n(5) To investigate, or authorize the Secretary of State to investigate, when necessary or advisable the administration of primary and election laws and frauds and irregularities in primaries and elections and to report violations of the primary and election laws either to the Attorney General or the appropriate district attorney who shall be responsible for further investigation and prosecution. Nothing in this paragraph shall be so construed as to require any complaining party to request an investigation by the board before such party might proceed to seek any other remedy available to that party under this chapter or any other provision of law;\n(6) To make such recommendations to the General Assembly as it may deem advisable relative to the conduct and administration of primaries and elections;\n(7) To promulgate rules and regulations to define uniform and nondiscriminatory standards concerning what constitutes a vote and what will be counted as a vote for each category of voting system used in this state;\n(8) To employ such assistants as may be necessary;\n(9) Subject to funds being specifically appropriated by the General Assembly, to formulate and conduct a voter education program concerning voting procedures for voting by absentee ballot and at the polls with particular emphasis on the proper types of identification required for voting; and\n(10) To take such other action, consistent with law, as the board may determine to be conducive to the fair, legal, and orderly conduct of primaries and elections.\nHISTORY: Ga. L. 1958, p. 269, \u00a7 45; Ga. L. 1959, p. 57, \u00a7 1; Code 1933, \u00a7 34-202, enacted by Ga. L. 1968, p. 862, \u00a7 2; Ga. L. 1993, p. 118, \u00a7 1; Ga. L. 1993, p. 1670, \u00a7 1; Ga. L. 1998, p. 295, \u00a7 1; Ga. L. 2001, p. 230, \u00a7 2; Ga. L. 2003, p. 517, \u00a7 2; Ga. L. 2006, p. 3, \u00a7 1/SB 84; Ga. L. 2008, p. 781, \u00a7 2/HB 1112.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "File a Complaint",
+            "a": "File a complaint with the Georgia Election Board",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "How do I stop getting mail, texts and phone calls from political campaigns?",
+            "a": "Political campaigns and candidates have a legal right to free speech, which includes being able to contact you. The state cannot prevent them from contacting you.\nThe Election Integrity Act of 2021 requires campaigns and other organizations to include specific notices when they send voters applications for absentee ballots letting you know it is not from a government agency. That law also prohibits them from sending ballot applications to anyone who has already requested an absentee ballot.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "Will my polling place be accessible to a voter with disabilities?",
+            "a": "The law requires that your county provide polling places that are accessible to people with disabilities. And Georgia\u2019s paper-ballot voting system has adjustments to accommodate various disabilities. The machines have a headset so you can hear your choices read to you. They have large controls for people with limited mobility. And they can accommodate sip-and-puff devices.\nAlso, if you are visually impaired, you can use an app on your phone to read your ballot to you before you cast it. Before you leave the polling place, you are required to delete any photos of your ballot necessary to read it.\nRefer to the\nVoting Assistance for People with Disabilities\npage for more information. ",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "Are voters with disabilities allowed to go to the front of the voting line?",
+            "a": "Any voter who is 75 years of age or older, or who is disabled and requires assistance in voting, may vote immediately at the next available voting compartment or booth without having to wait in line.\n(As authorized by Code Section 21-2-409.)\nRefer to the\nVoting Assistance for People with Disabilities\npage for more information. ",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "How can I become a poll worker?",
+            "a": "Poll workers are the backbone of county-run elections. Working at the polls can be fun, a learning experience and a great way to do your part to ensure that elections in your community are fair and accurate. Contact your\ncounty elections office\n about how to apply.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "Can I be excused from my regular job to be a poll worker?",
+            "a": "While Georgia appreciates poll workers, gaining the ability to be excused during election day when it falls on one of your normally scheduled workdays to work in the polls is a decision that has to be made between you and your employer.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "Are poll workers paid?",
+            "a": "Poll workers are paid. Each county decides the daily pay rate. Contact your\nCounty Elections Office\nfor more information.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "What are the qualifications to be a poll worker?",
+            "a": "To serve as a poll worker, you must be 16 years of age or over and able to read, write, and speak English. Additionally, you must be a resident or employee of the county where you serve as a poll worker or have permission from your county\u2019s election office to work in an adjoining county without causing a worker shortage in your home county.\nAdditionally, you may not work in an election if you are related to a candidate on the ballot.\nPoll workers are hired and trained by Georgia\u2019s 159 counties.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "Can a candidate withdraw from a race ?",
+            "a": "A candidate can withdraw from a race as provided under O.C.G.A. 21-2-134(a)(2). All votes for the withdrawn candidate shall be void and shall not be counted.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "How do I find out what my legislative and congressional districts are?",
+            "a": "This information is available on the\nMy Voter Page\n.",
+            "s": "https://sos.ga.gov/page/elections-faq",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "WHO IS ELIGIBLE TO VOTE ABSENTEE?",
+            "a": "Any registered Georgia voter can apply for an absentee ballot. You can apply for your absentee ballot online, by mail, email, fax or deliver it in person to your county registrar. Your voted ballot must be received by your county board of registrars by 7pm on Election Day to be counted. Any registered Georgia voter can apply to vote absentee. You do not need an excuse to request an absentee ballot",
+            "s": "https://www.vote411.org/georgia",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "HOW DO I REQUEST A BALLOT BY MAIL?",
+            "a": "You apply for your absentee ballot online, or you can print the absentee ballot application form to mail, email, fax, or deliver in-person to your county board of registrars. The application must contain: If you are physically disabled or living temporarily outside your county of residence, a close relative may apply for an absentee ballot for you.",
+            "s": "https://www.vote411.org/georgia",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE TO SUBMIT AN ABSENTEE BALLOT APPLICATION?",
+            "a": "Absentee ballot applications are due 11 calendar days before Election Day.",
+            "s": "https://www.vote411.org/georgia",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE FOR SUBMITTING AN ABSENTEE BALLOT?",
+            "a": "Voted absentee ballots must be received by the county board of registrars by 7pm on Election Day.",
+            "s": "https://www.vote411.org/georgia",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "DO I NEED TO REQUEST AN ABSENTEE BALLOT EACH YEAR?",
+            "a": "Yes, you must apply for an absentee ballot before each election. Absentee ballots may be requested any time between 78 and 11 calendar days prior to Election Day.",
+            "s": "https://www.vote411.org/georgia",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
+            "a": "Counties mail out absentee ballots starting 29 days before the election.",
+            "s": "https://www.vote411.org/georgia",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "HOW DO I COMPLETE MY ABSENTEE BALLOT?",
+            "a": "After your county elections office reviews your application, you will receive your ballot by mail at the address you put on your absentee ballot application.  Once you receive your ballot, fill out your choices by filling in the circles for your choices, you will place it in an envelope that will have your name, signature, driver's license or state ID number (or last four digits of your Social Security number) and date of birth. Sensitive personal information will be hidden once it is sealed.",
+            "s": "https://www.vote411.org/georgia",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "HOW CAN I RETURN MY ABSENTEE BALLOT?",
+            "a": "Voted absentee ballots may be returned by mail, in person, or at a secure drop box location. Here are more details:",
+            "s": "https://www.vote411.org/georgia",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "HOW CAN I TRACK MY ABSENTEE BALLOT?",
+            "a": "You can sign up to track your absentee ballot on the GA Secretary of State\u2019s website.",
+            "s": "https://www.vote411.org/georgia",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON?",
+            "a": "If you still have the absentee ballot and give it to the poll manager at your precinct, then you may vote a regular ballot. If you haven't received an absentee ballot, or if you have returned the absentee ballot, but the registrars haven't received the ballot, you may cancel the absentee ballot by appearing in person before the registrar or absentee ballot clerk and making a written request to have the ballot marked \u201ccanceled.\u201d If your absentee ballot has been voted and returned to and received by the board of registrars, then no other ballot will be issued to you.",
+            "s": "https://www.vote411.org/georgia",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "HOW DO I REQUEST A BALLOT BY MAIL AS AN OVERSEAS OR U.S. MILITARY VOTER?",
+            "a": "Overseas citizens and U.S. military personnel can find information on how to register to vote and request a mail ballot at the Overseas Vote Foundation.",
+            "s": "https://www.vote411.org/georgia",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "How can I be a poll worker in Georgia?",
+            "a": "In order to be a poll worker in Georgia you must:(1) Be at least 16 years of age (2)Be a resident of the county that you apply for (3)Complete required training. You will be entitled to compensation.",
+            "s": "https://www.vote411.org/georgia",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "What are the polling hours on Election Day and what happens if I am still in line when the polls close?",
+            "a": "Polls are open from 7:00 am until 7:00 pm on Election Day. Any voter who is waiting in line to vote at 7:00 pm will be allowed to vote.",
+            "s": "https://www.vote411.org/georgia",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "What forms of ID are acceptable for voting at the polls in Georgia and what can you do if you don't have one of these IDs?",
+            "a": "ID is required to vote at the polls.Acceptable forms of ID include:(1) A Georgia driver's license even if expired. (2) A photo ID issued by a state or federal government agency. (3) A valid U.S. passport (4) An employee ID card containing your photograph and issued by any branch, department, agency, or entity of the U.S. government, Georgia, or any county, municipality, board, authority, or other entity of Georgia. (5) A valid U.S. military ID card (6) A valid tribal ID card. If you do not have one of the above forms of ID, the State of Georgia offers a free Voter Identification Card.",
+            "s": "https://www.vote411.org/georgia",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": " What is required to register to vote online in Georgia?",
+            "a": "To register to vote online, you must have a valid driver\u2019s license or identification card issued by the Georgia Department of Driver Services.",
+            "s": "https://www.vote411.org/georgia",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "Who are eligible to vote in Georgia?",
+            "a": "To be eligible to vote, you must be a citizen of the United States and a legal resident of Georgia and the county in which you wish to vote.",
+            "s": "https://www.vote411.org/georgia",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "At what age can you register and vote in Georgia?",
+            "a": "You can register to vote at 17.5 years old and vote when you are 18 years old.",
+            "s": "https://www.vote411.org/georgia",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "What conditions can disqualify you from voting in Georgia?",
+            "a": "You cannot vote while serving a sentence for a felony involving moral turpitude. However, your voting rights are automatically restored upon completion of your sentence, including probation, parole, and payment of fines.",
+            "s": "https://www.vote411.org/georgia",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "How individuals without a fixed and homless people can vote?",
+            "a": "Georgia residents without a fixed address or experiencing homelessness can register using their current location, such as a bridge, park, or shelter, as their residence. They must also provide a mailing address, which can be given by a shelter provider, to receive voter-related correspondence.",
+            "s": "https://www.vote411.org/georgia",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "When are voting rights restored for individuals convicted of a felony in Georgia?",
+            "a": "Voting rights are restored upon completion of the sentence, including probation, parole, and payment of fines, though some felony sentences may not affect voting rights.",
+            "s": "https://www.vote411.org/georgia",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "When does early voting for the general election begin and end?",
+            "a": "Early voting begins on October 14th and ends on November 1st, 2024. Counties can open early voting as long as 7 a.m. to 7 p.m., or from 9 a.m. to 5 p.m. at a minimum.",
+            "s": "https://www.vote411.org/georgia",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "How can you find available early voting locations?",
+            "a": "You can find early voting locations by visiting the Secretary of State\u2019s website and selecting your county of residence or by logging into your My Voter Page and checking your polling place information.",
+            "s": "https://www.vote411.org/georgia",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": " When is the deadline for the registration?",
+            "a": "The deadline to register for the 11/5/24 General Election is 10/7/24.In Georgia, you must be registered at least 30 days before an election to vote in that election. You can register to vote at any time.",
+            "s": "https://www.vote411.org/georgia",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "HOW DO I UPDATE MY REGISTRATION IF I MOVE OR HAVE A NAME CHANGE? ",
+            "a": "The easiest method to update your information is by submitting a new registration application. The county registrar will review your current registration and update it with the information from your new application. You can also change your legal name online.",
+            "s": "https://www.vote411.org/georgia",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": " HOW CAN I CHECK MY REGISTRATION STATUS?",
+            "a": "You can verify your voter registration status using Georgia\u2019s voter information tool.",
+            "s": "https://www.vote411.org/georgia",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "HOW EMPLOYEES CAN VOTE?",
+            "a": "Employers must grant employees two hours of paid leave to vote, unless polls are open 2 hours before or after regular working shift. This time may be paid depending on location.",
+            "s": "https://www.vote411.org/georgia",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "what is the election process for georgia?",
+            "a": "Georgia is an \u201copen primary\u201d state. You can choose the party\u2019s ballot you wish to vote. This decision does not register you with that party and it is a private decision. In a primary election if a candidate does not with the majority of the votes (50%+1) there will be a primary runoff election scheduled for a few weeks after the primary election date. The runoff election will have the top two vote getters to ensure that one of them receives the majority of the voters. If you have any questions about your state\u2019s primary election, please contact your local election officials.",
+            "s": "https://www.vote411.org/georgia",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "What is provisional voting, and when can it be used?",
+            "a": "Provisional voting allows you to cast a ballot in person even if the requirements for doing so cannot be met at the time. The provisional ballot will count if the problem is solved within three days after Election Day. NOTE: Due to a recent change, out-of-precinct provisional ballots will not count anymore unless cast after 5 p.m. and a voter signs a statement saying they could not make it to their home precinct in time. The three reasons for voting a provisional ballot are: (1)You are unable to show the required forms of photo ID when you vote in person (2)When you first registered to vote in Georgia you registered by mail, did not provide any identification at the time and are unable to present acceptable identification the first time you vote in person (3)Your name does not appear on the list of registered voters in the precinct (4)If you have a good faith belief you are properly registered in your county. If you vote a provisional ballot because you did not have acceptable identification, you will have three days from the close of the polls to present acceptable identification to your county registrar office for your vote to count.",
+            "s": "https://www.vote411.org/georgia",
+            "t": "2024-10-06T00:00:00Z"
+        },
+        {
+            "q": "What assistance is available at the polls for voters who have difficulties reading English or have physical disabilities?",
+            "a": "You may receive assistance at the polls if you are unable to read the English language or if you have a physical disability that renders you unable to see or mark the ballot, operate the voting equipment, or enter the voting booth. In order to receive assistance, everyone, except those that are blind, must take an oath stating the reason they need assistance. The person providing assistance to you must sign on the oath. When there is a federal candidate on the ballot, you can select anyone you want to assist you in voting, except for your employer, an agent of that employer, or an officer or agent of your union. When there is no federal candidate on the ballot, you can select any other resident of the precinct or a parent, sibling, spouse or child (provided they are not a candidate on the ballot or a relative of a candidate on the ballot) to assist you inside the voting booth. No person may assist more than ten voters in a primary, election, or runoff. Note: Between the hours of 9:30 am and 4:30 pm on the day of an election, voters who are 75 years of age or older or who are physically disabled may, upon request to a poll officer, vote immediately without waiting in line. Adaptive Voting Machines are available that voters can use to navigate through the ballot and make their selections\u2014 a hand-held controller called the Audio Tactile Interface (ATI), sip and puff device, or paddle device.",
+            "s": "https://www.vote411.org/georgia",
+            "t": "2024-10-06T00:00:00Z"
+        }
+    ]
+}

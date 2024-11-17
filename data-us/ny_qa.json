@@ -1,0 +1,452 @@
+{
+    "state": "NY",
+    "num_questions": 74,
+    "num_answers": 74,
+    "contributor": "Bharat",
+    "questions": [
+        {
+            "q": "What are the qualifications to register for vote ?",
+            "a": "To qualify for voter registration in New York State, you must:\n\nbe a United States Citizen;\nbe 18 years old (you may pre-register at 16 or 17 but cannot vote until you are 18);\nbe a resident of this state and the county, city or village for at least 30 days before the election;\nnot be in prison for a felony conviction;\nnot be adjudged mentally incompetent by a court;\nnot claim the right to vote elsewhere",
+            "s": "New York State Board of Elections",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "How to register online to vote ?",
+            "a": "To register online you will need to use a NY.Gov ID. If you have previously used a NY.Gov ID with another agency, you may use the same login to access the Online Voter Registration portal. If you have not used a NY.Gov ID you will need to create an account.\n\nYou can also use the Board of Elections\u2019 Online Voter Registration portal to update your voter registration information. Updated information could include a new name, new address, or changing your party enrollment.\n\nCompleted applications are sent to the appropriate County Board of Elections for approval and processing.",
+            "s": "New York State Board of Elections",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "What are the steps to register to vote using the Voter Registration Form ?",
+            "a": "You may register to vote using the New York State Voter Registration Form found at the links below. You can complete a\u00a0PDF\u00a0version of the New York State Voter Registration Form on-line by clicking on the link below, typing the necessary information and selecting the appropriate boxes. Alternatively, you can print the form to complete by hand. Once the form is completed, you need to print the form and sign it. We cannot accept any kind of digital or Adobe-generated signature. Then, mail the form to your local county board of elections.",
+            "s": "New York State Board of Elections",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "How to register in-person ?",
+            "a": "In New York State, you can register in-person the following ways:\n\nat your county board of elections\nat any New York State Agency-Based voter registration center\nat the Department of Motor Vehicles, either in person or on their web site if you already have DMV-issued identification",
+            "s": "New York State Board of Elections",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "How to register by mail ?",
+            "a": "In New York State, you can request a registration form the following ways:\n\nRequest a New York State Voter Registration form by mail by entering your name directly into our Voter Registration Form Request mailing list\nCall our 1-800-FOR-VOTE (1-800-367-8683) hotline to request a voter application\n\nOnce the form is completed, you need to print the form and sign and date it. Then, mail the form to your county board of elections.",
+            "s": "New York State Board of Elections",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "How to change Name or Address ?",
+            "a": "The online registration portal or the voter registration form can be used to change a name or address. Notices of change of address from registered voters received at least 15 days before a special, primary or general election by a county board of elections must be processed and entered in the records in time for that election.",
+            "s": "New York State Board of Elections",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "How to Cancel the Voter Registration ?",
+            "a": "In order to have your name removed from the voting rolls, pursuant to N.Y. Election Law section 5-400, you must send a written letter to the local board of elections where you lived requesting to have your registration cancelled. You must send a written letter, you cannot accomplish this via email. Contact information for all local boards is available at the county board of elections page.",
+            "s": "New York State Board of Elections",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "Where to request for a voter Registration card ?",
+            "a": "Please contact your local county Board of Elections for a new voter registration card. They are issued at the local level. Contact information for all local boards is available at the county board of elections page.",
+            "s": "New York State Board of Elections",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "Who May Apply for an Early Mail Ballot ?",
+            "a": "Any registered voter may apply for an early mail ballot. Each person must apply for themselves. It is a felony to make a false statement in an application for an early mail ballot, to attempt to cast an illegal ballot, or to help anyone to cast an illegal ballot.",
+            "s": "New York State Board of Elections",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "How to Apply for an Early Mail Ballot ?",
+            "a": "You may apply for an early mail ballot in any of the following ways:\n\nApply online. Early Mail Ballot Request Application portal\nIf you have a print disability, which means any disability that interferes with the effective reading, writing, or use of printed material, and require a ballot with accessible features you may apply using the online Accessible Ballot Application portal. Print disabilities include blindness, low vision, dyslexia, dysgraphia, learning disabilities, and physical disabilities that limit writing abilities. For more information, see the Accessible Ballot section below.\nBy going in-person to your local county board of elections\nBy designating another person to deliver your application in-person to your local county board of elections and receive your ballot\nYou can download a PDF version of the New York State Early Mail Ballot Application Form using the links below:",
+            "s": "New York State Board of Elections",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "When is it due to apply for early ballot ?",
+            "a": "Applications requesting to receive an early mail ballot must be received by the board of elections in your county no later than ten days before the election. For early mail ballots to be received in-person, applications must be received by your board no later than the day before the election.",
+            "s": "New York State Board of Elections",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "When your ballot will be sent?",
+            "a": "Your early mail ballot materials will be sent to you beginning 46 days before federal, state, county, city or town elections in which you are eligible to vote. If you applied after this date, your ballot will be sent immediately after your completed and signed application is received and processed by your local board of elections. ",
+            "s": "New York State Board of Elections",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "How to Cast an Early Mail Ballot ?",
+            "a": "Once your receive the ballot, mark the ballot according to your choices for each office following the instructions on the ballot.\nOnce you have completed marking your ballot fold it up and place it in the Security Envelope. (This envelope will have a place for your signature.)\nSign and date the outside of the Security Envelope.\nSeal the Security Envelope.\nAll early mail ballots include a pre-paid Return Envelope. Place the Security Envelope in the Return Envelope. (This envelope will have the return address of your county Board of Elections on the outside and should have a logo that reads, \u201cOfficial Election Mail\u201d.) The Return Envelope does not require any additional postage.\nSeal the Return Envelope.",
+            "s": "New York State Board of Elections",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "How to track Early Mail Ballot ?",
+            "a": "Voters can track their early mail ballot via the Board of Elections' Poll Site Search, Voter Registration, and Mail Ballot Tracker available at https://voterlookup.elections.ny.gov/",
+            "s": "New York State Board of Elections",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "How to return the Early Ballot ?",
+            "a": "You may return the ballot in any of the following ways:\n\nFor the November General Election:\n\nPut it in the mail ensuring it receives a postmark no later than November 5th. Must be received by the County Board of Elections no later than November 12th.\nBringing it to your County Board of Elections Office no later than November 5th by 9pm.\nBringing it to an early voting poll site in your county between October 26th and November 3rd.\nBringing it to a poll site in your county on November 5th by 9pm.",
+            "s": "New York State Board of Elections",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "Who May Apply for an Absentee Ballot\u00a0?",
+            "a": "You may qualify to vote absentee for the following reasons:\n\nAbsent from your county or, if a resident of New York City absent from the five boroughs, on Election Day.\nUnable to appear at the polls due to temporary or permanent illness or disability.\nUnable to appear because you are the primary care giver of one or more individuals who are ill or physically disabled.\nA resident or patient of a Veterans Health Administration Hospital.\nIn jail or prison for any reason other than a felony conviction. This includes anyone who is awaiting grand jury action, awaiting trial, or serving a sentence for a misdemeanor.",
+            "s": "New York State Board of Elections",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "How to Apply for An Absentee Ballot ?",
+            "a": "You may apply for an absentee ballot in any of the following ways:\n\nApply online.Absentee Ballot Application portal\n\nIf you have a print disability, which means any disability that interferes with the effective reading, writing, or use of printed material, and require a ballot with accessible features you may apply using the online Accessible Ballot Application portal. Print disabilities include blindness, low vision, dyslexia, dysgraphia, learning disabilities, and physical disabilities that limit writing abilities. For more information, see the Accessible Ballot section below.\nBy going in-person to your local county board of elections\nBy designating another person to deliver your application in-person to your local county board of elections and receive your ballot\nYou can download a PDF version of the New York State Absentee Ballot Application Form:\nIf you cannot pick up your ballot, you have the right to designate someone to pick it up for you. Only that person designated on your application may pick up and deliver your ballot.\n\nIf you are permanently ill or disabled, you have the right to receive an Absentee Ballot for each subsequent election without further application. Simply file an application with your county board of elections indicating permanent illness or physical disability.\n\nYou will then automatically receive an absentee ballot for every election until your registration is canceled.",
+            "s": "New York State Board of Elections",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "When is your absentee ballot application due?",
+            "a": "Applications requesting to receive an absentee ballot by mail must be received by the board of elections in your county no later than ten days before the election. For absentee ballots to be received in-person, applications must be received by your board no later than the day before the election.",
+            "s": "New York State Board of Elections",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "When will ballots be sent?",
+            "a": "Your absentee ballot materials will be sent to you beginning 46 days before federal, state, county, city or town elections in which you are eligible to vote. If you applied after this date, your ballot will be sent immediately after your completed and signed application is received and processed by your local board of elections.",
+            "s": "New York State Board of Elections",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "How to Cast an Absentee Ballot ?",
+            "a": "Once your receive the ballot, mark the ballot according to your choices for each office following the instructions on the ballot\nOnce you have completed marking your ballot fold it up and place it in the Security Envelope. (This envelope will have a place for your signature.)\nSign and date the outside of the Security Envelope.\nSeal the Security Envelope.\nAll absentee ballots include a pre-paid Return Envelope. Place the Security Envelope in the Return Envelope. (This envelope will have the return address of your county Board of Elections on the outside and should have a logo that reads, \u201cOfficial Election Mail\u201d.)The Return Envelope does not require any additional postage.\nSeal the Return Envelope.",
+            "s": "New York State Board of Elections",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "How to track an Absentee Ballot ?",
+            "a": "Voters can track their absentee ballot via the Board of Elections' Poll Site Search, Voter Registration, and Mail Ballot Tracker available at https://voterlookup.elections.ny.gov/",
+            "s": "New York State Board of Elections",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "Where to return an Absentee Ballot ?",
+            "a": "For the November General Election:\n\nPut it in the mail ensuring it receives a postmark no later than November 5th. Must be received by the County Board of Elections no later than November 12th.\nBringing it to your County Board of Elections Office no later than November 5th by 9pm.\nBringing it to an early voting poll site in your county between October 26th and November 3rd.\nBringing it to a poll site in your county on November 5th by 9pm.",
+            "s": "New York State Board of Elections",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "What are the mail time considerations to follow ?",
+            "a": "When mailing your completed ballot, the USPS recommends that voters allow enough time for ballots to be returned to the Board, which is generally seven days ahead of the general election.\n\nVoters who mail in their ballots on Election Day must be aware of the posted collection times on collection boxes and at the Postal Service\u2019s retail facilities, and that ballots entered after the last posted collection time will not be postmarked until the following business day.",
+            "s": "New York State Board of Elections",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "How to apply for Accessible Ballot ?",
+            "a": "Voters with a print disability, which means any disability that interferes with the effective reading, writing, or use of printed material, and require a ballot with accessible features may apply using the online Accessible Ballot Application Portal.\n\n\nPrint disabilities include blindness, low vision, dyslexia, dysgraphia, learning disabilities, and physical disabilities that limit writing abilities.\n\nVoters using the accessible ballot system in need of printing services in order to print their ballot can access such services at certain public printing resources, including but not limited to, libraries, print stores, shipping stores, and office supply stores. Voters should contact their local printing resources for details on the printing services offered.\n\nIn-person voting using an accessible Ballot Marking Device (\u201cBMD\u201d) during early voting or on Election Day is still available to voters with a disability who do not want to vote using the accessible ballot system.\n\nFor questions regarding accessible ballots please contact Jennifer Wilson in the Board of Elections Public Information Office at (518) 474-1953 or pio@elections.ny.gov",
+            "s": "New York State Board of Elections",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "What is the procedure to apply for new ballot ?",
+            "a": "Due to a recent change in law, New York State voters are no longer permitted to cast a ballot on a voting machine if they have already been issued an early mail, accessible, or absentee ballot for that election. Voters who have already been issued a ballot can still vote in person using an affidavit ballot. The affidavit ballot will be kept separate until the election is completed. Election officials will verify whether the voter\u2019s early mail, accessible, or absentee ballot has been received. If the voter\u2019s ballot has been received, the affidavit ballot will not be counted. If the voter\u2019s ballot has not been received, the affidavit ballot will be counted.\n\nIf a voter requests a second early mail, accessible, or absentee ballot, any previously issued ballot that is returned by the voter will be set aside unopened to provide the voter a chance to return the second ballot, unless the first ballot has already been opened. If both ballots are received before the return deadline, the ballot with the later postmark date is accepted and any other ballots that have been received are rejected, unless the first ballot has already been opened. If a voter submits more than one timely ballot and cast an affidavit ballot, the last received ballot, either submitted in person during the election or by mail within the absentee return deadline, will be canvassed.",
+            "s": "New York State Board of Elections",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "What are the qualifications for military voting ?",
+            "a": "Persons serving in the military, along with their spouses and/or dependents, may register as a military voter in New York, entitling them to receive an absentee ballot for all federal, state and local races that they would be otherwise entitled to vote in if they were to go to their assigned polling place based on their New York residence.",
+            "s": "New York State Board of Elections",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "What is the procedure to register or apply for military voting ballot ?",
+            "a": "To register as a new military voter and/or to request an absentee ballot, you must complete a Federal Post Card Application and return it to your county board of elections in New York. \nThis application will register you (if not already registered) and will also serve as your absentee ballot application for 2 federal general election cycles. \nAlways be sure to share any change of address information with your county board of elections. \nApplications are available from your Voting Assistance Officer on base, or you can visit either the Federal Voting Assistance Program Website for forms and information. \nOn this application, you may state a preference as to how you would like to receive your ballot. You can choose mail, fax or email as a preferred method of transmission. \nif you have stated a preference to receive your voting materials by email/online, you will receive an email notification directing you to the State's online ballot delivery site to access your ballot. \nQuestions? Call the State Board of Elections at 518-474-1953 or the Federal Voter Assistance Program at 1-800-438-8683, or contact your Voting Assistance Officer or US Embassy office or Consulate. ",
+            "s": "New York State Board of Elections",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "Where to retun the military voting ballot ?",
+            "a": "Regardless of the method in which you receive your ballot, you must return your ballot to your local county board of elections by personal delivery, postal mail or certain private delivery services. ",
+            "s": "New York State Board of Elections",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "What are the military voting deadlines ?",
+            "a": "October 26\tLast day for a board of elections to receive application to absentee ballot by mail if NOT previously registered. Sec. 10-106(5). \nOctober 29\tLast day for a board of elections to receive application for absentee ballot by mail if previously registered. Sec. 10-106(5). \nNovember 4\tLast day to apply for absentee ballot in person if previously registered. Sec 10-106(5). \nNovember 5\tLast day to postmark return ballot. Must be received by the local board of elections no later than November 18th. Sec 10-114(1). ",
+            "s": "New York State Board of Elections",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "What are the qualifications for Overseas Civilian Voting (Special Federal Voters/Uniformed & Overseas Citizens Absentee Voting Act Voters) ?",
+            "a": "United States citizens living outside of the United States whose intent to return is uncertain and whose last U.S. residence was in New York, along with their children, may register as a special federal voter in New York, entitling them to receive an absentee ballot for all federal races (President/Vice President, U.S. Senate and House of Representatives) that they would otherwise be entitled to vote in based on your New York address.\nUnited States citizens living outside of the United States who intend to return and whose last U.S. residence was in New York, along with their children, may register as a UOCAVA voter in New York, entitling them to receive an absentee ballot for all races on the ballot that they would otherwise be entitled to vote in based on your New York address.",
+            "s": "New York State Board of Elections",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "What is the procedure to register for ballot for overseas civilians ?",
+            "a": "To register as a new overseas voter and/or to request an absentee ballot, you must complete a Federal Post Card Application  and return it to the county board of elections of their previous New York residence.\nThis application will register you (if not already registered) and will also serve as your absentee ballot application for 2 federal general election cycles.\nAlways be sure to share any change of address information with your county board of elections. \nYou can visit the Federal Voting Assistance Program Website for forms and information. \nOn this application, you may state a preference as to how you would like to receive your ballot. You can choose mail, fax or email as a preferred method of transmission.\nIf you have stated a preference to receive your voting materials by email/online, you will receive an email notification directing you to the State\u2019s online ballot delivery site to access your ballot. \nIf you move back to the US, contact your county board of elections, to have your registration reflect that change.",
+            "s": "New York State Board of Elections",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "what is the procedure for overseas civilians to return the ballot ?",
+            "a": "Regardless of the method in which you receive your ballot, you must return your ballot to your local county board of elections by personal delivery, postal mail or certain private delivery services. \nIf you have requested your ballot, but have not yet received it, you may use the Federal Write-In Absentee Ballot and return that to your county board of elections. ",
+            "s": "New York State Board of Elections",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "How do overseas civilians track ballot ?",
+            "a": "You can utilize New York's Military and Overseas Ballot Tracking Website  to track when your ballot has been received by your local county board of elections.",
+            "s": "New York State Board of Elections",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "What are the overseas civilians voting deadlines ?",
+            "a": "October 26\tLast day for a board of elections to receive application for UOCAVA voter for absentee ballot by mail if NOT previously registered. Sec. 11-202(1).\nOctober 29\tLast day for a board of elections to receive application for UOCAVA voter for absentee ballot by mail if previously registered. Sec. 11-204(4).\nNovember 5\tLast day to postmark UOCAVA return ballot. Must be received by the local board of elections no later than November 18th. Sec. 11-212.",
+            "s": "New York State Board of Elections",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "What is the dealine to register to vote ?",
+            "a": "New Yorkers must register to vote by certain deadlines to be eligible to vote in Primary and General Elections. There are also deadlines for making changes to your registration, such as changes to address or enrollment. Mail Registration\nApplications must be received by a board of elections no later than October 26, 2024 to be eligible to vote in the General Election.\n\nIn Person Registration\nYou may register at your local board of elections or any state agency participating in the National Voter Registration Act, on any business day throughout the year but, to be eligible to vote in the General Election, your application must be received no later than October 26, 2024.",
+            "s": "New York State Board of Elections",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "Who is eligible to vote by mail?",
+            "a": "In New York, any registered voter may apply for an early mail ballot.",
+            "s": "Vote 411",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "How do i request a ballot by mail?",
+            "a": " You can apply for an early mail ballot by:\n\nUsing the online Ballot Request Application portal: RequestBallot.vote.nyc\nIf you are visually impaired and require a ballot with accessible features, you may apply using the online Accessible Absentee Ballot Application portal\nGoing in-person to your local county board of elections Designating another person to deliver your application in-person to your local county board of elections to receive your ballot",
+            "s": "Vote 411",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "Do i have to request an early mail ballot each year?",
+            "a": "Yes, you must apply each calendar year to receive an early mail ballot. If you are permanently ill or disabled, you have the right to receive an Absentee Ballot for each subsequent election without further application. Simply file an application with your county board of elections indicating permanent illness or physical disability. See below for more information on Absentee Ballots.",
+            "s": "Vote 411",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "What is the deadline to request an early mail ballot?",
+            "a": "Your early mail ballot application must be received by your county board of elections no later than 10 days before the election. If you want to receive an early mail ballot in person, your application must be received by the day before the election.",
+            "s": "Vote 411",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "What is the deadline to submit my early mail ballot?",
+            "a": "Your early mail ballot must be postmarked by Election Day or received in-person by 9pm on Election Day.",
+            "s": "Vote 411",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "How do i complete my early mail ballot?",
+            "a": "Once you receive your early mail ballot, follow these steps: Mark the ballot according to your choices for each office following the instructions on the ballot. Once you have completed marking your ballot, fold it up and place it in the Security Envelope. This envelope will have a place for your signature. Sign and date the outside of the Security Envelope. Seal the Security Envelope. All early mail ballots include a pre-paid Return Envelope. Place the Security Envelope in the Return Envelope. This envelope will have the return address of your county Board of Elections on the outside and should have a logo that reads, \u00e2\u20ac\u0153Official Election Mail.\u00e2\u20ac\u009d The Return Envelope does not require any additional postage. Seal the Return Envelope.",
+            "s": "Vote 411",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "How can i return my early mail ballot?",
+            "a": "You can return your marked early mail ballot the following ways: Put it in the mail, ensuring it receives a postmark by Election Day. It must be received by the County Board of Elections no later than 7 days after Election Day. Bring it to your County Board of Elections Office by 9pm on Election Day. Bring it to an early voting poll site in your county during early in-person voting. Bring it to a poll site in your county by 9pm on Election Day Mail Time Consideration When mailing your completed ballot, the USPS recommends that voters allow enough time for ballots to be returned to the Board, which is generally 7 days ahead of the general election. Voters who mail in their ballots on Election Day must be aware of the posted collection times on collection boxes and at the Postal Service\u00e2\u20ac\u2122s retail facilities, and that ballots entered after the last posted collection time will not be postmarked until the following business day.",
+            "s": "Vote 411",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "How can i track my mailed ballot?",
+            "a": "You can sign up to track your mail ballot using your state's resource. If you have any issues with your state\u2019s online tracker, please contact your local election office. ",
+            "s": "Vote 411",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "What if i requested a ballot by mail but want to vote in person?",
+            "a": "Due to a recent change in law, New York State voters are no longer permitted to cast a ballot on a voting machine if they have already been issued an early mail, accessible, or absentee ballot for that election.Voters who have already been issued a ballot can still vote in person using an affidavit ballot.",
+            "s": "Vote 411",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "How do i request an absentee ballot?",
+            "a": "Excused-absentee voting is available if you meet any of the criteria below. The last day to request an absentee ballot is 10 days before an Election if requested by letter, fax, or online and one day before an election if requested in person. To be counted, an absentee ballot must be postmarked by Election Day and must reach the board of elections no more than seven days after the election. You can track your absentee ballot here.",
+            "s": "Vote 411",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "How do i request a ballot by mail as an overseas or u.s. military voter?",
+            "a": "Overseas citizens and U.S. military personnel can find information on how to register to vote and request a mail ballot at theOverseas Vote Foundation.",
+            "s": "Vote 411",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "How To Report Election Day Problems?",
+            "a": "Report an election problem by calling: 1-866-OUR-VOTE (866-687-8683)",
+            "s": "Vote 411",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "What Is The Eligibility Criteria For Absentee Ballot ?",
+            "a": "You are eligible for an excused-absentee ballot if: \nAbsent from your county or, if a resident of New York City absent from the five boroughs, on Election Day.\nUnable to appear at the polls due to temporary or permanent illness or disability.\nUnable to appear because you are the primary caregiver of one or more individuals who are ill or physically disabled.\nA resident or patient of a Veterans Health Administration Hospital.\nIn jail or prison for any reason other than a felony conviction. This includes anyone who is awaiting grand jury action, awaiting trial, or serving a sentence for a misdemeanor.",
+            "s": "Vote 411",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "How To Apply For An Absentee Ballot ?",
+            "a": "You may apply for an absentee ballot in any of the following ways:\n\nOnline - Absentee Ballot Application portal\nIf you are visually impaired and require a ballot with accessible features you may apply using the online Accessible Absentee Ballot Application portal\nBy going in-person to your local county board of elections\nBy designating another person to deliver your application in-person to your local county board of elections and receive your ballot",
+            "s": "Vote 411",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "Where To Return The Absentee Ballots ?",
+            "a": "Voted absentee ballots can be returned at any polling place, early voting location, or County Board of Elections office without a wait. Click here for more information.   ",
+            "s": "Vote 411",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "What Are The Dates For Early Voting ?",
+            "a": "Early voting for the November 5, 2024 general election begins October 26th and ends November 3rd.\n\nEarly voting begins 10 days before the election and continues through two days before the election (there is no in-person voting the day before Election Day). Many counties have multiple voting sites available. Each voting site has different hours, so check here to determine the best voting site for you.\n\nIn NYC, voters must go to the early voting poll site based on their address. Find the early voting poll site for NYC voters here.",
+            "s": "Vote 411",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "How To Register For Early Voting Ballot ?",
+            "a": "Any registered voter in New York can apply for an early mail ballot without having to provide a reason. The application for an early mail ballot must be received at least 15 days prior to the election. If you wish to vote by mail before the election day, you may apply for an early mail ballot using any of the following methods:\n\nOnline using the Ballot Request Application portal (Effective January 1, 2024)\nIf you are visually impaired and require a ballot with accessible features you may apply using the online Accessible Absentee Ballot Application portal\nIn-person at your local county board of elections\nBy designating another person to deliver your application in-person to your local county board of elections and receive your ballot",
+            "s": "Vote 411",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "What Is The Procedure To Returnt The Early Votung Ballot ?",
+            "a": "You may return the ballot in any of the following ways:\n\nPut it in the mail ensuring it receives a postmark no later than Election Day\nBringing it to your County Board of Elections Office no later than Election Day by 9pm\nBringing it to an early voting poll site in your county \nBringing it to a poll site in your county on Election Day by 9pm",
+            "s": "Vote 411",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "When Is The Election Date ?",
+            "a": "The next election date can be found here https://www.vote411.org/new-york.\n\nContact your local Board of Elections for more information.",
+            "s": "Vote 411",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "What Are The Eligibiity Requirements To Vote In New York State ?",
+            "a": "To be eligible to vote, you must be:\n\nA US citizen\n18 years old by the date of the general, primary or other election in which you want to vote\nyou may pre-register at 16 or 17 but cannot vote until you are 18\nA resident of your present address for at least 30 days before the election\nNot in prison for a felony conviction \nNot claiming the right to vote elsewhere\nNot adjudged mentally incompetent by a court",
+            "s": "Vote 411",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "How Does Incarceration Or A Criminal Record Affect Voting Rights In New York State?",
+            "a": "In New York, you only lose your right to vote if you are currently incarcerated for a felony conviction. If you lost your voting rights because of a conviction, you could register to vote immediately after release. Pretrial detention, misdemeanors, probation, or parole do not restrict your voting rights. ",
+            "s": "Vote 411",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "How Can Individuals Without A Permanent Address Register To Vote In New York State?",
+            "a": "In New York, citizens don't need to have a \"permanent home\" for voter registration. A citizen can provide an alternative description of their residence, even if they are experiencing homelessness, as long as it enables the authorities to identify and assign a voting precinct. This precinct assignment ensures that the voter receives the appropriate ballot. The mailing address on their registration form can be a PO box, local shelter, advocacy organization, outreach center, or the home of someone who will accept mail for them. ",
+            "s": "Vote 411",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "What Forms Of Identification Are Required Or Accepted For Voter Registration And Voting In New York State?",
+            "a": "To register to vote you must have either a verifiable state driver's license number or the last four digits of your Social Security number. If you do not have either of these, and you are registering for the first time by mail, you may provide a copy of another acceptable form of ID.\n\nAcceptable forms of ID include:\n\nA valid photo ID\nA current utility bill\nA bank statement\nA government check\nSome other government documentation that shows your name and address\nIf you do not provide identification with this form, you will be asked for it the first time you vote. Forms of current and valid photo identification include but are not limited to:\n\nPassport\nGovernment ID card\nMilitary ID card\nStudent ID card\nPublic housing ID card\nAny ID specified by HAVA and New York State law as acceptable\nUtility bill\nBank statement\nPaycheck\nGovernment check (Social Security, tax refund, military paycheck or paycheck stub)\nOther government documents with your name and address including but not limited to: voter registration card, hunting, fishing, or trapping license or firearm permit.",
+            "s": "Vote 411",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "When And How Are Election Results Made Available In New York, And What Is The Process For Counting Votes?",
+            "a": "Official results are never available on Election Day. Election officials are working around the clock to count an unprecedented number of ballots, and it\u2019s essential that they take the time to make sure every vote is counted.\n\nAs always, unofficial results (including early voting and election day voting) will be posted on your county\u2019s Board of Elections website following the close of polls on Election Day. Early votes and election day votes will be counted on Election Day. ",
+            "s": "Vote 411",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "How Can Military Personnel, Overseas Citizens, And Their Dependents Register To Vote And Access Voting Resources?",
+            "a": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation.\n\nIf you have additional questions about elections and voting overseas you can use our state specific elections official directory or contact the Overseas Vote Foundation.",
+            "s": "Vote 411",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "What Are The Requirements And Steps To Become A Poll Worker In New York State?",
+            "a": "You can ensure we have safe, fair, and efficient elections. Become a poll worker today!\n\nTo be a poll worker in New York:\n\nYou will be entitled to compensation\nYou must be registered to vote in New York\nYou must be at least 17 years of age\nPolitical affiliation required\nYou must be a resident of the county or in New York city must be a resident of the city\nA training course and an exam must be completed\nStudents who are 17 years old and are enrolled in high school may be appointed\nNote: Interpreters do not need to be registered voters. \n\nTo sign up visit your state's resource or contact your local board of elections.",
+            "s": "Vote 411",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "What Are The Timings Of Polling Place Hours ?",
+            "a": "Polling places will be open from 6:00 am to 9:00 pm.",
+            "s": "Vote 411",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "How To Locate A Polling Place?",
+            "a": "You can find your polling place by utilizing your state resource. If you have further questions on your polling place location, please contact your local board of elections.",
+            "s": "Vote 411",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "What Type Of Primary Election System Does New York Use, And Who Is Eligible To Participate?",
+            "a": "New York is a \u201cclosed primary\u201d state. In order to vote in the primary election, voters must be registered with a political party. Unaffiliated or independent voters are not able to participate in the primary. If you have any questions about your state\u2019s primary election, please contact your local election officials.",
+            "s": "Vote 411",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "What Are The Rules And Timeframe For Provisional Voting In New York State?",
+            "a": "Provisional voting is available and ballots are counted no more than 4 days after the Election. Provisional voting is available if the ballot was cast in the correct precinct.",
+            "s": "Vote 411",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "What Accommodations And Options Are Available For Voters With Disabilities In New York State?",
+            "a": "Most polling places are now accessible to the handicapped. If yours is not, you may ask to have your records transferred to a nearby accessible polling place where the ballot will be the same as in your election district. You may also vote by absentee ballot. If you have a long-term or permanent illness or disability, you can apply for a permanent absentee ballot and you will automatically receive one before each primary and general election. For additional information, please visit your state's Board of Election. For more information, you can utilize the American Association of People With Disabilities (AAPD) resource.",
+            "s": "Vote 411",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "How Does Ranked Choice Voting Work In New York City Elections?",
+            "a": "Beginning in 2021, New York City will use a new Ranked Choice Voting system for the Primary and Special Elections. Voters will vote for up to 5 candidates in order of preference (1st choice, 2nd choice, etc.). If you would like to just vote for 1 candidate you may still do so, but each candidate may only have one ranking. For more information please contact the New York City Board of Elections.",
+            "s": "Vote 411",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "What Is The Registration Deadline?",
+            "a": "The registration deadline for the 11/5/24 General Election is 10/26/24.The deadline to submit your voter registration form is 10 days before the next election. \n",
+            "s": "Vote 411",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "What Are The Methods And Deadlines For Registering To Vote In New York?",
+            "a": "You may register to vote:\nBy mail\nIn-person\nOnline\nIf you are registering by mail, your forms must be postmarked by 15 days before the election and received 10 days before the election. ",
+            "s": "Vote 411",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "How can i check my registration status?",
+            "a": "You can verify your voter registration status using New York\u2019s voter information tool.",
+            "s": "Vote 411",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "How do i update my registration if i move or have a name change? ",
+            "a": "You can use either the online registration portal or a voter registration form to update your name or address. County boards of elections must process and record notices of address changes from registered voters at least 15 days before a special, primary, or general election to ensure they are reflected in the election records for that election.",
+            "s": "Vote 411",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "What Are The Voting Leave Rights For Employees In New York, And How Should They Be Requested?",
+            "a": "Employees are allowed to take off up to two hours of work, without loss of pay, to allow for time to vote. You may take the time off at the beginning or end of your working shift, as your employer may designate, or as otherwise mutually agreed. You must tell your employed no less than two days before Election Day that you plan to take time off to vote.",
+            "s": "Vote 411",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "How To Verify Voter Registration Status ?",
+            "a": "To verify your voter registration status click here\n ",
+            "s": "Vote 411",
+            "t": "2024-10-16T02:42:54.580208"
+        },
+        {
+            "q": "What Are The Main Types Of Voting Machines Used In New York State, And How Do They Accommodate Voters With Different Needs?",
+            "a": "The voting machine systems used in New York are Imagecast, ES&S DS200, ES&S Automark, Shoup Lever Machine and AVM Lever Machine.\n\nImagecast: the most accessible machine - audio and tactile interfaces, voters can listen to the options over headphones or view an LCD screen with an image of the ballot that can be adjusted for size and contrast. A \"Sip-N-Puff\" is also available for those voters with limited hand dexterity.\n\nES&S DS200: a portable electronic voting system that uses an optical scanner to read marked paper ballots and tally the results. These results are tabulated at the polling place and notifications are sent out immediately of any voting errors.\n\nES&S Automark: a voting machine designed for those that are blind, vision impaired, or another visual disability that would make it hard or impossible for them to make a ballot. Furthermore, the machine provides language assistance to those who speak English as a secondary language or for those who have reading difficulties. This machine is also equipped with the \"Sip-N-Puff\" voting device.\n\nYou can learn more about voting systems by checking out the voting machine summary of the New York State Board of Elections.",
+            "s": "Vote 411",
+            "t": "2024-10-16T02:42:54.580208"
+        }
+    ]
+}

@@ -1,0 +1,664 @@
+{
+    "metadata": {
+        "state": "Texas",
+        "num_questions": 109,
+        "num_answers": 109,
+        "contributor": "Dipannoy"
+    },
+    "data": [
+        {
+            "q": " I\u2019m not sure if I\u2019m registered; how can I confirm my voter registration status?",
+            "a": "You can confirm your registration status on this website by going toAm I Registered?where you will select one of three methods for conducting your search. You can base your search on: 1. your Voter Unique Identifier (VUID), which appears on your voter registration certificate; 2. your Texas driver's license number, if you provided it when you applied for voter registration; or 3. your first and last name. Or, you can call thevoter registrar\u2019s officein the county where you reside.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " I\u2019m not registered, but want to vote in the  November 5, 2024 - UniformElection; how can I be sure that I\u2019m registered in time to vote?",
+            "a": "The deadline to register and be eligible to vote in theNovember 5, 2024 - UniformElectionisOctober 7, 2024. This can be either the postmark date or the date the application is received in the office of the voter registrar. You may, of course, register at any time before that date to ensure that your registration is effective for voting inNovember. You can obtain a voter registration application from yourvoter registrar's office, libraries, most post offices, and high  schools. You can also fill out avoter registration application online.or request apostage-paid applicationbe mailed to you.Note: If you fill out a voter registration application online using the above link, you must print the completed application and send it to your county voter registrar\u2019s office.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " If I send my registration by the deadline, what happens next?",
+            "a": "Your voter registration becomes effective 30 days after it is submitted (and accepted*) by the county voter registrar. The county office will then put your name on the voter registration list, generate your voter certificate, and mail it to you. Once received, be sure to read the information on the back of the certificate, sign by the X on the \"front\" of the card (the yellow area) and keep your voter card in a safe place.*If your original application is missing required information, you will receive a notice in the mail and have a deadline to respond to the notice.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " I am registered to vote, but I moved this past year. Is there anything I need to do to make sure  that I won\u2019t have a problem voting in November?",
+            "a": "If you moved to a new location, you must file the new address information in writing with yourvoter registrarORyou may submit the change online. The last day to make a change of address that will be  effective for theNovember 5, 2024Election isOctober 7, 2024. If you missed this deadline, you may return to your old precinct to vote, if you still live in the political subdivision holding the election.Addresses and phone numbers of Voter RegistrarsLIMITED BALLOT OPTION:If you have moved to a new county and have not re-registered in the new county by theOctober 7, 2024deadline, you may be eligible to vote a limited ballot in your new county. A limited ballot means that you would be allowed to vote on any candidates and measures in common between your former and new county.This procedure is only available during the early voting period at the main early voting polling place; you mayNOTvote  a limited ballot on election day. You must be a current registered voter in your former county in order to qualify OR you must have been registered in your old county at the time you submitted a voter registration application in your new county, if you have done so. For full information on this procedure (including the by-mail option, if qualified to vote by mail), visit theEarly Votingpage. If you feel you qualify to vote a limited ballot, we recommend that you contact the office of theEarly Voting Clerkin your new county.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " I don\u2019t remember seeing my certificate lately. Is that a problem? Don\u2019t I just stay registered?",
+            "a": "New certificates are mailed out every two years to the most recent address you gave to the voter registrar. If you did not receive a new yellow and white certificate in 2024, it could mean that you have moved without updating, or there is some other problem with your registration. If the certificate was mailed to an old  address, it would have been returned to the registrar as the certificate is not forwardable mail, and you would have been placed on the \"suspense list\" in that county. This means you have a grace period that allows you to vote in the same county in your old precinct, but if you do not vote, your name will be removed from the rolls after two federal elections have passed since you were placed on the suspense list. If you did not receive your certificate because you moved to a new Texas county, you will need to re-register.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " I am reviewing this page and nothing makes sense to me. These are not the rules I have heard. I\u2019m in a state other than Texas-does that matter?",
+            "a": "If you are visiting our website from another state, please remember that each state has slightly different rules. These rules describe Texas state law and are intended for voters who consider their permanent home to be in Texas and want to vote a Texas ballot. If you arrived at this page through a search engine and you need another state's election law, check theNational Association of Secretaries of Statepage for other state websites.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " What if a voter does not possess any of the acceptable forms of photo ID? Are there any exceptions?",
+            "a": "If a voter does not possess an acceptable form of photo ID, and cannot reasonably obtain one, the voter may still cast a regular ballot by presenting a supporting form of ID and executing a Reasonable Impediment Declaration, noting the voter\u2019s reasonable impediment to obtaining an acceptable form of photo identification, stating that the information contained in the declaration is true, that the voter is the same individual personally appearing at the polling place to sign the declaration, and that the voter faces a reasonable impediment to procuring an acceptable form of photo identification. If a voter has continued access to their acceptable form of photo ID, but, for example, forgets to bring their acceptable form of photo ID to the polling place and/or left it, for example, at home or in their car, the voter still possesses the acceptable photo ID and must use it to vote.Here is a list of supporting forms of ID:copy or original of a government document that shows the voter\u2019s name and an address, including the voter\u2019s voter registration certificate;copy of or original current utility bill;copy of or original bank statement;copy of or original government check;copy of or original paycheck; orcopy of or original of (a) a certified domestic (from a U.S. state or territory) birth certificate or (b) a document confirming birth admissible in a court of law which establishes the voter\u2019s identity (which may include a foreign birth document).Voters with a disability may apply with the county voter registrar for apermanent exemptionto presenting an acceptable photo identification or following the Reasonable Impediment Declaration procedure in the county. The application must contain written documentation from either the U.S. Social Security Administration evidencing the applicant\u2019s disability, or from the U.S. Department of Veterans Affairs evidencing a disability rating of at least 50 percent. The applicant must also state that he/she does not have a form of identification prescribed by Section 63.0101 of the Texas Election Code. Those who obtain a disability exemption will be allowed to vote upon display of their voter registration certificate reflecting the exemption, and will not need to execute a Reasonable Impediment Declaration. Please contact your county voter registrar for more details.Voters who have a consistent religious objection to being photographed or who do not present an acceptable form of photo identification listed above or follow the Reasonable Impediment Declaration procedure because of certain natural disasters as declared by the President of the United States or the Texas Governor, may vote a provisional ballot, appear at the voter registrar\u2019s office within six (6) calendar days after election day, and sign an affidavit swearing to the religious objection or natural disaster, in order for the voter\u2019s ballot to be counted. Please contact your county voter registrar for more details.If a voter (a) does not possess one of the seven acceptable forms of photo identification, and a voter can reasonably obtain one of these forms of identification or (b) possesses, but did not bring to the polling place, one of the seven forms of acceptable photo identification listed above, or (c) does not possess one of the seven forms of acceptable photo identification, could otherwise not obtain one due to a reasonable impediment, but did not bring a supporting form of identification to the polling place, the voter may cast a provisional ballot at the polls. However, in order to have the provisional ballot counted, the voter will be required to visit the voter registrar\u2019s office within six calendar days of the date of the election to either present one of the acceptable forms of photo ID OR submit one of the temporary affidavits (e.g., religious objection or natural disaster) in the presence of the county voter registrar OR submit the required paperwork and sign the required statement to qualify for a permanent disability exemption in the presence of the county voter registrar, in order for the provisional ballot to count.Alternatively, a voter who possesses an acceptable form of photo ID but does not have it at the polling place, or a voter who does not possess an acceptable form of photo ID, and is reasonably able to obtain one, may choose to leave the polling place and return before the close of the polls on election day with an acceptable form of photo ID to vote a regular ballot at that time. In addition, a voter who does not possess, would otherwise not be able to reasonably obtain an acceptable form of photo ID, but did not bring a supporting form of ID to the polling place, may choose to leave the polling place and return before the close of the polls on election day with said supporting form of ID to fill out the Reasonable Impediment Declaration and, if they otherwise qualify, vote a regular ballot at that time.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " What does \u201csubstantially similar\u201d mean?",
+            "a": "A voter\u2019s name on the identification provided (acceptable form of photo ID, or supporting form of ID, if applicable) is considered substantially similar if one or more of the following circumstances applies:The name on the ID is slightly different from one or more of the name fields on the official list of registered voters.The name on the voter\u2019s ID or on the list of registered voters is a customary variation of the voter\u2019s formal name. For example, Bill for William, or Beto for Alberto.The voter\u2019s name contains an initial, middle name, or former name but it is either not on the official list of registered voters or on the voter\u2019s ID or is different on those documents.A first name, middle name, former name or initial of the voter\u2019s name occupies a different field on the presented ID document than it does on the list of registered voters.In considering whether a name is substantially similar, election officials will also look at whether information on the presented ID   matches elements of the voter\u2019s information on the official list of registered voters such as the voter\u2019s residence address or date of birth.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " How can I be sure that I\u2019m still on the voter rolls in the county where I reside?",
+            "a": "You cancheck the status of your voter registration, where you will select one of three methods for conducting your search. You can base your search on: 1. your Voter Unique Identifier (VUID), which appears on your voter registration certificate; 2. your Texas driver's license number, if you provided it when you applied for voter registration; or 3. your first and last name. Or, you can call thevoter registrar\u2019s officein the county where you reside.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " My registration status says Suspense; what does this mean?",
+            "a": "Suspense means that the registrar is not certain of your residential address. If the registrar has reason to believe that a voter's current residence is different from that indicated on the registration records, then the registrar shall deliver to the voter a written confirmation notice requesting confirmation of the voter's current residence. When a Notice of Address Confirmation is sent, the voter automatically is put on suspense. As a common practice, a Notice of Address Confirmation is sent (and an individual is placed on suspense) when:The voter\u2019s registration certificate has been returned as non-deliverable;A Jury Summons is returned as non-deliverable; orAny mailing that was sent to the voter was returned as non-deliverable.The voter registrar has received information indicating the voter no longer resides at the address on the voter\u2019s record.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " Who is eligible to vote early? What are the dates for voting early in person?",
+            "a": "Any registered voter may vote early by personal appearance (in person). Early voting by personal appearance for theNovember 5, 2024Election begins onOctober 21, 2024and ends onNovember 1, 2024. You may vote at any early voting location in your county of registration.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " Will I still be allowed to vote if my status is listed as Suspense?",
+            "a": "Yes. A voter whose status is on suspense is eligible to vote in an election provided that the voter completes a Statement of Residence either when voting by mail or at the  polls prior to voting (within the same county as the voter\u2019s current registration) or (if the voter has moved to a new county) completes a Limited Ballot application during Early Voting at the main early voting polling place. A voter on Suspense who has moved within the same county would be allowed to vote on Election Day by returning to the precinct in which the voter previously resided and completing a Statement of Residence at that time. A voter may also complete a Voter Registration Application to update his/her address prior the  Registration Cutoff deadline for any election and send the newly updated application to theVoter Registrarin the county in which the voter resides.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " Where do I go to vote?",
+            "a": "You will be able to find early voting locations by using our search siteAm I Registered?, which will be populated with voting sites a few days before early voting begins. Or, you may want to contact theEarly Voting Clerk for State and County Electionsin your county. Also, many newspapers publish early voting and election day polling locations, so you might be able to find the information there.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " Can anybody vote early by mail?",
+            "a": "Only specific reasons entitle a registered voter to vote early by mail (no longer called absentee voting). You may request a ballot by mail if you:will be away from your county on Election Dayandduring the hours that early voting is conducted;are sick or disabled; (as defined in Texas Election Code 82.002(a))Expected to give birth within three weeks before or after Election Day;are 65 years of age or older on Election Day; orare confined in jail or Involuntary Civil Commitment",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " I fall under one of the 5 reasons above. What do I do now? Are there deadlines connected with this procedure?",
+            "a": "First, request an Application for Ballot by Mail (ABBM) from the Early Voting Clerk in the political subdivision conducting your election, or from our office. You may alsoprint an ABBM directly from our website (PDF), (Spanish version (PDF). Once received, read the instructions carefully, complete the ABBM form and return it to the Early Voting Clerk.For theNovember 5, 2024UniformElection date, the last day for the early voting clerk to receive applications for a ballot to be voted by mail isOctober 25, 2024, in order for you to receive a ballot by mail. All applications to vote by mail must be received by the early voting clerk before the close of regular business or 12 noon, whichever is later. Please note that different deadlines apply to the last day to receive ballots sent by the following: (1) Non-military and military voters who mailed ballotsdomesticallyand submitted anABBM;       (2) Non-military and military voters who mailed ballots fromoverseasand who submitted anABBM; (3)Non-militaryvoters who mailed ballots fromoverseasand who submitted a Federal Postcard Application (\u201cFPCA\u201d); and (4)Militaryvoters who mailed       ballotsdomesticallyor fromoverseasand who submitted aFPCThe deadline to receive ballots mailed within the United States from non-military and military voters who submitted an Application for Ballot by Mail (\u201cABBM\u201d) is5:00 p.m. onWednesday, November 6, 2024. The carrier envelope must have a postmark showing it was in the mail by7:00 p.m.\u00a0onNovember 5, 2024.The deadline to receive ballots mailed from non-military and military voters who mailed ballots from overseas and who submitted an Application for Ballot by Mail (\u201cABBM\u201d) isTuesday, November 12, 2024.The carrier envelope must have a postmark showing it was in the mail by7:00 p.m.\u00a0onNovember 5, 2024.The deadline to receive ballots mailed from non-military voters who mailed ballots from overseas and who submitted a Federal Post Card Application (\u201cFPCA\u201d) isTuesday, November 12, 2024.\u00a0The carrier envelope must    have a postmark showing it was in the mail by7:00 p.m.\u00a0onNovember 5, 2024.The deadline to receive ballots mailed from  military voters who mailed ballots domestically or from overseas and who  submitted a Federal Post Card Application (\u201cFPCA\u201d) isTuesday, November 12, 2024.The  carrier envelope does not need to have any postmark.Learn more about the ABBM process and to request an ABBM from our office(or print one directly from the web)",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " It\u2019s election day, November 5, 2024, and I\u2019m registered and ready to vote and have what I need to bring to the polls. Where do I go? What are the hours for voting on election day?",
+            "a": "You will be able to find election day voting locations by using our search siteAm I Registered?, which will be populated with voting sites a few days before election day. Or, you may want to contact theElection Official for State and County Electionsin your county. Also, many newspapers publish election day polling locations. The hours of voting on election day are7:00 a.m. to 7:00 p.m.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " Does a voter have to vote in the main election in order to vote in a runoff-election?",
+            "a": "No. Section 11.001 of the Texas Election Code prescribes the specific qualifications necessary in order to vote in a Texas election. There isnorequirement to have previously voted in the main election in order to participate in the subsequent run-off election.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " When do the identification procedures go into effect?",
+            "a": "The identification procedures are effective immediately.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " Do I need to bring my voter certificate/card? Will I be able to vote without it?",
+            "a": "\tWhile you do not need to bring your voter registration certificate with you to vote, we highly recommend that you have it with you at the polling place. In some situations, having your voter registration certificate will allow you to vote a regular ballot instead of a provisional ballot. For example, if you do not possess one of the seven (7) acceptable forms of photo identification, and you cannot reasonably obtain one, you can use your valid voter registration certificate as a form of supporting identification when you execute your Reasonable Impediment Declaration, and vote a regular ballot. As another example, if your name does not appear on the official list of registered voters in the precinct, you may be able to cast a regular ballot by presenting your valid voter registration certificate along with an acceptable form of photo identification. In addition, for example, if you do not possess one of the seven (7) acceptable forms of identification, and you cannot reasonably obtain one, and your name is not on the official list of registered voters in the precinct, you may be able to cast a regular ballot by presenting your valid voter registration certificate and executing a Reasonable Impediment Declaration.Please note that you may contact yourcounty voter registrar\u2019s officeto obtain a replacement registration  certificate.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " What kind of identification is required to qualify to vote in person?",
+            "a": "When a voter arrives at a polling location, the voter will be asked to present one of the seven (7) acceptable forms of photo ID (listed below). If a voter does not possess an acceptable form of photo identification and cannot reasonably obtain one, the voter may present a supporting form of ID and execute a Reasonable Impediment Declaration, noting the voter\u2019s reasonable impediment to obtaining an acceptable form of photo identification, stating that the information contained in the declaration is true, that the voter is the same individual personally appearing at the polling place to sign the declaration, and that the voter faces a reasonable impediment to procuring an acceptable form of photo identification. If a voter has continued access to their acceptable form of photo ID, but, for example, forgets to bring their acceptable form of approved photo ID to the polling place and/or left it, for example, at home or in their car, the voter still possesses the acceptable photo ID and must use it to vote.Here is a list of the acceptable forms of photo ID:Texas Driver License issued by the Texas Department of Public Safety (DPS)Texas Election Identification Certificate issued by DPSTexas Personal Identification Card issued by DPSTexas Handgun License issued by DPSUnited States Military Identification Card containing the person\u2019s photographUnited States Citizenship Certificate containing the person\u2019s photographUnited States Passport (book or card)With the exception of the U.S. Citizenship Certificate, which does not expire, for voters aged 18-69, the acceptable form of photo identification may be expired no more than four years before being presented for voter qualification at the polling place. For voters aged 70 or older, the acceptable form of photo identification may be expired for any length of time if the identification is otherwise valid.Here is a list of the supporting forms of ID that can be presented if the voter does not possess an acceptable form of photo identification, and cannot reasonably obtain one:copy or original of a government document that shows the voter\u2019s name and an address, including the voter\u2019s voter registration certificate;copy of or original current utility bill;copy of or original bank statement;copy of or original government check;copy of or original paycheck; orcopy of or original of (a) a certified domestic (from a U.S. state or territory) birth certificate or (b) a document confirming birth admissible in a court of law which establishes the voter\u2019s identity (which may include a foreign birth document).",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " My acceptable form of photo ID is expired. Will it still work?",
+            "a": "With the exception of the U.S. Citizenship Certificate, which does not expire, for voters aged 18-69, the acceptable form of photo identification may be expired no more than four years before being presented for voter qualification at the polling place. For voters aged 70 or older, the acceptable form of photo identification may be expired for any length of time if the identification is otherwise valid.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " What if I forget to bring my photo identification with me when I vote in person? Will I be turned away?",
+            "a": "If a voter has continued access to their acceptable form of photo ID, but, for example, forgets to bring their acceptable form of approved photo ID to the polling place and/or left it, for example, at home or in their car, the voter still possesses the acceptable photo ID and must use it to vote. Accordingly, if you possess, but did not bring to the polling place, one of the seven (7) acceptable forms of photo identification with you when you vote in person, you may cast a \u201cprovisional ballot\u201d at the polling location instead of a regular ballot, or you may return to the polling place before the polls close on Election Day with your acceptable form of photo identification and vote a regular ballot at that time. In order to have the provisional ballot counted in the election, you will have  to visit the county voter registrar\u2019s office by the sixth calendar day after Election Day. At the county voter registrar\u2019s office, you will have to show one of the seven (7) acceptable forms of photo identification listed above, or, if  you qualify, submit a natural disaster temporary affidavit referenced above. If you present a proper form of photo identification or submit the natural disaster temporary affidavit, the provisional ballot will be counted.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " My name on my identification (acceptable form of photo ID, or supporting form of ID, if applicable) does not exactly match my name on my voter registration card. Can I still vote?",
+            "a": "Election officials will review the ID (acceptable form of photo ID, or supporting form of ID, if applicable) and if a name is \u201csubstantially similar\u201d to the name on their list of registered voters, you will still be able to vote, but you will also have to submit an affidavit stating that you are the same person on the list of registered voters.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " Is there any change in the process for voting by mail?",
+            "a": "Yes \u2013 To vote by mail, you must now provide ONE of the following numbers on yourApplication for Ballot by Mail (ABBM) (PDF)as well as yourcarrier envelope (PDF): (1) Texas Driver\u2019s License, Texas Personal Identification Number or Election Identification Certificate Number issued by the Texas Department of Public Safety (NOT your voter registration VUID number); OR (2) If you have not been issued one of the numbers above, the last 4 digits of your Social Security Number. If you have not been issued a Texas Driver\u2019s License, Texas Personal Identification Number or Texas Election Identification Certificate Number or a Social Security Number, you must indicate so by checking the appropriate box on the ABBM.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " Does the address on my ID (acceptable form of photo ID, or supporting form of ID, if applicable) have to match my address on the official list of registered voters at the time of voting in order for it to be acceptable as ID?",
+            "a": "No. There is no address matching requirement.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " How can I obtain a DPS Election Identification Certificate?",
+            "a": "Election Identification Certificatesare available from allDPS driver license officesduring regular business hours. Information regarding how to obtain an election identification certificate can be found on theDPS website. You may also contact DPS by telephone at (512) 424-2600 for more information.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " What happens if (1) I refuse to show my acceptable form of photo identification, or, (2) if I do not possess an acceptable form of photo identification and cannot obtain one due to a reasonable impediment, I refuse to show one of the forms of supporting identification?",
+            "a": "Voters who refuse to show proof of identity will be allowed to vote by provisional ballot. However, please be advised that a refusal to show ID is not a valid ground for casting a provisional ballot, and it is likely that the voter\u2019s ballot will be rejected by the ballot board.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " Can anyone vote early, or only those people who are going to be out of town on Election Day? What are the dates for voting early in person?",
+            "a": "Any registered voter may vote early in person. To vote early by mail, you must first complete anApplication for Ballot by Mail (PDF). For complete details, refer to our section\"Early Voting.\"",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " What voting systems have been certified for use in the state of Texas?",
+            "a": "There are two vendors and a total of eleven voting machine systems that have been certified by the state of Texas. To learn more about each, as well as for instructions on how each voting machine works, see our \"voting systems\" section.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " What voting systems have been certified for use in the state of Texas?",
+            "a": "There are two vendors and a total of eleven voting machine systems that have been certified by the state of Texas. To learn more about each, as well as for instructions on how each voting machine works, see our \"voting systems\" section.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " What will I need in order to vote in person on election day or during early voting?",
+            "a": "When a voter arrives at a polling location, the voter will be asked to present one of the seven (7) acceptable forms of photo ID (listed below). If a voter does not possess an acceptable form of photo identification and cannot reasonably obtain one, the voter may present a supporting form of identification and execute a Reasonable Impediment Declaration, noting the voter\u2019s reasonable impediment to obtaining an acceptable form of photo identification, stating that the information contained in the declaration is true, that the voter is the same individual personally appearing at the polling place to sign the declaration, and that the voter faces a reasonable impediment to procuring an acceptable form of photo identification. If a voter has continued access to their acceptable form of photo ID, but, for example, forgets to bring their acceptable form of approved photo ID to the polling place and/or left it, for example, at home or in their car, the voter still possesses the acceptable photo ID and must use it to vote.Election officials are required to determine whether the voter\u2019s name on the identification (acceptable form of photo ID or supporting form of ID (if applicable)) provided matches the name on the official list of registered voters (\u201cOLRV\u201d). After a voter presents their ID, whether it\u2019s an acceptable form of photo ID or a supporting form of ID (if applicable), the election worker will compare it to the OLRV. If the name on the ID matches the name on the list of registered voters, the voter will follow the regular procedures for voting.If the name does not match exactly but is \u201csubstantially similar\u201d to the name on the OLRV, the voter will be permitted to vote as long as the voter signs an affidavit stating that the voter is the same person on the list of registered voters.If a voter does not possess an acceptable form of photo ID, cannot reasonably obtain one, and does not have or does not bring a supporting form of ID to present in connection with a Reasonable Impediment Declaration, or if the voter does not possess an acceptable form of photo ID and can reasonably obtain an acceptable form of photo ID, or if the voter possesses, but did not bring with them, an acceptable form of photo ID, the voter may cast a provisional ballot at the polls. However, in order to have the provisional ballot counted the voter will be required to visit the county voter registrar\u2019s office within six calendar days of the date of the election to either present an acceptable form of photo ID OR, if the voter does not possess and cannot reasonably obtain an acceptable form of photo ID, follow the Reasonable Impediment Declaration procedure, or, if applicable, submit one of the temporary affidavits addressed in these FAQs (religious objection or natural disaster) in the presence of the county voter registrar, or, if applicable, qualify for the disability exemption addressed in these FAQs with the county voter registrar.Alternatively, a voter who possesses an acceptable form of photo ID but does not have it at the polling place, or a voter who does not possess an acceptable form of photo ID, and is reasonably able to obtain one, may choose to leave the polling place and return before the close of the polls on election day with an acceptable form of photo ID to vote a regular ballot at that time. In addition, a voter who does not possess, would otherwise not be able to reasonably obtain an acceptable form of photo ID, but did not bring a supporting form of ID to the polling place, may choose to leave the polling place and return before the close of the polls on election day with said supporting form of ID to fill out the Reasonable Impediment Declaration and, if they otherwise qualify, vote a regular ballot at that time.Here is a list of the acceptable forms of photo ID at the polling place:Texas Driver License issued by the Texas Department of Public Safety (DPS)Texas Election Identification Certificate issued by DPSTexas Personal Identification Card issued by DPSTexas Handgun License issued by DPSUnited States Military Identification Card containing the person\u2019s photographUnited States Citizenship Certificate containing the person\u2019s photographUnited States Passport (book or card)With the exception of the U.S. Citizenship Certificate, for voters aged 18-69, the identification must be current or have expired no more than 4 years before being presented for voter qualification at the polling place. Voters aged 70 or older may use one of the seven acceptable forms of photo ID that has expired for any length of time if the identification is otherwise valid.Election Identification Certificatesare available from allDPS driver license officesduring regular business hours. Also,find mobile station locations here.Here is a list of supporting forms of ID that can be presented if the voter does not possess an acceptable form of photo identification, and cannot reasonably obtain one:copy or original of a government document that shows the voter\u2019s name and an address, including the voter\u2019s voter registration certificate;copy of or original current utility bill;copy of or original bank statement;copy of or original government check;copy of or original paycheck; orcopy of or original of (a) a certified domestic (from a U.S. state or territory) birth certificate or (b) a document confirming birth admissible in a court of law which establishes the voter\u2019s identity (which may include a foreign birth document).After presenting a supporting form of ID, the voter must execute a Reasonable Impediment Declaration.Voters with a disability may apply with the county voter registrar for a permanent exemption to presenting an acceptable photo identification or following the Reasonable Impediment Declaration procedure in the county. The application must contain written documentation from either the U.S. Social Security Administration evidencing the applicant\u2019s disability, or from the U.S. Department of Veterans Affairs evidencing a disability rating of at least 50 percent. The applicant must also state that he/she does not have a form of identification prescribed by Section 63.0101 of the Texas Election Code. Those who obtain a disability exemption will be allowed to vote upon display of their voter registration certificate reflecting the exemption, and will not need to execute a Reasonable Impediment Declaration. Please contact your county voter registrar for more details.Voters who have a consistent religious objection to being photographed or who do not present an acceptable form of photo identification listed above or follow the Reasonable Impediment Declaration procedure because of certain natural disasters as declared by the President of the United States or the Texas Governor, may vote a provisional ballot, appear at the voter registrar\u2019s office within six (6) calendar days after election day, and sign an affidavit swearing to the religious objection or natural disaster, in order for the voter\u2019s ballot to be counted. Please contact your county voter registrar for more details.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " Who is eligible to vote early? What are the dates for voting early in person?",
+            "a": "Any registered voter may vote early by personal appearance (in person). Early voting by personal appearance for theNovember 5, 2024Election begins onOctober 21, 2024and ends onNovember 1, 2024. You may vote at any early voting location in your county of registration.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " Where do I go to vote?",
+            "a": "You will be able to find early voting locations by using our search siteAm I Registered?, which will be populated with voting sites a few days before early voting begins. Or, you may want to contact theEarly Voting Clerk for State and County Electionsin your county. Also, many newspapers publish early voting and election day polling locations, so you might be able to find the information there.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " Can anybody vote early by mail?",
+            "a": "Only specific reasons entitle a registered voter to vote early by mail (no longer called absentee voting). You may request a ballot by mail if you:will be away from your county on Election Dayandduring the hours that early voting is conducted;are sick or disabled; (as defined in Texas Election Code 82.002(a))Expected to give birth within three weeks before or after Election Day;are 65 years of age or older on Election Day; orare confined in jail or Involuntary Civil Commitment",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " I fall under one of the 5 reasons above. What do I do now? Are there deadlines connected with this procedure?",
+            "a": "First, request an Application for Ballot by Mail (ABBM) from the Early Voting Clerk in the political subdivision conducting your election, or from our office. You may alsoprint an ABBM directly from our website (PDF), (Spanish version (PDF). Once received, read the instructions carefully, complete the ABBM form and return it to the Early Voting Clerk.For theNovember 5, 2024UniformElection date, the last day for the early voting clerk to receive applications for a ballot to be voted by mail isOctober 25, 2024, in order for you to receive a ballot by mail. All applications to vote by mail must be received by the early voting clerk before the close of regular business or 12 noon, whichever is later. Please note that different deadlines apply to the last day to receive ballots sent by the following: (1) Non-military and military voters who mailed ballotsdomesticallyand submitted anABBM;       (2) Non-military and military voters who mailed ballots fromoverseasand who submitted anABBM; (3)Non-militaryvoters who mailed ballots fromoverseasand who submitted a Federal Postcard Application (\u201cFPCA\u201d); and (4)Militaryvoters who mailed       ballotsdomesticallyor fromoverseasand who submitted aFPCThe deadline to receive ballots mailed within the United States from non-military and military voters who submitted an Application for Ballot by Mail (\u201cABBM\u201d) is5:00 p.m. onWednesday, November 6, 2024. The carrier envelope must have a postmark showing it was in the mail by7:00 p.m.\u00a0onNovember 5, 2024.The deadline to receive ballots mailed from non-military and military voters who mailed ballots from overseas and who submitted an Application for Ballot by Mail (\u201cABBM\u201d) isTuesday, November 12, 2024.The carrier envelope must have a postmark showing it was in the mail by7:00 p.m.\u00a0onNovember 5, 2024.The deadline to receive ballots mailed from non-military voters who mailed ballots from overseas and who submitted a Federal Post Card Application (\u201cFPCA\u201d) isTuesday, November 12, 2024.\u00a0The carrier envelope must have a postmark showing it was in the mail by7:00 p.m.\u00a0onNovember 5, 2024.The deadline to receive ballots mailed from  military voters who mailed ballots domestically or from overseas and who  submitted a Federal Post Card Application (\u201cFPCA\u201d) isTuesday, November 12, 2024.The  carrier envelope does not needLearn more about the ABBM process and to request an ABBM from our office(or print one directly from the web)",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " Can anyone vote early, or only those people who are going to be out of town on Election Day? What are the dates for voting early in person?",
+            "a": "Any registered voter may vote early in person. To vote early by mail, you must first complete anApplication for Ballot by Mail (PDF). For complete details, refer to our section\"Early Voting.\"",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " Where do I go to vote?",
+            "a": "You will be able to find early voting locations by using our search siteAm I Registered?, which will be populated with voting sites a few days before early voting begins. Or, you may want to contact theEarly Voting Clerk for State and County Electionsin your county. Also, many newspapers publish early voting and election day polling locations, so you might be able to find the information there.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " It\u2019s election day, November 5, 2024, and I\u2019m registered and ready to vote and have what I need to bring to  the polls. Where do I go? What are the hours for voting on election day?",
+            "a": "You will be able to find election day voting locations by using our search siteAm I Registered?, which will be populated with voting sites a few days before election day. Or, you may want to contact theElection Official for State and County Electionsin your county. Also, many newspapers publish election day polling locations. The hours of voting on election day are7:00 a.m. to 7:00 p.m.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " I\u2019m not sure if I\u2019m registered; how can I confirm my voter registration status?",
+            "a": "In Texas, there are several main ways for a voter to affiliate with a  party: by being accepted to vote in a party\u2019s primary election, by taking the  required oath at a party precinct convention, or by taking a party oath of  affiliation generally (\u00a7\u00a7162.003, 162.006, 162.007). A voter\u2019s affiliation with  a party automatically expires at the end of each calendar year, which is  December 31. (\u00a7162.010). A voter who has affiliated themselves with a party is  ineligible to participate in the party affairs of another party during the same  calendar year. (\u00a7\u00a7162.012, 162.013).If a voter has not voted in a party primary or taken an oath of affiliation  with a party this calendar year, they have not yet affiliated with any party.  If a voter has not yet affiliated with a party, they are able to vote in either  party\u2019s primary election. However, if a voter votes in the primary of one  party, they will only be able to vote in that party\u2019s primary runoff election.  (\u00a7\u00a7162.012, 162.013). After being affiliated with a party, a voter is not able  to change or cancel their party affiliation until the end of the calendar year.  (\u00a7162.010).",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " Do I have to register or affiliate with a party before I vote in the primary?",
+            "a": "No. A registered voter is not required to pre-register or take any steps towards affiliating themselves with a party before voting in a party\u2019s primary election. (\u00a7162.003). Additionally, when a person registers to vote in Texas, they do not register with any kind of party affiliation.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " Does a voter have to vote in the general primary election in order to vote in a primary runoff election?",
+            "a": "No. Section 11.001 of the Texas Election Code prescribes the specific qualifications necessary in order to vote in a Texas election. There is no requirement to have previously voted in the general primary election in order to participate in the subsequent primary runoff election. Therefore, if a qualified voter did not vote in the general primary election, they are still eligible to vote in the primary runoff election.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " If I have voted for one party in a prior calendar year, do I have to vote in the same party\u2019s primary this year?",
+            "a": "No. A voter\u2019s party affiliation ends at the end of each calendar year. Affiliation with a party in a prior year does not affect what primary an unaffiliated voter can vote in this year. (\u00a7162.010).",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " How can I change my party affiliation?",
+            "a": "After affiliating with a party by voting in a party\u2019s primary or by taking an oath of affiliation with a party, a voter cannot change their party affiliation during the calendar year. (\u00a7162.010). However, affiliation will automatically expire at the end of the calendar year.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " What if I signed a petition for a candidate for a place on the primary ballot?",
+            "a": "If a voter signed a candidate\u2019s petition for a place on the primary ballot, that voter is only able to vote in the primary, or participate in the convention, of that candidate\u2019s party during the voting year in which the primary election is held. For example, if a voter signed a Democratic candidate\u2019s petition, that voter is ineligible to vote in the Republican primary or participate in a minor party convention. (\u00a7172.026).",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " If I signed a petition for a candidate for nomination in the Libertarian Party or Green Party, can I still vote in a primary election?",
+            "a": "No. If a voter signed a candidate\u2019s petition for nomination for the Libertarian Party or Green Party, that voter is ineligible to vote in a primary election or participate in the convention of a different party during the voting year in which the primary election is held. (\u00a7\u00a7172.026, 141.041).",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " If I am not going to be 18 in time for the primary or primary runoff, but will be 18 by the time of the general election, can I vote in the primary?",
+            "a": "No. A voter must have an effective date of registration on or before election day in order to vote in that election. (\u00a711.001). A registration is effective for purposes of early voting if it will be effective on election day. (\u00a713.143). In Texas, the earliest a voter can submit a voter registration application is when they are 17 years and 10 months old. (\u00a713.001). However, this application is not effective until a voter\u2019s 18th birthday. If a voter is not 18 on or before election day, their voter registration will not be effective prior to election day and they will not be able to vote in that election. However, a voter who turns 18 between primary election day and primary runoff election day can register to vote and vote in the primary runoff election.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " I voted in the primary election. Why did they ask if I wanted a Republican or Democratic ballot?",
+            "a": "The primary elections are two separate elections that occur on the same day. These elections are the method for both the Republican and Democratic parties to select their nominees for the general election in November. When a voter votes in a primary election or primary runoff election, they are affiliating with the party whose primary they are voting in. (\u00a7162.003). A voter who is affiliated with a political party is ineligible to become affiliated with another party during the same voting year. (\u00a7162.012). This means a voter cannot vote in both primary elections, or the primary election of one party and the runoff election of another party. Some counties will have joint primaries and/or the parties will share polling places. In a county where the Republican and Democratic parties are sharing polling places, the vote r must identify the primary in which they would like to vote, in order to ensure they receive the correct ballot and are marked as voting in the correct primary election.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " Is the fact that I voted in a primary election confidential?",
+            "a": "No. The offices and candidates that you voted for are confidential and secret, but the fact that you voted in a particular party\u2019s primary is public information and your name will be listed in that party\u2019s early voting and election day rosters.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " Why did I have to indicate party preference on my Application for a  Ballot by Mail?",
+            "a": "Because a voter cannot participate in both parties\u2019 primary elections, a voter must indicate, when voting by mail, their party preference to ensure they receive the correct ballot style.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " Does requesting a ballot by mail affiliate me with that party?",
+            "a": "Not immediately. A voter does not become affiliated with a particular party until the early voting clerk receives their voted primary ballot. (\u00a7162.003). If a voter requests a certain primary ballot but does not return a voted ballot for that primary election, they will not be affiliated with a party (unless they take other steps to affiliate with a party).",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " Can I vote in one party\u2019s primary election and another party\u2019s primary runoff election?",
+            "a": "No. By voting in a party\u2019s primary election, a voter has affiliated themselves with that party and is ineligible to participate in the convention or primary runoff election of another party during that calendar year. (\u00a7\u00a7162.012, 162.013).",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " If I vote in a party\u2019s primary, am I required to vote for that party\u2019s candidates in the November general election?",
+            "a": "No. A voter who votes in the primary is not required to vote for a particular party\u2019s candidates in the succeeding general election.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " What if I consider myself an independent, but wish to vote in a primary election?",
+            "a": "The act of voting in a primary election affiliates a voter with a political party. (\u00a7162.003). However, if a voter has not otherwise affiliated themselves with a political party, they are able to vote in the primary of either party.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " What are student election clerks?",
+            "a": "Student election clerks are high school students who are  16 years of age or older who participate in the electoral process by serving as election clerks at  the polling place during Early Voting and/or on Election Day. The  purpose is two-fold: 1) to introduce students to the electoral process, including  the rights and responsibilities of voters,  and to inspire the students with an interest in their government, and 2) to  provide their local election officials with additional resources, by filling  positions at polling places working under the direction of the polling place  presiding judge election judge.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " What are the requirements for a student to serve as an election clerk?",
+            "a": "To qualify as a student election clerk, the student must:Be at least 16 years old on Election Day;Be enrolled in a public, private, or qualified home school;Be a U.S. citizen;Have consent of his/her parent or legal guardian to work the election;Have consent of his/her school principal (or parent/legal guardian for home-schooled students); andComplete any required  election worker training program.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " What are the Benefits of Serving as an Election Clerk?",
+            "a": "Some of the benefits of serving as an election clerk are:Election workers are paid hourly for their service.Students will gain practical experience by serving their community and state.Experience as an election clerk is an impressive addition to a resum\u00e9 or college application.Students can take part in a rewarding activity while learning about the democratic process.Students can earn community service hours for school.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " What are the Responsibilities of an Election Clerk?",
+            "a": "Working under the supervision of the judge, student election clerks may assist with the following duties:Organizing the polling place before the polls open.Ensuring that qualified voters are permitted to vote.Checking in and processing voters.Distributing ballots to registered voters.Providing instructions and assistance to voters.Answering voters\u2019 questions.Explaining the use of the voting equipment.Maintaining order in the polling place on Election Day.Obtaining results after the polls are closed and closing the polling place.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " How do I Apply to be a Student Election Clerk?",
+            "a": "To serve as a student election clerk, you must:Fill out theStudent       Election Clerk Application and Permission Slip (PDF).Have your parent or guardian sign the Parent/Legal Guardian Permission portion.Have your school principal sign the School Principal Authorization portion. Also, take the proper steps to ensure that your absence from school in order to work during Early Voting or on Election Day will be excused.Send the application to the local elections officials conducting the electio in which you wish to serve (county clerk/elections administrator, city secretary, school superintendent, etc.). Try to send the application at       least 60 days prior to Election Day (even though there is no statutory deadline).If selected, attend the required election training class prior serving as a clerk. This training provides all the necessary information and knowledge to be a successful elections clerk.Show up to work at the polls as assigned during Early Voting or on Election Day.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " How Often can I Serve as a Student Election Clerk?",
+            "a": "A school district may excuse a student for the purpose of serving  as an Early Voting and/or Election Day clerk for a maximum oftwo days  in a school year.Example: A student could work two weekdays during Early Voting for an election held on a Saturday, and then also work on Election Day (a Saturday), as the student would only have to be excusedfrom schoolfor two weekdays.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " Can I still work as a student election clerk once I turn 18?",
+            "a": "A high school or home schooled student who is 18 years of age but isnot yet registered to voteis still eligible to serve as a student election clerk.  However, we encourage all individuals who are eligible to register to vote to do so, at which point they would be eligible to serve as a regular election day judge or clerk rather than as a student election clerk.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " How will the polling place election judge know which students are interested and available or even how to contact them?",
+            "a": "The Secretary of State\u2019s office has aStudent Election Worker Application and Permission Slip (PDF,  30k)posted on its website that political subdivisions can use  for students to apply to be election clerks. The students can fill out the  application, get the required signatures, and send the form to the election officials  who serve the election in which the student wishes to serve. The elections official  will provide each judge with a list of all eligible student election workers. Here is a link tocontact information for county election officials.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " Do the school authorities send the election officials student names, addresses, and phone numbers directly? Can the school give out this information without a written approval notice from a parent/legal guardian of the students?",
+            "a": "The student will provide all required information directly to the  election officials. TheStudent Election Worker Application and Permission Slip (PDF,  30k)for students to complete and send to their local elections  officials includes a consent section for both parent/guardian and the  appropriate school official. The student will be responsible for obtaining the  principal\u2019s consent to serve as an election clerk. The student (not the school)  provides the information directly to the election officials. The school will  not need to contact the election officials. In addition, the student must  obtain parental or legal guardian consent on the same application before the  student can serve as an election clerk.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " How will the election officials inform the school that the student actually worked on Election Day?",
+            "a": "Serving as an election clerk is now included in the Texas Education Code\u2019s definition of \u201cexcused absence.\u201d Student election clerks are entitled to compensation in the same manner as other election clerks. The election official should give each student worker documentation in the form of a time sheet, pay stub, or other letter or form showing that the student served as an election worker and the hours worked. Ultimately, however, it is up to the student to ensure that the school is given the proper documentation in order to have an excused absence.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " How many student election clerks can serve at each polling place?",
+            "a": "Up to four student election clerks may work at a single Early Voting site at a time, and up to two student clerks may work at an Election Day polling place at a time; except that not more than four student election clerks may serve at any countywide polling place.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " Can student election clerks work outside of their home precinct?",
+            "a": "Students can work outside of their home precinct because election clerks are not limited to working only in their own precincts. The positions in each precinct should be filled in the order in which the students apply, assuming they meet all the requirements. Any extra student applicants for a given precinct may work in another precinct that does not already have its authorized number of student election clerk positions filled.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " What if the parents and student give their general consent, then the student is later assigned to a polling place or time that he or she does not want to work?",
+            "a": "The student clerk may simply turn down the assignment (just like any other voluntary election clerk offered an assignment that presents a conflict).",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " Can a student election worker serve as an interpreter?",
+            "a": "Yes. When election workers are communicating with a voter who cannot communicate in English, a student election worker may communicate with the voter in a language the voter and the clerk understands.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " Are there any labor laws about how many hours a student can work during a school day?",
+            "a": "Under the Texas Labor Code, the employment hours of persons 16 or older are not restricted by state law. Persons 16 or 17 years of age have no restrictions on the number of hours or times of day they may work.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": " Are there any curfew laws that the student could run afoul of if they were out late due to extended voting hours?",
+            "a": "There are no state law curfews in Texas. However, some municipalities and perhaps counties have curfews by local ordinance; therefore, the answers would vary depending on the details of any applicable local ordinance. It is common for most local curfew ordinances to give exceptions for school or work-related activities, for which this would likely qualify. Also, the student will not be in violation of the compulsory attendance law for schools because, again, the legislation provides for an excused absence when serving as an election clerk.",
+            "s": "https://www.votetexas.gov/faq/index.html",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "WHO IS ELIGIBLE TO VOTE BY MAIL?\u00a0",
+            "a": "To qualify to vote-by-mail, you must be:\u00a0 \n\nAbsent from your county of residence on Election Day and during the early voting period,\u00a0\n\n\nSick or have a disability that prevents you from voting in person without assistance,\u00a0\n\n Absent from your county of residence on Election Day and during the early voting period,\u00a0 Sick or have a disability that prevents you from voting in person without assistance,\u00a0 \n\n65 years old or older,\u00a0\n\n\nConfined to jail serving a misdemeanor sentence; or confined to jail without bail pending trial for a felony or appeal of a felony conviction,\u00a0\n\n\nExpecting to give birth within three weeks before or after Election Day, or\u00a0\n\n\nCivilly committed under Chapter 841 of the Texas Health and Safety Code\u00a0\n\n 65 years old or older,\u00a0 Confined to jail serving a misdemeanor sentence; or confined to jail without bail pending trial for a felony or appeal of a felony conviction,\u00a0 Expecting to give birth within three weeks before or after Election Day, or\u00a0 Civilly committed under Chapter 841 of the Texas Health and Safety Code\u00a0 HOW DO I REQUEST A BALLOT BY MAIL?\u00a0",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "HOW DO I REQUEST A BALLOT BY MAIL?\u00a0",
+            "a": "You may request a mail ballot application from your Early Voting Clerk in the county where you are registered or use this application form. Read the application instructions carefully, complete the application, and return it to your Early Voting Clerk.\u00a0 WHAT IS THE DEADLINE TO REQUEST A BALLOT BY MAIL?\u00a0",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE TO REQUEST A BALLOT BY MAIL?\u00a0",
+            "a": "The last day to request a ballot\u00a0by mail\u00a0is 11 days before the election. You can return your mail ballot request form through the mail or in-person to your county\u2019s Early Voting Clerk.\u202f\u00a0 WHAT IS THE DEADLINE FOR SUBMITTING A BALLOT BY MAIL?\u00a0",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE FOR SUBMITTING A BALLOT BY MAIL?\u00a0",
+            "a": "The Early Voting Clerk must receive your marked ballot by 7pm on Election Day, or by the 5th day after Election Day if your ballot is submitted from outside of the United States.\u202f\u00a0 WHEN ARE MAIL BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?\u00a0",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "WHEN ARE MAIL BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?\u00a0",
+            "a": "Ballots are mailed out 30 to 45 days before an election or 7 days after the county election office receives an application.\u00a0 HOW DO I COMPLETE MY MAIL BALLOT?\u00a0",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "HOW DO I COMPLETE MY MAIL BALLOT?\u00a0",
+            "a": "When you receive your ballot, be sure to:\u202f\u00a0 Mark your ballot using a black or blue pen,\u00a0 Place your ballot in the ballot envelope and seal it,\u00a0 Place the ballot envelope in the carrier envelope,\u00a0 Complete all information UNDER THE FLAP of the carrier-envelope, including your contact information, your voter ID number, AND the last four digits of your social security number,\u00a0 Seal it, and\u00a0 Sign your name OVER THE FLAP of the carrier envelope.\u00a0 The Early Voting Clerk must receive your marked ballot by 7pm on Election Day or by the 5th day after Election Day if your ballot is submitted from outside of the United States.\u00a0 HOW DO I RETURN MY MAIL BALLOT IN PERSON?\u00a0",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "HOW DO I RETURN MY MAIL BALLOT IN PERSON?\u00a0",
+            "a": "You can return your marked ballot in the official carrier envelope to the Early Voting Clerk on Election Day while the polls are open. You must show your ID and sign a form to return it in person. Contact your county election officials for more information.\u00a0 CAN I TRACK MY MAILED BALLOT AND/OR BALLOT BY MAIL APPLICATION?\u00a0",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "CAN I TRACK MY MAILED BALLOT AND/OR BALLOT BY MAIL APPLICATION?\u00a0",
+            "a": "You can track the status of your ballot by mail application or ballot online here. If you have any issues with your state\u2019s online tracker, please contact your local elections official.\u00a0 WHAT IF I REQUESTED A BALLOT BY MAIL BUT WANT TO VOTE IN PERSON?\u00a0",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "WHAT IF I REQUESTED A BALLOT BY MAIL BUT WANT TO VOTE IN PERSON?\u00a0",
+            "a": "Bring your mail ballot and the pre-addressed outer return envelope to your polling place to be voided. If you don\u2019t have your ballot or never received it, you will be able to cast a provisional ballot, and your vote will be counted once the county determines it never received a mail ballot from you.\u00a0 HOW DO I REQUEST A BALLOT BY MAIL AS AN OVERSEAS OR U.S. MILITARY VOTER?\u00a0",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "HOW DO I REQUEST A BALLOT BY MAIL AS AN OVERSEAS OR U.S. MILITARY VOTER?\u00a0",
+            "a": "Overseas citizens and U.S. military personnel can find information on how to register to vote and request a mail ballot at the Overseas Vote Foundation.\u00a0 Have you ever wondered who is donating to the candidates on your ballot? You can find campaign finance reports for your federal candidates (US House & US Senate candidates) on OpenSecrets.org.\u00a0 For your statewide and state legislative candidates, you can visit your state's campaign finance resource.\u00a0 \u00a0 When an election is coming up in your state, the League of Women Voters will publish a voter guide on VOTE411.org. If you enter your address and don't see your candidates yet, please check back closer to Election Day to see them published online.\u202f\u00a0 If you see a candidate listed on VOTE411 who has not yet filled out the candidate questions, please reach out to them, asking them to fill out the VOTE411 voter guide! The more candidates who fill it out the more helpful it is for voters in your community.\u202f\u00a0 One great option with the VOTE411 voter guide is that you can print your choices to take with you to vote. The use of mobile phones and tablets are prohibited in Texas voting booths, but the law allows you to bring the printed voter guide with you.\u00a0 A drop box is a secure, locked structure operated by election officials where voters can deliver their absentee ballot any time, day or night. Ballot drop boxes are not allowed in Texas elections.\u202f\u00a0",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "Ballot drop boxes are not allowed in Texas elections.\u202f\u00a0",
+            "a": "To submit an absentee ballot in person, voters can hand-deliver their ballot to their county election official on Election Day only. Voters must show their ID and sign a form.\u202f\u00a0 Please contact your county election officials for more information.\u00a0 Early voting for the November 5, 2024 general election begins October 21st and ends November 1st.",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "Early voting for the November 5, 2024 general election begins October 21st and ends November 1st.",
+            "a": "Early in-person voting in Texas starts 17 days before the election (unless it falls on the weekend) and ends 4 days prior to Election Day.\u202f\u00a0 You may vote at any voting location in your county, and weekend voting may be available. Check in with your county election officials for more information.\u00a0 . \u00a0 If there is an upcoming election in your area, it will be listed in the dark blue box at the top of this page (scroll up) or by clicking on https://www.vote411.org/texas.\u00a0 You can also contact your local Board of Elections for more information.\u00a0 \u00a0 \n\nA US citizen\u00a0\n\n\nA resident of the county in which you intend to vote (See below for information if you have recently moved)\u00a0\n\n\nAt least 18 years old (you may register at 17 years and 10 months)\u00a0\n\n\nNot convicted of a felony (unless your sentence is completed, including any probation or parole)\u00a0\n\n\nNot declared mentally incompetent by a court of law\u00a0\n\n A US citizen\u00a0 A resident of the county in which you intend to vote (See below for information if you have recently moved)\u00a0 At least 18 years old (you may register at 17 years and 10 months)\u00a0 Not convicted of a felony (unless your sentence is completed, including any probation or parole)\u00a0 Not declared mentally incompetent by a court of law\u00a0 \n\nBe registered 30 days before the election in which you plan to vote\u00a0\n\n Be registered 30 days before the election in which you plan to vote\u00a0 All citizens wishing to vote must be on the official list of registered voters. Voters may use one of seven forms of photo ID to cast their ballot. IDs may be expired up to four years, and people who are seventy years of age or older may use an expired ID.\u00a0 If you have recently moved:",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "If you have recently moved:",
+            "a": "If you are already registered to vote in Texas and have moved or changed your name, you may update your voter registration online. You will need to have the following information to update your voter registration online: \nCurrent Texas Driver's License or Texas ID Card\nSocial Security Number\nVoter Registration Card VUID (Voter Unique Identifier). The VUID\u00a0 is on your voter registration card, or you can find it by checking your voter registration status here\n If you live in the same county and missed the voter registration deadline, you may return to your old precinct to vote, but you will be required to complete a statement of residence confirming your new address in your new precinct. Incarcerated Voters & Returning Citizens:\u00a0",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "Incarcerated Voters & Returning Citizens:\u00a0",
+            "a": "In Texas, you lose your voting rights if you are convicted of a felony. Once someone has \"fully discharged\" their sentence, including court-ordered supervision, probation, or parole, their right to vote is automatically restored. Pretrial detention and misdemeanor convictions do not restrict your voting rights in Texas.\u00a0 Voters without traditional residence:\u00a0",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "Voters without traditional residence:\u00a0",
+            "a": "It is not mandatory for citizens to possess a \"permanent home\" for voter registration. A citizen can provide an alternative description of their residence, even if they are experiencing homelessness, as long as it enables the authorities to identify and assign a voting precinct to them. This precinct assignment ensures that the voter receives the appropriate ballot. The mailing address on their registration form can be a P.O. box, local shelter, advocacy organization, outreach center, or the home of someone who will accept mail for them.\u00a0 To register to vote in Texas, you must include your state driver's license number or personal ID number issued by the State Department of Public Safety on the application form.\u202f\u00a0 If you do not have either of these numbers you may provide the last four digits of your social security number on the form. If you don't have a social security number you must check the box stating you do not have this information.\u00a0 For more information, please visit our Registration Deadline resource.\u00a0 All citizens wishing to vote must be on the official list of registered voters. Voters may use one of seven forms of photo ID to cast their ballot. IDs may be expired up to four years, and people who are seventy years of age or older may use an expired ID.\u202f\u00a0 Acceptable forms of ID are:\u00a0",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "Acceptable forms of ID are",
+            "a": "\n\nDriver's license\u00a0\n\n Driver's license\u00a0 \n\nTexas Election Identification Certificate (EIC)\u00a0\n\n\nTexas Personal Identification Card issued by DPS\u00a0\n\n\nTexas license to carry a handgun issued by DPS\u00a0\n\n\nUS military identification card containing the person\u2019s photograph\u00a0\n\n\nUS citizenship certificate containing the person\u2019s photograph\u00a0\n\n Texas Election Identification Certificate (EIC)\u00a0 Texas Personal Identification Card issued by DPS\u00a0 Texas license to carry a handgun issued by DPS\u00a0 US military identification card containing the person\u2019s photograph\u00a0 US citizenship certificate containing the person\u2019s photograph\u00a0 \n\nUS passport (book or card)\u00a0\n\n US passport (book or card)\u00a0 CAN I USE MY STUDENT ID TO VOTE?\u00a0",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "CAN I USE MY STUDENT ID TO VOTE?\u00a0",
+            "a": "No, a student ID is not a form of valid voter ID.\u00a0 WHAT IF I DON\u2019T HAVE A PHOTO ID?\u00a0",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "WHAT IF I DON\u2019T HAVE A PHOTO ID?\u00a0",
+            "a": "Registered voters without photo ID, who cannot reasonably obtain one, may sign a form and present the original or a copy of one of the following documents with the voter\u2019s name and address to vote a regular ballot:\u00a0 \n\nVoter registration card\u00a0\n\n\nCertified birth certificate\u00a0\n\n\nCurrent utility bill\u00a0\n\n\nBank statement\u00a0\n\n Voter registration card\u00a0 Certified birth certificate\u00a0 Current utility bill\u00a0 Bank statement\u00a0 \n\nGovernment check\u00a0\n\n\nPaycheck\u00a0\n\n\nAny other government document, such as an out-of-state driver\u2019s license or expired Texas driver\u2019s license\u00a0\n\n Government check\u00a0 Paycheck\u00a0 Any other government document, such as an out-of-state driver\u2019s license or expired Texas driver\u2019s license\u00a0 CAN YOU TELL ME MORE ABOUT THE FORM I NEED TO FILL OUT IF I DON\u2019T HAVE A PHOTO ID?\u00a0",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "CAN YOU TELL ME MORE ABOUT THE FORM I NEED TO FILL OUT IF I DON\u2019T HAVE A PHOTO ID?\u00a0",
+            "a": "The form is called a \u201cVoter\u2019s Declaration of Reasonable Impediment or Difficulty.\u201d The voter must mark on the form one of the following reasons for not providing a photo ID.*\u00a0 \n\nLack of transportation\u00a0\n\n\nDisability or illness\u00a0\n\n\nLack of birth certificate or other documents needed to obtain an acceptable form of photo ID\u00a0\n\n\nWork schedule\u00a0\n\n\nFamily responsibilities\u00a0\n\n Lack of transportation\u00a0 Disability or illness\u00a0 Lack of birth certificate or other documents needed to obtain an acceptable form of photo ID\u00a0 Work schedule\u00a0 Family responsibilities\u00a0 \n\nLost or stolen identification\u00a0\n\n\nAcceptable form of photo ID applied for but not received\u00a0\n\n Lost or stolen identification\u00a0 Acceptable form of photo ID applied for but not received\u00a0 *ID address does not have to match the voter registration address.\u00a0 Once you sign the form and show your ID you will be able to cast a normal ballot at your polling place.\u00a0 The name on your photo ID and the list of registered voters must match. If your name is substantially similar*, you may still be able to vote a normal ballot; however, you must also submit an affidavit stating that you are the same person as is listed on the list of registered voters.\u00a0 If you do not have any of these forms of ID, you can get an Election Identification Certificate to present at the polling place. To find out more about these certificates, click here.\u00a0 *\u201cSubstantially similar\u201d means if your name is slightly different, is a common variation of your formal name, contains an initial, middle name or former last name or your first, middle or last name is in a different field on the ID than on the list of registered voters.\u00a0 Voters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline\u00a0",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "Voters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline\u00a0",
+            "a": "Official results are never available on Election Day. Election officials work around the clock to count ballots, and it\u2019s essential that they take the time to make sure every vote is counted.\u00a0 Absentee ballots start being counted four days before Election Day. Provisional ballots are counted between 7-13 days after the election.\u00a0 Counting will take time. Voters should expect a delayed official count, which means the system is working. Official election results will be uploaded on Texas\u2019 Secretary of State website as they become available.\u00a0",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "Official election results will be uploaded on Texas\u2019 Secretary of State website as they become available.\u00a0",
+            "a": "You are considered a Military or Overseas voter if you are in uniformed services, living overseas, OR a spouse or dependent of a uniformed services voter. To register and vote, you can utilize Overseas Vote Foundation.\u00a0 If you have additional questions about elections and voting overseas, you can contact your county election officials or the Overseas Vote Foundation.\u00a0 \u00a0 Poll workers are essential to a thriving democracy, and each year millions of Americans serve their communities during early in-person voting and on Election Day.\u202f\u00a0 Poll workers usually attend a training held by election officials and then work at polling locations to help the voting process run smoothly through tasks like checking in voters and issuing ballots.\u00a0 To find out more and apply to be a poll worker, head to WorkElections.org.\u00a0",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "To find out more and apply to be a poll worker, head to WorkElections.org.\u00a0",
+            "a": "WHAT ELSE DO I NEED TO KNOW TO APPLY?\u00a0",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "WHAT ELSE DO I NEED TO KNOW TO APPLY?\u00a0",
+            "a": "To be a poll worker in Texas, you must be a US Citizen and registered to vote in that county.\u00a0 Your county election officials may offer training, and the Texas Secretary of State offers general online poll worker training. For information about student elections clerks, aged 16 or older, visit your state\u2019s resource page. On Election Day, Texas polling sites are open from 7:00 am to 7:00 pm.\u00a0 Check with your county election office \u202ffor hours during early voting.\u00a0 You can find your polling place by utilizing Texas\u2019 My Voter Portal, which is populated two days before Election Day.\u00a0 If you have further questions about your polling place location, please contact your county election official.\u00a0 \u00a0 Texas is an \u201copen primary\u201d state, which means you can choose any one party\u2019s ballot for which you wish to vote. This decision does not register you with that party, and it is a private decision.\u00a0 In a primary election, if a candidate does not win with the majority of the votes (50%+1), a primary runoff election will be scheduled for a few weeks after the primary election date. The two candidates with the most votes in that race advance to the runoff election to ensure that one receives a majority of votes before advancing to the General Election.\u00a0 If you have any questions about Texas\u2019 primary election, please contact your local election officials.\u00a0 Provisional ballots are used to ensure that all voters are able to cast a ballot even if voter eligibility is uncertain at the time they vote. Voters can mark a provisional ballot, and election workers set it aside until eligibility is verified at a later time.\u00a0 You are eligible to vote a provisional ballot if:\u00a0 \n\nYou claim to be an eligible voter, but your name does not appear on the list of registered voters, and your registration cannot be determined by the voter registrar\u00a0\n\n\nYou have applied for a ballot by mail, but have not returned it or canceled it\u00a0\n\n You claim to be an eligible voter, but your name does not appear on the list of registered voters, and your registration cannot be determined by the voter registrar\u00a0 You have applied for a ballot by mail, but have not returned it or canceled it\u00a0 \n\nYou vote during extended polling hours ordered by a state or federal court\u00a0\n\n\nYou do not present any acceptable form of identification (read below)\u00a0\n\n You vote during extended polling hours ordered by a state or federal court\u00a0 You do not present any acceptable form of identification (read below)\u00a0 If you claim to be registered, but your name is not on the list of registered voters, the presiding election judge will call the voter registrar to determine if you are registered. If registration can be confirmed and you can show identification, you may vote a regular ballot or be directed to the correct precinct if you are in the wrong precinct.\u202f\u00a0 If you vote a provisional ballot, be sure to bring your acceptable form of ID to your local voter registrar\u2019s office within six calendar days after the election so that your provisional ballot is counted. Provisional voters will receive a notice in the mail by the 10th day after the election letting them know if their provisional ballots were counted and if they were not counted, the reasons why.\u00a0",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "If you vote a provisional ballot, be sure to bring your acceptable form of ID to your local voter registrar\u2019s office within six calendar days after the election so that your provisional ballot is counted.",
+            "a": "If you are a voter with a disability, you may vote by mail if you have a sickness or physical condition that prevents you from voting in person without needing personal assistance or injuring your health.\u202f\u00a0 Voters with disabilities may fill out an annual application to vote-by-mail or may also apply with the county voter registrar for a permanent exemption to presenting a photo ID.\u00a0 Voters who are physically unable to enter the polling place may use curbside voting during early voting and on Election Day.\u00a0 WHAT IF I NEED A HELPER TO VOTE IN-PERSON?\u00a0",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "WHAT IF I NEED A HELPER TO VOTE IN-PERSON?\u00a0",
+            "a": "If you vote in person, the notice of voting order allows a voter with a disability and their helper to request to move ahead of other voters in line.\u00a0 Persons who assist voters with an absentee ballot application, absentee ballot, or an in-person ballot must provide their relationship to the voter and address. For the absentee and in-person ballot, the person who assists must sign an oath and mark that they did not receive compensation.\u00a0 WHAT IF I AM PHYSICALLY UNABLE TO MARK MY BALLOT?\u00a0",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "WHAT IF I AM PHYSICALLY UNABLE TO MARK MY BALLOT?\u00a0",
+            "a": "If you are physically unable to mark your ballot or cannot read the ballot, you are eligible for assistance.\u00a0 \n\nYou may choose anyone as an assistant except your employer, an officer of your union, or an agent of either.\u202f\u00a0\n\n\nThe assistant must take an oath of assistance administered by an election official.\u202f\u00a0\n\n\nThe assistant may read the ballot to you and mark your ballot.*\u202f\u00a0\n\n You may choose anyone as an assistant except your employer, an officer of your union, or an agent of either.\u202f\u00a0 The assistant must take an oath of assistance administered by an election official.\u202f\u00a0 The assistant may read the ballot to you and mark your ballot.*\u202f\u00a0 \n\nIf you do not choose your own assistant, two election officials (of different political parties in the General Election) may assist you.\u202f\u00a0\n\n\nPoll watchers and inspectors can observe the assistance by election officials.\u00a0\n\n If you do not choose your own assistant, two election officials (of different political parties in the General Election) may assist you.\u202f\u00a0 Poll watchers and inspectors can observe the assistance by election officials.\u00a0 *New Texas laws have gone into effect that may affect voter assistance. Please contact your county election officials for the most up\u2013to-date information.\u00a0 WHAT IF I NEED AN INTERPRETER?\u00a0",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "WHAT IF I NEED AN INTERPRETER?\u00a0",
+            "a": "An interpreter may be used if you and the election official cannot speak the same language. The interpreter must be a registered voter of the county, must take the oath of assistance at the polls, and may interpret for any number of voters.\u202f\u00a0 WHAT IF I HAVE VISUAL DISABILITIES?\u00a0",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "WHAT IF I HAVE VISUAL DISABILITIES?\u00a0",
+            "a": "All Texas counties must provide one direct electronic voting machine (DRE) at each polling place for voters with visual disabilities so that they may cast their ballot without assistance. These machines are equipped with headphones and a keypad.\u00a0 WHAT OTHER RESOURCES ARE THERE FOR VOTERS WITH DISABILITIES?\u00a0",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "WHAT OTHER RESOURCES ARE THERE FOR VOTERS WITH DISABILITIES?\u00a0",
+            "a": "To find out more about how you may receive support while voting, click here.\u00a0 For more information, you can utilize the American Association of People With Disabilities (AAPD) resource.\u00a0 If you are a person with a disability and have questions about your voting rights, call Disability Rights Texas\u2019 Voting Hotline at 1-888-796-VOTE (8683)\u00a0",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "If you are a person with a disability and have questions about your voting rights, call Disability Rights Texas\u2019 Voting Hotline at 1-888-796-VOTE (8683)\u00a0",
+            "a": "If you are already registered to vote in Texas and have moved, you may update your voter registration online.\u00a0 You will need to have the following information to update your voter registration online:\u00a0 Current Texas Driver's License or Texas ID Card\u00a0Social Security Number\u00a0Voter Registration Card VUID (Voter Unique Identifier). The VUID is on your voter registration card, or you can find it by checking your voter registration status here or by contacting your County Voter Registrar.\u00a0 You may also update your voter registration when you update your driver's license online, or you may fill out a new paper voter registration application.\u00a0 WHAT IF I MISSED THE VOTER REGISTRATION DEADLINE AFTER I MOVED?\u00a0",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "WHAT IF I MISSED THE VOTER REGISTRATION DEADLINE AFTER I MOVED?\u00a0",
+            "a": "If you live in the same county and missed the voter registration deadline, you may return to your old precinct to vote, but you will be required to complete a statement of residence confirming your new address in your new precinct. Many Texas counties have county-wide voting, so voters can vote at any precinct within their county.\u00a0 If you moved to a new county and missed the voter registration deadline, you may be eligible to vote a limited ballot at your county\u2019s main voting location during the early voting period. The limited ballot application will also act as a voter registration application. You may NOT vote a limited ballot on Election Day.\u202f\u00a0 For more information on updating your voter registration, click here or contact your county election officials.\u00a0 The registration deadline for the 11/5/24 General Election is 10/7/24 online and in-person.\u00a0 You must be registered to vote 30 days before an upcoming election. There is no length of residency requirement before registering to vote in Texas.\u202f\u00a0 Check your voter registration status at Am I Registered? or with your county voter registrar.\u202f\u00a0 WHO IS ELIGIBLE TO REGISTER IN TEXAS?\u00a0",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "WHO IS ELIGIBLE TO REGISTER IN TEXAS?\u00a0",
+            "a": "To register in Texas, you must be:\u00a0 \u2022 A citizen of the United States,\u00a0 \u2022 A resident of the county, and\u00a0 \u2022 17 years, 10 months old (to vote you must be 18 years old by Election Day).\u00a0 You must not have been declared mentally incapacitated by a court of law.\u00a0 If you have been convicted of a felony, you may register to vote only after you have completed the punishment phase of your conviction, including any terms of incarceration, parole, supervision, or probation period ordered by the court.\u00a0 HOW DO I UPDATE MY REGISTRATION IF I MOVE OR HAVE A NAME CHANGE?\u00a0",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "HOW DO I UPDATE MY REGISTRATION IF I MOVE OR HAVE A NAME CHANGE?\u00a0",
+            "a": "If you are already registered to vote in Texas and have moved or changed your name, you may update your voter registration online.\u00a0 You will need the following information to update your voter registration online:\u00a0 Current Texas Driver's License or Texas ID Card\u00a0Social Security Number\u00a0Voter Registration Card VUID (Voter Unique Identifier). The VUID is on your voter registration card, or you can find it by checking your voter registration status here\u00a0 I JUST MOVED TO TEXAS OR MOVED TO A NEW COUNTY IN TEXAS. HOW DO I REGISTER TO VOTE?\u00a0",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "I JUST MOVED TO TEXAS OR MOVED TO A NEW COUNTY IN TEXAS. HOW DO I REGISTER TO VOTE?\u00a0",
+            "a": "Ways to register to vote if you are a new Texas voter or new to the county:\u00a0 Update your information onlinePrint and fill out the Voter Registration Form\u202f\u00a0Pick one up at a library, government office, or high school\u00a0Call your county voter registrar \u202fand ask for a voter registration application to be mailed to you\u00a0Request a printed application with a paid-postage envelope (no stamp needed), which will be sent to your address\u00a0 Fill out the form, and then sign, stamp and mail it in or turn it in to your county election office. If you need assistance registering, Volunteer Deputy Registrars are certified by each county to help voters register to vote.\u202f\u00a0 For more information on how to register after moving, please visit Registering after Moving.\u00a0 WHERE SHOULD I VOTE IF I DON\u2019T HAVE A RESIDENCE?\u00a0",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "WHERE SHOULD I VOTE IF I DON\u2019T HAVE A RESIDENCE?",
+            "a": "For voters without a residence, in the space on the registration form for residence address, it\u2019s safest to put the street address of an agency where you receive aid. If you have a P.O. box where you receive your mail, put that P.O. box number in the space for the mailing address.\u202f\u00a0 As a Texas resident and college student in Texas, you have the freedom to choose where you register to vote. You can register to vote at the address you consider your primary residence, be it your family's home or your school address. To register in Texas, however, you must have declared residency and possess a Texas ID. Remember that you can only be registered to vote at one location. Registering to vote in your college community will not affect your Federal Financial Aid, status as a dependent on your parents\u2019 taxes, or tuition status.\u00a0 WHAT DO I NEED TO REGISTER TO VOTE?\u00a0",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "WHAT DO I NEED TO REGISTER TO VOTE?\u00a0",
+            "a": "Here is what you need to know to register in Texas:\u00a0 \n\nOn the application form, you must include your state driver's license number or personal ID number issued by the State Department of Public Safety.\u00a0\n\n\nIf you do not have either of these numbers, you may provide the last four digits of your social security number on the form.\u202f\u00a0\n\n\nIf you don't have a social security number, you must check the box stating you do not have this information.\u202f\u00a0\n\n\nAll voters must present an acceptable form of photo ID to vote at the polls. A list of acceptable forms of photo ID can be found here.\u202f\u202f\u00a0\n\n\nA student ID is not a form of valid voter ID.\u00a0\n\n On the application form, you must include your state driver's license number or personal ID number issued by the State Department of Public Safety.\u00a0 If you do not have either of these numbers, you may provide the last four digits of your social security number on the form.\u202f\u00a0 If you don't have a social security number, you must check the box stating you do not have this information.\u202f\u00a0 All voters must present an acceptable form of photo ID to vote at the polls. A list of acceptable forms of photo ID can be found here.\u202f\u202f\u00a0 A student ID is not a form of valid voter ID.\u00a0 Use our online tool to register to vote today!\u202f\u00a0 Employers must grant employees paid time off if they don't have two consecutive hours outside of working hours to do so on Election Day or during early voting.\u202f\u00a0 To verify your voter registration status The voting systems used in Texas are optical scan, DRE, and paper ballots.\u00a0 WHAT IS OPTICAL SCAN VOTING?\u00a0",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "WHAT IS OPTICAL SCAN VOTING?\u00a0",
+            "a": "With optical scan voting, you will receive a card or sheet of paper, which you take over to a private table or booth. The card has the names of the various candidates and ballot measures printed on it.\u202f\u00a0 \n\nWith a pen or pencil, you fill in a little box, circle, or space between two arrows.\u202f\u00a0\n\n\nWhen you are finished filling out all the cards, you may bring the cards over to a ballot box, where poll workers will show you how to put the cards in the box.\u202f\u00a0\n\n\nOr in some places, you may feed the completed cards or papers into a computer device that checks your card or paper right there at the polling place to make sure you have voted the way you want to and counts the votes.\u00a0\n\n With a pen or pencil, you fill in a little box, circle, or space between two arrows.\u202f\u00a0 When you are finished filling out all the cards, you may bring the cards over to a ballot box, where poll workers will show you how to put the cards in the box.\u202f\u00a0 Or in some places, you may feed the completed cards or papers into a computer device that checks your card or paper right there at the polling place to make sure you have voted the way you want to and counts the votes.\u00a0 WHAT IS DIRECT RECORDING ELECTRONIC VOTING?\u202f\u00a0",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "WHAT IS DIRECT RECORDING ELECTRONIC VOTING?\u202f\u00a0",
+            "a": "Direct Recording Electronic (DRE) is the newest system in use in the U.S. All the information about who and what you are voting for is on an electronic screen like a TV or computer screen.\u00a0 There are many variations of DREs because many companies are inventing new ones, and many cities, counties, and states are trying them out.\u202f\u00a0 \n\nUsually, after you have signed in, the poll workers will give you a card that you slide into a device to start your voting session.\u00a0\n\n\nSome of these devices will show all candidates and ballot choices on one big screen. Often, with these big screen devices you push a button next to the name of the candidate you want to vote for (or yes or no on a ballot measure).\u202f\u00a0\n\n\nOn other DREs, the screen is set up to show pages. There will probably be one thing on which to vote on each screen or page. For example, on one screen or page, you might vote for the president. Then you might move to the next page to vote for a senator. Often these small-screen devices have a touch screen, where you touch the screen next to the name of the person you want to vote for.\u202f\u00a0\n\n Usually, after you have signed in, the poll workers will give you a card that you slide into a device to start your voting session.\u00a0 Some of these devices will show all candidates and ballot choices on one big screen. Often, with these big screen devices you push a button next to the name of the candidate you want to vote for (or yes or no on a ballot measure).\u202f\u00a0 On other DREs, the screen is set up to show pages. There will probably be one thing on which to vote on each screen or page. For example, on one screen or page, you might vote for the president. Then you might move to the next page to vote for a senator. Often these small-screen devices have a touch screen, where you touch the screen next to the name of the person you want to vote for.\u202f\u00a0 \n\nOther devices have a keypad, and some have a keyboard, so you can write in the name of someone you want to vote for.\u00a0\n\n\nYou let the system know you are finished voting by pushing a button, touching the screen or entering something on a keypad.\u00a0\n\n Other devices have a keypad, and some have a keyboard, so you can write in the name of someone you want to vote for.\u00a0 You let the system know you are finished voting by pushing a button, touching the screen or entering something on a keypad.\u00a0 WHAT IS PAPER BALLOT VOTING?\u00a0",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "WHAT IS PAPER BALLOT VOTING?\u00a0",
+            "a": "Paper ballots are one of the oldest ways of voting in America. They are still used in a few places on Election Day.\u202f\u00a0 \n\nWhen you come to the polling place, you will get a paper ballot from the poll worker.\u202f\u00a0\n\n When you come to the polling place, you will get a paper ballot from the poll worker.\u202f\u00a0 \n\nYou take it to the voting booth, and use a pen or pencil to mark a box next to your candidate and issue choices.\u202f\u00a0\n\n\nYou then drop the marked ballot into a sealed ballot box.\u00a0\n\n You take it to the voting booth, and use a pen or pencil to mark a box next to your candidate and issue choices.\u202f\u00a0 You then drop the marked ballot into a sealed ballot box.\u00a0 The following vendors are currently certified by the State of Texas: Election Systems & Software (ES&S) and Hart InterCivic\u00a0 You can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource.\u00a0",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        },
+        {
+            "q": "You can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource.\u00a0",
+            "a": "\n\nSee What's On Your Ballot\nCheck Your Voter Registration\nFind Your Polling Place\nDiscover Upcoming Debates and Forum in Your Area\n\n \nSee What's On Your Ballot\nCheck Your Voter Registration\nFind Your Polling Place\nDiscover Upcoming Debates and Forum in Your Area\n Secretary of State 208 East 10th Street Thomas J. Rusk Bldg. Austin\u00a078701 \n              LWV volunteers work year-round to register new voters, host community forums and debates, and provide voters with election information they need.\n             \n                    Report an election problem by calling:\n                 \n                  Help us provide accurate and unbiased voting information by donating today!\n                 \n                  Find what's on your ballot\n                 \n                  VOTE411 is committed to ensuring voters have the information they need to successfully participate in every election. Whether it's local, state or federal, every election is important to ensuring our laws and policies reflect the values and beliefs of our communities.\n                 \n\nContact Us\n\n\nAbout Us\n\n\nGet Involved \n\n\nSponsors & Partners\n\n \n\nFacebook\n\n\nInstagram\n\n\nTwitter\n\n\nYouTube\n\n\nYouTube\n\n \n                    \u00a92024 League of Women Voters Education Fund. All rights reserved.\n                ",
+            "s": "https://www.vote411.org/texas",
+            "t": "2024-10-8 01:40:42.014776"
+        }
+    ]
+}

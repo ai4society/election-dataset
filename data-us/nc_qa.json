@@ -1,0 +1,668 @@
+{
+    "state": "NC",
+    "num_questions": 110,
+    "num_answers": 110,
+    "contributor": "Gaurav Kumar",
+    "questions": [
+        {
+            "q": "What is the First Activity?",
+            "a": "A candidate committee is required to register with a board of elections within ten days of taking the first among certain activities that are deemed to have begun the committees organization. The first of the following activities by the candidate starts the ten days:. Receiving money or anything of value in support of the campaign; or. Spending money in support of the campaign; or. Giving consent for anyone else to receive money or spend money for the purpose of bringing about that individuals nomination or election for office; or. Filing a notice of candidacy. Find more information at Candidate Committees (https://www.ncsbe.gov/node/12) .",
+            "s": "https://www.ncsbe.gov/candidates/filing-candidacy",
+            "t": "2024-11-19T15:32:11.850541"
+        },
+        {
+            "q": "If the Electors Vote for President, Why Should I Vote in the General Election?",
+            "a": "During the general election, your vote helps determine your states electors. When you vote for a presidential candidate, you arent voting for president. You are telling your state which candidate you want your state to vote for at the meeting of electors. The states use these general election results, also known as the popular vote, to appoint their electors. The winning candidates state political party selects the individuals who will be electors. State laws governing the Electoral College in North Carolina are found in Article 18 (Presidential Electors) of the North Carolina General Statutes (https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByArticle/Chapter_163/Article_18.html) .",
+            "s": "https://www.ncsbe.gov/about-elections/electoral-college",
+            "t": "2024-11-19T15:32:50.349452"
+        },
+        {
+            "q": "When is the voter registration deadline?",
+            "a": "The regular voter registration deadline in North Carolina is 25 days before an election. For details, see Voter Registration Deadlines.Do you need to register to vote or update your existing registration after the regular deadline? Eligible individuals may do so ahead of Election Day during the early voting period. See Register in Person During Early Voting.",
+            "s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "t": "2024-11-19T15:33:27.100369"
+        },
+        {
+            "q": "May I fax or email a voter registration form?",
+            "a": "You may fax or email your voter registration application to update your name, address, or party affiliation. However, if the application is for a new registration, your county board of elections must receive your original, wet ink signature on your completed registration application, postmarked by the voter registration deadline and received no later than 20 days before a primary or election. Acceptance of application forms (N.C.G.S.  163-82.6). Note: Eligible individuals who are N.C. Division of Motor Vehicles (NCDMV) customers may submit a voter registration application online. This process does not require a wet ink signature. Find more information at Complete Your Registration Online Through the DMV.",
+            "s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "t": "2024-11-19T15:33:27.101645"
+        },
+        {
+            "q": "May I sign a voter registration application for someone else?",
+            "a": "No. Only the voter may sign their voter registration application. You are not permitted to sign anyone elses voter registration application, even if you have power of attorney for the person.",
+            "s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "t": "2024-11-19T15:33:27.102348"
+        },
+        {
+            "q": "If I register as an unaffiliated voter, can I vote in a primary election?",
+            "a": "Yes. If you are an unaffiliated voter, you may participate in the primary of any recognized political party, or you may request a nonpartisan ballot. However, you may vote in only one partys primary.Participating in a partisan primary will not affect your status as an unaffiliated voter. If you request a nonpartisan ballot, you will only vote for those contests that are nonpartisan (i.e. referenda, etc.).",
+            "s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "t": "2024-11-19T15:33:27.102807"
+        },
+        {
+            "q": "Are voter registration forms available in other languages?",
+            "a": "Voter registration materials and instructions are currently available in English and Spanish. You may download the voter registration application at Voter Tools and Forms.",
+            "s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "t": "2024-11-19T15:33:27.103265"
+        },
+        {
+            "q": "What are the rules around residency for voting purposes?",
+            "a": "The residency rules for voting are found in Residence defined for registration and voting (N.C.G.S.  163-57). The key points are:When registering to vote, the voter should use their fixed habitation as their residence, the place where whenever that person is absent, that person has the intention of returning.A voter who relocates temporarily with the intention of returning to their home will maintain their home residence. But if a voter intends to permanently move, that voter loses the residency at the previous address.You cannot claim two residences for voting purposes.Merely owning property or paying taxes somewhere does not establish residency for voting purposes. What matters is where the persons fixed habitation is.To vote in an election, North Carolina law requires a voter to have established the residency they are claiming at least 30 days before the date of the election. The voter registration application requires a voter to attest to having been a resident for this long prior to an election. If a person moves within 30 days of an election, they should vote based on the residence they are moving from.",
+            "s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "t": "2024-11-19T15:33:27.103592"
+        },
+        {
+            "q": "What if I have moved within my county?",
+            "a": "When you move within your county, you should complete an in-county change of address. You may make changes to your voter registration using one of the following methods:On your voter registration cardOn an Address Confirmation Notice By signed letter to your county board of electionsOn the N.C. voter registration application, or the National Mail Voter Registration FormOn the Federal Postcard Application or Federal Write-in Absentee Ballot (military and overseas voters only)At an early voting site (in person during early voting)On Election Day (recommend updating your address before Election Day)On the N.C. absentee ballot request form if you plan on voting by mailOn the online voter registration application available to DMV customersAt the DMV or any other NVRA voter registration agencyRelated ContentUpdating RegistrationRegister in Person During Early VotingNational Mail Voter Registration Form | The U.S. Election Assistance Commission (EAC)National Voter Registration Act (NVRA)Military and Overseas VotingVote By Mail",
+            "s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "t": "2024-11-19T15:33:27.104662"
+        },
+        {
+            "q": "What if I have moved within a time period close to an election?",
+            "a": "If you move during a time close to an election, the following rules apply:If you moved more than 30 days before the election, you must update your registration with your new address (or if applicable, register to vote in your new county of residence) no later than 25 days before the election. You may also update your address using same-day registration during the in-person early voting period.If you dont update your voter registration by Election Day, you may still vote at your new polling location, as long as your move is within the same county. Since your move was unreported, you may be asked to vote a provisional ballot. You can also vote provisionally at your old polling place, but you may not receive a ballot with all the contests you are eligible to vote in. You can also vote at a central transfer precinct; contact your county board of elections for more information about this option.If you moved fewer than 30 days before the election, you must vote in your prior polling place.Please be sure to notify the board of any changes to your mailing address, if different from your residential address. The board may need to contact you by mail to inform you of changes to your polling place and/or voting districts.",
+            "s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "t": "2024-11-19T15:33:27.105311"
+        },
+        {
+            "q": "What about other changes?",
+            "a": "If you need to make other changes to your voter record (name change, party affiliation change, etc.), you may use a voter registration application. For changes other than party affiliation, you may use same-day registration at an early voting site. For a primary election, you may not change your party affiliation at an early voting site. You may change your party affiliation during early voting for a general election, but the change would not take place until after canvass.",
+            "s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "t": "2024-11-19T15:33:27.105936"
+        },
+        {
+            "q": "How will I know the change has been made to my record?",
+            "a": "Once you make changes to your voter registration record, allow two weeks for the delivery of your new voter registration card. Read the information carefully and note any changes or mistakes on the card. A voter registration card is for your use only; you do not need the card to vote. You can also check your information on the Voter Search.",
+            "s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "t": "2024-11-19T15:33:27.106922"
+        },
+        {
+            "q": "How does North Carolina ensure that only U.S. citizens can vote?",
+            "a": "In North Carolina, many laws and processes work together to ensure that only qualified U.S. citizens cast ballots in elections. They include the following:The first question on the N.C. voter registration application, as required by state and federal laws, includes the following language: Are you a citizen of the United States of America? If you checked No in response to this citizenship question, do not submit this form. You are not qualified to vote.Individuals registering to vote must sign the application, under penalty of perjury, that they are U.S. citizens. The language above the signature box states: Fraudulently or falsely completing this form is a Class I felony under Chapter 163 of the N.C. General Statutes.Most N.C. voters register either in-person at NCDMV offices when they apply for other services or through the NCDMVs online voter registration application. Every first-time NCDMV customer is asked whether they are a U.S. citizen. If they answer No, they are not offered voter registration services at the end of the transaction. To use the online voter registration service, an individual must first enter their drivers license or DMV-issued ID card number, Social Security number and date of birth. Only individuals who have been vetted previously in an NCDMV office can register or update their registration online.A new state law, which took effect July 1, 2024, requires clerks of superior court across the state to provide lists of voters who request to be excused from jury duty because they claimed they were not U.S. citizens. The State Board then compares those names with the voter rolls to determine whether any of those individuals are registered to vote. In August, court clerks provided the first set of data to the State Board, which matched them with the voter rolls. Nine individuals matched statewide. If a check of state and federal databases does not show any of those nine individuals have obtained citizenship, the State Board will send them letters informing the registrants of the agencys findings and invite them, if not U.S. citizens, to cancel their registrations to comply with the law. See page 26 of the North Carolina Voter Registration List Maintenance Guide (PDF) for more information on this effort.Specifically, Certain acts declared felonies (N.C.G.S.  163-275(13)) makes it a felony to register to vote or vote if a person is not a U.S. citizen.Section 1 of the application instructions accompanying the N.C. voter registration application includes language specifying that the applicant must be a citizen of the United States. The voter registration application and instructions are available in English and Spanish.Every voter, whether they vote in person or mail an absentee ballot, must sign an application to vote on which they certify that they are U.S. citizens. Fraudulently or falsely completing that application is a Class I felony.Each voting site must include posters in English and Spanish that include the language: By signing your voter form today, you certify: You are a U.S. citizen. Non-citizens, including lawful permanent residents (green card holders), are not eligible to vote.Any registered voter of a county may challenge the right of any person to register in the same county if that person has a valid basis to believe the registrant is not a U.S. citizen. Please see the Voter Challenge Procedures Guide (PDF) for additional information.The State Board of Elections website, ncsbe.gov, which can be translated into 15 languages other than English using the Select Language button on the website, contains information about voting eligibility in multiple places.As for voter registration processes, heres a VR application: NC Voter Registration Application in English (fillable PDF). You will see that registrants must provide their date of birth and their drivers license number or the last four digits of their Social Security number. These numbers are validated against data from the Division of Motor Vehicles and/or the Social Security Administration.There is no comprehensive, accurate, or up-to-date database of U.S. citizens that election administrators could use for verification purposes. However, if election officials learn that a non-U.S. citizen registers and/or votes in an election, the Investigations Division of the State Board of Elections will investigate. If warranted by the evidence, the State Board will forward that investigation to prosecutors for review and possible prosecution at the prosecutors discretion. Typically, there are very few, if any, cases of noncitizen registration or voting referred for prosecution statewide each year, which demonstrates how infrequent it is for noncitizens to register or vote.",
+            "s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "t": "2024-11-19T15:33:27.107444"
+        },
+        {
+            "q": "If I dont vote, will my voter record be purged from the voter registration rolls?",
+            "a": "Voter registration records are not purged simply due to non-voting. Voters are removed from the voter rolls following a biennial list maintenance process mandated by federal and state law. If a county board of elections has not had any contact with a voter for a period of two federal election cycles, then the voter will be sent a forwardable address confirmation mailing. The voter will be required to return the confirmation mailing within 30 days of the mailing. If the confirmation mailing is not returned by the voter within that time, or the mailing is returned by the U.S. Postal Service as undeliverable, then the voters record will be marked inactive in the voter registration database.Inactive voters are still registered voters. If an inactive voter presents to vote, the person will be asked to verify their address and update it if necessary. If a county board of elections has no contact (presenting to vote counts as contact) with the voter for two more federal election cycles, then the voter will be removed from the countys voter rolls and would need to re-register to vote. List maintenance (N.C.G.S  163-82.14).",
+            "s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "t": "2024-11-19T15:33:27.109219"
+        },
+        {
+            "q": "How are ineligible voters removed from the voter registration rolls?",
+            "a": "In North Carolina, county boards of elections follow a comprehensive list maintenance schedule to remove names of individuals who are no longer eligible to be registered due to death, felony conviction, moving from the county or state, or lack of voter contact.To learn more about this process, see our press release, County Boards of Elections Begin Regular Voter List Maintenance Processes.",
+            "s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "t": "2024-11-19T15:33:27.109798"
+        },
+        {
+            "q": "May I keep my voter registration information private?",
+            "a": "Pursuant to Official record of voter registration (N.C.G.S.  163-82.10) and Public records (Chapter 132 of the General Statutes), the State Board of Elections is required to make most voter information available to the public. All voter registration information is public record except for full or partial social security numbers, dates of birth, driver license numbers, the identity of the public agency at which the voter registered under Voter registration at other public agencies (N.C.G.S.  163-82.20), and the email address of a military-overseas voter. Additionally, your signature may only be viewed by the public and cannot be copied or traced.Note: Third parties often access and use publicly available voter registration data for various purposes, and the agency has no authority to control their use of publicly available information.According to N.C.G.S.  163-82.10(e), a voters address will be kept confidential if a registered voter submits to the county board of elections either 1) a copy of a 50B protective order; 2) a restraining order; or 3) a current and valid Address Confidentiality Program authorization card issued according to the provisions of Address Confidentiality Program (Chapter 15C of the General Statutes), along with a signed statement that the voter has good reason to believe that the physical safety of the voter or a member of the voters family residing with the voter would be jeopardized if the voters address was open to public inspection. To find out whether you are eligible to have your information withheld from the public under the Address Confidentiality program, please visit Address Confidentiality | NCDOJ.",
+            "s": "https://www.ncsbe.gov/registering/faq-voter-registration",
+            "t": "2024-11-19T15:33:27.110148"
+        },
+        {
+            "q": "Do I need an ID to vote?",
+            "a": "Voters will be asked to show photo ID when voting in North Carolina. For most voters, they will simply show their drivers license. But there are many other acceptable photo IDs. Learn more at Voter ID.",
+            "s": "https://www.ncsbe.gov/voting/vote-person-election-day/faq-election-day-voting",
+            "t": "2024-11-19T15:33:28.665829"
+        },
+        {
+            "q": "Can I register to vote on Election Day?",
+            "a": "Most would-be voters are not eligible to register and vote on Election Day. Eligible would-be voters who become naturalized U.S. citizens or whose rights of citizenship are restored after serving a felony sentence ahead of Election Day, but after the regular voter registration deadline, may register and vote during early voting or on Election Day.",
+            "s": "https://www.ncsbe.gov/voting/vote-person-election-day/faq-election-day-voting",
+            "t": "2024-11-19T15:33:28.666711"
+        },
+        {
+            "q": "What if there are questions about my registration or eligibility to vote?",
+            "a": "No voter should be turned away. If questions arise about a voters eligibility to vote, the voter may vote a provisional ballot. For more information, see our Provisional Voting page.",
+            "s": "https://www.ncsbe.gov/voting/vote-person-election-day/faq-election-day-voting",
+            "t": "2024-11-19T15:33:28.667128"
+        },
+        {
+            "q": "What type of voting equipment does my county use?",
+            "a": "See our Voting Equipment page.",
+            "s": "https://www.ncsbe.gov/voting/vote-person-election-day/faq-election-day-voting",
+            "t": "2024-11-19T15:33:28.667486"
+        },
+        {
+            "q": "What if I need help at my polling place?",
+            "a": "Voters who need assistance at the polls must request that assistance. Individuals who are unable to enter the polling place may vote curbside. See our Curbside Voting page. Once inside the polling place, voters who experience difficulties should request help from an election worker.",
+            "s": "https://www.ncsbe.gov/voting/vote-person-election-day/faq-election-day-voting",
+            "t": "2024-11-19T15:33:28.667750"
+        },
+        {
+            "q": "Can I photograph my ballot?",
+            "a": "No. State law prohibits photographing or videotaping a voted ballot under Limited access to the voting enclosure (N.C.G.S.  163-166.3).Photographing a marked ballot is illegal in part because the photographs could be used as proof of a vote for a candidate in a vote-buying scheme. Electronic communication while voting is prohibited because of limits on voter assistance and to prevent disruptions in the voting place.Voters may bring voting guides, notes, and other materials into the voting booth. Voters are allowed to have phones or electronic devices with them to access a slate card or candidate information while voting, if the devices are not used to photograph or videotape a ballot or communicate with anyone via voice, text, email, or any other method.",
+            "s": "https://www.ncsbe.gov/voting/vote-person-election-day/faq-election-day-voting",
+            "t": "2024-11-19T15:33:28.668083"
+        },
+        {
+            "q": "Do I need an excuse or special circumstance to vote by mail?",
+            "a": "No. Any registered voter in North Carolina may vote an absentee ballot by mail.",
+            "s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "t": "2024-11-19T15:33:30.293372"
+        },
+        {
+            "q": "How do I request my absentee ballot?",
+            "a": "Registered voters in North Carolina must request an absentee ballot online with Option 1  Request an Absentee Ballot (will reopen in 2025) at the at the NC Absentee Ballot Portal or on paper with the 2025 NC Absentee Ballot Request Form (download will become available in 2025).Submit the completed form to your county board of elections in person or by mail via the U.S. Postal Service, DHL, FedEx, or UPS.",
+            "s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "t": "2024-11-19T15:33:30.293940"
+        },
+        {
+            "q": "Can I fax or email my absentee ballot request form to my county board of elections?",
+            "a": "No. State law does not permit voters to fax or email absentee ballot requests.",
+            "s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "t": "2024-11-19T15:33:30.294422"
+        },
+        {
+            "q": "Are absentee-by-mail ballots automatically sent out to all registered voters?",
+            "a": "No. Registered voters in North Carolina must request an absentee ballot online with Option 1  Request an Absentee Ballot (will reopen in 2025) at the at the NC Absentee Ballot Portal or on paper with the 2025 NC Absentee Ballot Request Form (download will become available in 2025).Submit the completed form to your county board of elections in person or by mail via the U.S. Postal Service, DHL, FedEx, or UPS.",
+            "s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "t": "2024-11-19T15:33:30.295224"
+        },
+        {
+            "q": "What are acceptable ways to sign my absentee ballot request form?",
+            "a": "On the Online FormIf you submit the absentee ballot request form online through Option 1  Request an Absentee Ballot (will reopen in 2025) at the NC Absentee Ballot Portal, a wet ink signature is not required. However, the signature must be unique to the voter and must be readable.Voters may use their finger, stylus, or mouse for the signature if they have the capability. Voters may not use a service such as DocuSign, which inserts a typed or cursive font signature not made by the voter.On the Paper FormIf you submit the form on paper, a wet ink signature is required. Voters are not permitted to email or fax request forms.",
+            "s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "t": "2024-11-19T15:33:30.295560"
+        },
+        {
+            "q": "Can someone request an absentee ballot for me?",
+            "a": "Yes. Your near relative or verifiable legal guardian may request a ballot for you. They may not make changes to your voter registration record, including your name, address, or party affiliation. A near relative is your:SpouseBrotherSisterParentGrandparentChildGrandchildMother-in-lawFather-in-lawDaughter-in-lawSon-in-lawStepparentStepchildIf you need assistance requesting your ballot due to disability, these restrictions do not apply, and you may ask any person to request your ballot.Anyone requesting a ballot on behalf of a voter will provide their name, address, and relationship to the voter on the absentee request form.",
+            "s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "t": "2024-11-19T15:33:30.295988"
+        },
+        {
+            "q": "Can I request a ballot for my child who is away at college?",
+            "a": "Yes, if your child is a registered voter. The request form must include all required information, including the voters drivers license number or the last four digits of their Social Security number.You will sign and provide your:AddressDaytime phone numberRelationship to the voterYou may not update your child's voter registration record, including name, address, or party affiliation.",
+            "s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "t": "2024-11-19T15:33:30.296396"
+        },
+        {
+            "q": "Can I pick up my ballot in person or does it have to be mailed to me?",
+            "a": "The ballot must be mailed.",
+            "s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "t": "2024-11-19T15:33:30.296699"
+        },
+        {
+            "q": "What if a voter in a hospital, nursing home, or other facility needs assistance voting by mail?",
+            "a": "Any registered voter in a facility may request assistance from a Multipartisan Assistance Team (MAT). A MAT is a group appointed by a county board of elections to assist voters in facilities with mail-in absentee voting. To schedule a MAT visit, contact your county board of elections.Certain persons may be prohibited from assisting voters in care facilities. For more information, please visit Assistance for Voters in Care Facilities.If you need assistance requesting your ballot due to disability, you may ask any person to assist with your ballot.",
+            "s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "t": "2024-11-19T15:33:30.296907"
+        },
+        {
+            "q": "Can a nursing home or facility deliver the blank absentee ballot requests to the residents of the facility, or should they be placed in a common area such as a lobby?",
+            "a": "The facility may provide blank forms to the residents or leave them in a common area. Either option is OK. A facility employee may not assist the voter or return a voters request form, unless the voter requests that the employee provide assistance due to disability.",
+            "s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "t": "2024-11-19T15:33:30.297297"
+        },
+        {
+            "q": "What if I live on a boat or in an RV and want to request an absentee ballot by mail?",
+            "a": "On the request form, you should provide the address where you want your ballot sent. This may be different from your residential address, which is the place to which, when you are absent, you intend to return.Your residential address might be, for example, an RV park or boat dock where you typically return and intend to remain indefinitely. It does not have to be an address where you receive mail. If you do not receive mail at your residential address, or if you want your ballot sent to another address, you should provide the mailing address that you want your ballot mailed to.",
+            "s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "t": "2024-11-19T15:33:30.297606"
+        },
+        {
+            "q": "May I request an absentee ballot if I do not have a permanent residence?",
+            "a": "You are required to provide your North Carolina residential address, which is the place to which, when you are absent, you intend to return. If you are homeless or live in a non-traditional dwelling, you should list the location or cross-street under the Residential Address section where you typically stay or sleep and intend to return when you are absent. This place does not have to be an address where you receive mail. If you do not receive mail at your residential address, or if you want your ballot sent to another address, you should provide the mailing address where you want your ballot mailed.",
+            "s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "t": "2024-11-19T15:33:30.297965"
+        },
+        {
+            "q": "Are organizations allowed to email request forms to voters?",
+            "a": "Organizations may email the 2025 NC Absentee Ballot Request Form (download will become available in 2025) to voters but may not prefill any part of the forms. Third-party groups should include the instructions with the form.",
+            "s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "t": "2024-11-19T15:33:30.298334"
+        },
+        {
+            "q": "How many witnesses do I need when I mark my absentee ballot?",
+            "a": "One notary public or two witnesses must be in your presence when you mark your absentee ballot. They should only observe you marking your ballot, not how you vote.",
+            "s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "t": "2024-11-19T15:33:30.298573"
+        },
+        {
+            "q": "Who is not allowed to serve as a witness to an absentee ballot?",
+            "a": "Individuals prohibited from witnessing an absentee ballot include:A person who is younger than 18.A candidate for election, unless the candidate is the voters near relative.If the voter is a patient or resident at a hospital, clinic, nursing home, or adult care home, the following individuals are also prohibited from assisting:an owner, manager, director, or employee of that facility; an individual who holds any elected federal, state, or local office or precinct political party or organization office;or a campaign manager or treasurer for any candidate or political party.However, if you need assistance completing your ballot due to disability, you may ask any person who is at least 18 and is not a candidate to witness your ballot, regardless of the above restrictions. For voters in a hospital, clinic, nursing home, or adult care home only: a candidate may witness your ballot if you requested their assistance due to a disability.",
+            "s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "t": "2024-11-19T15:33:30.298987"
+        },
+        {
+            "q": "If I make a mistake on my ballot, may I request a new one?",
+            "a": "Yes, if you have not returned the ballot, you may contact your county board of elections and request a new ballot. The first ballot should not be returned and will not count if it is returned.",
+            "s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "t": "2024-11-19T15:33:30.299468"
+        },
+        {
+            "q": "Will my ballot still count if I leave any contests blank?",
+            "a": "Yes. Your vote will count toward any contest in which you marked on your ballot.",
+            "s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "t": "2024-11-19T15:33:30.299796"
+        },
+        {
+            "q": "Can my spouse serve as my witness?",
+            "a": "Yes.",
+            "s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "t": "2024-11-19T15:33:30.299997"
+        },
+        {
+            "q": "How can I return my absentee ballot?",
+            "a": "Absentee ballots may be returned:By mail.By commercial courier service. (DHL, FedEx, or UPS.)In person at your county board of elections office.In person at an open early voting site in your county. You can find early voting sites in your county by using the Early Voting Site Search. You may not return an absentee ballot to a polling place on Election Day.",
+            "s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "t": "2024-11-19T15:33:30.300172"
+        },
+        {
+            "q": "Should I provide a copy of a photo ID when I return my absentee ballot?",
+            "a": "Yes. Voters who vote by mail must include a photocopy of an acceptable ID. Or they may complete a Photo ID Exception Form with the absentee ballot return envelope. Instructions will be included in the absentee ballot packet. For more information, including acceptable types of photo ID, see Voter ID.",
+            "s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "t": "2024-11-19T15:33:30.300414"
+        },
+        {
+            "q": "If Ive received my ballot by mail, may I still vote in person?",
+            "a": "Yes. You may still vote in person as long as you do not return your absentee ballot. Your absentee ballot will be spoiled after you vote in person. You may simply discard your absentee ballot. There is no need to bring it with you to a polling place.",
+            "s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "t": "2024-11-19T15:33:30.300651"
+        },
+        {
+            "q": "Can I vote the ballot and return it to the county board of elections, but change my mind and cancel my ballot and vote on Election Day instead?",
+            "a": "No. Once you return your ballot, you may not change or cancel your ballot.",
+            "s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "t": "2024-11-19T15:33:30.300881"
+        },
+        {
+            "q": "Will I be notified if my absentee ballot is rejected? Will I have a chance to remedy any deficiencies?",
+            "a": "County boards of elections will contact voters when there are deficiencies with their absentee ballot. You should provide your phone number or email address on the request form in case the county board needs to contact you. Additionally, you can track your ballot from printed to accepted by signing up online for status notifications through BallotTrax.The State Board encourages voters to carefully read and follow the instructions that come with the ballot and to request and return their absentee ballot as early as possible to ensure time remains to correct any issues. If an issue arises and the voter is unable to successfully cast an absentee ballot, that voter may still vote during the in-person early voting period or on Election Day.",
+            "s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "t": "2024-11-19T15:33:30.301098"
+        },
+        {
+            "q": "May I return my friends and neighbors absentee ballots?",
+            "a": "No. You may only return someones ballot if they are a near relative or verifiable legal guardian. A near relative is your:SpouseBrotherSisterParentGrandparentChildGrandchildMother-in-lawFather-in-lawDaughter-in-lawSon-in-lawStepparentStepchildThis restriction does not apply if a voter asked you to return their ballot due to the voter's disability. Anyone assisting a voter must complete the Voter Assistant Certification on the return envelope.",
+            "s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "t": "2024-11-19T15:33:30.301529"
+        },
+        {
+            "q": "May another person return my absentee ballot for me?",
+            "a": "Yes, but only if that person is a legal guardian or near relative. A near relative is your:SpouseBrotherSisterParentGrandparentChildGrandchildMother-in-lawFather-in-lawDaughter-in-lawSon-in-lawStepparentStepchildCounty boards of elections keep track of who drops off each absentee ballot.If you need assistance returning your ballot due to disability, these restrictions do not apply, and you may ask any person to return your ballot.Anyone who is not a near relative or legal guardian and is assisting a voter by returning the voters ballot due to the voters disability must complete the Voter Assistant Certification on the return envelope.",
+            "s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "t": "2024-11-19T15:33:30.301771"
+        },
+        {
+            "q": "May two people return their ballots in the same envelope?",
+            "a": "No. The returned ballot envelope is specific to each voter and must contain only that voters ballot.",
+            "s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "t": "2024-11-19T15:33:30.302152"
+        },
+        {
+            "q": "May I hand-deliver my voted absentee ballot to my county board of elections office?",
+            "a": "Yes. If you are delivering your voted ballot in person, it must be returned to your county board of elections by 7:30 p.m. on Election Day. You also may return it to any open early voting site in your county during the early voting period. When you return a ballot in person, you will be required to complete a return log as part of the in-person return process.",
+            "s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "t": "2024-11-19T15:33:30.302440"
+        },
+        {
+            "q": "May I hand-deliver my voted absentee ballot to the polls on Election Day?",
+            "a": "No. You may return your ballot to any early voting site in your county during the early voting period, but not to a polling place on Election Day.",
+            "s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "t": "2024-11-19T15:33:30.302746"
+        },
+        {
+            "q": "I heard that if I vote absentee by mail, my vote may not get counted. Is that true?",
+            "a": "No. Each eligible voters absentee ballot is counted if it contains all required elements and meets the deadline for return to the county board of elections.",
+            "s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "t": "2024-11-19T15:33:30.302960"
+        },
+        {
+            "q": "If I mail my ballot, is it required to have a postmark?",
+            "a": "Civilian absentee ballots that arrive at the county board of elections office after Election Day will not be counted. Ballots must be received at your county board of elections office by 7:30 p.m. on Election Day to be counted regardless of whether or not they include a postmark. The State Board recommends that voters mail their ballot early in order for it to arrive on or before Election Day.",
+            "s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "t": "2024-11-19T15:33:30.303219"
+        },
+        {
+            "q": "When are absentee ballots counted?",
+            "a": "Staff review the absentee container-return envelope for completeness when it is returned to the office. Returned absentee ballots are approved at absentee meetings of county boards of elections that occur beginning several weeks before the election. In many counties, approved ballots are inserted into the voting machine at the board meeting, but in all counties, the results are not tabulated and reported until Election Day.",
+            "s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "t": "2024-11-19T15:33:30.303429"
+        },
+        {
+            "q": "How secure is absentee-by-mail voting?",
+            "a": "Numerous safeguards are included in the absentee voting process. Absentee ballots are sent only to registered voters who request them using an official NC Absentee Ballot Request Form before the deadline. The request must be signed and include identifying information about the voter, including date of birth and drivers license number or last four digits of the voters Social Security number. Voters must vote their ballot in the presence of two witnesses or a notary, and those witnesses must sign the absentee return envelope certifying that the voter marked their ballot and is the registered voter submitting the marked ballot.Only the voter or their near relative or legal guardian may return the ballot. Upon return, the county board of elections reviews the absentee envelope to ensure compliance with the legal requirements. Once the ballot is accepted, that voter is marked in the system as having voted in that election.Data on who has requested absentee ballots is now confidential until Election Day. Criminal penalties have been increased for absentee voting fraud-related offenses. Many people are watching our absentee voting process, including candidates, political parties, county boards of elections, and political and data scientists. If there are anomalies or questionable activities, they will be identified by or reported to election officials.Finally, the State Board of Elections has an Investigations Division that investigates credible allegations of elections fraud and refers cases to prosecutors when warranted by the evidence. The State Board also conducts several post-election audits which will catch inconsistencies that can then be investigated by the board or the Investigations Division.Read also: 12 Reasons Absentee Voting is Secure.",
+            "s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "t": "2024-11-19T15:33:30.303639"
+        },
+        {
+            "q": "What prevents someone from voting absentee and then voting again in-person?",
+            "a": "If someone has voted an absentee ballot and then shows up to vote in person, the check-in system will alert the poll worker that the person has already voted. Voting twice in the same election is a crime and is investigated by the State Board and referred to prosecutors when warranted by the evidence.",
+            "s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "t": "2024-11-19T15:33:30.304307"
+        },
+        {
+            "q": "Will anyone know who I voted for?",
+            "a": "No. Ballots remain in the sealed absentee envelope until they have been fully approved by the board. During the counting process, the ballot is removed from the envelope and fed into the tabulator. Ballots are secret by law, and others will not know who you voted for.",
+            "s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "t": "2024-11-19T15:33:30.304557"
+        },
+        {
+            "q": "Can I view a list of all voters who have requested an absentee ballot?",
+            "a": "Absentee by mail data is confidential until Election Day or until ballots are returned. This data may be viewed once ballots are returned and counted.",
+            "s": "https://www.ncsbe.gov/voting/vote-mail/faq-voting-mail",
+            "t": "2024-11-19T15:33:30.304799"
+        },
+        {
+            "q": "Can I get an ID from the county board of elections during the early voting period?",
+            "a": "Yes. County boards will be issuing voter photo IDs during early voting. They cannot issue IDs between the last day of early voting and Election Day, however.",
+            "s": "https://www.ncsbe.gov/voting/voter-id/faq-voter-id",
+            "t": "2024-11-19T15:33:32.690120"
+        },
+        {
+            "q": "Can a poll worker reject my photo ID because my appearance has changed since my photo was taken?",
+            "a": "Election workers are looking to see if the photo on the ID reasonably resembles the voter. Election workers will be trained to understand that appearances may change over time. If the election worker checking the voter in does not believe the photo reasonably resembles the voter, the voter will still be allowed to vote a regular ballot unless the judges of election at the polling place unanimously agree that the photo does not bear a reasonable resemblance to the voter, in which case the voter will be allowed to vote a provisional ballot.",
+            "s": "https://www.ncsbe.gov/voting/voter-id/faq-voter-id",
+            "t": "2024-11-19T15:33:32.690817"
+        },
+        {
+            "q": "If I forgot ID, can I go get it and return to vote?",
+            "a": "Yes. If a voter does not provide ID, instead of voting with an ID Exception Form or voting with a provision ballot and later returning with ID, the voter may simply decide not to request a ballot at that time, go get an ID, and then return to vote. Once a voter accepts a ballot, however, they may not return to vote.",
+            "s": "https://www.ncsbe.gov/voting/voter-id/faq-voter-id",
+            "t": "2024-11-19T15:33:32.691437"
+        },
+        {
+            "q": "What student and public employee IDs are approved for voting?",
+            "a": "The State Board of Elections has approved 100 student and employee identification cards across the state for use in the 2023 municipal elections and 2024 primary and general elections in North Carolina. View the list at Student and Public Employee IDs Approved for Voting. In the coming months, the State Board will announce additional ID application periods for the 2024 elections.",
+            "s": "https://www.ncsbe.gov/voting/voter-id/faq-voter-id",
+            "t": "2024-11-19T15:33:32.691959"
+        },
+        {
+            "q": "Will my ballot be counted if I properly fill out an ID Exception Form?",
+            "a": "Yes. A ballot from an eligible, registered voter with a properly completed ID Exception Form must be counted. Such a ballot may only be rejected if the bipartisan county board of elections unanimously decides that the voter provided false information on the form.",
+            "s": "https://www.ncsbe.gov/voting/voter-id/faq-voter-id",
+            "t": "2024-11-19T15:33:32.692386"
+        },
+        {
+            "q": "Is photo ID required for military and overseas voters (aka, UOCAVA voters)?",
+            "a": "No. Photo ID is not required for military or overseas voters who vote using special absentee voting procedures that federal law makes available for such voters. Find more information at Military and Overseas Voting.",
+            "s": "https://www.ncsbe.gov/voting/voter-id/faq-voter-id",
+            "t": "2024-11-19T15:33:32.692742"
+        },
+        {
+            "q": "Where can I read the photo ID laws?",
+            "a": "The photo ID laws are found in the following statutes and rules:Voter photo identification cards (N.C.G.S.  163-82.8A)Requirement for photo identification to vote in person (N.C.G.S.  163-166.16)Approval of student identification cards for voting identification (N.C.G.S.  163-166.17)Approval of employee identification cards for voting identification (N.C.G.S.  163-166.18)Simultaneous issuance of absentee ballots with application (N.C.G.S.  163-230.1(f1) and (g))Verification of Photo Identification During In-Person Voting (08 NCAC 17 .0101)Photo Identification for Absentee-By-Mail Ballots (08 NCAC 17 .0109)",
+            "s": "https://www.ncsbe.gov/voting/voter-id/faq-voter-id",
+            "t": "2024-11-19T15:33:32.693070"
+        },
+        {
+            "q": "What is the UOCAVA, and who is covered by it?",
+            "a": "The Uniformed and Overseas Citizens Absentee Voting Act (UOCAVA) extends federal absentee voting rights to Service members, their eligible family members, and U.S. citizens outside the country. This federal law is implemented in North Carolina through Article 21A (Uniform Military and Overseas Voters Act) of the North Carolina General Statutes.UOCAVA covers U.S. citizens who are 18 or older andActive-duty members of the Uniformed Services, Merchant Marine, or commissioned corps of the Public Health Service and the National Oceanic and Atmospheric Administration, and their eligible family members; orU.S. citizens outside the United States.",
+            "s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "t": "2024-11-19T15:33:35.745218"
+        },
+        {
+            "q": "I am the spouse/dependent of a military member who the UOCAVA covers. Am I also a covered voter?",
+            "a": "Yes, as a military members spouse or dependent, you are eligible to vote absentee under the UOCAVA if you live with or accompany them. By North Carolina law, you and the military member are covered under the UOCAVA, even if you are not away from your voting residence.",
+            "s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "t": "2024-11-19T15:33:35.746146"
+        },
+        {
+            "q": "I am a student studying abroad. Does this apply to me?",
+            "a": "If you are living outside the country during an election season and will need to vote absentee, you may use the Federal Post Card Application (FPCA) to register to vote and request your absentee ballot.Your voting residence will continue to be your last residence prior to leaving the United States to study elsewhere.",
+            "s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "t": "2024-11-19T15:33:35.746696"
+        },
+        {
+            "q": "What is the Federal Post Card Application (FPCA)?",
+            "a": "Military/overseas citizens may use the FPCA to register to vote and request an absentee ballot simultaneously. It can also be used to update contact information.The FPCA allows you to request an absentee ballot for all elections in one calendar year.We recommend that you send in a new FPCA every January and each time you move while you are in the military or a U.S. citizen living outside the country.Note: It will not affect your citizenship or ability to receive a ballot if you select my return is uncertain on the FPCA.Fill out the FPCA online",
+            "s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "t": "2024-11-19T15:33:35.747129"
+        },
+        {
+            "q": "Do I have to send in a separate application for each election?",
+            "a": "Not always. The Federal Post Card Application (FPCA) allows you to request an absentee ballot for all elections in one calendar year.We recommend that you send in a new FPCA every January and each time you move while you are in the military or a U.S. citizen living outside the country.",
+            "s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "t": "2024-11-19T15:33:35.747557"
+        },
+        {
+            "q": "When is the application deadline?",
+            "a": "The Federal Post Card Application (FPCA) deadline is 5 p.m. ET, the day before Election Day.",
+            "s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "t": "2024-11-19T15:33:35.747885"
+        },
+        {
+            "q": "Can someone request a ballot on my behalf?",
+            "a": "No. Only the covered voter may request a military/overseas absentee ballot under UOCAVA.",
+            "s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "t": "2024-11-19T15:33:35.748301"
+        },
+        {
+            "q": "When will I get my ballot?",
+            "a": "Election offices are required by federal law to send absentee ballots at least 45 days before a primary or election that includes a federal contest.North Carolina sends ballots even earlier for federal elections:60 days prior to the statewide general election in even-numbered years.50 days prior to the date on which any other election is conducted:Unless 45 days is authorized by the State Board.30 days prior to municipal elections.",
+            "s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "t": "2024-11-19T15:33:35.748579"
+        },
+        {
+            "q": "When is the ballot return deadline?",
+            "a": "The military/overseas absentee ballot return deadline, which includes the Federal Write-in Absentee Ballot (FWAB) deadline, is 7:30 p.m. ET on Election Day.Exception: If you mail the ballot, it is still timely if your county board of elections receives it by 5 p.m. ET, the business day before county canvass (if mailed by 12:01 a.m. your time on Election Day).County canvass is 10 days after Election Day, except in September and October odd-year municipal elections, when it is seven days after Election Day.",
+            "s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "t": "2024-11-19T15:33:35.748917"
+        },
+        {
+            "q": "What if my ballot doesnt arrive in time?",
+            "a": "Military/overseas voters may use the FWAB (Federal Write-in Absentee Ballot) if there isnt enough time to receive and return the ballot before the election.It works like a backup ballot:If your official absentee ballot arrives after you send in the FWAB, you may fill out and send in the official ballot, too. Only one will be counted.You may use it to register to vote, request an absentee ballot, and vote for all federal, state, and local contests in which you are eligible.You must obtain the choices for ballot items to write in your selections.How to get this information:Look up your sample ballot through the State Boards Voter Search orContact your county board of elections.You are not required to vote for all offices in any election.Download the FWAB (PDF)",
+            "s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "t": "2024-11-19T15:33:35.749287"
+        },
+        {
+            "q": "What is the Federal Write-in Absentee Ballot (FWAB)?",
+            "a": "The FWAB is an emergency backup ballot for military/overseas citizens who did not receive an absentee ballot from their state in time to participate in the election.For more information, see the question, What if my ballot doesnt arrive in time? above.",
+            "s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "t": "2024-11-19T15:33:35.749924"
+        },
+        {
+            "q": "Do I have to include a U.S. voting residence on the application?",
+            "a": "Yes, on the Federal Post Card Application (FPCA), it must be an address in the United States for your request to qualify.Placing an address outside of the United States in Section 2 of the form may automatically disqualify you.You must provide the street address (not a post office box) of your voting residence in North Carolina. For more information about your voting residence, see the question, What is my U.S. voting residence address and how is it used? below.",
+            "s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "t": "2024-11-19T15:33:35.750374"
+        },
+        {
+            "q": "What is my U.S. voting residence address and how is it used?",
+            "a": "Your U.S. voting residence address is used to determine where you are eligible to vote.For military voters, it is usually the last address where you lived in your state of legal residence.Military spouses may align their voting residence to match their active-duty spouses address without having lived at that address.The Federal Voting Assistance Program (FVAP) has provided a fact sheet to assist service members and their family members in understanding voting residence.You may download it here: Voting Residence Fact Sheet: Military Members and Their Family (PDF)For U.S. citizens outside the country, it is usually the last place you lived in the United States before moving outside the country. You do not need to have any current ties to this address.What if someone else lives there now or the house was torn down?Your election office only uses your voting residence address to determine if you are eligible to vote in that jurisdiction and which ballot to send you. Your election office will not send any voting materials to this address. This residence may remain valid even if:You no longer own property or have other ties to that state.Your intent to return to that state is uncertain.Your previous address is no longer a recognized residential address.What if I do not know my voting residence address?If you cannot remember the U.S. address where you last lived, we recommend asking family members and checking old records. Your county board of elections office may also be able to help you further.",
+            "s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "t": "2024-11-19T15:33:35.750799"
+        },
+        {
+            "q": "Why is my U.S. voting residence address important?",
+            "a": "You need a voting residence to vote by absentee ballot  even if you are only voting for federal offices.Your election office needs your exact voting residence address to determine which offices and candidates you are eligible to vote for  and to send you the appropriate ballot for your voting precinct.",
+            "s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "t": "2024-11-19T15:33:35.752211"
+        },
+        {
+            "q": "May I register to vote and request a ballot if I am a U.S. citizen who has never lived in the country?",
+            "a": "North Carolina allows citizens who have never resided in the United States to use a parents voting residence as their own to register to vote, and may request a military/overseas absentee ballot. Under Definitions (N.C.G.S.  163-258.2.(1)e.), you must meet the following requirements:Except for residency, you are eligible to register and vote in North Carolina.See voter registration requirements: Who Can Register.The last place a parent or legal guardian lived before leaving the United States is within North Carolina.You have not previously registered to vote in any other state.",
+            "s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "t": "2024-11-19T15:33:35.752554"
+        },
+        {
+            "q": "May I register to vote and request a ballot if my family moved from North Carolina to another country before I was of voting age?",
+            "a": "Yes, you may register to vote and request a military/overseas ballot if you are:A U.S. citizen living in another country who would have been eligible to vote in this state if you had been of voting age, and now would be eligible except for the state residency requirement.You would use the last place you resided in North Carolina prior to your move as your residency address.You are only eligible to register and vote based on your last address in North Carolina if your last place of residence before moving out of the United States was North Carolina.For example, if you lived in North Carolina then moved to another state and then moved overseas from that state, you would not be eligible to register and vote based on your North Carolina address.",
+            "s": "https://www.ncsbe.gov/voting/military-and-overseas-voting/faq",
+            "t": "2024-11-19T15:33:35.752980"
+        },
+        {
+            "q": "What should an agency do if the client refuses to accept the voter registration application?",
+            "a": "Explain to the client that there is important information on the back of the form concerning voter registration and that he or she may take the form home for future use. Even if the client refuses the form, the fact that the client declined voter registration services will be reflected in the NC FAST system based on how the client answered the NVRA checkboxes (checked no or left blank) on the services application and responded to the NVRA Question during an in-person transaction.",
+            "s": "https://www.ncsbe.gov/registering/national-voter-registration-act-nvra",
+            "t": "2024-11-19T15:33:37.643468"
+        },
+        {
+            "q": "If DSS agencies are no longer required to offer a separate preference form, how will agencies be able to prove that voter registration services were offered to a client?",
+            "a": "The clients preference with regards to voter registration services is now being captured in the NC FAST system and on DHHS Medicaid and FNS applications. Local agencies should ensure that other services applications include the NVRA question; Yes/No checkboxes; and the prominent statement listed below.",
+            "s": "https://www.ncsbe.gov/registering/national-voter-registration-act-nvra",
+            "t": "2024-11-19T15:33:37.644003"
+        },
+        {
+            "q": "What is the NVRA information that should be on a services application?",
+            "a": "The following NVRA information must be placed on a services application:If you are not registered to vote where you live now, would you like to register to vote here today?  Yes NoIf you do not check either box, you will be considered to have decided not to register to vote at this time.If you want to register to vote or to update your registration, you can complete a voter registration form at www.ncsbe.gov/NVRA/01, or ask your caseworker for a voter registration form.Applying to register or declining to register to vote will not affect the amount of assistance that you will be provided by this agency.If you would like help in filling out the voter registration application form, we will help you. The decision whether to seek or accept help is yours. You may fill out the application form in private.If you believe that someone has interfered with your right to register or to decline to register to vote, your right to privacy in deciding whether to register or in applying to register to vote, or your right to choose your own political party or other political preference, you may file a complaint with the North Carolina State Board of Elections, PO Box 27255, Raleigh NC 27611-7255, or you may call the toll-free number, 1-866-522-4723.",
+            "s": "https://www.ncsbe.gov/registering/national-voter-registration-act-nvra",
+            "t": "2024-11-19T15:33:37.644272"
+        },
+        {
+            "q": "Are agencies supposed to review public assistance applications that are mailed to an agency to determine whether the applicant would like to register to vote?",
+            "a": "Yes. If the applicant checked Yes or did not provide an answer to the NVRA question, mail a voter registration application and cover letter to the client.",
+            "s": "https://www.ncsbe.gov/registering/national-voter-registration-act-nvra",
+            "t": "2024-11-19T15:33:37.644692"
+        },
+        {
+            "q": "Did You Miss the Civilian Voter Registration Deadline?",
+            "a": "Individuals who are not registered to vote in a county may register at early voting sites during the early voting period. After registering, the newly registered voter can immediately vote at that same site. This process is called same-day registration. When you check in to vote at an early voting site, you may also update your name or address within the same county if necessary. Learn more at Register in Person During Early Voting.",
+            "s": "https://www.ncsbe.gov/registering/how-register/voter-registration-deadlines",
+            "t": "2024-11-19T15:34:11.007278"
+        },
+        {
+            "q": "Who Can Register on Election Day?",
+            "a": "Most would-be voters are not eligible to register and vote on Election Day. Eligible would-be voters who become naturalized U.S. citizens or whose rights of citizenship are restored after serving a felony sentence ahead of Election Day, but after the regular voter registration deadline, may register and vote during early voting or on Election Day.Visit Register in Person During Early Voting for details on how to register and vote during the early voting period. Or, see Vote in Person on Election Day to learn about casting your ballot on Election Day. For guidance about registering to vote while incarcerated or after completing a felony sentence, visit Registering as a Person in the Criminal Justice System.",
+            "s": "https://www.ncsbe.gov/registering/how-register/voter-registration-deadlines",
+            "t": "2024-11-19T15:34:11.007790"
+        },
+        {
+            "q": "Unsure if You Are Registered?",
+            "a": "Find out if you are registered to vote by entering your information into the Voter Search (https://vt.ncsbe.gov/RegLkup/) .",
+            "s": "https://www.ncsbe.gov/voting/vote-early-person",
+            "t": "2024-11-19T15:36:14.423062"
+        },
+        {
+            "q": "Unsure if You Are Registered?",
+            "a": "Find out if you are registered to vote by entering your information into the Voter Search (https://vt.ncsbe.gov/RegLkup/) .",
+            "s": "https://www.ncsbe.gov/voting/vote-person-election-day",
+            "t": "2024-11-19T15:36:17.002156"
+        },
+        {
+            "q": "How can I request and return an absentee ballot for an upcoming general election?",
+            "a": "2024 General Election: Important Return Dates In North Carolina, your completed absentee ballot must be received by your county board of elections by 7:30 p.m. on Election Day, November 5th. Please note that there is no longer a grace period for ballots postmarked by Election Day; they must arrive by the deadline to be counted. If you are returning your ballot in person, you can submit it to an early voting site during the early voting period or to your county board of elections up until Election Day at 7:30 p.m. You may not return your ballot to a polling place on Election Day. Mail-in absentee voting is available in NC and no excuse is required for registered voters. The last day to request an absentee ballot is 7 days before the election. Your ballot must be received by 7:30pm on Election Day in order to be counted. *Voter registration and absentee voting deadlines and different for military and overseas voters . You can sign up to track your absentee ballot on your State Board of Elections website. ID Requirements NOTE: Voters who vote by mail must include a photocopy of an acceptable ID. Or they may complete a Photo ID Exception Form with the absentee ballot return envelope. Instructions will be included in the absentee ballot packet. For more information, including acceptable types of photo ID, see Voter ID . Overseas citizens and U.S. military personnel can find information on how to register to vote and request an absentee ballot at the Overseas Vote Foundation . Those who requested an absentee ballot but end up voting in person : Requesting an absentee ballot will not record you in the system as having voted. If you do not vote your absentee ballot, you may vote in person during the early voting period or on Election Day. You may simply discard your absentee ballot. There is no need to bring it with you to a polling place. Request your Ballot",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2024-11-19T01:54:12.879517"
+        },
+        {
+            "q": "What should I do if there's an issue with my absentee or provisional ballot before the election deadline?",
+            "a": "The deadline to cure (correct) your absentee/mail ballot is November 14, 2024. Your county board of elections will contact you if there are any deficiencies with your absentee ballot using the phone number or email address on the absentee request form submitted. You can track your ballot by signing up online for status notifications through your states online tool. If a problem arises and you cannot cast an absentee ballot successfully, you may still vote during the in-person early voting period or on Election Day. The deadline for a provisional voter to show an acceptable photo ID or HAVA ID to their county board of elections is by 5pm on November 14, 2024. To check the status of a provisional vote you can use your states online tool.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2024-11-19T01:54:12.880944"
+        },
+        {
+            "q": "Where can I find information on campaign contributions for candidates and ballot measures?",
+            "a": "For information on federal campaign contributions, please visit Open Secrets . For information on state campaign contributions, please visit your state's resource.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2024-11-19T01:54:12.881572"
+        },
+        {
+            "q": "Where can I access comprehensive details about candidates and ballot measures in the election?",
+            "a": "Information on local, state and federal candidates and ballot measures may be available here.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2024-11-19T01:54:12.882035"
+        },
+        {
+            "q": "What are the options and deadlines for submitting my ballot using drop boxes?",
+            "a": "No drop boxes available. You can return your voted ballot to your county board of elections office or an open Early Voting site during the Early Voting period. You can find the location of your county board of elections office here.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2024-11-19T01:54:12.882471"
+        },
+        {
+            "q": "When does early voting start and end, and how can I participate in early voting?",
+            "a": "One-stop early voting begins on the third Thursday before the election and ends at 3pm the last Saturday before the election. One-stop absentee voting takes place at either the County Board of Elections office or an alternate site if your County Board office is not able to handle in-person voting. For specific locations of where you can vote, please click here. If you are not registered by the registration deadline, you may register during the one-stop early voting period and vote that same day. In order to register during the one-stop early voting period, you must show proof of address. This can include a valid and current photo ID or any document showing your name and current address.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2024-11-19T01:54:12.882946"
+        },
+        {
+            "q": "How can I find out the important dates for upcoming elections?",
+            "a": "The next election date can be found here . Contact your local Board of Elections for more information.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2024-11-19T01:54:12.883530"
+        },
+        {
+            "q": "What are the eligibility criteria to vote in an election?",
+            "a": "To be eligible to vote, you must: Be a US citizen See the USCIS website for citizenship information. Citizenship documents are NOT required to register. Live in the county where you are registering, and have resided there for at least 30 days prior to Election Day. The federal Uniformed and Overseas Citizens Absentee Voting Act (UOCAVA) allows certain voters who are active duty military or their families as well as U.S. citizens abroad special rights that provide an expedited means to register and vote by mail-in ballot. Find more information on Military and Overseas Voting. Be at least 18 years old, or will be by the date of the general election. 16- and 17-year-olds may preregister to vote. 17-year-olds may vote in a primary election if they will be 18 at the time of the general election. Note: An inactive voter is still a registered voter. A voter who is inactive status will be asked to confirm their addresses when they appear to vote. No special document is required. Incarcerated Voters & Returning Citizens: Once a person is convicted of a felony, they lose the right to vote in North Carolina until they have completed their sentence. This includes any period of probation, post-release supervision, or parole associated with a felony sentence. Once their period of supervision is over, a person automatically regains the right to vote in the state even if they have remaining debts associated with their sentence. Voting rights are not restricted by pretrial detention and misdemeanors in North Carolina. Voters without traditional residence: If you do not have a traditional address, you can draw a picture in the space provided on the voter registration form of your usual sleeping location. Be descriptive and note any nearby streets or physical buildings. You must provide a mailing address if you do not receive mail at your residential address. The mailing address on their registration form can be a P.O. box, local shelter, advocacy organization, outreach center, or the home of someone who will accept mail for you.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2024-11-19T01:54:12.884302"
+        },
+        {
+            "q": "What forms of identification are required to register to vote, and how can I prove my citizenship?",
+            "a": "To register, you must complete and sign a voter registration application. To complete the form, you must provide your full name, residential address, date of birth and citizenship status. Once completed, you must mail the form to the board of elections in your county. The board of elections will then send you a voter registration card. If you register to vote at your polling location during the one-stop early voting period (ends the Saturday before the election). To register during early voting you must prove your eligibility and provide proof of residence. You must show a current name and address ID such as: North Carolina driver's license Other photo ID issued by a government agency Copy of a current utility bill, bank statement, government check, paycheck, or other government document showing the voter's name and address Current college/university photo ID card paired with a current roster prepaired by the college/university and transmitted to the county board of elections office, which lists all students residing in campus housing facilities. Any other type of government-issued photo ID is acceptable as long as the card has your current name and current address. The ID may be expired, but the name and address must be current.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2024-11-19T01:54:12.885513"
+        },
+        {
+            "q": "What types of identification are acceptable at polling places for voting?",
+            "a": "All voters in North Carolina must show a photo ID when voting. Most voters will use their drivers license, but there are many other acceptable photo IDs. They include: NC drivers license or state ID from the NCDMV Drivers license or non-operator card from another state U.S. Passport book or U.S. Passport card NC voter photo ID card Approved Student & government-employee photo IDs Including University of North Carolina digital student IDs Many more IDs will be accepted. For more information, see Voter ID and FAQ: Voter ID . In addition to the list of acceptable Photo IDs for voting, there are important links for information on where to get a No-fee ID Card. Remember, the address on the photo ID does not have to match the voter registration records. Suppose you do not show an acceptable ID at the polls. In that case, you may proceed in one of the two following ways: with an ID Exception Form and a provisional ballot or with a provisional ballot and return it to your county board of elections office with your photo ID by the day before county canvass. Watch : Click here to learn about the new voter photo ID requirement in all upcoming elections.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2024-11-19T01:54:12.886454"
+        },
+        {
+            "q": "When and where will the official election results be available, and how can I track them?",
+            "a": "Official results are never available on Election Day. Election officials are working around the clock to count an unprecedented number of ballots, and its essential that they take the time to make sure every vote is counted. Absentee ballots begin being counted 5 weeks before Election Day during public meetings. For Presidential elections, local results will be certified no later than the 10th day after Election Day. Official election results will be uploaded on North Carolinas State Board of Elections website , 3 weeks after Election Day. What Happens After You Vote in North Carolina - addresses the vote counting process, how voted ballots are stored until Election Day, and other election security measures taken by the NC State Board of Elections. Official Results",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2024-11-19T01:54:12.887195"
+        },
+        {
+            "q": "How can military personnel and overseas citizens register and vote in elections?",
+            "a": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation. If you have additional questions about elections and voting overseas you can use our state specific elections official directory or contact the Overseas Vote Foundation.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2024-11-19T01:54:12.887761"
+        },
+        {
+            "q": "What are the requirements and steps to become a poll worker for an election?",
+            "a": "You can make sure we have safe, fair, and efficient elections for all. Become a poll worker toda y! In order to be a poll worker in North Carolina: You must be registered to vote in North Carolina You must be at least 18 years of age You will be entitled to compensation Political affiliation generally required You must be a resident of state and precinct for 30 days prior to the election You must complete required training, exam and certification Students 17 years of age with county residency may be appointed if they are enrolled in high school and have consent from a parent To sign up, contact your local board of elections .",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2024-11-19T01:54:12.888558"
+        },
+        {
+            "q": "What are the operating hours of polling places on Election Day?",
+            "a": "On Election Day, polling places will be open from 6:30 am to 7:30 pm.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2024-11-19T01:54:12.889126"
+        },
+        {
+            "q": "How can I find the exact location of my designated polling place?",
+            "a": "You can find your polling place by utilizing your state resource. If you have further questions on your polling place location, please contact your county clerk .",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2024-11-19T01:54:12.889549"
+        },
+        {
+            "q": "How does the primary election process work for affiliated and unaffiliated voters?",
+            "a": "North Carolina is a partially closed primary state. Each party has the ability to choose whether to allow unaffiliated voters or voters not registered with their party to participate in their primary. This year, unaffiliated voters may choose the ballot of any party that has a primary. This decision is made before the election cycle begins. In a primary election if a candidate does not with 30% of the votes there will be a primary runoff election scheduled for a few weeks after the primary election date. The runoff election will have the top two candidates with the most votes to ensure that one of them receives the majority of the voters. If you have any questions about your states primary election, please contact your local election officials .",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2024-11-19T01:54:12.890052"
+        },
+        {
+            "q": "Under what circumstances will I need to cast a provisional ballot, and how is it processed?",
+            "a": "You may vote a provisional ballot if you meet specific conditions. You may be asked to vote a provisional ballot if: your qualification to vote is questioned your voter eligibility is questioned your eligibility to vote a specific ballot is questioned You ask to vote for an election that is not in your assigned voting district You do not show appropriate ID under HAVA If you are asked to vote a provisional ballot, that ballot will be held aside until you can prove your eligibility to vote. Examples of reasons for provisional voting: There's no record of your registration You moved to a different precinct and didn't report the change before 30 days before the election You were previously registered in the county but the registration was canceled Your address can't be verified in the lookup files You're trying to vote at the incorrect precinct During a primary election, you try to vote the other parties ballot The records indicate you already voted in this election Voting during extended hours on Election Day Once you vote your provisional ballot you will receive a PIN number in order to check the status of your ballot . You can begin checking the status of your ballot 10 days after the election.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2024-11-19T01:54:12.890936"
+        },
+        {
+            "q": "What accessible voting options are available for voters with disabilities?",
+            "a": "Voting assistance and curbside voting are offered to voters with disabilities. CURBSIDE VOTING Aged and disabled persons allowed to vote outside voting enclosure. In any primary or election any qualified voter who is able to travel to the voting place, but because of age, or physical disability and physical barriers encountered at the voting place is unable to enter the voting place or enclosure to vote in person without physical assistance, shall be allowed to vote either in the vehicle conveying such person to the voting place or in the immediate proximity of the voting place. VOTING ASSISTANCE Assistance to voters in primaries and general elections. In a primary or general election, a registered voter qualified to vote in the primary or general election shall be entitled to assistance in getting to and from the voting booth and in preparing his ballots in accordance with the following rules: 1. Any voter shall be entitled to assistance from a near relative of his [her] choice. 2. Any voter in any of the following four categories shall be entitled to assistance from a person of the voter's choice, other than the voter's employer or agent of that employer or officer or agent of the voter's union: -One who, on account of physical disability, is unable to enter the voting booth without assistance; -One who, on account of physical disability, is unable to mark his ballots without assistance; -One who, on account of illiteracy, is unable to mark his ballots without assistance; -One who, on account of blindness, is unable to enter the voting booth or mark his ballots without assistance. Please visit your state's resource for additional information. You can also utilize the American Association of People With Disabilities (AAPD) resource.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2024-11-19T01:54:12.891913"
+        },
+        {
+            "q": "What is the voter registration deadline for the upcoming election, and how can I register online?",
+            "a": "You may now register to vote online! If you are a DMV customer with a North Carolina driver's license or DMV-issued ID, you may now register to vote online . Voter registration forms must be either postmarked or delivered in person by 5 pm 25 days before Election Day. Same-Day Registration during Early Voting: You may register to vote at your polling location during the one-stop early voting period (ends Friday before the election). To register during early voting you must prove your eligibility and provide proof of residence. You must show a current name and address ID such as: North Carolina driver's license Other photo ID issued by a government agency Copy of a current utility bill, bank statement, government check, paycheck, or other government document showing the voter's name and address Current college/university photo ID card paired with a current roster prepared by the college/university and transmitted to the county board of elections office, which lists all students residing in campus housing facilities. Any other type of government-issued photo ID is acceptable as long as the card has your current name and current address. The ID may be expired, but the name and address must be current. Same-Day Registration on Election Day: Eligible would-be voters who become naturalized U.S. citizens or whose rights of citizenship are restored after serving a felony sentence ahead of Election Day, but after the regular voter registration deadline, may register and vote during early voting or on Election Day. Not registered? Use our registration tool to fill out your application and mail to your county Board of Elections. Or you can register during the Early Voting period.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2024-11-19T01:54:12.893417"
+        },
+        {
+            "q": "What are my rights regarding time off work to vote in elections?",
+            "a": "Time off to vote is subject to the employer, there is no requirement for employers to grant time off to vote for employees.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2024-11-19T01:54:12.894366"
+        },
+        {
+            "q": "How can I verify my voter registration status and address any issues?",
+            "a": "To verify your voter registration status click here!",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2024-11-19T01:54:12.894827"
+        },
+        {
+            "q": "What types of voting machines are used at polling places, and how do they operate?",
+            "a": "The voting systems used in North Carolina are optical scan, DRE, and hand-counted paper ballots. Optical Scanning : With this system, you will recieve a card or sheet of paper, which you take over to a private table or booth. The card has the names of the various candidates and ballot measures printed on it. With a pen or pencil you fill in a little box or circle or the space between two arrows. In some places, you can check your card or paper right there at the polling place by feeding it into a card-reading machine to make sure you have voted the way you want to. When you are finished filling out all the cards. You may bring the cards over to a ballot box, where poll workers will show you how to put the cards in the box. Or in some places, you may feed the completed cards or papers into a computer device that counts the votes. When Election Day is over, the computer counts how many votes were cast for each candidate. Direct Recording Electronic (DRE) : This is the newest kind of system in use in the US. All the information about who and what you are voting for is on an electronic screen, like a TV or computer screen. The poll workers will give you a card that you slide into a device to start your voting session. These devices will show all of the candidates and ballot choices on one big screen. Often, with these bigscreen devices you push a button next to the name of the candidate you want to votefor (or yes or no on a ballot measure). On each screen or page, there will probably be one thing to vote on. For example, on one screen or page, you might vote for president. Then you might move to the next page to vote for senator. Often these small-screen devices have a touch screen, where you touch the screen next to the name of the person you want to vote for. Some of these machinese have a key pad, and/ or have a keyboard, so you can write in the name of someone you want to vote for. You let the system know you are finished voting by pushing a button, touching the screen or entering something on a keypad. The votes are stored on a computer device like a disk or a cartridge. At the end of the day, results from the disk or cartridge can be printed and read at the polling place or transferred to a central location. Paper Ballots : Paper ballots are one of the oldest ways of voting in America. They are still used on Election Day. Paper ballots are mostly used for absentee ballots. When you come to the polling place, you will get a paper ballot from the poll worker. You take it to the voting booth, and use a pen or pencil to mark a box next to your candidate and issue choices. You then drop the marked ballot into a sealed ballot box. At the end of the day, votes are counted by poll workers reading the ballots. You can learn more about voting systems by checking out the Elections Assistance Elections Assistance Commission's (EAC) (EAC) resource.",
+            "s": "https://www.vote411.org/north-carolina",
+            "t": "2024-11-19T01:54:12.895625"
+        }
+    ]
+}

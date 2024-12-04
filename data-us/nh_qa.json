@@ -1,0 +1,338 @@
+{
+    "state": "NH",
+    "num_questions": 55,
+    "num_answers": 55,
+    "contributor": "Deja Scott",
+    "questions": [
+        {
+            "q": "Who can register to vote?",
+            "a": "You can vote in local, state, and federal elections in New Hampshire if you are:            A United States citizen;           At least 18 years old;           A New Hampshire inhabitant domiciled in the town or ward where you seek to vote.  There is no minimum period you are required to have lived in NH before registering to vote. You may register as soon as you move into your new community.",
+            "s": "https://www.sos.nh.gov/elections/frequently-asked-questions/how-register-vote",
+            "t": 1726963200.0
+        },
+        {
+            "q": "What do I need to register to vote?",
+            "a": "To register to vote, you need to fill out a Voter Registration Form and provide proof of your citizenship, age, primary residence address (domicile), and identity in paper or electronic form.  Some examples of proof:  US Citizenship  Birth Certificate showing birth in the US, US Passport, naturalization papers Identity and Age  drivers license, government-issued photo ID NH Residence  photo ID with current NH address listed, rental agreement or utility bill listing current NH address, a note signed by a New Hampshire school official  A full list of acceptable forms of ID can be found here: https://www.sos.nh.gov/sites/g/files/ehbemt561/files/documents/2023-02/5-2023-voter-id-explanatory-document.pdf .pdf Icon  If you do not have the necessary proof, you can sign an affidavit form provided by your local election official. In elections, an affidavit is a written statement sworn to or affirmed before an election official, notary public, or justice of the peace.",
+            "s": "https://www.sos.nh.gov/elections/frequently-asked-questions/how-register-vote",
+            "t": 1726963200.0
+        },
+        {
+            "q": "If I attend college in New Hampshire, can I register to vote?",
+            "a": "If you are an out-of-state student attending college in NH, you can either vote in NH or your home state. You cannot do both (RSA 659:34)  More information on registering to vote as a student can be found here: If I attend college in New Hampshire, can I register to vote? .pdf Icon",
+            "s": "https://www.sos.nh.gov/elections/frequently-asked-questions/how-register-vote",
+            "t": 1726963200.0
+        },
+        {
+            "q": "Where do I register to vote?",
+            "a": "1)  Register at your local town/city clerk's office up to 6 to 13 days before the election.    2)  Register with your local supervisors of the checklist.  By law, the supervisors meet once, 6 - 13 days before each state election.  Check your town/city website or call your clerk's office for the date, time, and location of the supervisor's meeting. Click on the Secretary of States Voter Information Lookup to find your clerks contact information.  3)  Register at your polling place on election day.",
+            "s": "https://www.sos.nh.gov/elections/frequently-asked-questions/how-register-vote",
+            "t": 1726963200.0
+        },
+        {
+            "q": "Can I register absentee?",
+            "a": "You can register and vote absentee in any election if you are unable to vote in person because:      You will be out of town on election day; or     You have a religious observance, physical disability, or illness that prevents you from voting in person; or     You have an employment commitment or must care for an adult or child during the entire time polls are open; or     You are confined in a penal institution awaiting trial or serving time for a misdemeanor: or     You are a member of the Attorney Generals Address Confidentiality Program or you are protected by a domestic violence protective order. You must request confidential status with your town or city clerk.   To register to vote absentee, you should request an Absentee Voter Registration Affidavit, Voter Registration Form, and instructions from your town or city clerk. The completed Absentee Voter Registration Affidavit must be signed by a witness. You must return the completed affidavit, Voter Registration Form, and copies of documents showing evidence of qualifications to your town or city clerk.  If you are a qualified NH voter who lives overseas or serves in the military, you can vote through absentee ballot as a UOCAVA voter. Visit our UOCAVA page for more info. ",
+            "s": "https://www.sos.nh.gov/elections/frequently-asked-questions/how-register-vote",
+            "t": 1726963200.0
+        },
+        {
+            "q": "Do I have to register for each election?",
+            "a": "No. Once you have registered in your town or city ward, your name is added to the checklist for that town/ward for all future elections.  If you move to a different town or ward, you will need to re-register.",
+            "s": "https://www.sos.nh.gov/elections/frequently-asked-questions/how-register-vote",
+            "t": 1726963200.0
+        },
+        {
+            "q": "When is the last day I can register before a state election?",
+            "a": "You may register at your polling place on election day. Before the election, the last day to register is the last meeting of the supervisors of the checklist. By law, the supervisors meet once, 6-13 days before each state election. Check your town/city website, or call your clerk's office for the date, time, and location of the supervisor's meeting. Click here for a list of town/city clerks and their contact information.",
+            "s": "https://www.sos.nh.gov/elections/frequently-asked-questions/how-register-vote",
+            "t": 1726963200.0
+        },
+        {
+            "q": "Do I need a New Hampshire drivers license to register to vote and to vote?",
+            "a": "No.  To vote, you must be:  18 years of age or older on election day; A United States Citizen; Domiciled in the town or city ward where you plan to vote. RSA 654:1.  You should bring proof of these qualifications to register.  If you do not have proof or forgot to bring proof, then you can sign an affidavit attesting to any of these qualifications.  No one can be denied the right to register to vote or vote for being out of compliance with the requirements of the motor vehicle code.",
+            "s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voter-registration-and-motor-vehicle-law",
+            "t": 1726963200.0
+        },
+        {
+            "q": "Can I register to vote and vote where I attend College/University in New Hampshire?",
+            "a": "Yes.  In New Hampshire, a person attending College/University, or any other institution of learning, may register to vote and vote in the town or ward where he or she has established his or her domicile/residence while attending school. RSA 654:1.  New Hampshire law explicitly recognizes campus housing, including a dorm room, as a lawful domicile. RSA 654:1, I-a. Please see \"Registering to Vote in New Hampshire .pdf Icon\".  A student residing off campus, who establishes a domicile/residence in New Hampshire, may only register to vote in the town or ward where he or she resides. RSA 654:1.",
+            "s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voter-registration-and-motor-vehicle-law",
+            "t": 1726963200.0
+        },
+        {
+            "q": "I have registered to vote in New Hampshire, and I have an out-of-state drivers license, but I do not drive here. Do I need to do anything?",
+            "a": "No. Anyone registering to vote in New Hampshire is indicating that he or she has established a domicile/residence here. A person who establishes a domicile/residence in New Hampshire and does not drive in New Hampshire is not required to obtain a New Hampshire drivers license. RSA 259:24; RSA 259:25; RSA 263:1; RSA 263:35.",
+            "s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voter-registration-and-motor-vehicle-law",
+            "t": 1726963200.0
+        },
+        {
+            "q": "I have registered to vote in New Hampshire, but I have an out-of-state drivers license and I drive here. What should I do?",
+            "a": "Anyone registering to vote in New Hampshire is indicating that he or she has established a domicile/residence here. Once one establishes domicile/residence in New Hampshire, New Hampshire law requires that person to take certain actions. Under the motor vehicle code, a person has 60 days upon establishing domicile/residence to obtain a New Hampshire drivers license, if they drive here, and to register a vehicle, if they own a vehicle in the state.",
+            "s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voter-registration-and-motor-vehicle-law",
+            "t": 1726963200.0
+        },
+        {
+            "q": "What is a UOCAVA voter?",
+            "a": "UOCAVA stands for Uniformed and Overseas Citizens Absentee Voting Act. If you are a United States citizen, you are domiciled in New Hampshire (your primary residence is in NH) and you are serving in the military outside of NH or living overseas, you can vote with an absentee ballot as a UOCAVA voter.",
+            "s": "https://www.sos.nh.gov/elections/frequently-asked-questions/uniformed-and-overseas-voters",
+            "t": 1726963200.0
+        },
+        {
+            "q": "How do I register to vote and/or request a ballot?",
+            "a": "If you are a UOCAVA voter, you can request an absentee ballot using the Federal Post Card Application (FPCA) on www.fvap.gov.  Alternatively, your local town/city clerk can send you an FPCA by mail or email. Find your local clerk using the Secretary of States Voter Information Lookup site.  When you fill out the FPCA, if you are not already registered to vote, you can use the FPCA to register at the same time.  ",
+            "s": "https://www.sos.nh.gov/elections/frequently-asked-questions/uniformed-and-overseas-voters",
+            "t": 1726963200.0
+        },
+        {
+            "q": "How long is an FPCA valid?",
+            "a": "An FPCA requesting absentee ballots in a calendar year is valid for all subsequent state and municipal elections in that year and the Presidential Primary, even if it is scheduled for the following year (RSA 657:19-a).  You are urged to update your FPCA requests early in each calendar year you intend to vote and promptly after changing your mailing address because the information on file might be outdated or incomplete.",
+            "s": "https://www.sos.nh.gov/elections/frequently-asked-questions/uniformed-and-overseas-voters",
+            "t": 1726963200.0
+        },
+        {
+            "q": "How do I look up my voter registration information?",
+            "a": "You may review your registration info on the Voter Information Lookup site.  Enter your first name, last name, town or city, and date of birth as it appears on the voter checklist. You can also review your registration information by contacting your local supervisors of the checklist or local clerk. Submit an FPCA with the correct information if the information on file is inaccurate.    You can also use the Voter Information Lookup to check the status of your absentee ballot, from when you make the request to when the clerk receives your completed ballot.",
+            "s": "https://www.sos.nh.gov/elections/frequently-asked-questions/uniformed-and-overseas-voters",
+            "t": 1726963200.0
+        },
+        {
+            "q": "What happens after my FPCA is processed by my local clerk?",
+            "a": "If your clerk has already received the blank UOCAVA ballots from the state, they will send you an absentee ballot by mail or email depending on what you have requested. If the clerk has not yet received their ballots, they will send you your ballot as soon as they are received.  Once you have completed your absentee ballot, mail it back to your clerk following the instructions included with your ballot. ",
+            "s": "https://www.sos.nh.gov/elections/frequently-asked-questions/uniformed-and-overseas-voters",
+            "t": 1726963200.0
+        },
+        {
+            "q": "What is a Federal Write-in Absentee Ballot (FWAB)?",
+            "a": "The FWAB may be used to vote for federal offices only in general, special, and primary elections RSA 657:10-b. You can use this ballot to either write-in the candidates of your choice or, for a general election, the political party of your choice for federal offices only.  The FWAB is a limited option for UOCAVA voters who have an FPCA on file but do not have sufficient time to vote using a regular absentee ballot. The FWAB can only be counted if you have an FPCA on file and your marked absentee ballot will not be received by your local clerk by 5 p.m. on election day.    You can download an FWAB from www.fvap.gov or request one from your local clerk.",
+            "s": "https://www.sos.nh.gov/elections/frequently-asked-questions/uniformed-and-overseas-voters",
+            "t": 1726963200.0
+        },
+        {
+            "q": "What is the last day that an FPCA or FWAB can be received by my city or town clerk and be valid for an election?",
+            "a": "An FPCA will be processed for an election if it is received by 12 p.m. on the day before the election by mail or as an email attachment to your town/city clerk. However, please mail your completed ballot long enough before the election so there is time for delivery to the clerk. If you wait until close to election day, consider using expedited or overnight delivery.  If you sent a completed FWAB, it can be processed for counting as long as you have also filed an FPCA and received the FWAB through the U.S. mail or commercial carrier by 5:00 p.m. on an election day RSA 657:22.  Completed absentee ballots can only be mailed following your clerks instructions. Your ballot will not be counted if it is transmitted electronically to your clerk.",
+            "s": "https://www.sos.nh.gov/elections/frequently-asked-questions/uniformed-and-overseas-voters",
+            "t": 1726963200.0
+        },
+        {
+            "q": "What is a Federal Office Only (FOO) ballot?",
+            "a": "A FOO ballot can be used to vote for federal offices only. If you are a U.S. citizen abroad and you note on your FPCA that you are either uncertain if you will return to the U.S. or that you have never lived in the U.S., you will be sent a FOO ballot. FOO ballots must be received by your local clerk (for the last place you lived prior to moving overseas) by 5:00 p.m. on election day through U.S. mail or commercial carrier.  If you are a U.S. citizen who has never resided in the U.S., but your parent or legal guardian was last domiciled in New Hampshire, you can vote with a FOO ballot in New Hampshire.  Please consider mail delivery times when mailing your ballot.",
+            "s": "https://www.sos.nh.gov/elections/frequently-asked-questions/uniformed-and-overseas-voters",
+            "t": 1726963200.0
+        },
+        {
+            "q": "How do I determine whether there is time to vote as a UOCAVA voter?",
+            "a": "Your location and your proximity to a reliable mail facility affects how much time you have to return a ballot before an election. You should request your absentee ballot well ahead of time to avoid delivery delays. You can request that the ballot be sent to you through email, which is the fastest option.   Once you request an absentee ballot, you should regularly check the Secretary of States absentee ballot tracking link using the Voter Information Lookup tool to determine:  (a) whether the clerk has received the request; and  (b) whether the clerk has sent it to you.     As soon as absentee ballots are printed by the Secretary of States Office for state and federal elections, NH clerks generally send out them out within one business day of receiving requests from voters.    If the Voter Information Lookup site shows your request has been received but your ballot has not been sent out after one business day, contact your clerk and request the ballot be emailed to you if you have email access.",
+            "s": "https://www.sos.nh.gov/elections/frequently-asked-questions/uniformed-and-overseas-voters",
+            "t": 1726963200.0
+        },
+        {
+            "q": "As a member of the military, under what circumstances must I re-register?",
+            "a": "You must re-register if you choose to establish a new domicile anywhere other than where you are currently registered. If you wish to remain a New Hampshire voter, you are not obligated to re-register simply because you have been assigned to a different military base unless your name has been removed from the checklist during the 2021 checklist verification or the supervisors of the checklist sent you a 30-day letter and you did not respond.   You and your dependents can vote at your home of record, which is the address you had upon entry into the service, so long as you do not register to vote elsewhere.",
+            "s": "https://www.sos.nh.gov/elections/frequently-asked-questions/uniformed-and-overseas-voters",
+            "t": 1726963200.0
+        },
+        {
+            "q": "What is required for a polling place to be accessible?",
+            "a": "The New Hampshire Constitution, as amended by the voters of New Hampshire in 1984, requires that all polling places can be accessible and that absentee voting be available to voters who are unable to vote in person:  \"The general court shall provide by law for voting by qualified voters who at the time of the biennial or state elections, or of the primary elections therefor, or of city elections, or of town elections by official ballot, are absent from the city or town of which they are inhabitants, or who by reason of physical disability are unable to vote in person, in the choice of any officer or officers to be elected or upon any question submitted at such election.  Voting registration and polling places shall be easily accessible to all persons  including disabled and elderly persons who are otherwise qualified to vote in the choice of any officer or officers to be elected or upon any question submitted at such election.\"  New Hampshire Constitution, Part First - Bill of Rights, Article 11  Each polling place must comply with the Americans with Disabilities Act of 1990 and the New Hampshire building code. The Election Procedure Manual provides a comprehensive explanation of the requirements for accessibility, starting at page 117 (please reach out to SOS for a printable version of the manual). In general, a polling place must have:  A van-accessible parking space, if there is a parking lot. The lot must have the required number of accessible spaces. A clear and reasonably smooth route from the accessible parking spaces to the building entrance. If the route from parking or the sidewalk to the room where voting occurs includes a significant change in elevation, a ramp or elevator may be required. The accessible entrance to the building must be clearly marked. The accessible entrance must accommodate a wheelchair and be easily opened by a person with a disability. The route from the entry door to the voting area must be clearly marked and free of obstructions. An accessible voting booth with a shelf or table. Tabletop voting screens, which allow a voter to sit at a table and mark a ballot. The New Hampshire Attorney General enforces the election laws, including the requirements for accessible voting. The New Hampshire Attorney Generals Office uses a checklist to inspect polling places on Election Day. The checklist provides a description of what a polling place must have to be accessible and addresses other legal requirements for polling places.",
+            "s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voters-disabilities",
+            "t": 1726963200.0
+        },
+        {
+            "q": "How does New Hampshire make the ballot marking process accessible?",
+            "a": "At each state election with a federal office on the ballot, each polling place is equipped with an accessible voting system to assist voters with a disability to independently and privately mark a ballot. A tablet computer attached to a printer allows a voter to produce a marked ballot using either an audio or an enhanced visual interface. Local election officials provide the voter with instructions on using the system. The voter then may mark his or her ballot independently and privately.",
+            "s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voters-disabilities",
+            "t": 1726963200.0
+        },
+        {
+            "q": "Can I choose to have another person help me mark my ballot?",
+            "a": "A voter who needs assistance marking his or her ballot at the polling place may obtain assistance from an election official or a person of the voters choosing:  RSA 659:20 Assistance in Voting. Any voter who declares to the moderator under oath that said voter needs assistance marking his or her ballot shall, upon the voters choice and request after the moderator has informed the voter of the accessible voting options that are available at the polling place, receive the assistance of one or both of the inspectors of election detailed for that purpose by the moderator or of a person of the voter's choice provided that the person is not the voter's employer or union official. Such person so assisting shall be sworn, shall mark the ballot as directed by said voter, and shall thereafter give no information regarding the same. Such person so assisting shall leave the space within the guardrail with the voter",
+            "s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voters-disabilities",
+            "t": 1726963200.0
+        },
+        {
+            "q": "Can I vote at the polling place if I am unable to enter the building due to my disability?",
+            "a": "Yes. All polling places must be accessible. However, should a voter be unable to enter the polling place to vote due to disability, the voter may have an application for an absentee ballot, an affidavit envelope, and an absentee ballot delivered to the voter in a vehicle outside the polling place. The election official will give the voter an opportunity to privately and independently mark the ballot and complete the affidavit required of all absentee voters. An election official will take the marked absentee ballot, sealed in the affidavit envelope, into the polling place. The absentee ballot will be processed and counted in the same manner as all other absentee ballots.  659:20-a. Assistance in Voting; Disabled Voter. Any voter, after appearing at the polling place location prior to the closing of the polls to vote in person, who declares to the moderator under oath that said voter is unable to access a polling place due to disability shall, upon the voters request, have the required documents delivered to the voter outside the guardrail by the town or ward clerk or one of his or her assistants. The absentee ballot delivered by the town or ward clerk shall be processed using the same procedures as any other absentee ballot except that the cutoff time listed in RSA 657:22 shall not apply.  Voting by absentee ballot in this manner is for use only in an emergency situation as a stop gap option in the event that an unforeseen accessibility issue arises.",
+            "s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voters-disabilities",
+            "t": 1726963200.0
+        },
+        {
+            "q": "If I have a disability, can I receive assistance in marking an absentee ballot?",
+            "a": "Yes. An absentee voter with a disability may receive assistance in voting from any person.       Any person who assists a voter with a disability in executing the application for an absentee ballot or the affidavit on the absentee ballot envelope shall make a statement acknowledging the assistance on the application form [and on the affidavit] to assist the moderator when comparing signatures on election day  RSA 657:4; RSA 657:7, II(b);RSA 657:17.       A different person may assist the voter with the application than the person who assists the voter with the affidavit.       The person assisting the voter must complete this statement, which is printed on the application and the affidavit: I attest that I assisted the applicant in executing this form because he/she has a disability. Signature_______________ Date____________",
+            "s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voters-disabilities",
+            "t": 1726963200.0
+        },
+        {
+            "q": "Can I vote in a primary if I am an undeclared voter?",
+            "a": "Yes. An undeclared voter may vote in a state primary or a presidential primary. You will be required to choose either a Democratic or Republican ballot when you go to vote.  The last day a registered voter can change their party affiliation before the 2024 Presidential Primary is October 6, 2023. The last day a registered voter can change their party affiliation before the 2024 State Primary is June 4, 2024.  Supervisors are required to meet on that day at least between 7:00 - 7:30 p.m. to accept party changes.",
+            "s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voting-party-primaries",
+            "t": 1726963200.0
+        },
+        {
+            "q": "How do I return to undeclared status after voting in a state primary or presidential primary?",
+            "a": "When you vote on a party ballot in a state or presidential primary, you become a registered member of that party unless you fill out a card or sign a list to return to undeclared status with the supervisors of the checklist before leaving the polling place.",
+            "s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voting-party-primaries",
+            "t": 1726963200.0
+        },
+        {
+            "q": "How do I change my party affiliation?",
+            "a": "You may change your party affiliation with the clerk of the town or city where you are domiciled or at any scheduled meeting of the supervisors of the checklist except for during the period of time between the first day of the filing period for the primary election and/or the presidential primary election and the date of the primary election itself. You will be required to choose either a Democratic or Republican ballot when you go to vote.  The last day a registered voter can change their party affiliation before the 2024 Presidential Primary is October 6, 2023.  The last day a registered voter can change their party affiliation before the 2024 State Primary is June 4, 2024.  Supervisors of the checklist are required to meet on that day at least between 7:00-7:30 p.m. to accept party changes.",
+            "s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voting-party-primaries",
+            "t": 1726963200.0
+        },
+        {
+            "q": "Where can I look up my voter registration status?",
+            "a": "Voters that have provided their date of birth on a voter registration form may go to the Secretary of States Voter Information Lookup. The person must enter their first name, last name, town or city, date of birth, and complete the security entry. If the name, town or city, and date of birth are the same as what was provided in their voter registration form, their name, voter ID, and party affiliation, if any, will be displayed.",
+            "s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voting-party-primaries",
+            "t": 1726963200.0
+        },
+        {
+            "q": "What if my party affiliation that is displayed on the Secretary of States website is not correct?",
+            "a": "Voters should contact their local supervisors of the checklist. Click here for Voter Information Lookup.",
+            "s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voting-party-primaries",
+            "t": 1726963200.0
+        },
+        {
+            "q": "What are the official political parties in the state?",
+            "a": "At this time, the official political parties in the State of New Hampshire are the Democratic and Republican parties.  Party shall mean any political organization which at the preceding state general election received at least 4 percent of the total number of votes cast for any one of the following: the office of governor or the offices of United States Senators. RSA 652:11",
+            "s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voting-party-primaries",
+            "t": 1726963200.0
+        },
+        {
+            "q": "Does the state website feature contact information and/or links to official political party web sites?",
+            "a": "No.",
+            "s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voting-party-primaries",
+            "t": 1726963200.0
+        },
+        {
+            "q": "What if I am observing a religious holiday on the day of an election?",
+            "a": "Any person who cannot appear in public on election day because of observance of a religious commitment may request an absentee ballot from their town or city clerk.",
+            "s": "https://www.sos.nh.gov/elections/frequently-asked-questions/voting-party-primaries",
+            "t": 1726963200.0
+        },
+        {
+            "q": "What is the Absentee Ballot Process?",
+            "a": "Absentee ballots are available from your local official approximately 30 days before an election. A person may vote by absentee ballot if:  They will be absent from the city/town in which they are qualified to vote on the day of an election You are physically disabled and unable to vote in person You are a member (or a spouse or a dependent of a member) of the uniformed services who will be absent on election day Your observance of a religious commitment prevents you from voting in person You are unable to appear at any time during the polling hours at your polling place because of a work obligation that requires you to remain physically at work or be in transit to or from work from the time the polls open until after the polls close. Work can include unpaid care of children or infirm adults. To request an absentee ballot, you may download the application. You can also submit a request in writing. You must include all the information that is on the application. Don't forget your name, voting address, mailing address and your signature. You can return your absentee ballot request form through the mail or in person. All absentee ballots must be received by 5pm on Election Day to be counted. You can sign up to track your absentee ballot on your State website. Absentee ballots begin being counted on Election Day. If you have any questions please contact your local official.  Those who requested an absentee ballot but end up voting in person: Do not mail a ballot and vote in person. For specifics, you can find your local local official contact info here.",
+            "s": "https://www.vote411.org/new-hampshire#absentee-ballot-process",
+            "t": 1726963200.0
+        },
+        {
+            "q": "Where do I find Campaign Finance Information?",
+            "a": "For information on federal campaign contributions, please visit Open Secrets.  For information on state campaign contributions, please visit your state's resource.",
+            "s": "https://www.vote411.org/new-hampshire#campaign-finance-information",
+            "t": 1726963200.0
+        },
+        {
+            "q": "Where do I find Candidate and Ballot Measure Information?",
+            "a": "To see a list of available races, visit the race index.",
+            "s": "https://www.vote411.org/new-hampshire#candidate-and-ballot-measure-information",
+            "t": 1726963200.0
+        },
+        {
+            "q": "Where are Drop Boxes?",
+            "a": "You can hand-deliver your ballot to your local city or town clerk. You can look up the address of your clerk here. You can also drop off your ballot at your assigned polling location on Election Day. ",
+            "s": "https://www.vote411.org/new-hampshire#drop-boxes",
+            "t": 1726963200.0
+        },
+        {
+            "q": "When is Early Voting?",
+            "a": "There is no early voting.",
+            "s": "https://www.vote411.org/new-hampshire#early-voting",
+            "t": 1726963200.0
+        },
+        {
+            "q": "What are the Election Dates?",
+            "a": "The next election dates can be found here https://www.vote411.org/new-hampshire.  Contact your local Town or City Clerk for more information.",
+            "s": "https://vote411.org/new-hampshire#election-dates",
+            "t": 1726963200.0
+        },
+        {
+            "q": "What are the Eligibility Requirements?",
+            "a": "To be eligible to vote you must be:  18 years of age or older on Election Day (you may register at 17 years old if you are 18 years old by the next election date) A U.S. citizen Domiciled in New Hampshire Incarcerated Voters & Returning Citizens:   In New Hampshire, you only lose your right to vote if you are currently incarcerated for a felony conviction. If you lost your voting rights because of a conviction, you could register to vote immediately after release. Your voting rights are not restricted by pretrial detention, misdemeanors, probation, or parole.   Voters without traditional residence:   Citizens don't need to possess a \"permanent home\" for voter registration. A citizen can provide an alternative description of their residence, even if they are experiencing homelessness, as long as it enables the authorities to identify and assign a voting precinct to them. This precinct assignment ensures that the voter receives the appropriate ballot. The mailing address on their registration form can be a PO box, local shelter, advocacy organization, outreach center, or the home of someone who will accept mail for them. In New Hampshire, you must provide proof that your domicile is in the town or ward where you intend to vote. Proof can be either by a document or by affidavit. This could be a note from a homeless shelter or other service provider located in the town or ward where you will vote that confirms they will receive US mail sent to you at that address. ",
+            "s": "https://www.vote411.org/new-hampshire#eligibility-requirements",
+            "t": 1726963200.0
+        },
+        {
+            "q": "What ID is Needed for Voter Registration?",
+            "a": "When registering to vote, you are required to provide proof of identity, age, citizenship, and domicile (where you live).  Proof of identity, age, citizenship and domicile can be shown by providing one or more of the below options:  Current driver's license or non-driver's license Current passport Current military photo ID Naturalization papers Student ID Employee ID Birth Certificate Rental lease Evidence of a home purchase Vehicle registration Tax bill Utility bill Proof that you've asked the Post Office to use your street address as your mailing address Any other document that reasonably establishes your identity and local domicile Identity, age, and citizenship can be proven by affidavit if you do not have documents for these.",
+            "s": "https://www.vote411.org/new-hampshire#id-needed-for-voter-registration",
+            "t": 1726963200.0
+        },
+        {
+            "q": "What ID is Needed for Voting?",
+            "a": "A photo ID will be requested of you, but you may sign a simple affidavit and have your photo taken.  Acceptable Federal and State Photo IDs (may be expired within the last five years, unless you are over 65 and then no expiration restrictions apply)  Driver's license issued by any state Non-driver's photo ID from any state US Armed Services photo ID US passport or passport card NH photo ID issued by the DMV for voting purposes only Student Photo IDs (issued or expiration date within 5 years)  NH schools including public and private colleges and universities, community colleges and licensed career schools Public high schools and private high schools that are approved by the NH Department of Educations Other  A photo ID deemed acceptable by a Supervisor of the Checklist, Moderator or Town or City Clerk Verification of a person's identity by a Supervisor of the Checklist, Moderator or Town or City Clerk An affidavit filled out and signed by the voter and an authorized election officer If you are over 65 years old you may use a photo ID regardless of its expiration date. Voters younger than 65 years old may not use a photo ID that has been expired more than 5 years.  If you do not have an approved photo ID you may get a free photo ID for voting purposes only by presenting a voucher from your town/city clerk to any New Hampshire DMV office that issues identification.  Voters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/new-hampshire#id-needed-for-voting",
+            "t": 1726963200.0
+        },
+        {
+            "q": "When are Official Results available?",
+            "a": "Official results are never available on Election Day. Election officials are working around the clock to count an unprecedented number of ballots, and its essential that they take the time to make sure every vote is counted.  Absentee ballots begin being counted on Election Day.  Official election results will be uploaded on New Hampshires Secretary of State website as they become available.",
+            "s": "https://www.vote411.org/new-hampshire#official-results",
+            "t": 1726963200.0
+        },
+        {
+            "q": "What are the voting rights and processes for overseas and military voters?",
+            "a": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation.  If you have additional questions about elections and voting overseas you can use our state specific elections official directory or contact the Overseas Vote Foundation.",
+            "s": "https://www.vote411.org/new-hampshire#overseas-and-military-voters",
+            "t": 1726963200.0
+        },
+        {
+            "q": "Where can I find Poll Worker Information?",
+            "a": "You can make sure we have safe, fair, and efficient elections for all. Become a poll worker today!  In order to be a poll worker in New Hampshire, you must:  Be registered to vote in New Hampshire Be at least 18 years of age Be entitled to compensation Political affiliation required Be a resident of the voting district Complete required training Students who are 17 years of age may be appointed at the central polling place in state elections To sign up, contact your local board of elections.",
+            "s": "https://www.vote411.org/new-hampshire#poll-worker-information",
+            "t": 1726963200.0
+        },
+        {
+            "q": "What are the Polling Place Hours?",
+            "a": "The polling place hours of operation vary in New Hampshire. In general, polling places open between 6:00 am and 11:00 am and close at 7:00 pm. Contact your local election officials for hours in your community.",
+            "s": "https://www.vote411.org/new-hampshire#polling-place-hours",
+            "t": 1726963200.0
+        },
+        {
+            "q": "What is a Polling Place Locator?",
+            "a": "You can find your polling place by utilizing your state resource.  If you have further questions on your polling place location, please contact your local official.",
+            "s": "https://www.vote411.org/new-hampshire#polling-place-locator",
+            "t": 1726963200.0
+        },
+        {
+            "q": "What is the Primary Election Process?",
+            "a": "New Hampshire has a hybrid primary system. If you are registered with a particular party, you must vote in that party's primary. However, if you are unaffiliated with any political party, you can declare affiliation with a party at the polls in order to vote in that partys primary.  If you have any questions about your states primary election, please contact your local election officials.",
+            "s": "https://www.vote411.org/new-hampshire#primary-election-process",
+            "t": 1726963200.0
+        },
+        {
+            "q": "Is there Provisional Voting?",
+            "a": "Because there is Election Day registration, there is no provisional ballot process.",
+            "s": "https://www.vote411.org/new-hampshire#provisional-voting",
+            "t": 1726963200.0
+        },
+        {
+            "q": "Are there Provisions for Voters with Disabilities?",
+            "a": "The state of New Hampshire requires that all polling places be accessible and that absentee voting be available to voters who are unable to vote in person.   Suppose a voter is unable to enter the polling place. In that case, an election official will assist the voter in casting their ballot from a vehicle parked curbside using the Absentee Voter procedure. Voting absentee in this manner is for use only if an unforeseen accessibility issue arises.  The Application for an Accessible Electronic Absentee Ballot can be read with NVDA and JAWS screen readers using Adobe Reader; a free download is available here. To fill out the Application, download it and open it in Adobe.  For more information, you can utilize the American Association of People With Disabilities (AAPD) resource.",
+            "s": "https://www.vote411.org/new-hampshire#provisions-for-voters-with-disabilities",
+            "t": 1726963200.0
+        },
+        {
+            "q": "What is the Registration Deadline?",
+            "a": "You can also register to vote on Election Day.  If you would like to be listed in the registration database before Election Day, your registration form must be received by your local Board of Elections 6-13 days before Election Day (depending on local schedules).  You may register to vote at the polls on Election Day. You will be asked to show proof of age, citizenship and address in order to register.  For more information about registering to vote, please contact the Secretary of State.",
+            "s": "https://www.vote411.org/new-hampshire#registration-deadline",
+            "t": 1726963200.0
+        },
+        {
+            "q": "Is thereTime Off To Vote?",
+            "a": "Time off to vote is subject to the employer, there is no requirement for employers to grant time off to vote for employees.  ",
+            "s": "https://www.vote411.org/new-hampshire#time-off-to-vote",
+            "t": 1726963200.0
+        },
+        {
+            "q": "How do I Verify Voter Registration?",
+            "a": "To verify your voter registration status",
+            "s": "https://www.vote411.org/new-hampshire#verify-voter-registration",
+            "t": 1726963200.0
+        },
+        {
+            "q": "What Voting Machines are used?",
+            "a": "The voting systems used in New Hampshire are optical scan and paper ballots.  Optical Scan: With this system, you will receive a card or sheet of paper, which you take over to a private table or booth. The card has the names of the various candidates and ballot measures printed on it. With a pen or pencil you fill in a little box or circle or the space between two arrows. When you are finished filling out all the cards, you may bring the cards over to a ballot box, where poll workers will show you how to put the cards in the box. Or in some places, you may feed the completed cards or papers into a computer device that checks your card or paper right there at the polling place to make sure you have voted the way you want to and counts the votes.  Paper Ballots: Paper ballots are one of the oldest ways of voting in America. They are still used in a few places on Election Day. When you come to the polling place, you will get a paper ballot from the poll worker. You take it to the voting booth, and use a pen or pencil to mark a box next to your candidate and issue choices. You then drop the marked ballot into a sealed ballot box.  You can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource.",
+            "s": "https://www.vote411.org/new-hampshire#voting-machines",
+            "t": 1726963200.0
+        }
+    ]
+}

@@ -1,0 +1,278 @@
+{
+    "state": "CO",
+    "num_questions": 45,
+    "num_answers": 45,
+    "contributor": "Bharat",
+    "questions": [
+        {
+            "q": "What am I voting for on the 2024 General Election Ballot?",
+            "a": "Cadidates for federal office, and some state and local candidates. In addition, statewide ballot questions will be on your ballot and, depending on where you live, local questions as well.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "t": "2024-11-15T19:46:25.595465"
+        },
+        {
+            "q": "Who can vote in a General Election?",
+            "a": "Any registered voter in the state of Colorado can vote in the 2024 General Election.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "t": "2024-11-15T19:46:25.595465"
+        },
+        {
+            "q": "What is the voter registration deadline?",
+            "a": "Voters may register through Election Day (November 5th). Please note that how you register to vote will impact how you receive your ballot. To receive your ballot by mail: Register to vote or update your voter registration online at www.GoVoteColorado.gov through the 8th day before Election Day; Submit an application through the mail, at a voter registration agency, or at a local driver's license examination facility through the 8th day before Election Day; or Submit an application through a voter registration drive no later than 22 days before Election Day. If you miss the above deadlines, you may register in-person at a voter service and polling center in your county through Election Day.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "t": "2024-11-15T19:46:25.596463"
+        },
+        {
+            "q": "Can I receive a ballot to vote by mail?",
+            "a": "Every voter in Colorado receives a mail ballot. The ballot will be sent to the mailing address you provided for your voter registration file. To check the address on file, or to make any changes to your voter registration visit www.GoVoteColorado.gov.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "t": "2024-11-15T19:46:25.596463"
+        },
+        {
+            "q": "When do ballots get mailed out and when will I get mine?",
+            "a": "Mail ballots are mailed out 22 days before the election. You should receive your ballot between 20 to 15 days before the election, depending on when your county clerk sent it out and the timing of the postal service.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "t": "2024-11-15T19:46:25.596463"
+        },
+        {
+            "q": "How do I return my ballot?",
+            "a": "Mail ballots must be received by the county clerk and recorder no later than 7:00 PM on Election Day. The best option for voters is to drop-off ballots at designated county drop-boxes. You can find drop-box locations on your voter instructions that are mailed to you with your ballot or reach out to your county for more information on drop-box locations. You can also return your ballot by mail or return in-person at a Voter Service and Polling Center (VSPC) location. Postmarks do not count; ballots must be in the hands of the county clerk by 7:00 PM on Election Day in order to be counted.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "t": "2024-11-15T19:46:25.596463"
+        },
+        {
+            "q": "Can I still vote in-person?",
+            "a": "Yes, there will be Voter Service and Polling Centers (VSPCs) open for in-person voting and other voter services such as voter registration. If you want to vote at an in-person location, you can find your polling location by visiting www.GoVoteColorado.gov.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "t": "2024-11-15T19:46:25.596463"
+        },
+        {
+            "q": "If I choose not to vote on a candidate or question, will my other votes still be counted?",
+            "a": "Yes. If you choose not to vote for a candidate or a ballot question, the rest of the votes on your ballot will be counted.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "t": "2024-11-15T19:46:25.596463"
+        },
+        {
+            "q": "What is a write-in candidate?",
+            "a": "A write-in candidate is someone whose name does not appear on the ballot but has filed the proper paperwork with the designated election official to run as a write-in candidate. Votes for that candidate that are written in can be counted. If a voter writes in a name for a candidate that has not filled out and turned in the proper paperwork, the vote will not be counted.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "t": "2024-11-15T19:46:25.596463"
+        },
+        {
+            "q": "How do I make sure my mail ballot will be counted?",
+            "a": "Every valid mail ballot is counted. To be sure your ballot is valid, follow the instructions on the mail ballot envelope. This includes making sure your ballot is signed when it is returned. For your ballot to count, your county clerk must receive your ballot no later than 7:00 PM on Election Day. If you are unsure whether your ballot will arrive through the mail on time, drop it off in-person at either a drop-box or a drop-off location. There are drop-box and drop-off sites located throughout your county. Drop box locations are open 24 hours per day. If you have trouble finding a drop-box or drop-off location, contact your county clerk and recorder or visit www.GoVoteColorado.gov. If you are registering to vote for the first time, you may need to provide a copy of your ID with your mail ballot. These instructions will be provided by your county clerk with your mail ballot.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "t": "2024-11-15T19:46:25.596463"
+        },
+        {
+            "q": "Where can I vote early in-person and when are these locations open?",
+            "a": "To find locations where you can vote early in-person, please visit www.GoVoteColorado.gov or contact your county clerk and recorder.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "t": "2024-11-15T19:46:25.596463"
+        },
+        {
+            "q": "What if I mailed in my ballot and I do not think that it will be received in time?",
+            "a": "In order to track the status of your mail ballot, please sign up for BallotTrax, a system that will allow you to track your ballot from sent to accepted. Go to ballottrax.coloradosos.gov to sign up. If you have questions about the status of your mail ballot, please contact your local county clerk and recorder. Please be advised that no voter in Colorado is permitted to vote twice in an election.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "t": "2024-11-15T19:46:25.596463"
+        },
+        {
+            "q": "What should I do if I experience intimidation at the polls?",
+            "a": "If you experience intimidation at the polls, please reach out to the Colorado Department of State at 303-894-2200. Colorado Secretary of State | 1700 Broadway, Suite 550, Denver CO 80290 | 303-894-2200 Terms & conditions Accessibility statement Browser compatibility Terms & conditions Accessibility statement Browser compatibility",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "t": "2024-11-15T19:46:25.596463"
+        },
+        {
+            "q": "What is the purpose of a Primary Election and a General Election?",
+            "a": "The State of Colorado holds regularly scheduled state elections every two years. During a regularly scheduled election year, a Primary election is held in June, followed by the General election in November. During a Presidential Election year, a presidential primary is also held in March. The purpose of the Primary election is to nominate candidates from each party's primary ballot for the November General Election. The winner(s) of the November General Election are then elected to hold office. For more information on Primary Elections, see the Primary Election FAQ page.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "t": "2024-11-15T19:46:25.890511"
+        },
+        {
+            "q": "What is a Coordinated Election?",
+            "a": "A coordinated election is one that the county clerk and recorder conducts on behalf of two or more political subdivisions that are hosting an election on the same day in November. Specifically, for a coordinated election to take place, the election must: Have more than one political subdivision holding an election (state, county, municipality, school district, or special district); Take place on the same day in November; and The eligible voters either are the same for each election or live in overlapping subdivision boundaries. Generally, the November odd-year election is referred to as the coordinated election. And, like all elections in Colorado, coordinated elections are conducted by mail ballot.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "t": "2024-11-15T19:46:25.890511"
+        },
+        {
+            "q": "Where can I find Federal and State election laws?",
+            "a": "Federal and State election laws and the Secretary of State election rules are available on the Election Laws, Rules, & Resources page.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "t": "2024-11-15T19:46:25.890511"
+        },
+        {
+            "q": "Where can I find a list of all the relevant election dates?",
+            "a": "The best resource is the current Elections Calendar. The Elections Calendar has all of the relevant dates for the election cycle, and helpful citations to relevant Colorado law.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "t": "2024-11-15T19:46:25.890511"
+        },
+        {
+            "q": "How do I get my ballot?",
+            "a": "Every voter in Colorado receives a mail ballot. Your mail ballot will be sent to the mailing address you provided when you registered to vote. To check what address you provided when registering to vote, please visit www.GoVoteColorado.gov. If you wish to vote in-person, you may do so at a voter service and polling center. To find your local polling locations, please visit www.GoVoteColorado.gov.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "t": "2024-11-15T19:46:25.890511"
+        },
+        {
+            "q": "How do I know if my mail ballot has been mailed to me?",
+            "a": "There are a few ways for you to check the status of your mail ballot. BallotTrax is a free service that you can sign-up for that allows you to track the status of your mail ballot. Once enrolled you will receive notifications by phone, email, or text updating you when your mail ballot is sent, received, and counted. To sign-up simply go to Colorado.BallotTrax.net and enter your first name, last name, date of birth, and residential zip code. You will be prompted to select methods of notification, your language preference, and notification hours. Go to www.GoVoteColorado.gov. You can then log into your voter record. Once you are logged into your voter record, it should show you whether your mail ballot has been sent. If you run into any snags, are a confidential voter, or have questions about the status of your mail ballot, please contact your local county clerk and recorder.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "t": "2024-11-15T19:46:25.890511"
+        },
+        {
+            "q": "If I choose not to vote on a candidate or question, will my other votes still be counted?",
+            "a": "Yes. If you choose not to vote for a candidate or a ballot question, the rest of the votes on your ballot will be counted.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "t": "2024-11-15T19:46:25.890511"
+        },
+        {
+            "q": "How do I make sure my mail ballot will be counted?",
+            "a": "Every valid mail ballot is counted. To be sure your ballot is valid, follow the instructions on the mail ballot envelope. This includes making sure your ballot envelope is signed when it is returned. For your ballot to count, your county clerk must receive your ballot no later than 7:00 PM on Election Day. If you are unsure whether your ballot will arrive through the mail on time, drop it off in-person at either a drop-box or a drop-off location. There are drop-box and drop-off sites located throughout your county. Drop box locations are open 24 hours per day. If you have trouble finding a drop-box or drop-off location, contact your county clerk and recorder. If you are registering to vote for the first time, you may need to provide a copy of your ID with your mail ballot. These instructions will be provided by your county clerk with your mail ballot.",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "t": "2024-11-15T19:46:25.890511"
+        },
+        {
+            "q": "My number is registered on the \"Do Not Call\" list, but I still receive calls from candidates and political campaigns. Is this legal?",
+            "a": "Yes. The law makes an exemption for \"political calls\" when defining \"telephone solicitation.\" Specifically, Section 6-1-903(10) of the Colorado Revised Statutes, states: (a) \"Telephone solicitation\" means any voice, telefacsimile, graphic imaging, or data communication, including text messaging communication over a telephone line or through a wireless telephone for the purpose of encouraging the purchase or rental of, or investment in, property, goods, or services. (b) Notwithstanding [the above definition], \"telephone solicitation\" does not include communications: (V) Made for the sole purpose of urging support for or opposition to a political candidate or ballot issue; or (VI) Made for the sole purpose of conducting political polls or soliciting the expression of opinions, ideas, or votes. In addition to the political phone calls, there is an increase in the volume of political literature sent through the mail. There is no complaint or removal process established for political calls or mailings. One option is contacting your county clerk and recorder and requesting that your phone number be removed from your voter registration information. But this will NOT guarantee that your phone number will not be obtained from other sources. Colorado Secretary of State | 1700 Broadway, Suite 550, Denver CO 80290 | 303-894-2200 Terms & conditions | Accessibility statement | Browser compatibility Terms & conditions | Accessibility statement | Browser compatibility",
+            "s": "https://www.sos.state.co.us/pubs/elections/FAQs/FAQsMain.html",
+            "t": "2024-11-15T19:46:25.890511"
+        },
+        {
+            "q": "What is the process for voting by mail?",
+            "a": "2024 General Election: Important Return DatesIn Colorado, all ballots must be received by the county clerk by 7:00 p.m. on Election Day, November 5th. Voters are encouraged to use designated drop-off locations, drop boxes, or mail their ballots in advance to ensure timely delivery.All voters can receive a mail ballot before each Election Day. If you need to update the address you want you ballot mailed to, use the online tool to fill out the Voter Registration Application and update your address. You can sign up to track your mail ballot on your Secretary of State website.If you vote in-person, you may return your mail ballot and vote in-person at a voter service and polling center. Even if you do not return your mail ballot you may still vote in person. Once you vote in person your county clerk will not accept for counting any ballot that was mailed to you. The deadline to vote in-person is 7:00 PM on Election Day.If you are a first time voter who registers by mail to vote in Colorado, you are required to submit one of the forms of identification (listed below) with your application. If you have not already done so, you must also submit a copy of one of these forms of identification when you return your absentee ballot application. DO NOT include original documents with the application. You must place the copy of ID in the outer envelope of the ballot, not inside the ballot itself. Please submit a copy of one of the following forms of identification:- A valid Colorado driver's license- A valid Colorado Department of Revenue ID card- A valid pilot's license issued by the Federal Aviation Administration- A valid U.S. Military ID card with a photograph- A valid Medicare or Medicaid card`- Certified documentation of naturalization- A valid U.S. passport- A valid student ID card with a photograph- A valid identification card issued by a federally recognized tribal government certifying tribal membership- Valid employee identification with a photograph issued by the U.S. government, Colorado state government, or any county, municipality, board, authority, or other political subdivision of the state- A valid veteran identification card issued by the U.S. department of veterans affairs veterans health administration with a photograph of the eligible elector.- A copy of a current utility bill, bank statement, government check, paycheck, or another government document that shows your name and address. A cable bill, telephone bill or documentation from a Colorado public institution of higher education containing at least your name, date of birth, and legal residence address, or a paycheck from a government institution are also sufficient forms of IDNote: Some forms of ID may not contain an address. If your address appears on the identification, the address must be in Colorado.Ballots are mailed 22 days before Election Day, or three days after the County Clerk receives the request for a mail-in ballot.To vote, fill out your ballot, sign it and return to your County Clerk.Overseas citizens and U.S. military personnel can find information on how to register to vote and request an absentee ballot at the Overseas Vote Foundation.",
+            "s": "https://www.vote411.org/colorado",
+            "t": "2024-11-18T17:29:24.119407"
+        },
+        {
+            "q": "How can I fix issues with my mail-in ballot?",
+            "a": "The deadline to correct a signature discrepancy, provide a missing signature, or submit a missing ID for your mail-in or provisional ballot to be counted in the 2024 General Election is November 13, 2024. If your local election official notifies you that your mail-in ballot was rejected due to signature discrepancies or other issues, you may use the TXT2Cure platform to help resolve it. Find out more here. You can track your ballot using your states online tool.",
+            "s": "https://www.vote411.org/colorado",
+            "t": "2024-11-18T17:29:24.119407"
+        },
+        {
+            "q": "Where can I find information about campaign finance?",
+            "a": "For more information on federal campaign contributions, please visit Open Secrets.For more information on state campaign contributions, please visit your state's resource.",
+            "s": "https://www.vote411.org/colorado",
+            "t": "2024-11-18T17:29:24.119407"
+        },
+        {
+            "q": "Where can I find information about candidates and ballot measures?",
+            "a": "Information on local, state and federal candidates and ballot measures may be available here.",
+            "s": "https://www.vote411.org/colorado",
+            "t": "2024-11-18T17:29:24.119407"
+        },
+        {
+            "q": "Where are ballot drop boxes located?",
+            "a": "Please consider returning your mailed ballot through the mail or to a county drop box if you are able. If you are unsure whether your ballot will arrive through the mail on time, drop it off in-person at either a drop-box or a drop-off location. There are drop-box and drop-off sites located throughout your county. Drop box locations are open 24 hours per day. If you have trouble finding a drop-box or drop-off location, contact your county clerk and recorder.",
+            "s": "https://www.vote411.org/colorado",
+            "t": "2024-11-18T17:29:24.119407"
+        },
+        {
+            "q": "When is early voting available?",
+            "a": "Early voting is available and no excuse is required. Early voting is available during regular business hours for 8 days before a primary election and for 15 days before a General election.Note: Colorado conducts elections primarily by mail. Each county clerk and recorder shall provide one or more early voting polling place(s), each of which shall be accessible to persons with disabilities. Information regarding early voting availability, locations, and schedules may be obtained by visiting your county website or by contacting your county clerk and recorder's office.",
+            "s": "https://www.vote411.org/colorado",
+            "t": "2024-11-18T17:29:24.119407"
+        },
+        {
+            "q": "When are the upcoming election dates?",
+            "a": "Your next election date can be found here https://www.vote411.org/coloradoContact your local Local Clerk & Recorder for more information.",
+            "s": "https://www.vote411.org/colorado",
+            "t": "2024-11-18T17:29:24.119407"
+        },
+        {
+            "q": "What are the eligibility requirements to vote?",
+            "a": "To be eligible to vote, you must be:- A U.S. Citizen- 16 years of age, but you must be at least 18 years old to vote in another election- A Colorado resident for at least 22 days before an electionIf you're a Colorado resident who has not lived in the state for at least 22 days right before a presidential general election, you can still cast a provisional ballot. This ballot will only include your vote for president and vice president.- If you're a Colorado resident who has not lived in the state for at least 22 days right before a presidential general election, you can still cast a provisional ballot. This ballot will only include your vote for president and vice president.- Not serving a sentence for a felony conviction- If you're a Colorado resident who has not lived in the state for at least 22 days right before a presidential general election, you can still cast a provisional ballot. This ballot will only include your vote for president and vice president.Incarcerated Voters & Returning Citizens:In Colorado, you only lose your right to vote if you are currently incarcerated for a felony conviction. If you lost your voting rights because of a conviction, you could register to vote immediately after release. Your voting rights are not restricted by pretrial detention, misdemeanors, probation, or parole.Voters without traditional residence:When registering to vote, providing a residential address is unnecessary if a voter lacks a fixed permanent address. For instance, if a voter resides permanently in an RV, they may utilize a campground as their \"home base\" for the purpose of voter registration. Similarly, individuals who are unable to afford regular or adequate housing can use locations such as a park, vacant lot, or homeless shelter as their \"home base\" for voter registration. The voter is allowed to provide any physical location as an address as long as they consider it their \"home base.\" As for mailing addresses, post office boxes can be used. This means that if an unhoused voter selects a physical location without a specific mailing address (such as a park), they can provide a post office as their mailing address. However, it's important to note that post office boxes are never acceptable for residency purposes.College students that are residents of Colorado may keep their registration in their hometown and vote by mail.",
+            "s": "https://www.vote411.org/colorado",
+            "t": "2024-11-18T17:29:24.119407"
+        },
+        {
+            "q": "What ID do I need to register to vote?",
+            "a": "You must have a valid Social Security Number, Colorado drivers license or Colorado ID card to register online.If you do not have any of these forms of ID, please check the appropriate boxes on the paper registration application form. A unique identifying number will then be assigned to you by the state and you will still be registered to vote. However, if the identification section is left blank and you do not check the box(es) indicating you do not have identification, you will not be registered to vote.Colorado now has automatic voter registration! When you interact with certain agencies, such as the DMV, you usually provide information like your name, address, date of birth, etc. This information is then used to register you to vote in Colorado. The county clerk will verify that they have the complete record to register you to vote. If your record is complete, the county clerk will send a notice to you that you are registered to vote. You can return the notice to either decline to be registered or to affiliate with a political party. If you do not decline to be registered within 20 days after the notice is mailed, and the form is not returned as undeliverable, you are then registered to vote.For more information please contact your county clerk and recorder or contact your local League for more information.",
+            "s": "https://www.vote411.org/colorado",
+            "t": "2024-11-18T17:29:24.119407"
+        },
+        {
+            "q": "What forms of identification are accepted for voting?",
+            "a": "If you are voting by mail for the first time you may need to provide a photocopy of your identification with your ballot. Voters who recently registered for the first time and are voting by mail are required to provide a photocopy of their identification.When voting in person you will need one of the following types of identification:- A valid Colorado driver's license- A valid identification card issued by the Colorado Department of Revenue- A valid U.S. passport- A valid employee identification card with a photograph of the eligible elector issued by any branch, department, agency, or entity of the U.S. government or Colorado, or by any Colorado county, municipality, board, authority, or other political subdivision of this state- A valid pilot's license issued by the Federal Aviation Administration or other authorized agency of the United States- A valid U.S. military identification card with photograph of the elector- A copy of a current utility bill, bank statement, government check, paycheck, or other government document that shows the name and address of the elector. A cable bill, a telephone bill, documentation from a public institution of higher education in Colorado containing at least the name, date of birth, and residence address of the student elector, or a paycheck from a government institution are also sufficient forms of identification- A valid Medicare or Medicaid card- A certified copy of a U.S. birth certificate- Certified documentation of naturalization- A valid student identification card with a photograph of the eligible elector issued by an institute of higher education in Colorado.- A valid veteran identification card issued by the United States department of veterans affairs veterans health administration with a photograph of the eligible election- A valid identification card issued by a federally recognized tribal government certifying tribal membership- A Certificate of Degree of Indian or Alaskan Native Blood- Verification that a voter is a resident of a group residential facility- Verification that a voter is a person committed to the department of human services and confined and eligible to register and voteA Social Security number (or last four digits) is NOT a legal form of identification for voting in person. Neither is any document produced by Colorado's statewide registration system.Voters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/colorado",
+            "t": "2024-11-18T17:29:24.119407"
+        },
+        {
+            "q": "When are official election results released?",
+            "a": "Official results are never available on Election Day. Election officials are working around the clock to count an unprecedented number of ballots, and its essential that they take the time to make sure every vote is counted.For Presidential elections, local results will be certified no later than the 22nd day after the election.Official election results will be uploaded on Colorados Secretary of State website, no later than the 27th day after the election.",
+            "s": "https://www.vote411.org/colorado",
+            "t": "2024-11-18T17:29:24.119407"
+        },
+        {
+            "q": "How can military and overseas voters cast their ballots?",
+            "a": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation.If you have additional questions about elections and voting overseas you can use our state specific elections official directory or contact the Overseas Vote Foundation.",
+            "s": "https://www.vote411.org/colorado",
+            "t": "2024-11-18T17:29:24.119407"
+        },
+        {
+            "q": "What are the requirements to become a poll worker?",
+            "a": "You can ensure we have safe, fair, and efficient elections. Become a poll worker today!Poll workers are To be an election judge, you must meet the following qualifications:- Be registered and willing to serve all of Election Day (6am-8pm)- Be a US Citizen by the day you're scheduled to work- Be physically and mentally able to perform the duties required- Attend a mandatory class before each election you work- Never been convicted of election fraud or any other election offense- Neither a candidate whose name appears on the ballot in the precinct that you're working in, nor a member of the immediate family, related by blood or marriage to the second degree, of a candidateYou are entitled to compensation, which varies by county.Student Election Judge ProgramAllows Juniors and Seniors in High School (ages 16 & 17) to work at polling places as Student Election Judges. To learn more about qualifications, click here.To sign up, contact the CO SOS Poll Judges.",
+            "s": "https://www.vote411.org/colorado",
+            "t": "2024-11-18T17:29:24.119407"
+        },
+        {
+            "q": "What are the voting hours at polling places?",
+            "a": "All registered voters receive a mail ballot which may be completed, mailed or dropped off to be received by the county clerk office by 7pm on Election Day.To vote in person, the Voter Service and Polling Centers (VSPC) are open 8 days before a Primary election and 15 days before a General Election during regular business hours. On Election Days, the Voter Service and Polling Centers are open from 7:00am to 7:00pm.VSPC are located in each county to provide the following election services:- Registration at any time up to and including Election Day- Change address if registered elsewhere in Colorado- Drop off completed ballot- Surrender ballot to vote in personContact your county election office for Voter Service and Polling Center locations.",
+            "s": "https://www.vote411.org/colorado",
+            "t": "2024-11-18T17:29:24.119407"
+        },
+        {
+            "q": "Where can I find my Voter Service and Polling Center location?",
+            "a": "All registered voters receive a mail ballot which may be completed, mailed or dropped off to be received by the county clerk office by 7pm on Election Day.To vote in person, the Voter Service and Polling Centers (VSPC) are open 10 days before a Primary election and 15 days before a General Election during regular business hours. On Election Days, the Voter Service and Polling Centers are open from 7:00am to 7:00pm.VSPC are located in each county to provide the following election services:- Registration at any time up to and including Election Day- Change address if registered elsewhere in Colorado- Drop off completed ballot- Surrender ballot to vote in personContact your county election office for Voter Service and Polling Center locations.",
+            "s": "https://www.vote411.org/colorado",
+            "t": "2024-11-18T17:29:24.119407"
+        },
+        {
+            "q": "How does the primary election process work?",
+            "a": "Colorado has a hybrid primary system. If you are registered to with a particular party, you must vote in that parties primary. However, if you are unaffiliated with any political party, you can choose which partys primary you wish to vote in.Unaffiliated voters will receive both parties ballots in the mail but must return just one partys ballot. Or, if voting in person, unaffiliated voters must choose which partys ballot they want to vote at the polls.If you have any questions about your states primary election, please contact your local election officials.",
+            "s": "https://www.vote411.org/colorado",
+            "t": "2024-11-18T17:29:24.119407"
+        },
+        {
+            "q": "When would I need to vote using a provisional ballot?",
+            "a": "You may vote provisionally if you meet a specific condition.Those conditions are:- You vote outside the county where you live (if you chose this option your provisional ballot will not count if it is determined you voted in the wrong county instead of the correct county.)- The statewide registration system shows you already voted in the election- You don't present a valid form of IDYou can register and change your address on Election Day to vote a normal ballot.After you vote a provisional ballot, you will receive a receipt. This receipt will explain how you determine the status of your provisional ballot.Provisional ballots will be counted after the voters' eligibility is confirmed and no later than 9 days after a primary, general, odd-year, or coordinated election.A provisional ballot affidavit is treated as a voter registration application for the next election, regardless of whether the provisional ballot is counted, as long as the affidavit contains all the required information and the voter is eligible to register.",
+            "s": "https://www.vote411.org/colorado",
+            "t": "2024-11-18T17:29:24.119407"
+        },
+        {
+            "q": "What accommodations are available for voters with disabilities?",
+            "a": "All voters can receive their ballot through the mail as long as they are registered to vote before 8 days before the election. Some voters with a disability may request to access their ballot and vote electronically. For more information about receiving and voting your ballot please contact the Secretary of State.Under HAVA, each polling place must contain a voting system that is accessible for individuals with disabilities, including for visually impaired voters, in a manner that provides the same opportunity for accessibility and participation (including privacy and independence) as for other voters.For more information, you can utilize the American Association of People With Disabilities (AAPD) resource.",
+            "s": "https://www.vote411.org/colorado",
+            "t": "2024-11-18T17:29:24.119407"
+        },
+        {
+            "q": "What is the deadline to register to vote?",
+            "a": "Voters in Colorado may register through Election Day.To receive your ballot by mail:- Register to vote or update your voter registration online at www.GoVoteColorado.gov until the 8th day before Election Day.;- Submit an application through the mail, at a voter registration agency, or at a local driver's license examination facility until the 8th day before Election Day; or- Submit an application through a voter registration drive no later than 22 days before Election Day.If you miss the above deadlines, you may still register in-person at your county's voter service and polling center through Election Day.You may confirm your registration online by visiting www.GoVoteColorado.gov.Automatic Voter Registration (AVR)Colorado now has automatic voter registration! When you interact with certain agencies, such as the DMV, you usually provide information like your name, address, date of birth, etc. This information is then used to register you to vote in Colorado. The county clerk will verify that they have the complete record to register you to vote. If your record is complete, the county clerk will send a notice to you that you are registered to vote. You can return the notice to either decline to be registered or to affiliate with a political party. If you do not decline to be registered within 20 days after the notice is mailed, and the form is not returned as undeliverable, you are then registered to vote.",
+            "s": "https://www.vote411.org/colorado",
+            "t": "2024-11-18T17:29:24.119407"
+        },
+        {
+            "q": "What are the rules for taking time off work to vote?",
+            "a": "Employers must grant employees two hours of paid leave to vote, unless polls are open three hours before or after regular working shift.",
+            "s": "https://www.vote411.org/colorado",
+            "t": "2024-11-18T17:29:24.119407"
+        },
+        {
+            "q": "How can I verify my voter registration status?",
+            "a": "To verify your voter registration status",
+            "s": "https://www.vote411.org/colorado",
+            "t": "2024-11-18T17:29:24.119407"
+        },
+        {
+            "q": "What are the requirements for voting by mail?",
+            "a": "All registered voters will receive mail ballots no later than 18 days before Election Day. You must request a mail ballot by the 8th day before an election in order to receive your ballot in the mail. The County Clerk will then mail your ballot within one business day after receiving your request. You can sign up to track your mail ballot on your Secretary of State website.Completed ballots must be received by the county clerk and recorder no later than 7pm on Election Day. Postmarks do not count. Voters are encouraged to drop off their ballots at designated drop off sites or mail the ballot in time to be received by the 7pm deadline. Contact your county clerk and recorder for drop-off locations.Voters still have the option to vote in person at the Voter Service and Polling Centers (VSPC). You may surrender your mail ballot when you vote in person. Contact your county clerk and recorder for information about your polling center. VSOCs are located in each county and provide the following services:- Registration at any time up to and including Election Day- Change of address if registered elsewhere in Colorado- Drop off of your completed ballot- Surrender ballot to vote in personIf you ballot is spoiled or you never received it, you can get a replacement ballot from your county elections office, or vote in person at the VSPC.For information on the types of ID needed when voting, click here.",
+            "s": "https://www.vote411.org/colorado",
+            "t": "2024-11-18T17:29:24.119407"
+        },
+        {
+            "q": "What types of voting machines are used?",
+            "a": "The voting machine systems used in Colorado are optical scan, DRE and hand-counted paper ballots.Optical Scan: With this system, you will receive a card or sheet of paper, which you take over to a private table or booth. The card has the names of the various candidates and ballot measures printed on it. With a pen or pencil you fill in a little box or circle or the space between two arrows. When you are finished filling out all the cards, you may bring the cards over to a ballot box, where poll workers will show you how to put the cards in the box. Or in some places, you may feed the completed cards or papers into a computer device that checks your card or paper right there at the polling place to make sure you have voted the way you want to and counts the votes.Direct Recording Electronic (DRE): This is the newest kind of system in use in the U.S. All the information about who and what you are voting for is on an electronic screen like a TV or computer screen.There are many variations of DREs because lots of companies are inventing new ones, and many cities, counties and states are trying them out. Usually, after you have signed in, the poll workers will give you a card that you slide into a device to start your voting session.Some of these devices will show all of the candidates and ballot choices on one big screen. Often, with these big screen devices you push a button next to the name of the candidate you want to vote for (or yes or no on a ballot measure). On other DREs, the screen is set up to show pages. On each screen or page, there will probably be one thing to vote on. For example, on one screen or page, you might vote for president. Then you might move to the next page to vote for senator. Often these small-screen devices have a touch screen, where you touch the screen next to the name of the person you want to vote for. Other devices have a key pad. Some have a keyboard, so you can write in the name of someone you want to vote for.You let the system know you are finished voting by pushing a button, touching the screen or entering something on a keypad.Paper Ballots: Paper ballots are one of the oldest ways of voting in America. They are still used in a few places on Election Day. When you come to the polling place, you will get a paper ballot from the poll worker. You take it to the voting booth, and use a pen or pencil to mark a box next to your candidate and issue choices. You then drop the marked ballot into a sealed ballot box.You can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource or through Verified Voting.",
+            "s": "https://www.vote411.org/colorado",
+            "t": "2024-11-18T17:29:24.119407"
+        }
+    ]
+}

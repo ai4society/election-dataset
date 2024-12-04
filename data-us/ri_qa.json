@@ -1,0 +1,242 @@
+{
+    "state": "RI",
+    "num_questions": 39,
+    "num_answers": 39,
+    "contributor": "Deja Scott",
+    "questions": [
+        {
+            "q": "Does Rhode Island have primaries?",
+            "a": "Yes. Political parties will hold primary elections for federal, state, and local offices in September of an election year. Some cities/towns also hold non-partisan primaries. Please contact your local board of canvassers for more information.",
+            "s": "https://vote.sos.ri.gov/Voter/VoterFaq",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Can I vote in any primary?",
+            "a": "If you are affiliated with a specific political party, you may only vote in that partys primary. Unaffiliated, or independent, voters can vote in any party primary.",
+            "s": "https://vote.sos.ri.gov/Voter/VoterFaq",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Can I change my party affiliation to vote in another party's primary?",
+            "a": "You have the option of affiliating with any recognized political party when you register to vote or update your voter registration information. You can do this at any time, but it must be done at least 30 days before voting in a primary. If you do not choose a party affiliation, you will be an unaffiliated voter. Unaffiliated voters can vote in any party primary.",
+            "s": "https://vote.sos.ri.gov/Voter/VoterFaq",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Can someone help me if I have questions on making my ballot?",
+            "a": "Mail Ballot Voter: Call your local board of canvassers for any questions or assistance in marking your ballot.  Voters at the polls: A poll worker will explain how to mark your ballot if you ask. The cover of the secrecy folder and the inside wall of the voting booth will also contain instructions on how to mark your ballot.  Per state law, anyone can assist the voter unless they are the voters employer or agent of that employer, or an officer or agent of the voters union.  You can request the assistance of a bipartisan pair of poll workers. Federal and state laws allow voters who are blind, disabled or unable to read or write to bring a person of their choice into the voting booth. The poll worker will have an affidavit that must be completed.",
+            "s": "https://vote.sos.ri.gov/Voter/VoterFaq",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What happens if I vote for too many candidates?",
+            "a": "Mail Ballot Voters: Call the Elections Division at 401-222-2340 to discuss ways to receive a replacement ballot.  Voters at the polls: The voting equipment is programmed to notify you if you vote for more candidates than allowed by law. A poll worker will ask you to remove the ballot and complete several additional ovals on the ballot. Your old ballot is then completely voided and sealed for your voting privacy. You will be given a new ballot and directed to a voting booth to complete it.",
+            "s": "https://vote.sos.ri.gov/Voter/VoterFaq",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What should I do if I am listed as an inactive voter?",
+            "a": "Mail Ballot Voters: Returning a mail ballot will affirm your address with your local board of canvassers.  Voters at the polls: If you live at a different address from the one shown on the voting list, or if you are listed as inactive because mail sent to your address has been returned by the Post Office as undeliverable, you will need to fill out and sign an additional affirmation form before voting.",
+            "s": "https://vote.sos.ri.gov/Voter/VoterFaq",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What races will appear on a ballot?",
+            "a": "View declared candidates for upcoming races.  The names of the candidates for each federal and state race appear first on the ballot with their party affiliation listed directly beneath their names.  In most cities/towns, local races will appear next on the ballot. In some races the names of the candidates appear on the ballot along with their party affiliation. Some races are labeled as non-partisan or without party marks or designation. In those races, the candidates party affiliation will not appear on the ballot.  Your ballot may also include races where more than one person is to be elected. In those races, you will see instructions such as Vote for no more than 2 indicating that you may vote for no more than 2 candidates in that race, Vote for no more than 3 indicating that you may vote for no more than 3 candidates in that race, and so forth.  The state constitutional amendments and questions are then listed on the ballot. In most cases, the questions start in the first column on the backside of the ballot. Where applicable, local questions follow the state constitutional amendments and questions and are printed on a yellow background. In some cases, questions will not fit on the backside of the ballot, and you will be issued an additional ballot.",
+            "s": "https://vote.sos.ri.gov/Voter/VoterFaq",
+            "t": 1730851200.0
+        },
+        {
+            "q": "If I moved to another state and no longer reside in Rhode Island, how do I cancel my voter registration record?",
+            "a": "If you no longer reside in Rhode Island, you should send a signed letter to the local board of canvassers in the city/town where you used to live indicating that you wish to cancel your voter registration record.",
+            "s": "https://vote.sos.ri.gov/Voter/VoterFaq",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What voting machines are used in Rhode Island?",
+            "a": "In 2015, the Department was tasked with researching, evaluating, and identifying a cost-effective strategy for procuring and implementing 21st century voting technology for use statewide.  The Department involved a diverse group of stakeholders in the selection process and assessed, with input from the Governors Commission on Disabilities, the latest voting equipment available on the market.  Election Systems & Software (ES&S) was selected as the vendor for the states new voting equipment. The state procured 590 new DS200 optical scan voting machines.",
+            "s": "https://vote.sos.ri.gov/Elections/Administration",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What security measures are in place for the voting machines?",
+            "a": "The DS200 voting machines are optical scan machines that use paper ballots. These voting machines are not connected to the internet while polls are open and have several layers of redundancy for security.  After polls close, the voting machine prints the unofficial results from that polling place. Each machine also has an encrypted thumb-drive that stores the unofficial results and scanned images of each of the voted ballots. Unofficial results are then encrypted and modemed to the Board of Elections on election night. All voted ballots are available for auditing/recounts.  This means results can then be compared with the paper receipt, the scanned images, and the actual paper ballots.",
+            "s": "https://vote.sos.ri.gov/Elections/Administration",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What are electronic poll books?",
+            "a": "Beginning in 2018, voters statewide will check into their polling place using an electronic poll book.  In jurisdictions across the U.S., electronic poll books have been proven to reduce voters' wait time and dramatically increase data accuracy and efficiencies at the local boards of canvassers. Jurisdictions in 33 states use electronic poll books.",
+            "s": "https://vote.sos.ri.gov/Elections/Administration",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What security measures are in place for electronic poll books?",
+            "a": "The electronic poll book system maintains multiple levels of security to ensure confidentiality and integrity of all devices, communications, data, and systems. All traffic to and from the system is encrypted ensuring it is always up to date with the latest encryption standards and supported by industry leading network teams.",
+            "s": "https://vote.sos.ri.gov/Elections/Administration",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What are Risk Limiting Audits?",
+            "a": "In 2017, Rhode Island became the second state in the country to authorize risk limiting audits. These audits use statistics to determine how many ballots need to be hand-counted to verify Election Day results. The closer the margin of victory, the more ballots will be hand-counted.",
+            "s": "https://vote.sos.ri.gov/Elections/Administration",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What is the Central Voter Registration System (CVRS)?",
+            "a": "The Rhode Island Central Voter Registration System (CVRS) is the statewide database of registered voters. The CVRS is in a closed network that requires multi factor authentication. Systems that have access are restricted at the network level and further restricted by the individual computer. Additionally, users are restricted by username/password.",
+            "s": "https://vote.sos.ri.gov/Elections/Administration",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What is Online Voter Registration?",
+            "a": "Rhode Island implemented online voter registration in 2016. Eligible Rhode Islanders may use the system to easily register to vote or update their voter information and their party affiliation. A valid Rhode Island Drivers License or State ID number is required to use the system.",
+            "s": "https://vote.sos.ri.gov/Elections/Administration",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Does Rhode Island have early voting?",
+            "a": "Automated Voter Registration (AVR) improves the voter registration process, beginning at the DMV, by automatically registering citizens to vote unless they choose to opt-out of the process. This means when someone updates their address at the DMV they will also update their voter registration information. This will help eliminate the bloat in our voter rolls that occur from unintentional, duplicate voter registrations, and reduce the potential for voter fraud.  Automatically updating the voter rolls any time a citizen updates his/her address, initially at the DMV and in the future, at any government agency will help ensure that Rhode Islands voter rolls are as accurate and up to date as possible.",
+            "s": "https://vote.sos.ri.gov/Elections/Administration",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What is Automated Voter Registration?",
+            "a": "Yes. Rhode Islanders can go to a location designated by their city/town on the 20 days before an election and cast a ballot into a voting machine.",
+            "s": "https://vote.sos.ri.gov/Elections/Administration",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What is the Absentee Ballot Process?",
+            "a": "2024 General Election: Important Return Dates   In Rhode Island, completed mail ballots must be received by the Board of Elections by 8:00 p.m. on Election Day, November 5th, whether returned by mail or in person.   Mail-in voting is available to all registered voters, and no excuse is needed. The last day to request a mail-in ballot is 21 days before the election. The last day to request a mail-in ballot is 21 days before the election. You can submit your request by mail, online, or in person. If you mail your request by the deadline, it can still be accepted if it arrives no later than 18 days before Election Day. Voted ballots must be received by 8 pm on Election Day to be counted. You can sign up to track your mail-in ballot on your Department of State website. Contact your local elections office for more information.  Those who requested a mail-in ballot but end up voting in person may only do so by a provisional ballot. Do not mail a ballot and vote in person. For specifics, you can find your local county clerk contact info here.  Emergency Mail Ballots  If emergency circumstances arise after the regular mail ballot application deadline, you may apply for an emergency mail ballot at your local board of canvassers. You can apply up until 4 p.m. on the day before an election. Your emergency mail ballot must be received by the state Board of Elections no later than 9 p.m. the day of the election.  Overseas citizens and U.S. military personnel can register to vote and request a mail-in ballot at the Overseas Vote Foundation.",
+            "s": "https://www.vote411.org/rhode-island",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What is a Ballot Notice and the Cure Process?",
+            "a": "The deadline to cure (correct) your absentee/mail ballot is by 4pm on November 12, 2024. If your ballot is challenged, a local board of canvassers is responsible for notifying voters by mail, email or phone with details and instructions on how to correct the issue. You can track your absentee/mail ballot using your states online tool. If you voted a provisional ballot, you have until the close of business day on November 6, 2024, to provide information to the Board of Canvassers to help cure the ballot. You can check the status of your provisional ballot using your state's online tool. ",
+            "s": "https://www.vote411.org/rhode-island#ballot-notice-and-cure-process",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Where can I find Campaign Finance Information?",
+            "a": "For information on federal campaign contributions, please visit Open Secrets.  For information on state campaign contributions, please visit your state's resource.",
+            "s": "https://www.vote411.org/rhode-island#campaign-finance-information",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Where can I find Candidate and Ballot Measure Information?",
+            "a": "Information on local, state and federal candidates and ballot measures may be available here.",
+            "s": "https://www.vote411.org/rhode-island#candidate-and-ballot-measure-information",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Where can I find Drop Boxes?",
+            "a": "Voters may utilize any drop box in any Rhode Island City/Town Hall. The drop box does not need to be in the City/Town where you reside and are registered. In addition, the Board voted to allow dropboxes in every polling location. Voters may place the completed oath envelope with the enclosed voted ballot in the drop box of his/her choosing. ",
+            "s": "https://www.vote411.org/rhode-island#drop-boxes",
+            "t": 1730851200.0
+        },
+        {
+            "q": "When is Early Voting?",
+            "a": "Early voting takes place in the 20 days before the Election and takes place at your city or town hall during their regular business hours. Just be sure to bring your photo ID with you in order to cast your ballot. Otherwise, early voting is very similar to Election Day voting at your polling location.",
+            "s": "https://www.vote411.org/rhode-island#early-voting",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What are the Election Dates?",
+            "a": "The next election dates can be found here https://www.vote411.org/rhode-island.  Contact your local Board of Elections for information about local elections.",
+            "s": "https://www.vote411.org/rhode-island#election-dates",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What are the Eligibility Requirements?",
+            "a": "To be eligible to vote, you must be:  A citizen of the United States A resident of a Rhode Island city or town where you wish to vote 18 years old 17-year-olds may vote in primaries for a general or special election if they will be 18 by the general election 16-year-olds may pre-register to vote Not currently deemed non-compos mentis by a court of law. Not currently incarcerated in a correctional facility under a felony conviction Incarcerated Voters & Returning Citizens:   In Rhode Island, you only lose your right to vote if you are currently incarcerated for a felony conviction. If you lost your voting rights because of a conviction, you could register to vote immediately after release. Your voting rights are not restricted by pretrial detention, misdemeanors, probation, or parole.   Voters without traditional residence:   It is not mandatory for citizens to possess a \"permanent home\" for voter registration. A citizen can provide an alternative description of their residence, even if they are experiencing homelessness, as long as it enables the authorities to identify and assign a voting precinct to them. This precinct assignment ensures that the voter receives the appropriate ballot. The mailing address on their registration form can be a P.O. box, local shelter, advocacy organization, outreach center, or the home of someone who will accept mail for them. ",
+            "s": "https://www.vote411.org/rhode-island#eligibility-requirements",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What ID is Needed for Voter Registration?",
+            "a": "If you are a first time voter, you must provide your valid state driver's license number or valid state ID number issued by the state division of motor vehicles. If you do not have a valid state driver's license or state ID number, you must provide the last four digits of your Social Security number. If you do not have a driver's license, state ID or Social Security number; if these numbers cannot be verified; or if you fail to complete this item on the registration form, you will be required to present one form of identification at the time of registration prior to voting or at the time of voting.  A copy of a current and valid photo ID provided by a third party in the ordinary course of business that includes your name and photo. Examples:  Driver's license or ID card of any state US passport Employee ID card ID card provided by a commercial establishment Credit or debit card Military ID card Student ID card Health club ID card Insurance plan ID card Public housing ID card Or a copy of any of the following documents, provided that they include the name and current address of the registering voter and it is dated since the date of the last General Election, unless the document is inteded to be permanent such as a pardon or discharge:  Utility bill Bank statement Government check Government paycheck Document issued by a government agency Sample ballot or other official elections document issued by a governmental agency, dated for the election in which the individual is providing it as proof of residency or identity Voter notification card issued by a governmental agency Public housing ID card issued by a governmental agency Lease or rental statement or agreement issued by a governmental agency Student ID card issued by a governmental agency Tuition statement or bill issued by a governmental agency Insurance plan card or drug discount card issued by a government agency Discharge certificates, pardons, or other official documents issued to the individual by a governmental agency in connection with the resolution of a criminal case, indictment, sentence; or other matter Public transportation authority senior citizen and disabled discount cards issued by a governmental agency ID documents issued by a governmental disability agency ID documents issued by government homeless shelters and other government temporary or transitional facilities Drug prescription issued by a government doctor or other governmental health care provider Property tax statement issued by a governmental agency Vehicle registration issued by a governmental agency Vehicle certificate of ownership issued by a governmental agency You can bring one of the IDs listed above to the polling place on Election day, or mail a copy of the ID to the local board of canvassers before Election Day.",
+            "s": "https://www.vote411.org/rhode-island#id-needed-for-voter-registration",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What ID is Needed for Voting?",
+            "a": "Voters must show a photo ID at the polls.  Acceptable IDs include:  RI driver's license U.S. passport ID card issued by an educational institution in the United States U.S. military identification card ID card issued by the U.S. government or State of Rhode Island like a RIPTA bus pass Government-issued medical card RI Voter ID Registered voters who don't have an acceptable current and valid photo ID can get a free Voter ID the Secretary of State office in Providence during normal business hours. To find more information on where to get a free Voter ID and for information on how to get a Voter ID visit the Secretary of State website.  No eligible voter will be turned away at the polls. Voters who do not bring an acceptable ID to their polling place can vote using a standard Provisional Ballot. The ballot will be counted if the signature they give at the polling place matches the signature on their voter registration.  Voters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/rhode-island#id-needed-for-voting",
+            "t": 1730851200.0
+        },
+        {
+            "q": "When are the Official Results available?",
+            "a": "Official results are never available on Election Day. Election officials are working around the clock to count an unprecedented number of ballots, and its essential that they take the time to make sure every vote is counted.  The only ballots reported on election night will be from in-person voting. Officials expect to release results from all mail ballots Wednesday evening (the day following the election), after they are all counted. Official election results will be uploaded on Rhode Islands State Board of Elections website as they become available.",
+            "s": "https://www.vote411.org/rhode-island#official-results",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What if I am an Overseas and Military Voter?",
+            "a": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation.  If you have additional questions about elections and voting overseas you can use our state specific elections official directory or contact the Overseas Vote Foundation.",
+            "s": "https://www.vote411.org/rhode-island#overseas-and-military-voters",
+            "t": 1730851200.0
+        },
+        {
+            "q": "How can I become a Poll Worker?",
+            "a": "You can make sure we have safe, fair, and efficient elections for all. Become a poll worker today!  In order to be a poll worker in Rhode Island, you must be:  Registered to vote in Rhode Island Able to read the Constitution of the sate in English Able to write your own name You are ineligible to be a poll worker if:  You are a candidate for public office Have been convicted, found guilty, pleaded guilty or nolo contendere, or placed on a deferred or suspended sentence, or on probation for any crime which involves moral turpitude or which constitutes a violation of any of the election or caucus laws of this or any state Are a federal, state, municipal employee - except teacher - only in primary elections To sign up, contact your local board of canvassers.",
+            "s": "https://www.vote411.org/rhode-island#poll-worker-information",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What are the Polling Place Hours?",
+            "a": "Please note: All polling place locations will close at 8pm. Most places will be open from 7:00 am to 8:00 pm, opening hours may vary, but all polls close at 8:00 pm.",
+            "s": "https://www.vote411.org/rhode-island#polling-place-hours",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What is the Polling Place Locator?",
+            "a": "You can find your polling place by utilizing your state resource.  If you have further questions on your polling place location, please contact your county clerk.",
+            "s": "https://www.vote411.org/rhode-island#polling-place-locator",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What is the Primary Election Process?",
+            "a": "Political parties hold primary elections for federal, state, and local offices in September of an election year. Some cities and towns also have nonpartisan primaries.  If you are registered with a political party, you can only vote in that party's primary. If you are unaffiliated (not registered with any party), you can vote in any partys primary.  Note: Unaffiliated voters can now vote in a partys primary without joining that party. Previously, voting in a party primary would have linked you to that party.  You can register or update your party affiliation anytime, but you must do so at least 30 days before a primary. If you dont choose a party, you will be an unaffiliated voter and can vote in any party primary.  If you have any questions about your states primary election, please contact your local election officials.",
+            "s": "https://www.vote411.org/rhode-island#primary-election-process",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What is Provisional Voting?",
+            "a": "You may vote a provisional ballot if you meet specific conditions.  You may use a provisional ballot if:  You are not on the list of registered voters at that polling place You requested/voted a mail ballot You registered to vote in one political party and attempting to vote in another parties primary You did not bring acceptable photo ID Your identity is challenged at the polling place Provisional ballots are counted 48 hours after Election Day. Provisional ballots are eligible for verification if cast in the correct precinct.You may then determine the disposition of their ballot by visiting your board of elections.",
+            "s": "https://www.vote411.org/rhode-island#provisional-voting",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Are there Provisions for Voters with Disabilities?",
+            "a": "If you are blind, disabled or unable to read or write, you may be given assistance at the polls by a person of your choice as long as that person is not your employer or agent of your employer, or officer or agent of your union.  Every polling place is situated in a building which can be entered and exited by persons who are disabled or elderly. If you are disabled or elderly and the assigned polling place is inaccessible, the local board must provide alternative means for you to cast a ballot on Election Day. DRE machines will be available for the handicapped.  If you are blind, visually impaired, or disabled, you may apply for a braille or tactile mail ballot. You must be a registered voter in Rhode Island and submit an application for a mail ballot in addition to the request for a braille or tactile ballot for each election.  Note: Under a new law, mail voters who can't sign their names on their ballots or return envelopes due to blindness, disability, or inability to read, write, or mark must have someone mark a box for them and provide their name, address, and signature. Before, voters could simply mark an \"X\" without providing any explanation or information about the help received.  For more information, you can utilize the American Association of People With Disabilities (AAPD) resource.",
+            "s": "https://www.vote411.org/rhode-island#provisions-for-voters-with-disabilities",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What is the Registration Deadline?",
+            "a": "You must be registered 30 days before an election to vote in a municipal or state election. Voter registration is available online! To register online you will need to provide the following information:  Your Rhode Island DMV issued driver's license or State ID number Your name as it appears on your Rhode Island driver's license or State ID card Your date of birth If you are missing any of the above information you may complete the form for paper submission.   To vote in a Presidential election, you may register and vote on Election Day at designated polling places, but you may only vote for the offices of the President and Vice President, not in state, local or other federal races.",
+            "s": "https://www.vote411.org/rhode-island#registration-deadline",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Will there be Time Off To Vote?",
+            "a": "Time off to vote is subject to the employer, there is no requirement for employers to grant time off to vote for employees.",
+            "s": "https://www.vote411.org/rhode-island#time-off-to-vote",
+            "t": 1730851200.0
+        },
+        {
+            "q": "How can I Verify Voter Registration?",
+            "a": "To verify your voter registration status click here!",
+            "s": "https://www.vote411.org/rhode-island#verify-voter-registration",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What kind of Voting Machines are used?",
+            "a": "The voting systems used in Rhode Island are optical scan and DRE.  Optical Scan: With this system, you will receive a card or sheet of paper, which you take over to a private table or booth. The card has the names of the various candidates and ballot measures printed on it. With a pen or pencil you fill in a little box or circle or the space between two arrows. When you are finished filling out all the cards, you may bring the cards over to a ballot box, where poll workers will show you how to put the cards in the box. Or in some places, you may feed the completed cards or papers into a computer device that checks your card or paper right there at the polling place to make sure you have voted the way you want to and counts the votes.  Direct Recording Electronic (DRE): This is the newest kind of system in use in the U.S. All the information about who and what you are voting for is on an electronic screen like a TV or computer screen.  There are many variations of DREs because lots of companies are inventing new ones, and many cities, counties and states are trying them out. Usually, after you have signed in, the poll workers will give you a card that you slide into a device to start your voting session.  Some of these devices will show all of the candidates and ballot choices on one big screen. Often, with these big screen devices you push a button next to the name of the candidate you want to vote for (or yes or no on a ballot measure). On other DREs, the screen is set up to show pages. On each screen or page, there will probably be one thing to vote on. For example, on one screen or page, you might vote for president. Then you might move to the next page to vote for senator. Often these small-screen devices have a touch screen where you touch the screen next to the name of the person you want to vote for. Other devices have a key pad. And some have a keyboard, so you can write in the name of someone you want to vote for.  You let the system know you are finished voting by pushing a button, touching the screen or entering something on a keypad.  You can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource. ",
+            "s": "https://www.vote411.org/rhode-island#voting-machines",
+            "t": 1730851200.0
+        }
+    ]
+}

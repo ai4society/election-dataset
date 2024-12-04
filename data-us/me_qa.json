@@ -1,0 +1,344 @@
+{
+    "state": "ME",
+    "num_questions": 56,
+    "num_answers": 56,
+    "contributor": "Deja Scott",
+    "questions": [
+        {
+            "q": "Where do I go to vote?",
+            "a": "Every town and city has its own places where people vote - called voting places or \"the polls\". You can call your town office or city hall to find out where you vote, or use the online Voter Information Lookup service . Voting places open between 6:00 a.m. and 10:00 a.m., depending on the population of the town. Local officials can give you the exact opening time for your community. All voting places close at 8:00 p.m. on Election Day.",
+            "s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What hours are the polls open?",
+            "a": "For municipalities with a population of 500 or more ? the polls can open between 6:00 am and 8:00 am.  For municipalities with a population of less than 500 ? the polls can open between 6:00 am and 10:00 am.  Local officials can give you the exact opening time for your municipality.  All voting places close at 8:00 pm on Election Day.",
+            "s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "t": 1730851200.0
+        },
+        {
+            "q": "How do I mark a ballot?",
+            "a": "Each ballot tells you how to mark your choices. If you have a question, ask an election official. If you make a mistake, fold your ballot and give it to an election official. The election official will give you another ballot.",
+            "s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Can I have help voting?",
+            "a": "Yes. If you need help reading or marking the ballot, you may ask a relative or friend for assistance. The helper does not have to be a voter or old enough to vote. An election official can also help you read or mark a ballot. However, your employer or union official cannot help you vote.",
+            "s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Do I need to go to the polls on Election Day to vote?",
+            "a": "No. Any registered voter may cast an absentee ballot instead of voting in person at the voting place. You do not need to have a specific reason or be unable to vote at the polls on Election Day to use an absentee ballot. Call your town or city clerk for an application and assistance. See absentee voting.",
+            "s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "t": 1730851200.0
+        },
+        {
+            "q": "How do I locate and contact my municipal clerk?",
+            "a": "You can find contact information for your town office or city hall on Maine.gov at http://www.maine.gov/sos/cec/elec/munic.html",
+            "s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What if I still have questions about registering or voting in Maine?",
+            "a": "For more information contact:  Office of the Secretary of State Elections Division 184 State House Station Augusta, ME 04333 (207) 624-7650 Email http://www.maine.gov/sos/cec/elec/",
+            "s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Who can register and vote in Maine?",
+            "a": "To register, you must be a United States citizen, at least 16 years of age, and have established a fixed and principal home in Maine.  To vote in a Referendum or General Election, you must be registered to vote in the community where you reside and be at least 18 years of age. A 17 year old may vote in a Primary Election if that person will be 18 by the General Election.",
+            "s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "t": 1730851200.0
+        },
+        {
+            "q": "How do I register to vote?",
+            "a": "You fill out a voter registration application which is available at your town office and other locations.",
+            "s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Where do I go to register?",
+            "a": "You can register to vote at your town office or city hall, through any Motor Vehicle branch office, in most state & federal social service agencies, or at voter registration drives. Completed voter registration cards may be hand delivered or mailed to your town office or city hall, or sent to the Secretary of State's Office in Augusta.",
+            "s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Is there a deadline for registering?",
+            "a": "There is no cut-off date for registering to vote in person at your town office or city hall. If you want to register to vote by mail or through a voter registration drive, the cut-off date for your municipal office to receive your registration is the close of business on the 21st day before the election. That date is Tuesday, October 15 for the November 5, 2024 General and Referendum Election.",
+            "s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What is absentee voting and how does it work?",
+            "a": "Absentee voting allows you to cast a ballot without going to a voting place on Election Day.",
+            "s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Who may vote absentee?",
+            "a": "Any registered voter may cast an absentee ballot instead of voting in person at a voting place on Election Day. You don't need to have a specific reason or be unable to vote at the polls on Election Day to receive an absentee ballot. ",
+            "s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "t": 1730851200.0
+        },
+        {
+            "q": "When can I request an absentee ballot?",
+            "a": "Absentee ballots may be requested beginning 3 months before Election Day and until the third business day prior to the election, unless special circumstances exist. Make your request early to allow enough time for the ballot to be mailed to you.",
+            "s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Is there a deadline to request an absentee ballot?",
+            "a": "For the Nov. 5, 2024 General and Referendum Election, the deadline to request an absentee ballot including a ballot voted in the presence of the clerk, is Thursday, October 31, 2024, unless the voter completes a special circumstances application, stating one of four allowable reasons for requesting an absentee ballot after this deadline. The five reasons are:  An unexpected absence from the municipality during the entire time the polls are open on election day; A physical or mental disability; An inability to travel to the polls if the voter is a resident of an island ward or precinct; An incapacity or illness that has resulted in the voter being unable to leave home or a treatment facility; or Being a caregiver who is unable to attend the polls due to the incapacity or illness of another person. This special circumstances application must be signed by the voter. This application can be obtained from your municipal clerk or from the Secretary of State. ",
+            "s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "t": 1730851200.0
+        },
+        {
+            "q": "How do I apply for and receive an absentee ballot?",
+            "a": "There are many ways to request an absentee ballot. Ballots must be requested from the municipal clerk where you are registered to vote -- unless you are a U.S. citizen living outside the U.S. or an uniformed service voter -- then you request your ballot from the Secretary of State.  You can make a telephone request for your own ballot, which will be mailed to the address you provide to the clerk.  You may also request your own ballot using the online absentee ballot request service.  You can make a written request by completing an absentee ballot application (pdf). Additionally, you can obtain a ballot for an immediate family member in this same way. A ballot will be mailed to the voter directly or to an immediate family member making the request. Your municipal clerk can tell you who is considered an immediate family member under the law.  NOTE: Ballots obtained by the voter or an immediate family member do not require witnesses, unless the voter receives assistance from another person in reading or marking the ballot.  Applications are available from the municipal clerk or online starting 3 months before each election. ",
+            "s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Can I vote by absentee ballot in person somewhere?",
+            "a": "Yes. You may vote absentee at the clerk's office as soon as absentee ballots are available. Absentee ballots are available starting at least 30 days before the election at the municipal clerk's office. You don't need to complete a written application if you vote in person at the clerk's office. ",
+            "s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "t": 1730851200.0
+        },
+        {
+            "q": "When must my voted ballot be returned to my municipal clerk?",
+            "a": "To be counted, voted absentee ballots must be received by the municipal clerk by 8:00 p.m. on Election Day.",
+            "s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Are there any other ways to receive an absentee ballot?",
+            "a": "You may make a written request for a \"third person\" (someone other than the voter or the voter's immediate family member) to obtain and hand-deliver an absentee ballot.  You must designate, in a written request or application, the specific third person who will handle and deliver the ballot. Only this designated third person may handle the absentee ballot.  Ballots cast in this way must be witnessed by either a notary public, a municipal clerk, a clerk of courts, or 2 other witnesses.",
+            "s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What are the laws governing the citizen initiative process?",
+            "a": "The Maine Constitution, in Article IV, Part Third, sections 17, 18, 19, 20 and 22, provide the basic requirements for the statewide citizen initiative and people's veto process. The Maine Election law, 21-A M.R.S.A., Chapter 11, Ballot Questions (sections 901 - 907), provides additional requirements for the Secretary of State in processing applications and drafting the ballot questions for citizen initiatives and people's vetoes. The election page of the Secretary of State's website provides additional information on the initiative process.",
+            "s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "t": 1730851200.0
+        },
+        {
+            "q": "How does someone start a citizen initiative petition?",
+            "a": "Six Maine registered voters (the \"proponents\") submit an application to the Secretary of State for a citizen initiative, along with a draft of the statutory language they wish to adopt or amend.",
+            "s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Who decides the wording of the initiative legislation?",
+            "a": "The Secretary of State forwards the initiative legislation to the Revisor of Statutes for review. The Revisor's Office recommends changes that will put the legislation in the proper form for a Maine law (according to the drafting rules of the Maine Revised Statutes). The proponents have control over the final wording of the legislation, however, and are free to accept or reject the Revisor's suggestions.",
+            "s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Who decides the wording of the ballot question?",
+            "a": "The Secretary of State shall draft a ballot question only if a petition is certified by the Secretary of State as having a sufficient number of signatures and is not enacted without change by the Legislature at the session at which it is presented. The Secretary of State shall propose a ballot question to be submitted for public comment as provided in Title 21-A, section 905-A. After reviewing the public comment, the Secretary shall draft the ballot question that will appear on the ballot.",
+            "s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "t": 1730851200.0
+        },
+        {
+            "q": "How is the petition form prepared?",
+            "a": "The Secretary of State prepares a petition form, which includes the full text of the legislation being proposed, the initiative summary, a statement regarding freedom of citizen information and a fiscal statement. It also includes instructions for voters and circulators, common reasons signatures are rejected, the circulator?s verification and places for the municipal and State officials to certify the petitions.",
+            "s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "t": 1730851200.0
+        },
+        {
+            "q": "How long can the proponents gather signatures for an initiative?",
+            "a": "The date on which the Secretary of State provides the petition form to the proponents is the \"date of issuance\" of the petition. Proponents have 18 months from the date of issuance of the petition to gather signatures, however all signature submitted must be gathered within one year from the date the petition is filed with the Secretary of State. If the proponents do not submit the circulated petitions to the Secretary of State by the 18 month deadline, the application and petition expire, and proponents must start the process over if they wish to continue.",
+            "s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "t": 1730851200.0
+        },
+        {
+            "q": "How many signatures are needed for the petition to be valid?",
+            "a": "Proponents need to collect a quantity of signatures of registered Maine voters that equals at least 10% of the total number of votes cast for Governor at the last Gubernatorial Election, which is currently 63,067 valid signatures. The petition signatures must be certified by municipal officials in the municipalities where the petitions were circulated.",
+            "s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What is the annual deadline to submit a petition to the Secretary of State in order for the question to appear on that year's ballot?",
+            "a": "During the odd-numbered year, the deadline is the 50th day after the convening of the Legislature in the First Regular Session. During the even-numbered year, the deadline is the 25th day after the convening of the Legislature in the Second Regular Session. If that day falls on a Saturday, Sunday, or legal holiday, the deadline is 5:00 P.M. on the next business day.",
+            "s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What is the deadline for the Secretary of State to determine the validity of a petition?",
+            "a": "The Secretary of State has 30 business days from the date the proponents submit the petitions to the Office of the Secretary of State, in which to issue a determination of validity.",
+            "s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What happens after the Secretary of State determines a petition to be valid?",
+            "a": "After the Secretary of State determines that a petition is valid, the petition is immediately transmitted to the Legislature for its consideration. The Legislature may either approve the legislation exactly as written by the proponents or the Legislature may disapprove the legislation. If the Legislature approves the legislation, it becomes law without the approval of the voters. If the Legislature fails to approve the legislation, then the ballot question is drafted and will be placed on the ballot in November of that year for consideration by the voters. The Legislature may adopt a competing measure that will appear on the ballot along with the related initiative.",
+            "s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "t": 1730851200.0
+        },
+        {
+            "q": "If the voters approve an initiative question at a November election, when does the new law become effective?",
+            "a": "Unless the legislation provides for a delayed effective date, an initiative approved by the voters becomes effective 30 days after the Governor proclaims the results of the election.",
+            "s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "t": 1730851200.0
+        },
+        {
+            "q": "When do proponents or opponents of an initiative have to register as Political Action Committees (PACs) and begin reporting contributions and expenditures?",
+            "a": "The laws governing PAC reporting are found in 21-A M.R.S.A., Chapter 13, Subchapter IV, Reports by Political Action Committees (sections 1051 through 1062-A). The Secretary of State has no jurisdiction over campaign finance reporting matters. Questions of this nature should be directed to the Commission on Governmental Ethics and Election Practices, which is the State entity that administers these laws.",
+            "s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Is the Legislature restricted at any point in the initiative process from making changes to laws governing the subject matter addressed in an initiative?",
+            "a": "Neither the Maine Constitution nor the election laws bar the Legislature from making changes to the laws during the time an initiative petition is being circulated or after a law has been approved by the voters, nor are State Agencies barred from amending or adopting agency rules relating to an initiative, provided they have statutory authority to do so.",
+            "s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Are there restrictions on activities of State Agency personnel concerning a citizen initiative?",
+            "a": "State Agencies should review 5 M.R.S.A., section 7056-A, which restricts political activities of classified and unclassified executive branch employees related to partisan candidate elections and, in some instances, to measures. The Bureau of Human Resources has periodically provided written memoranda on this issue, which may assist agencies in determining what activities are restricted. Additionally, the agency should review its internal policies or directives for guidance, and specific questions about restricted political activities should be discussed with the agency's legal counsel.",
+            "s": "https://www.maine.gov/portal/government/edemocracy/elections_faq.html",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What is the Absentee Ballot Process?",
+            "a": "2024 General Election: Important Return Dates   In Maine, voted absentee ballots must be received by your municipal clerk by 8:00 p.m. on Election Day, November 5th.    Absentee voting is available, and no excuse is required. You can return your absentee ballot request form through the mail, in person at your local elections office, or online. Voted ballots must be received by 8 p.m. on Election Day to be counted. You can track your absentee ballot on your Secretary of State's website.   Absentee ballots begin being counted on Election Day. The last day to request an absentee ballot without an approved excuse is five days before the election (Thursday of the week before). After this deadline, voters may request an absentee ballot by completing and signing a Special Circumstances Application. The voter must indicate which of the four allowable reasons to request an absentee ballot after the deadline applies to them:  1. Unexpected absence from the municipality during the entire time the polls are open on Election Day; or   2. Physical disability; or   3. Incapacity or illness that has resulted in the voter being unable to leave home or a treatment facility; or   4. Inability to travel to the polls if the voter is a coastal island ward or precinct resident.  Those who requested an absentee ballot but end up voting in person: Do not mail a ballot and vote in person. Absentee ballots are processed in batches throughout the day, and the list of those newly received absentee ballots is shared with each polling place for each batch. If the absentee voter tries to vote in person, they will not be able to do so. (Conversely, if they vote in person before their ballot arrives that day, their absentee ballot will be rejected).  You do not need to have a specific reason or be unable to vote at the polls on Election Day to receive an absentee ballot.  You can request an absentee ballot online here, beginning 3 months before Election Day. If you don't want to request a ballot online, you can contact your municipal clerk either in person or through the phone. A ballot will then be mailed to your address.  The deadline to request an absentee ballot is 5 days before the election.  To be counted, voted absentee ballots must be received by the municipal clerk by 8 p.m. on Election Day.  Ongoing Absentee Voting  Voters who will be at least 65 years of age by the next election or who self-identify as having a disability may apply for ongoing absentee voter status. A voter who qualifies will automatically receive an absentee ballot for each statewide, municipal, and any other election for which the voter is eligible to vote and need not submit a request for each election.  The application is available on the Maine SOS website but must be printed out and returned to the municipal clerk.  Map: Absentee Ballot Dropbox Locations  Overseas citizens and U.S. military personnel can find information on registering to vote and requesting an absentee ballot here. ",
+            "s": "https://www.vote411.org/maine#absentee-ballot-process",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What is the Ballot Notice and Cure Process?",
+            "a": "The deadline to cure (correct) your absentee/mail ballots is the close of polls (8pm) on Election Day, November 5, 2024. If there is a mismatching or missing signature, notice and instructions on how to cure will be provided within one business day using a phone number or email address provided on the absentee ballot application. You can check the status of your mail/absentee ballot using your states online tool. If you voted a provisional (challenged) ballot, it will be counted the same as a regular ballot and the validity need not be determined unless it affects the results of an election. ",
+            "s": "https://www.vote411.org/maine#ballot-notice-and-cure-process",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Where can I find the Campaign Finance Information?",
+            "a": "For information on federal campaign contributions, please visit Open Secrets. For information on state campaign contributions, please visit your state's resource.",
+            "s": "https://www.vote411.org/maine#campaign-finance-information",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Where can I find Candidate and Ballot Measure Information?",
+            "a": "Local election information is collected by League volunteers and may not be complete. If you don't see your local ballot, you may still have an election - please contact your town clerk Information on local, state and federal candidates and ballot measures may be available here.",
+            "s": "https://www.vote411.org/maine#candidate-and-ballot-measure-information",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Where are the Drop Boxes?",
+            "a": "Many, but not all, municipalities have a dropbox. Dropboxes are usually located outside the municipal office building. Dropbox locations will be posted by the Secretary of State.",
+            "s": "https://www.vote411.org/maine#drop-boxes",
+            "t": 1730851200.0
+        },
+        {
+            "q": "When is Early Voting?",
+            "a": "As soon as absentee ballots are available, 30 days before the election, you may vote in person at your town office. Voting dates and hours vary by town; check with your town clerk or look up your town on the Secretary of State's website.",
+            "s": "https://www.vote411.org/maine#early-voting",
+            "t": 1730851200.0
+        },
+        {
+            "q": "When are the Election Dates?",
+            "a": "The next election date can be found here https://www.vote411.org/maine. Contact your local Board of Elections for more information.",
+            "s": "https://www.vote411.org/maine#election-dates",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What are the Eligibility Requirements?",
+            "a": "To be eligible to vote you must be:  A U.S. citizen A resident in the municipality where you intend to register to vote At least 18 years old to vote (17 year olds may vote in primary elections as long as they will be 18 by the time of the general election). College Students  If you are a student, you have the right to register in the municipality where you attend school, if you have established residency there. You must meet the same residency requirements as all other potential voters, but may not be asked to meet any additional requirements. If you are a student not a resident of the municipality in which you attend school, you cannot register in that municipality.  Incarcerated Voters & Returning Citizens:   In Maine, those with criminal records never lose the right to vote. If you are incarcerated, regardless of the offense, you can vote.   Suppose you are a Maine resident serving a sentence in a correctional facility or county jail. In that case, you have the right to register to vote in the Maine municipality where you had previously established residency (a permanent and main home to which you intended to return) before your incarceration.   Voters without traditional residence:   Individuals in Maine experiencing homelessness or residing in a shelter have the right to register to vote in the municipality where they currently live, regardless of having a non-traditional address like a park bench or other physical location. Instead of providing standard residency documents, they can submit a sworn physical description of their residence to the municipal clerk. Voters experiencing homelessness are not obligated to provide a mailing address for voter registration.",
+            "s": "https://www.vote411.org/maine#eligibility-requirements",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What ID is Needed for Voter Registration?",
+            "a": "When filling out your voter registration card, you must provide either your states driver's license number or the last four digits of your Social Security number.  If you are a new voter in Maine, you must send a copy of either your Maine driver's license or a utility bill or a government document that states your name and address with your voter registration form.  If you are registering less than 21 days before an election, you must register in person at your town office or city hall, through any motor vehicle branch office, in most state & federal social service agencies, or at voter registration drives. You will need to provide proof of identity and residency.",
+            "s": "https://www.vote411.org/maine#id-needed-for-voter-registration",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What ID is Needed for Voting?",
+            "a": "If you are already registered to vote, you do not need to provide identification to receive a ballot. If you are registering on Election Day, you will need to provide proof of identity and residency.  Voters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/maine#id-needed-for-voting",
+            "t": 1730851200.0
+        },
+        {
+            "q": "When are the Official Results available?",
+            "a": "Official results are never available on Election Day. Election officials are working around the clock to count an unprecedented number of ballots, and its essential that they take the time to make sure every vote is counted.  Absentee ballots and challenged ballots begin being counted on Election Day.  For Presidential elections, local results will be certified no later than 2 business days after Election Day.  Official election results will be uploaded on Maines Secretary of State website, within 20 days after Election Day.",
+            "s": "https://www.vote411.org/maine#official-results",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What voting options are available for overseas and military voters?",
+            "a": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation.  If you have additional questions about elections and voting overseas you can use our state specific elections official directory or contact the Overseas Vote Foundation.",
+            "s": "https://www.vote411.org/maine#overseas-and-military-voters",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Where can I find Poll Worker Information?",
+            "a": "You can make sure we have safe, fair, and efficient elections for all. Become a poll worker today!  In order to be a poll worker in Maine, you must:  Be registered to vote in Maine Be at least 18 years of age; except students 17 or older may work at the polls as student election clerks for specific elections Attend training at least once every two years Might be entitled to compensation, depending on the jurisdiction To sign up, contact your local board of elections.",
+            "s": "https://www.vote411.org/maine#poll-worker-information",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What are the Polling Place Hours?",
+            "a": "All polls open between 6am and 10am until 8pm.  You can find your polling place by utilizing your state resource.  If you have further questions on your polling place location, please contact your Municipal Clerk",
+            "s": "https://www.vote411.org/maine#polling-place-hours",
+            "t": 1730851200.0
+        },
+        {
+            "q": "How can I locate a Polling place?",
+            "a": "You can find your polling place by utilizing your state resource.  If you have further questions on your polling place location, please contact your Municipal Clerk",
+            "s": "https://www.vote411.org/maine#polling-place-locator",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What is the Primary Election Process?",
+            "a": "Starting in 2024, Maine is implementing Semi-Open Primaries. If you are registered with a particular political party, you can only vote in that party's primary. If you are not registered with any political party, you can choose to vote in any ONE party's primary of your preference. This rule applies to both Presidential and State Primaries.  Note: If you wish to change your political party affiliation, you must do so at least 15 days before the election.   Ranked Choice Voting (RCV)  Maine uses a ranked choice voting system for Presidential Primaries, State Primaries and General Elections. To find out more about ranked choice voting click here.  If you have any questions about your states primary election, please contact your local election officials.",
+            "s": "https://www.vote411.org/maine#primary-election-process",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What is Provisional Voting?",
+            "a": "If your eligibility to vote is questioned on Election Day, you are allowed to cast a challenged ballot. A challenged ballot must be counted the same as a regular ballot. The validity of a challenged ballot need not be determined unless it affects the results of an election.",
+            "s": "https://www.vote411.org/maine#provisional-voting",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Are there Provisions for Voters with Disabilities?",
+            "a": "If you are visually impaired, physically disabled, or are unable to read or write, you can be assisted. Accessible voting systems help voters who may have difficulty voting to cast their ballots over the phone. Please ask for more details about this process at your polling location.  Language Access   Ballots are only available in English. If you or someone you know needs the help of an interpreter to vote, contact the Maine Immigrant Rights Coalition. You have the right to bring someone with you when you vote, unless they are your employer or union boss. Voting information is also available from the League of Women Voters of Maine in a variety of languages.  For more information, you can utilize the American Association of People With Disabilities (AAPD) resource.",
+            "s": "https://www.vote411.org/maine#provisions-for-voters-with-disabilities",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What is Ranked Choice Voting?",
+            "a": "Maine allows voters to vote using Ranked Choice Voting for all state-level primary elections, and in general elections ONLY for federal offices, including the office of U.S. President. Ranked choice voting allows voters to rank the candidates in the order of their preference.   How does Ranked Choice Voting work?  Voters rank candidates in the order of their preference: first choice, second choice, third choice, and so on. When all the ballots are counted, if one candidate gets more than 50% of the first choice votes, they win. If no candidate receives more than 50% of first choice votes, the candidate with fewest votes is considered defeated. Voters who ranked the defeated candidate as their first choice have their votes counted for their second choice. This is repeated until only two candidates remain. The one with the most votes wins.",
+            "s": "https://www.vote411.org/maine#ranked-choice-voting",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What is the Registration Deadline?",
+            "a": "You are able to register in person up until and on Election Day. When registering in person you must show proof of identity and residency.  Voters can register to vote online, by mail, or through a third party. The deadline for online and mail-in registration is 21 days before the election.",
+            "s": "https://www.vote411.org/maine#registration-deadline",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Do I get Time Off To Vote?",
+            "a": "Time off to vote is subject to the employer, there is no requirement for employers to grant time off to vote for employees.",
+            "s": "https://www.vote411.org/maine#time-off-to-vote",
+            "t": 1730851200.0
+        },
+        {
+            "q": "How do I Verify Voter Registration?",
+            "a": "To verify your voter registration status, contact your election official.",
+            "s": "https://www.vote411.org/maine#verify-voter-registration",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What kind of Voting Machines are used?",
+            "a": "The voting systems used in Maine are optical scan and paper ballots.  Optical Scan: With this system, you will receive a card or sheet of paper, which you take over to a private table or booth. The card has the names of the various candidates and ballot measures printed on it. With a pen or pencil you fill in a little box or circle or the space between two arrows. When you are finished filling out all the cards, you may bring the cards over to a ballot box, where poll workers will show you how to put the cards in the box. Or in some places, you may feed the completed cards or papers into a computer device that checks your card or paper right there at the polling place to make sure you have voted the way you want to and counts the votes.  Paper Ballots: Paper ballots are one of the oldest ways of voting in America. They are still used in a few places on Election Day. When you come to the polling place, you will get a paper ballot from the poll worker. You take it to the voting booth, and use a pen or pencil to mark a box next to your candidate and issue choices. You then drop the marked ballot into a sealed ballot box.  You can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource.",
+            "s": "https://www.vote411.org/maine#voting-machines",
+            "t": 1730851200.0
+        }
+    ]
+}

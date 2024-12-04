@@ -1,0 +1,218 @@
+{
+    "state": "AZ",
+    "num_questions": 35,
+    "num_answers": 35,
+    "contributor": "Gaurav Kumar",
+    "questions": [
+        {
+            "q": "How do I request an early ballot or vote by mail?",
+            "a": "An early ballot may be requested through our new Voter Information Portal or by contacting your County Recorders office . To have your name placed on the Active Early Voter List (AEVL), complete a new voter registration form and check the box marked  YES, I want to automatically receive an early ballot for each election for which I am eligible.  Or you can log in to Service Arizona and complete this request online.",
+            "s": "https://azsos.gov/elections",
+            "t": "2024-11-18T20:30:26.564769"
+        },
+        {
+            "q": "How do I register to vote?",
+            "a": "Online  If you have an Arizona Driver License and/or an Arizona non-operating I.D. card issued by the Motor Vehicle Division (MVD) you may register to vote through Service Arizona EZ Voter Registration Log on to Service Arizona Select your language preference, then click Begin Voter Registration Verify your voter eligibility Enter your information in the required fields Verify address information You can now select your party preference If you are having trouble logging in to the Service Arizona website, you can print off a Voter Registration Form and fill it out with your new information. After you finish, mail the completed form to your County Recorders office and your information will be updated. If you do not have a residence address, please also complete a ' No Residence Address Confirmation ' in addition to the voter registration form. By Mail  You can either print off a form online or request that a registration form be mailed to you from your County Recorder. After completing the voter registration form, mail it to your County Recorders office In-Person  You may visit your County Recorders office and fill out a registration form in person Address Confidentiality Program Members  You should only register to vote through the ACP process . After you have successfully registered to vote you will receive a voter registration card in the mail within 4-6 weeks.",
+            "s": "https://azsos.gov/elections",
+            "t": "2024-11-18T20:30:26.566633"
+        },
+        {
+            "q": "Where is my polling location?",
+            "a": "If you are a Maricopa County voter, you can process your request here . If you have any questions please call 602-506-1511 . If you are a Pima County voter, you can process your request here . If you have any questions please call 520-724-4330 . To contact your local Election Official please visit https://azsos.gov/county-election-info",
+            "s": "https://azsos.gov/elections",
+            "t": "2024-11-18T20:30:26.567498"
+        },
+        {
+            "q": "I moved recently, when is the deadline to update my voter registration?",
+            "a": "The voter registration deadline for the General Election has been extended to 5 p.m. on October 15, 2020 by a court order. Check back here often for this and the other trusted information you need throughout the 2020 election season. All voter registration forms sent by U.S. mail must be received on or before the deadline. To see all voter registration deadlines, including for local elections. To see all voter registration deadlines, including for local elections, go to arizona.vote . The deadline to update your voter registration or register to vote in an upcoming election is midnight on the 29th day before the election. For the 2020 State Primary Election, the deadline to register or update your registration is midnight on July 6, 2020. For the 2020 General Election, the deadline is midnight on October 5, 2020. To see all voter registration deadlines, including for local elections, go to arizona.vote . All voter registration forms sent by U.S. mail must be postmarked on or before the deadline.",
+            "s": "https://azsos.gov/elections",
+            "t": "2024-11-18T20:30:26.568044"
+        },
+        {
+            "q": "What do I need to bring with me on election day?",
+            "a": "Every qualified elector is required to show proof of identity at the polling place before receiving a ballot. Find out what qualifies as an acceptable form of identification in Arizona.",
+            "s": "https://azsos.gov/elections",
+            "t": "2024-11-18T20:30:26.568476"
+        },
+        {
+            "q": "I am not registered with a recognized party, can I still vote in the primary election?",
+            "a": "Yes! Arizona has an open primary law which allows any voter who is registered as independent to cast a ballot for one of the officially recognized political parties in State Primary Elections. Independent voters on the Permanent Early Voting List (AEVL) will receive a postcard in the mail asking them to choose which party ballot they wish to receive for the Primary Election. The corresponding primary ballot will then be sent by mail to the voter to complete approximately 27 days prior to the election. Independent voters who go to the polls on Election Day will be given the option to choose a party ballot at that time. Note: This DOES NOT apply to the Presidential Preference Election. Voters must be registered with a recognized party to vote in the Presidential Preference Election.",
+            "s": "https://azsos.gov/elections",
+            "t": "2024-11-18T20:30:26.568953"
+        },
+        {
+            "q": "How can I electronically donate $5 qualifying slips or sign a candidate's nomination petition?",
+            "a": "The state of Arizona uses E-qual to verify that the person signing the qualifying slip or nomination petition is eligible to do so. After successful verification, the person can give $5 qualifying contribution slips or sign a nomination petition for candidates the person is eligible to vote for in the election.",
+            "s": "https://azsos.gov/elections",
+            "t": "2024-11-18T20:30:26.569517"
+        },
+        {
+            "q": "I am experiencing issues registering to vote or updating my voter information on ServiceArizona. How do I proceed?",
+            "a": "If you need assistance using www.servicearizona.com to register or update voter information, please see our ServiceArizona Guide or reach out to our office at [email protected] or by calling 1-877-THE-VOTE.",
+            "s": "https://azsos.gov/elections",
+            "t": "2024-11-18T20:30:26.571306"
+        },
+        {
+            "q": "Do I need to put a stamp or extra postage to mail my ballot back?",
+            "a": "You do not need postage if you mail your ballot back in Arizona. All early ballots come with a postage-paid return envelope. There is no need to add postage. Voters should remember to sign and date the return envelope, and to include a phone number in case election officials need to follow up with you.",
+            "s": "https://azsos.gov/elections",
+            "t": "2024-11-18T20:30:26.571855"
+        },
+        {
+            "q": "I lost or damaged my ballot-by-mail. How do I get a replacement ballot?",
+            "a": "If you have lost or damaged your ballot-by-mail, you may request a replacement ballot via mail or in-person. To request a replacement ballot-by-mail, contact your County Recorders Office directly. Requests must be made no later than 11 days prior to Election Day. A.R.S.  16-542(E) . You may also visit a voting location on or before Election Day to vote in-person. Visit my.arizona.vote to find your correct voting location. The County will cancel your prior ballot if you request a replacement ballot.",
+            "s": "https://azsos.gov/elections",
+            "t": "2024-11-18T20:30:26.572432"
+        },
+        {
+            "q": "I will be out of town during the election. Will USPS forward my ballot-by-mail to my temporary-away address?",
+            "a": "No, Official Election Mail cannot be forwarded automatically by the postal service. If you will be out of town during the election, you may request to have your ballot sent to your temporary address. Contact your County Recorder directly to make this request. To find your County Recorders contact information, click here .",
+            "s": "https://azsos.gov/elections",
+            "t": "2024-11-18T20:30:26.573020"
+        },
+        {
+            "q": "How do I track my ballot status?",
+            "a": "You may track the status of your ballot at my.arizona.vote to confirm that it was received and counted. If you live in Pima County or Maricopa County, check with your county election officials for status updates.",
+            "s": "https://azsos.gov/elections",
+            "t": "2024-11-18T20:30:26.573415"
+        },
+        {
+            "q": "Who do I contact if I have more questions?",
+            "a": "If you have further questions, you can reach out to our office at [email protected] or by calling 1-877-THE-VOTE. You can also reach out to your county recorders office ( County Election Officials Contact Information ) for further assistance.",
+            "s": "https://azsos.gov/elections",
+            "t": "2024-11-18T20:30:26.573804"
+        },
+        {
+            "q": "How can I request and return an absentee ballot for an upcoming general election?",
+            "a": "2024 General Election: Important Return Dates In Arizona, all completed ballots must be received by County Elections Officials by 7:00 p.m. on Election Day, November 5th, regardless of whether they are mailed, dropped off at a voting location, or placed in a drop box. Mail in voting is available and no excuse is required. The last day to request a mail in ballot is 11 days before the election. You can return your absentee ballot request form through mail, in person at your local elections office, or online . Voted ballots must be received by 7pm on Election Day in order to be counted. For more information, please contact your Secretary of State . You can sign up to track your ballot by mail on your Secretary of States website. Registered voters have two ways to get a ballot-by-mail: Join the Active Early Voting List (AEVL) There is no excuse required to receive an early ballot through the mail. You may request a ballot no later than 11 days before the election. Voters on the AEVL are automatically sent a ballot-by-mail for all elections in which they are eligible to vote. Sign up for the AEVL here . Request a One-Time Ballot-by-Mail By using one of the following methods: - Online - Submit a written request form - Call your county recorder - Send an email to your county recorder Returning your Ballot-by-Mail Early ballots by mail will be sent out about 27 days before the election, depending on when you requested the ballot. All ballots must be received by 7pm on Election Day in order to be counted. They can be mailed to your County Election Office or dropped in your local drop boxes. Please contact your county official for additional information. Those who requested an absentee ballot but end up voting in person should not mail a ballot and vote in person. Some counties allow voters to vote in person on Election Day. Voters will be given a new ballot and their mailed ballot will be voided. For specifics, you can find your local county clerk contact info here. Overseas citizens and U.S. military personnel can register to vote and request an absentee ballot at the Overseas Voter Foundation. Request your Ballot",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2024-11-18T20:40:04.561304"
+        },
+        {
+            "q": "What should I do if there's an issue with my absentee or provisional ballot before the election deadline?",
+            "a": "The deadline to cure (correct) your absentee ballot is November 10, 2024. Counties are requested to notify voters if there is a missing or mismatched signature on the ballot envelope. Voters can typically verify their signature by calling, visiting the county office, or using the TXT2Cure platform. Track the status of your ballot using your states online resource . If you voted on a provisional ballot, you do not need to take any action. If you voted a conditional provision ballot, you must bring an acceptable ID to your polling location before 7pm on Election Day or to a Post-Election Verification Site by 5pm on November 10, 2024. Contact your election officials to find your post-election verification site and track the status of your provisional ballot using your states online resource . Attention Pinal County voters: You MUST vote at the correct polling place on Election Day. If you are at the wrong polling place, you will not be allowed to vote. Be sure to check your assigned polling place to ensure your vote counts.",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2024-11-18T20:40:04.563203"
+        },
+        {
+            "q": "Where can I find information on campaign contributions for candidates and ballot measures?",
+            "a": "For information on federal campaign contributions, please visit Open Secrets . For information on state campaign contributions, please visit your state's resource.",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2024-11-18T20:40:04.563892"
+        },
+        {
+            "q": "Where can I access comprehensive details about candidates and ballot measures in the election?",
+            "a": "Information on local, state and federal candidates and ballot measures may be available here .",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2024-11-18T20:40:04.564444"
+        },
+        {
+            "q": "What are the options and deadlines for submitting my ballot using drop boxes?",
+            "a": "Voters who do not mail back their ballot by the recommended deadline have until 7:00 p.m. on Election Day to drop off their ballot at their County Recorders Office or any ballot drop-box or voting location in the county. All ballots must be received by 7:00 p.m.",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2024-11-18T20:40:04.565043"
+        },
+        {
+            "q": "When does early voting start and end, and how can I participate in early voting?",
+            "a": "In-person early voting begins 27 days before the election and ends the Friday before the election. You may vote early in person at the County Recorder's office or on-site voting locations designated by the county recorder. You can also sign up for the Active Early Voting List (AEVL) to receive an early mail ballot for all elections you are eligible to vote in. If you are on the AEVL you can check the date your ballot was mailed to you, the date the ballot was returned to the county and whether your ballot was accepted on the Arizona Voter Information Portal. Sign up for the AEVL here .",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2024-11-18T20:40:04.565701"
+        },
+        {
+            "q": "How can I find out the important dates for upcoming elections?",
+            "a": "Your next election date can be found here.",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2024-11-18T20:40:04.566397"
+        },
+        {
+            "q": "What are the eligibility criteria to vote in an election?",
+            "a": "To be eligible to vote, you must be: A US citizen A resident of Arizona 18 years of age or older on or before the day of the general election Not convicted of a felony or have had your civil rights restored Not adjudicated incompetent Incarcerated Voters & Returning Citizens: In Arizona, you are not eligible to vote if you are convicted of a felony. Your voting rights may be restored following the completion of your sentence, including prison term, probation, and parole. If you have been convicted of more than one felony offense, you must apply to restore your voting rights. Some sentences have a time limit dependent on the type of conviction. Persons sentenced to lifetime probation are not eligible for rights restoration under statute. Pretrial detention and misdemeanors do not restrict your voting rights. Voters without traditional residence: In Arizona, a person may not be refused voter registration or declared unqualified to vote because they do not live in a permanent, private, or fixed structure. Any of the following may be used as a registration address in the state: A homeless shelter A temporary place for living that the individual is a resident of (halfway house, transitional housing, etc.) The county courthouse in the county in which the resident resides A general delivery address for a post office covering the location where the registrant is a resident",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2024-11-18T20:40:04.567218"
+        },
+        {
+            "q": "What forms of identification are required to register to vote, and how can I prove my citizenship?",
+            "a": "If you use your states Registration form, you must provide proof of citizenship in order to register. The simplest form to use for your voter registration in Arizona is the Standard Federal Registration Form You can find the federal standardized form in English here and in Spanish here . For more language options go here . If you register to vote using the Arizona State Registration form, the following will serve as proof of citizenship and no additional documents are needed: An Arizona driver license or non-operating identification number issued after October 1, 1996: A Tribal Identification number (Bureau of Indian Affairs Card Number, Tribal Treaty Card Number, or Tribal Enrollment Number) The number from your certificate of naturalization If you do not have the above information, you must attach proof of citizenship to the form. Only one form is needed to register to vote. The following is a list of acceptable forms: A legible photocopy of a birth certificate that verifies citizenship and supporting legal documentation (i.e. marriage certificate) if the name on the birth certificate is not the same as your current legal name A legible photocopy of pertinent pages of a United States passport identifying the applicant Presentation to the County Recorder of United States naturalization documents Indian Census Number, Bureau of Indian Affairs Card Number, Tribal Treaty Card Number or Tribal Enrollment Number A legible photocopy of a Tribal Certificate of Indian Blood or Tribal or Bureau of Indian Affairs Affidavit of Birth. If you are registered in Arizona and use the registration form because you move within a county, change your name, or change your political party affiliation, you do not need to provide photocopies of proof of citizenship. You only need to provide proof of citizenship if you are a new resident in an Arizona county.",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2024-11-18T20:40:04.568108"
+        },
+        {
+            "q": "What types of identification are acceptable at polling places for voting?",
+            "a": "You will be required to show proof of identity at the polling place before receiving a ballot. The ID can include a photo but it is not required. If you do not use a photo ID you must show two forms of non-photo ID. Acceptable forms of identification with photograph, name, and address, such as: Valid Arizona driver's license Valid Arizona non-operating identification license Tribal enrollment card or another form of tribal identification Valid U.S. federal, state, or local government-issued ID Acceptable forms of identification without a photograph that bears your name and address (you must show two forms): Utility bill that is dated within 90 days of the date of the election. Bank or credit union statement that is dated within 90 days of the date of the election Valid Arizona Vehicle Registration Indian census card Property tax statement Recorder's certificate Valid U.S. federal, state, or local government-issued ID, including a voter registration card issued by the county recorder Tribal enrollment card or another form of tribal identification Arizona vehicle insurance card Any mailing to the elector marked \"Official Election Material\" Other acceptable forms of identification are one identification with your name and photo and one non-photo identification with your name and address. Any valid photo identification from List 1 in which the address does not reasonably match the precinct register accompanied by a non-photo identification from List 2 in which the address does reasonably match the precinct register U.S. Passport without address and one valid item from List 2 U.S. Military identification without address and one valid item from List 2 Voters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2024-11-18T20:40:04.569294"
+        },
+        {
+            "q": "When and where will the official election results be available, and how can I track them?",
+            "a": "Official results are never available on Election Day. Election officials are working around the clock to count an unprecedented number of ballots, and its essential that they take the time to make sure every vote is counted. For Presidential elections, local results will be certified no later than the third Thursday after Election Day. Official results will be released 6-20 days after the election on Arizonas Secretary of State website as they become available. Official Results",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2024-11-18T20:40:04.572272"
+        },
+        {
+            "q": "How can military personnel and overseas citizens register and vote in elections?",
+            "a": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation. If you have additional questions about elections and voting overseas you can use our state specific elections official directory or contact the Overseas Vote Foundation , or your state resource.",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2024-11-18T20:40:04.572905"
+        },
+        {
+            "q": "What are the requirements and steps to become a poll worker for an election?",
+            "a": "You can make sure we have safe, fair, and efficient elections for all. Become a poll worker toda y! In order to be a poll worker in Arizona, you must be: Registered to vote in Arizona (unless participating in student program) At least 18 years of age A U.S. Citizen A Student with citizenship, 16 years or older, with parental permission Complete the required training You will be entitled to compensation. To sign up, contact your local board of elections.",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2024-11-18T20:40:04.573553"
+        },
+        {
+            "q": "What are the operating hours of polling places on Election Day?",
+            "a": "Polling place hours are from 6:00 am to 7:00 pm.",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2024-11-18T20:40:04.574106"
+        },
+        {
+            "q": "How can I find the exact location of my designated polling place?",
+            "a": "You can confirm your voting location by selecting from the following local resources: Arizona State Poll Locator Tool.",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2024-11-18T20:40:04.574538"
+        },
+        {
+            "q": "How does the primary election process work for affiliated and unaffiliated voters?",
+            "a": "In Arizona, if you are registered with a particular party, you may only vote in that party's primary. If you are unaffiliated with any political party, you may request a ballot to vote in either the Republican or Democratic primary. Note: The provision for an open primary does not apply to the Presidential Preference Election. Only voters of a participating party may vote on that party's ballot. Independent (unaffiliated) voters may change their voter registration to a designated party by the registration deadline. After the election, voters may change their registration back to unaffiliated. For more information about how to participate in the partisan primaries as an unaffiliated (also known as Independent or No-party) voter, please follow the link below: https://www.azcleanelections.gov/how-to-vote/no-party . https://azsos.gov/votebymail",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2024-11-18T20:40:04.575068"
+        },
+        {
+            "q": "Under what circumstances will I need to cast a provisional ballot, and how is it processed?",
+            "a": "You will vote by provisional ballot if you meet certain criteria. That criteria is: Your name is not on the registration list The name and address on the registration list is not the same as the name and address on your ID Your ID is not sufficient You moved to a new precinct within the county You changed your name You were challenged as a qualified voter You requested an early ballot but did not vote an early ballot You will be given a receipt with information on how to verify the status of your provisional ballot. Provisional ballots are counted 10 business days after a General Election and 5 days for all other elections.",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2024-11-18T20:40:04.575798"
+        },
+        {
+            "q": "What accessible voting options are available for voters with disabilities?",
+            "a": "You have several accessible voting options. Accessible Polling Places: All polling locations will provide handicap parking and be able to accommodate people in wheelchairs, as well as people with visual or hearing impairments. If you need modifications to your polling location please contact your county recorder. Accessible Voting Systems: All polling locations/voting centers must have an accessible voting device available for use. Each polling location will also have magnifying instruments, large print versions of pamphlets and trained poll workers ready to assist if needed. Curbside Voting: If you are unable to enter the polling location you may ask that a ballot be brought to you by a poll worker. Permanent Early Voting: If you have a permanent physical disability, you may request to be placed on the Permanent Early Voter List. This will ensure you are mailed a ballot for each election in your area that you can vote from home. You can register for the permanent early voter list online or through the mail. Assistance Completing Election Materials: If you are unable to sign or fully complete the election materials (such as a voter registration form, early ballot, etc.) you may be assisted by someone who is willing to help. This includes getting assistance at the polling place by poll workers from two different parties, or from someone who you choose to help you. HAVA Hotline: The Help America Vote Act (HAVA) can help people who have questions about voting with disabilities. The Arizona Center for Disability Law runs a hotline to help answer questions. You can call them at 602-274-6287 or 1-800-927-2260 anytime from 7am-7pm on Election Day. For more information, you can utilize the American Association of People With Disabilities (AAPD) resource.",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2024-11-18T20:40:04.576851"
+        },
+        {
+            "q": "What is the voter registration deadline for the upcoming election, and how can I register online?",
+            "a": "The registration deadline is 29 days before an election. You can register to vote online ! You will need an Arizona Driver License and/or an Arizona non-operating ID card to register online. If you do not have either of those forms of ID, you can register by mail or in person at your County Recorder's Office. You may sign up for the Active Early Voting List to receive your early ballot through the mail at the same time you register to vote!",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2024-11-18T20:40:04.577696"
+        },
+        {
+            "q": "What are my rights regarding time off work to vote in elections?",
+            "a": "In Arizona, employers must grant paid leave for voting if there are less than three hours between the time that polls open or close and when an employee starts or ends their shift. Employees must request leave before Election Day. The employer may specify the hours the employee can be absent from work.",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2024-11-18T20:40:04.578178"
+        },
+        {
+            "q": "How can I verify my voter registration status and address any issues?",
+            "a": "To verify your voter registration status click here!",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2024-11-18T20:40:04.579186"
+        },
+        {
+            "q": "What types of voting machines are used at polling places, and how do they operate?",
+            "a": "The voting systems used in Arizona are Optical Scan and DRE. Optical Scan: With this system, you will receive a card or sheet of paper, which you take over to a private table or booth. The card has the names of the candidates and ballot measures printed on it. With a pen or pencil you fill in a little box or circle or the space between two arrows. When you are finished filling out all the cards, you bring the cards over to a ballot box, where poll workers will show you how to put the cards in the box. Or in some places, you may feed the completed cards or papers into a computer device that checks your card or paper right there at the polling place to make sure you have voted the way you want to and counts the votes. Direct Recording Electronic (DRE): All the information about who and what you are voting for is on an electronic screen like a TV or computer screen. There are many variations of DREs because lots of companies are inventing new ones, and many cities, counties and states are trying them out. Usually, after you have signed in, the poll workers will give you a card that you slide into a device to start your voting session. Some of these devices will show all of the candidates and ballot choices on one big screen. Often, with these big screen devices you push a button next to the name of the candidate you want to vote for (or yes or no on a ballot measure). On other DREs, the screen is set up to show pages. On each screen or page, there will probably be one thing to vote on. For example, on one screen or page, you might vote for president. Then you might move to the next page to vote for senator. Often these small-screen devices have a touch screen where you touch the screen next to the name of the person you want to vote for. Other devices have a key pad. And some have a keyboard, so you can write in the name of someone you want to vote for. You let the system know you are finished voting by pushing a button, touching the screen or entering something on a keypad. You can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource.",
+            "s": "https://www.vote411.org/arizona",
+            "t": "2024-11-18T20:40:04.579755"
+        }
+    ]
+}

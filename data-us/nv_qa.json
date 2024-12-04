@@ -1,0 +1,716 @@
+{
+    "state": "NV",
+    "num_questions": 118,
+    "num_answers": 118,
+    "contributor": "Bharat",
+    "questions": [
+        {
+            "q": "How do I submit a public records request?",
+            "a": "Our office is committed to providing access to public records in accordance with NRS 239. All requests to inspect and/or obtain copies of public records mist be made through the office of the Public Information Officer at sospio@sos.nv.gov or your request can be mailed to Public Information Officer, Nevada Secretary of State, 101 North Carson Street, Ste 3, Carson City, NV 89701.  The form you will need to complete is below:  Public Record Request Pursuant to NRS 239 (nvsos.gov)  For additional information about the public records request process, click on the link below:  Public Records Requests | Nevada Secretary of State (nvsos.gov)",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.127647"
+        },
+        {
+            "q": "Has there ever been widespread voter fraud in a Nevada election?",
+            "a": "No. We use complex and redundant systems to ensure it does not happen. Every unique situation that appears to be a violation of any state or federal election law is investigated thoroughly.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.127647"
+        },
+        {
+            "q": "What is a poll watcher or an observer?",
+            "a": "Poll watchers or election observers are individuals who may observe steps in the election process. A poll watchers may be members of organizations such as a political party or nonpartisan group, candidate representative, international observers, exit polling groups, academics, or relevant federal and state agencies.  The role of a poll watcher is to observe and monitor the election, without violating voter privacy or disrupting the election. The link below is to the form individuals must acknowledge and sign prior to being allowed to observe in a polling location. This form outlines the process and what is prohibited acts by a poll watcher inside a polling location.  Polling Place Observer Acknowledgment NAC 293.245 (nvsos.gov)",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.127647"
+        },
+        {
+            "q": "Has there ever been widespread voter fraud in a Nevada election?",
+            "a": "No. We use complex and redundant systems to ensure it does not happen. Every unique situation that appears to be a violation of any state or federal election law is investigated thoroughly.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.127647"
+        },
+        {
+            "q": "What is a poll watcher or an observer?",
+            "a": "Poll watchers or election observers are individuals who may observe steps in the election process. A poll watchers may be members of organizations such as a political party or nonpartisan group, candidate representative, international observers, exit polling groups, academics, or relevant federal and state agencies.  The role of a poll watcher is to observe and monitor the election, without violating voter privacy or disrupting the election. The link below is to the form individuals must acknowledge and sign prior to being allowed to observe in a polling location. This form outlines the process and what is prohibited acts by a poll watcher inside a polling location.  Polling Place Observer Acknowledgment NAC 293.245 (nvsos.gov)",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.127647"
+        },
+        {
+            "q": "What is voter intimidation?",
+            "a": "Voter intimidation includes several actions, including interfering with voters at the polls. It is currently illegal under NRS 293.2543 through NRS 293.2549 and under federal laws.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "Who do I tell if I feel that I’ve been a victim of voter intimidation or other elections-related crime?",
+            "a": "If it was an act of violence, call 911.  For any other election-related crimes, contact our office at this number (the number they called; (775) 684-5705) and we will notify the Elections Integrity Task Force (EITF) who will take appropriate action. Additionally, we request you fill out an Elections Integrity Violation Report (EIVR) so that we can formally track and address the issue. They are located online at this site: Report Potential Election Law Violation in Nevada",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "What is an EIVR (Election Integrity Violation Report)",
+            "a": "An Elections Integrity Violation Report is a simple written report notifying this office about a violation of Title 24 Election Law (Nevada Revised Statutes). It is not a police report. If you want to report an act of violence, please call 911. To file an EIVR, you can find the document at: Election Integrity Violation Report",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "May I submit an EIVR anonymously?",
+            "a": "No, you cannot submit one anonymously. It is important that we can follow up with you about the complaint to get additional details, documentation, pictures, or information that you may have.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "Why does it take 10-15 days after the election to show my final vote history?",
+            "a": "Election results are unofficial until they have been canvassed by the counties and certified by the State. State law allows correctly post-marked mail ballots to be received by the county clerk until 5pm on the fourth day after the election per NRS 293.317. After all in-person and mail ballots have been counted, the clerks count the provisional ballots. Once these remaining ballots have been counted, the clerks must certify their election results to their county commissioners and transmit the results to the Secretary of State by the 10th day following the election per NRS 293.387. The information is posted to www.NVSOS.gov/votersearch within 48 hours.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "Does same-day registration enable voter fraud?",
+            "a": "No. There are many measures in place to prevent and identify attempted voter fraud within the same-day registration process. To same-day register a voter must have a valid Nevada driver’s license or Nevada ID card and must present it to the election official at their polling place; this prevents non-Nevada residents from fraudulently utilizing the same-day registration process. In addition, before the same-day registration provisional ballots are counted, a statewide report is run that compares the names and driver’s license/ID card numbers of all provisional voters to ensure only one ballot will be counted per voter. This report also compares all provisional voters to all the in-person and by-mail voters whose ballots were already counted to ensure provisional voters have not already voted. Voters who commit voter fraud are guilty of a category D felony and are prosecuted to the full extent of the law. Even attempting to vote more than once in the same election is voter fraud.  Voter Registration",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "Who is eligible to register to vote? What are the qualifications to register to vote in Nevada?",
+            "a": "Nevada law has specific requirements you must follow before you are eligible to vote. Below are the specific requirements.  Be at least 18 years of age on or before Election Day. Be a U.S. Citizen. Be a resident of Nevada for 30 days preceding any election. Not currently serving a term of imprisonment for a felony, and/or; Not have been declared mentally incompetent by a court of law. Individuals who are 17 years old and meet all the other qualifications to register to vote can pre-register to vote using any of the means available. A person who has preregistered to vote automatically becomes a registered voter on their birthday, unless the preregistration has been cancelled.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "Can I register to vote online?",
+            "a": "Yes, you may register to vote online on our website here with a valid Nevada Driver's License or Nevada ID.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "Where do I send my voter registration form once I’ve filled it out?",
+            "a": "If you are registering to vote in Nevada, return your completed application via mail or in person at:  Your County Clerk/Registrar of Voters office; Your City Clerk Office; or Nevada Department of Motor Vehicles",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "What happens after I submit my voter registration application?",
+            "a": "When you application is received by the clerk/registrar, they will process and verify your voter    registration application for accuracy, ensure your information matches with the Department of Motor Vehicles, Social Security Administration and Vital Statics. Once you are registered to vote in Nevada, you will receive a voter registration card by mail from your County Clerk/Registrar of Voters office, as well as a sample ballot prior to the Primary or General Elections. Sample ballots contain information on the offices up for election in your precinct and questions appearing on the actual ballot. They also contain information about your precinct, your party affiliation, the name and address of your polling place and early voting schedule and locations.  If you do not receive your voter registration card or sample ballot, please contact your local City Clerk or County Clerk/Registrar of Voters to verify that your application was received and processed.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "How can I confirm I am registered to vote or change my voter registration?",
+            "a": "You can view or update your voter registration information, please go to My Voter File.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "How do I cancel my voter registration?",
+            "a": "You can cancel your voter registration by visiting Voter Registration Search (nvsos.gov) or you can submit a written request directly to the County Clerk/Registrar.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "Can I vote if I’ve been convicted of a crime?",
+            "a": "If you are not currently serving a term of imprisonment for a felony conviction, you are eligible to vote. For more about AB431 and the restoration of voting rights, click here.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "Do I declare my political party affiliation when I register to vote?",
+            "a": "Yes, when you register to vote, you will be asked to indicate your party affiliation.  You also have the option to register as a Nonpartisan voter, meaning you have no political party affiliation. If you chose Nonpartisan or one of the minor parties, during a primary election you will only see on your ballot the offices that are nonpartisan.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "I didn’t vote in the last election; do I need to re-register?",
+            "a": "A: If you did not vote in the last election, and you did not return a postcard mailed to you pursuant to NRS 293.530, your voter registration will be put into inactive status. \"Inactive Voter\" status includes any voter for whom a county has received: 1) a returned residency confirmation mailing without a forwarding address within the same county, or 2) information obtained through the United States Postal Service National Change of Address (NCOA) database indicating that a voter has moved outside the county. An inactive voter is eligible to vote so long as they have met all other legal requirements to vote. If you do not vote in two consecutive federal elections, your local County Clerk/Registrar of Voters office must CANCEL your registration, pursuant to the National Voter Registration Act (NVRA). If your voter registration is cancelled, you must re-register to vote. You can check your voter information anytime online at My Voter File.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "Can register to vote during Early Voting or on Election Day?",
+            "a": "Yes, you can do \"Same Day Registration\". If you wish to utilize the same-day registration process you must have a valid Nevada driver’s license or Nevada ID card and you must vote in-person at a polling location. (Tribal ID cards may also be used if they meet certain requirements - see \"Can I use my tribal ID card to same-day register?\" below.) Any other form of identification, including a military ID or passport, cannot be used for same-day registration to prove your identity. At the polling location you will present your Nevada driver’s license or Nevada ID card to the election official and be provided the opportunity to register or update your existing registration. If your Nevada driver’s license or Nevada ID card does not have your current residential address you will also need to present a valid proof of residence. The following items can be used as proof of residence:  A military identification card; A utility bill, including, without limitation, a bill for electric, gas, oil, water, sewer, septic, telephone, cellular telephone or cable television service; A bank or credit union statement; A paycheck; An income tax return; A statement concerning the mortgage, rental or lease of a residence; A motor vehicle registration; A property tax statement; Any other document issued by a governmental agency; or A tribal identification card. Once you have provided the required identification and completed the registration process, you will be given a ballot. This ballot may be a provisional ballot (see below for more information on provisional ballots).",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "Can I use my tribal ID card to same-day register to vote?",
+            "a": "Yes; however, per NRS 237.200 a tribal ID card can only be used to identify a person if it contains:  The full legal name of the holder of the card; The date of birth of the holder of the card; A unique number assigned to the holder of the card; A digital photograph of the full face of the holder of the card; The address of the principal residence of the holder of the card; A physical description of the holder of the card, including, without limitation, the height, weight, hair color and eye color of the holder of the card; The usual signature of the holder of the card; The date on which the card is issued; and A reference to the tribal government which issued the card",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "I have not yet received my official Nevada Driver’s License or Nevada ID card in the mail; can I use the temporary, paper version to same-day register?",
+            "a": "Yes. The temporary paper driver’s license or ID card from the DMV is called an \"interim document\" and is a legitimate and verifiable piece of identification.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "I recently moved to Nevada and do not yet have a Nevada Driver’s License or Nevada ID card, can I same-day register?",
+            "a": "No. To same-day register you must have a valid Nevada driver’s license or ID card. There are no exceptions to this rule.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "Can I challenge someone’s voter registration?",
+            "a": "A written challenge may be filed 30 days prior to election day and no later than 25 days prior to election day with the County Clerk/Registrar (May 13, 2024 – May 17, 2024). NRS 293.547(1)  Written Challenge Affirmation (nvsos.gov)    Presidential Preference Primary",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "What is a \"Presidential Preference Primary\"?",
+            "a": "It is a primary election wherein a voter indicates a preference for a particular candidate to be a major party’s nominee for the presidency. This is a non-binding election by State law; it is up to the major parties to decide how to allocate delegates. State parties award delegates according to the party’s system of delegate allocation and these delegates then vote to formally select a candidate as their presidential nominee at the party’s national convention. Presidential preference primaries are conducted by state and county election officials, while caucuses are conducted by the parties themselves. The Secretary of State's Office is not involved in the party run caucuses.    Primary Election",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "When is Primary Election Day?",
+            "a": "The Primary Election is held on the 2nd Tuesday in June of each even-number years (NRS 293.175(1)). For 2024 it will be held on June 11, 2024.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "Is the State of Nevada a \"Closed\" or \"Open\" Primary state?",
+            "a": "The State of Nevada is a closed primary state. This means you must be registered to one of the major political parties to vote in that party’s primary election. For example, only voters who are registered to a major political party may vote for that respective parties’ candidates for nomination to appear on the general election ballot. There are a number of nonpartisan local and state offices that can also appear on a primary ballot. These races are open for all voters.  An open primary is when a voter is not required to be affiliated with a political party in order to vote for partisan candidates.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "When is the last day I can register to vote for the upcoming Primary Election?",
+            "a": "The last day you can register to vote or update your voter information by mail or in person is Tuesday, May 14, 2024. After that date you can only register to vote or update your voter information online at Nevada Voter Registration (nv.gov)",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "When is early voting for the Primary Election?",
+            "a": "Early Voting starts on Saturday, May 25, 2024 and ends Friday, June 7, 2024.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "When is the last day I can register to vote or update my voter registration and receive a mail-in ballot?",
+            "a": "The last day County Clerks/Registrar will mail out ballots to voters that have registered to vote or updated their voter registration for the Primary Election is Tuesday, May 28, 2024.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "What is the last day a mail-in ballot can be received to be counted, that has a postmark of election day?",
+            "a": "For the Primary Election, the last day is Saturday, June 15, 2024, by 5:00 p.m.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "What is the last day I can cure my mail-in ballot if it has been challenged?",
+            "a": "The last day to cure a challenged mail-in ballot is Monday, June 17, 2024, by 5:00 p.m.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "What is the last day I can opt-out of receiving a mail-in ballot for the Primary Election?",
+            "a": "The last day to submit an opt-out request for the primary election is April 12, 2024, or 60 days prior to election day.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "When should I expect to receive my sample ballot in the mail for the Primary Election?",
+            "a": "Please contact your County Clerk/Registrar for this information because it could vary from county to county. Per NRS 293.565, 293C.530 and NAC 293.120 it is recommended that sample ballots be distributed before early voting begins with a recommended date of May 8, 2024.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "When will mail-in ballots start to be mailed out?",
+            "a": "UOCAVA voters will start to receive their ballots 45 days before election day, April 27, 2024. Voters that are having their ballots mailed out of state they will be mailed 40 days before election day or May 2, 2024. All mail-in ballots will be mailed out no later than 20 days prior to election day, however we advise you contact your County Clerk/Registrar to confirm the date your mail-in ballot will be in the postal system.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "When will I be able to access NVEASE?",
+            "a": "This portal will be active 45 days prior to election day, which is Saturday, April 27, 2024, and will be closed on election day at 7:00 p.m. when the polls close.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "When is the last day for the Board of County Commissioners to canvass votes?",
+            "a": "For the Primary Election it is June 21, 2024",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "When will the Supreme Court canvass the votes?",
+            "a": "For the Primary Election it is November 26, 2024.    Voting By Mail",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "Why did I receive a ballot in the mail when I did not request one?",
+            "a": "That was caused by the passage of Assembly Bill 321 during the 2021 Legislative Session and now codified in NRS293.269911. As a result, all active registered voters in Nevada will receive mail ballots. If you have not registered to vote 14 days prior to each election, you will not receive a mail-in ballot and will have to vote in person during early voting or on Election Day.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "I haven’t received my ballot in the mail, and it shows it was mailed, what should I do?",
+            "a": "If you have not received a ballot within a week of your ballot being mailed, please contact your County Clerk or Registrar of Voters.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "Do I have to use a stamp when I mail in my ballot? Do I have to mail it in?",
+            "a": "All ballots come with a secure pre-addressed, postage-paid ballot return envelope that must be used for returning the ballot. Once you sign the outside of the envelope on the signature line, you can simply drop that in the mail. You can also return it to your county Clerk/Registrar. When you go to drop it off, someone with the Clerk/Registrar’s office will verify the ballot is signed and sealed, and then will place it in a secure ballot box.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "I don’t trust the postal service; can I still vote using my mail-in ballot?",
+            "a": "Yes, you may fill it out and bring it to a secure drop-off location established by your county clerk/registrar. 2024 voting locations - Early Voting and Election Day Locations and Drop Off locations.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "Is there a difference between the mail-in ballot and an absentee ballot?",
+            "a": "No, they are the exact same form and are processed the exact same way. The term ‘Absentee Ballot’ was removed from our statutes by Assembly Bill 321 during the 2021 Legislative Session.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "What is the deadline to return my ballot?",
+            "a": "You can drop your mail ballot off at an official drop-box in your county or mail it in. If you choose to submit your ballot to a vote center, polling location or clerk/registrars office, it must be dropped off by 7:00pm on Election Day for it to be counted. Mail-in ballots that are postmarked on or before the day of the election AND received by the 4th day after election day by 5 p.m., will be accepted as received and processed according to Nevada State law.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "What happens if I mail my ballot back the day after the election?",
+            "a": "If your mail-in ballot is received too late it will be received and challenged as \"Too Late\" and will not be processed.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "If I mail my ballot in, when will my vote be counted?",
+            "a": "Nevada counties can start processing votes cast through mail-in ballots 15 days before election day. However, the Board of County Commissioners & Carson City Board of Supervisors do not certify the election until \"no later than the 10th day after Election Day\". That is when your vote will officially be considered \"counted\".",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "Is it possible to get two ballots in the mail?",
+            "a": "Yes, it is possible to get two ballots, but that does not mean someone can vote twice. If you misplace your ballot and request another from your county clerk/registrar, you will get a second ballot in the mail. If you then find your first ballot, you will have two ballots in-hand. However, the bar code on the first ballot will have been canceled so it cannot be used and would be caught if submitted. A photo of someone with two ballots on social media does not mean they can vote twice or that the system is broken. Voting twice or attempting to vote twice is illegal.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "What does it mean to \"opt-out\"?",
+            "a": "When you ‘opt-out’ of receiving a mail ballot, you are stating that you do not want to receive a mail ballot. Your county Clerk/ Registrar will then ensure that your name is not on the list of those active registered voters who will receive a mail ballot. When the Clerk/Registrar is ready to order or print ballots, your ballot will not be created.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "May I opt-out now?",
+            "a": "Yes, you may submit the ‘opt-out’ form now, but there is a deadline to submit prior to before each Election. If you submit an ‘opt-out’ form 60 days prior to any Election, you will NOT receive a mail ballot for the Presidential Preference Primary, the Primary or General Election, or any future elections.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "What happens if I get a ballot and then want to change my party affiliation?",
+            "a": "You are still able to change your party affiliation. Once you change your party affiliation (either online at www.registertovote.nv.gov, in person), your county Clerk/Registrar will automatically cancel the previous ballot, making it invalid, and will reissue you another ballot. The previous ballot will not work and if it is cast, the county Election Management System will recognize that it has been canceled as soon as the envelope is scanned, and it will prevent the ballot from being counted.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "Is there a way I can track my ballot?",
+            "a": "Yes, you can register for a service called BallotTrax. To sign up for this service click on the following link: State of Nevada (ballottrax.net)",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "What is stopping someone from photocopying their ballot?",
+            "a": "Ballots are printed on special paper and use special bar codes that make each vote unique. A duplicate would be flagged in our voter management system and referred for investigation. It is illegal to vote or attempt to vote twice in an election.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "I heard third-party organizations are collecting ballots to turn them in. Are they safe?",
+            "a": "We do not recommend the use of third-party organizations to return your ballot. This activity had previously been illegal, but the passage of Assembly Bill 321 made it legal to collect ballots for others. These organizations may be well intentioned, but they are not your county elections officials. Instead, we recommend you either return your ballot by mail or bring it to a secure drop-off location.  2024 Voting Locations - Early Voting and Election Day Locations and Drop Off locations.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "Should I trust the USPS (United States Postal Service)? Can they handle the volume of mail?",
+            "a": "Yes, the USPS and the office of the Secretary of State have a long and successful relationship and work alongside of them during peak election mail periods. The USPS handles a tremendous volume of mail daily and the coming surge in elections related mail does not even begin to get close to their max capacity. For example, if everyone who gets a ballot mailed it in on the same day, this would still be less than 30% of their capacity.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "I made a mistake on my ballot? What can I do to fix it?",
+            "a": "If you mark the wrong candidate, you can cross out the candidate you mistakenly selected and mark the oval next to the correct candidate. Do not make an identifying mark next to the change, such as your initials, because that voids the ballot. In that instance, contact the election official in your county for assistance.   Election Night Results",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "How often will election night results be updated on your webpage?",
+            "a": "Election night results will be initially updated shortly after the close of polls and the last voter voting. After that, they will be updated routinely until the final update after the canvass of the vote by the respective Boards of County Commissioners/Board of Supervisors.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "When can I expect to start seeing election night results being reported?",
+            "a": "Once the Secretary of State has received confirmation from all the county clerks and registrars that the polls on election day are closed and all present voter in a polling location have cast their ballot (NAC 293.217(3)), results of the election will be posted.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "Where can I find election results from prior years?",
+            "a": "You may review prior years Elections results on our website  here. Hardcopies of election returns from any election may by obtained by contacting this office by phone or email.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "How can I get election results on election night?",
+            "a": "The Secretary of State's office provides election night results on our Silver State Elections website.  Candidates",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "Does Nevada allow for write-in candidates?",
+            "a": "No, the State of Nevada does not allow individuals to write in a candidate’s name for any office. (NRS 293.270 (2))    Campaigns",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "Is there a limit to the dollar amount of contributions I can accept as a candidate from one donor?",
+            "a": "Yes. The limit is $5,000 for the primary election and $5,000 for the general election, for a maximum of $10,000. If you receive more than $5,000 from any person and lose the primary election, you must return any amount in excess of $5,000 to the contributor (NRS 294A.100 and NRS 294A.160).",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "What if I don’t have a primary election? Can I still receive the maximum of $10,000?",
+            "a": "Yes.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "Is there a limit to the dollar amount of contributions a Committee for Political Action (PAC) can receive from one donor?",
+            "a": "No. There is no limit to the dollar amount of contributions a PAC can receive or give to another PAC. However, PACs are still limited as to the amount they can contribute to an individual candidate (NRS 294A.100).",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "What is an in-kind contribution?",
+            "a": "The value of goods or services provided in-kind for which money would have otherwise been paid (NRS 294A.007). For example, a person donates billboard space to a candidate free of charge. This would be an in-kind contribution, the value of which would be what it would normally cost to rent the billboard space.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "Can I make an anonymous contribution to a candidate?",
+            "a": "No. Anonymous contributions of $100 or more are prohibited (NRS 294A.190).",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "Can I contribute to a candidate in the name of another person?",
+            "a": "No. Contributing in the name of another person, sometimes known as conduit or straw contributions, is prohibited by law (NRS 294A.122).",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "Are the Contribution and Expense Reports (C&E Reports) the only finance forms I must file?",
+            "a": "No. If you receive more than $6,000 in annual compensation you must file a Financial Disclosure Statement (FDS) with the Secretary of State’s Office (NRS 281.561).   Petitions    PACs - Political Action Campaigns   Recall",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "How long does someone have to be in the office before they can be recalled?",
+            "a": "A six months wait only applies to those who are not a Senator or Assemblyman/woman in the legislature. For those in the legislature, the petition can be filed starting on Feb 14, 2025 since the session starts on Feb 3, 2025 (85th session)and the NV Constitution states, \"No such petition shall be circulated or filed against any officer until he has actually held his office six (6) months, save and except that it may be filed against a senator or assemblyman in the legislature at any time after ten (10) days from the beginning of the first session after his election\".",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "Can anyone file a petition for recall?",
+            "a": "There are some limitations to who can file it. NRS 306.015 states that the Notice of Intent must be filed by those proposing to circulate the petition, (up to three people), who must meet the qualifications of 306.015 including that they must have voted in the election at which the person they are seeking to recall was elected.  Some states have limitations on recalling elections for ethical or legal violations, but Nevada does not. It isn’t up to us (in other words) to state if it is a \"good or bad reason\". The requirement is that the petition must have a 200-word description: \"They shall set forth in said petition, in not exceeding two hundred (200) words, the reasons why said recall is demanded.\"",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "Does it go to a Special Election?",
+            "a": "Yes, if the petition is filed (and has enough validated signatures) then it must go to a special election within 30 days.  Recount",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "Who can demand a recount?",
+            "a": "Pursuant to NRS 293.403(1), a candidate that was defeated at any election may demand and receive a recount of the vote for office for which he or she is a candidate to determine the number of votes received for the candidate and the number of votes received for the person who won the election.  NRS 293.403(2) states that any voter can demand a recount for a ballot question within 3 working days after the canvass of the vote and the certification.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "When does the canvass occur?",
+            "a": "According to NRS 293.387, for county offices, the Board of County Commissioners must canvass not later than the 10th day after the Election Day.  For statewide and multi-county offices and ballot questions, NRS 293.395 requires the Nevada Supreme Court to canvass on the fourth Tuesday of November after each general election.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "When does a request for a recount need to be submitted?",
+            "a": "Within 3 working days after the canvass of the vote.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "What do I need to submit as a candidate who demands a recount?",
+            "a": "The candidate who demands the recount will file a written demand with the officer with whom the candidate filed his or her declaration of candidacy and deposits in advance the estimated costs of the recount with that officer. It does not need to be on a specific form.  The payment must be cash, certified check, or money order, and not a personal check.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "What is included in the cost estimates for the recount?",
+            "a": "NAC 293.375 provides details regarding what is used to determine each county estimate for the cost of a recount.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "When does the recount process start after the demand has been made?",
+            "a": "The recount must start within five days of receiving the demand and must be completed within 5 days once it has commenced.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "If I demand a recount, can I withdraw that demand?",
+            "a": "Yes. NAC 293.371 clarifies that a person who demands a recount of votes may withdraw the demand by filing a withdrawal in writing with the officer with whom the person filed the demand at any time before the completion of the recount.  If that occurs, each county or city clerk who was conducting the recount must stop the recount as soon as practicable after the person demanding the recount files the withdrawal of the demand. A person who withdraws a demand for a recount of votes may not request a continuation of the recount or a new recount of those votes.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "Would someone have to pay if they demand a recount and then withdraw it?",
+            "a": "Yes. If a person files a withdrawal of a demand for a recount, each county or city clerk who was conducting the recount must determine the actual cost incurred before the withdrawal was filed. If the sum deposited for the purpose of the recount:  (a) Is less than the cost of the recount at the time of the withdrawal, the person shall, upon demand, pay the deficiency to the county clerk, city clerk or Secretary of State, as applicable.  (b) Is in excess of the cost of the recount at the time of the withdrawal, the excess must be refunded to the person.",
+            "s": "https://www.nvsos.gov/sos/elections/election-resources/faqs",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "HOW CAN I RETURN MY BALLOT BY MAIL?",
+            "a": "Voted ballots sent through the mail must be:Mailed in the postage-paid return envelope provided specifically for you, showing your name and address, and you must also sign the outside of that envelope before mailing it;Postmarked on or before Election Day; andReceived by the Election Department by 5pm on the fourth day after Election Day.Do not put your ballot in another voters return envelope.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "WHO IS ELIGIBLE TO VOTE BY MAIL?",
+            "a": "In Nevada, all active registered voters will be mailed a vote-by-mail ballot as long as they are registered no later than 14 days before Election Day.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "What is the process for voting by mail?",
+            "a": "2024 General Election: Important Return DatesIn Nevada, voted mail ballots must be postmarked by Election Day, November 5th. If you are returning your ballot in person, it must be submitted by 7:00 p.m. PST on November 5th.Nevada is a universal vote by mail state, which means all active registered voters will receive a ballot by mail and no request is necessary. Voted ballots must be postmarked by Election Day or received by 7pm if hand delivered.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "How can I fix issues with my mail-in ballot?",
+            "a": "The deadline to cure (correct) your absentee/mail ballot is by 5pm on November 12, 2024. The county clerks office will contact you via letter, phone, or email if any errors are found. The notice will include the necessary information and instructions to correct your ballot on time. You can track your ballot through your states online tool. If you voted a provisional ballot, you can check the status of your ballot with the unique affirmation number issued to you at your polling place by calling (877) 766-8683. Provisional Ballot Status information is available beginning on November 13, 2024, and is available for 30 days.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "Where can I find information about campaign finance?",
+            "a": "For information on federal campaign contributions, please visit Open Secrets.For information on state campaign contributions, please visit your state's resource.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "Where can I find information about candidates and ballot measures?",
+            "a": "Information on local, state and federal candidates and ballot measures may be available here.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "Where are ballot drop boxes located?",
+            "a": "Ballot drop-off locations are available here.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "When is early voting available?",
+            "a": "Early voting is available and takes place at locations throughout the state beginning 14 days before an election. Please contact your local county clerk's office for specific dates and times.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "When are the upcoming election dates?",
+            "a": "The next election dates can be found here https://www.vote411.org/nevada.Contact your local Board of Elections for more information.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "What are the eligibility requirements to vote?",
+            "a": "To be eligible to vote, you must be:- A U.S. citizen- A resident of Nevada for 30 days before an election and have continuously lived in your precinct for ten days before the election- 18 years of age or older (you may pre-register at 17 years old)- Not declared by a court to be mentally incompetentIf you have recently moved:If you moved within the state of Nevada, changed your name, or want to switch your political party affiliation, you must fill out a new form to update your voter registration. To do this, go to RegisterToVote.NV.gov.Note: If you want to register to vote on the same day as the election, you must have a valid Nevada drivers license or ID card. There are no exceptions to this requirement.If you moved to another state and need to cancel your voter registration, you can do it online at Voter Registration Search.Incarcerated Voters & Returning Citizens:In Nevada, you only lose your right to vote if you are currently incarcerated for a felony conviction. If you lost your voting rights because of a conviction, you could register to vote immediately after release. Your voting rights are not restricted by pretrial detention, misdemeanors, probation, or parole.Voters without traditional residence:In Nevada, a location description must be provided if you reside at a location that has not been assigned a street address. This can be a description of a street corner, park, shelter, or any other place where you usually stay. The mailing address on your registration form can be a PO box, local shelter, advocacy organization, outreach center, or the home of someone who will accept mail for you.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "What ID do I need to register to vote?",
+            "a": "You need a valid photo ID to register to vote in Nevada. If you don't have one when registering, you must show it at your polling place on Election Day. The ID should prove where you live, verify your identity, and include a photo.- For online registration, you will need a DMV-issued Driver's License or ID.- If you're using a paper registration form, you'll need to provide either a valid NV Drivers License or ID Card number or the last 4 digits of your Social Security Number.If you don't have any of these, your County Election Department will contact you after receiving your application.- If you don't have any of these, your County Election Department will contact you after receiving your application.- If you don't have any of these, your County Election Department will contact you after receiving your application.If your current photo ID doesn't have your current address, bring a copy of a current utility bill, bank statement, government check, or another government document showing your name and current address.SAME-DAY REGISTRATIONIf you wish to register on the same day as the election, you will need to have a valid Nevada drivers license or ID card, and you must vote in person at a polling location. Tribal ID cards may also work if they meet specific requirements. Other forms of identification, like military IDs or passports, cannot be used for same-day registration.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "What forms of identification are accepted for voting?",
+            "a": "If your name appears on the list at the polling location, you do not need to show any ID in order to vote.If you are a first time voter, and did not provide an acceptable form of ID with your registration from, you may be asked to show ID at the polls, such as:- Current Nevada drivers' license- Current Nevada state ID card- Armed Forces ID card- Sheriff's Work ID card- ID card issued by an Agency of the State of Nevada or other political subdivision- Student ID card- US Passport- Tribal ID cardOther forms of ID may be used. Please check with your County Clerk for more information.Voters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "When are official election results released?",
+            "a": "Official results are never available on Election Day. Election officials are working around the clock to count an unprecedented number of ballots, and its essential that they take the time to make sure every vote is counted.For Presidential elections, local results will be certified no later than the 10th day following Election Day.Official election results will be uploaded on Nevadas Secretary of State website, after the fourth Tuesday of November.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "How can military and overseas voters cast their ballots?",
+            "a": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation.If you have additional questions about elections and voting overseas you can use our state specific elections official directory or contact the Overseas Vote Foundation.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "What are the requirements to become a poll worker?",
+            "a": "You can make sure we have safe, fair, and efficient elections for all. Become a poll worker today!In order to be a poll worker in Nevada, you must:- Be registered to vote in Nevada- Be at least 18 years of age- Be a resident of the county- Complete required trainingStudents 16 years or older who are enrolled in high school may be appointed if they meet all other voter requirements. You will be entitled to compensation. To sign up, contact your local board of elections.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "What are the voting hours at polling places?",
+            "a": "Polling place hours of operation are from 7:00 am to 7:00 pm.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "Where can I find my Voter Service and Polling Center location?",
+            "a": "You can find your polling place by utilizing your state resource. If you have further questions on your polling place location, please contact your county clerk.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "How does the primary election process work?",
+            "a": "Nevada is a closed primary state. In order to vote in the primary election, voters must be registered with a political party. Unaffiliated or independent voters are not able to participate in the primary.If you have any questions about your states primary election, please contact your local election officials.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "When would I need to vote using a provisional ballot?",
+            "a": "Provisional ballots ensure that all voters can cast a ballot even if voter eligibility is uncertain when they vote. Voters can mark a provisional ballot, and election workers set it aside until eligibility is verified at a later time.You are eligible to vote a provisional ballot if:- You claim to be an eligible voter, but your name does not appear on the list of registered voters, and the voter registrar cannot determine your registration- You have applied for a ballot by mail but have not returned it or canceled it- You vote during extended polling hours ordered by a state or federal court- You do not present any acceptable form of identificationIf you voted on a provisional ballot, you can check its status using the special affirmation number given to you at your polling place. You can call (877) 766-8683 or use the Provisional Ballot Status link to find your affirmation number. To learn more about provisional ballots, contact the county election office where you voted with the provisional ballot. You can start checking your Provisional Ballot Status from the eighth day following the election, and it's available for 30 days.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "What accommodations are available for voters with disabilities?",
+            "a": "Nevada's Effective Absentee System for Elections, or EASE, is available to Nevada residents with disabilities. EASE is an online tool that combines voter registration, electronic ballot delivery, and marking.You can also contact your local election official for more information or assistance.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "What is the deadline to register to vote?",
+            "a": "The deadline for registering to vote in Nevada varies based on how you register:- In-person: 28 days before Election Day- By Mail: postmarked 28 days before Election Day- Online: five days before Election Day- Same-day registration: permitted during early voting and on Election DayDeadlines for special elections may be different. Please contact your local elections official for important deadlines.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "What are the rules for taking time off work to vote?",
+            "a": "Employers must grant employees up to three hours paid leave to vote, unless polls are open three hours before or after regular working shift. If you live equal to or less than 2 miles away from your polling place, you are granted 1 hour of civil leave. Greater than 2 and equal to or less than 10 miles grants the employee 2 hours. Greater than 10 miles grants the employee 3 hours. The time off should be paid.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "How can I verify my voter registration status?",
+            "a": "To verify your registration status",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "What are the requirements for voting by mail?",
+            "a": "Nevada is now a vote by mail state, so all registered voters will receive a ballot by mail. You may opt-out from receiving a mail-in ballot if you wish to vote in person. Do not mail a ballot and vote in person. Voters who vote in person will have two options:",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "What types of voting machines are used?",
+            "a": "The voting system used in Nevada is DRE.Direct Recording Electronic (DRE): This is the newest kind of system in use in the U.S. All the information about who and what you are voting for is on an electronic screen like a TV or computer screen.There are many variations of DREs because lots of companies are inventing new ones, and many cities, counties and states are trying them out. Usually, after you have signed in, the poll workers will give you a card that you slide into a device to start your voting session.Some of these devices will show all of the candidates and ballot choices on one big screen. Often, with these big screen devices you push a button next to the name of the candidate you want to vote for (or yes or no on a ballot measure). On other DREs, the screen is set up to show pages. On each screen or page, there will probably be one thing to vote on. For example, on one screen or page, you might vote for president. Then you might move to the next page to vote for senator. Often these small-screen devices have a touch screen, where you touch the screen next to the name of the person you want to vote for. Other devices have a key pad. And some have a keyboard, so you can write in the name of someone you want to vote for.You let the system know you are finished voting by pushing a button, touching the screen or entering something on a keypad.You can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "I AM VOTING FOR THE FIRST TIME BY MAIL. WHAT SHOULD I KNOW?",
+            "a": "If you are a first time voter, you may be required to present ID for voting if: (a) The data you provided on your voter registration application didnot match the data on file at the Department of Motor Vehicles or Social Security Administration; and (b) You didnot respond to the letter that was sent to you notifying you of the discrepancy.Your county clerk will notify you if you are required to provide a copy of your identification with your mail ballot. To fulfill this requirement, you must submit both identity and residency identification with your mail ballot.\"Official Identification\" means a government-issued, or otherwise official, article or combination of articles, which establishes both the identity and residence. Forms of ID may include:- A current and valid Nevada driver's license- A current and valid identification card issued by the Department of Motor Vehicles- A current and valid identification card issued by a branch of the Armed Forces of the United States- A current and valid identification card issued by a sheriff of a Nevada county to an employee as a condition of employment by certain business enterprises- A current and valid identification card issued by an agency of the State of Nevada or political subdivision thereof or the United States, including, without limitation, a public school, college or university- Current and valid student identification card from an accredited private school, college or university- Current and valid United States passport- Current and valid insurance plan identification card which the county clerk determines, in his or her discretion, to be a reliable indication of the true name and identity of the person- Current and valid tribal identification cardProof of residency may include:- Any form of ID set forth above- Current and valid utility bill, including, without limitation, a bill for electricity, gas, oil, water, sewer, septic, telephone, cellular telephone or cable television- Current and valid bank or credit union statement- Current and valid paycheck- Current and valid income tax return- Current and valid statement concerning mortgage, rental or lease of a residence- Current and valid motor vehicle registration- Current and valid document issued by a governmental agency- Current and valid property tax statement- Any other official article which the county clerk determines, in his or her discretion, to be a reliable indication of the true residential address of the personIf you have questions on this process, please contact your local election office.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE FOR CURING MY MAIL BALLOT SIGNATURE IF THERE IS AN ISSUE?",
+            "a": "If a question arises about your signature on the outside of your mail ballot return envelope or if you did not put your signature on the outside of that envelope, the Election Department will notify you using the contact information in your voter registration. You will have until 5pm on the sixth day after Election Day to provide a signature confirmation or an actual signature, as applicable.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "HOW DO I RECEIVE A BALLOT BY MAIL AS AN OVERSEAS OR U.S. MILITARY VOTER?",
+            "a": "Overseas citizens and U.S. military personnel can find information on how to register to vote and request an absentee ballot at the Overseas Vote Foundation.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE TO SUBMIT MY MAIL BALLOT?",
+            "a": "Voted ballots must be postmarked by Election Day or received by 7pm in person on Election Day if hand delivered.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "CAN I VOTE IN PERSON EVEN IF I HAVE RECEIVED A VOTE-BY-MAIL BALLOT?",
+            "a": "As long as you havent returned your voted ballot, you can vote in person. In order to vote in person, you must surrender your vote-by-mail ballot or sign a form affirming that you have not voted your ballot and will not attempt to vote twice. You may also \"opt-out\" of receiving future ballots by mail by submitting the appropriate form.You have two options for voting in person:Early Voting: Early voting begins 17 days before the election and ends 4 days before the election. Days and hours of operation vary by county. A list of early voting polling places by county can be found here. In order to avoid lines on Election Day, all voters who wish to vote in person are encouraged to vote early.Election Day: Polling locations open at 7am on Election Day and remain open until 7pm. As long as you are in line by 7pm, you will be allowed to vote. A list of Election Day polling places by county can be found here.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "WHEN ARE BALLOTS MAILED TO ACTIVE REGISTERED VOTERS?",
+            "a": "Ballots are mailed starting no later than 20 days before Election Day for in-state voters and no later than 40-45 days before Election Day for out-of-state voters. If you dont receive your mail ballot packet by the start of early voting, immediately contact your local election office.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "HOW CAN I CHECK IF I AM AN INACTIVE VOTER?",
+            "a": "You can check your voter registration status on the secretary of states website.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "HOW CAN I TRACK MY MAILED BALLOT?",
+            "a": "You can sign up to track your mail ballot using your secretary of states resource. If you have any issues with your states online tracker, please contact your local election office.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "HOW DO I OPT-OUT OF GETTING A MAIL BALLOT?",
+            "a": "To opt-out, you must submit a written or online request to not receive a mail ballot by 60 days before Election Day. You can opt-out online or by mail. To opt-out by mail, you can print, complete, and mail a Mail Ballot Preference Form.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "HOW DO I REQUEST AN EMERGENCY ABSENTEE BALLOT?",
+            "a": "Nevada has an emergency absentee voting program. An absentee ballot can be brought to you at a hospital or other medical facility in certain emergency circumstances. Requests for an emergency absentee ballot must be made in writing and submitted any time before 5:00 p.m. on the day of the election.Such requests must be due to an illness or disability resulting in confinement to a medical facility, including nursing homes, sudden hospitalization, serious illness, or being called away from home after the deadline for requesting a standard absentee ballot. Please contact your local election office for more information.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "WHAT IF I NEED AN INTERPRETER?",
+            "a": "You have the right to bring an interpreter with you to the polls or to get language assistance from anyone you choose, including a poll worker, as long as the person is not your employer, an agent of your employer, or an officer or agent of your labor union.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "IS MY POLLING PLACE ACCESSIBLE?",
+            "a": "Every polling place must follow ADA guidelines. You're allowed to bring one or more people to help you. You can get assistance from anyone except your employer, someone representing your employer, or a representative of your labor union.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "HOW CAN I CHECK MY REGISTRATION STATUS?",
+            "a": "You can verify your voter registration status using Nevadas voter information tool.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2024-11-18T17:29:24.128644"
+        },
+        {
+            "q": "HOW DO I UPDATE MY VOTER REGISTRATION?",
+            "a": "If you moved within the state of Nevada, changed your name, or want to switch your political party affiliation, you will need to fill out a new form to update your voter registration. To do this, go to RegisterToVote.NV.gov.Note: If you want to register to vote on the same day as the election, you need to have a valid Nevada drivers license or ID card. There are no exceptions to this requirement.If you moved to another state and need to cancel your Nevada voter registration, you can do it online at Voter Registration Search.",
+            "s": "https://www.vote411.org/nevada",
+            "t": "2024-11-18T17:29:24.128644"
+        }
+    ]
+}

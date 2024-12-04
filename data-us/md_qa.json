@@ -1,0 +1,278 @@
+{
+    "state": "MD",
+    "num_questions": 45,
+    "num_answers": 45,
+    "contributor": "Bharat",
+    "questions": [
+        {
+            "q": "Who can vote?",
+            "a": "Any registered voter can vote. If you are not registered to vote, learn about how to register.",
+            "s": "https://elections.maryland.gov/voting/index.html",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "When can I vote?",
+            "a": "For the 2024 Presidential General Election: You can either vote in person during early voting or on election day or by mail-in ballot. Early voting starts on Thursday, October 24, 2024 and goes through Thursday, October 31, 2024. Each early voting center will be open continuously from 7 am to 8 pm each day. Anyone in line at 8 pm will be allowed to vote. On election day, Tuesday, November 5, 2024, you must vote at your assigned polling place. All election day polling places are open continuously from 7 am until 8 pm. Anyone in line at 8 pm will be allowed to vote. If you are unable to vote during early voting or on election day, you may vote by mail-in ballot. Find out more information about mail-in voting. Important Note: The law requires the State Board of Elections and each local board of elections to refer to absentee ballots as \"mail-in ballots\" and absentee voting as \"mail-in voting.\" Please note that this change in terminology does NOT change the process of mail-in voting.",
+            "s": "https://elections.maryland.gov/voting/index.html",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "Where should I vote?",
+            "a": "For the 2024 Presidential General Election: During early voting, you can vote at any early voting center in the jurisdiction where you live. On election day, you must vote at your assigned polling place.",
+            "s": "https://elections.maryland.gov/voting/index.html",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "How will I cast my vote?",
+            "a": "For the 2024 Presidential General Election: During early voting or on election day, you will hand mark a paper ballot. Use the pen provided to fill in the oval next to your choices. You can also mark your ballot electronically. Review your ballot choices, place your voted ballot into the privacy sleeve and take it to the scanner. An election worker will direct you to insert your ballot into the scanning unit to cast your vote. Your ballot will be scanned and dropped into a secure ballot box. There will be instructions available at the early voting centers and election day polling places to familiarize you with the ballot. You may ask an election judge to explain how to vote, but you must cast your vote alone, unless you are unable to do so because you have a disability or are unable to read or write the English language. For mail-in voting and provisional voting, you will be issued a paper ballot. Use a black ink pen to fill in the oval next to your choices. Provisional ballots are returned to the local election office in secure bags on election night. Mail-in and provisional ballots will be scanned at the local election office.",
+            "s": "https://elections.maryland.gov/voting/index.html",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "I have a disability. Will I be able to vote?",
+            "a": "Yes. All early voting centers in Maryland are accessible to voters with disabilities. See Access by Voters with Disabilities for more information.",
+            "s": "https://elections.maryland.gov/voting/index.html",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "Are election materials available in languages other than English?",
+            "a": "Federal law requires Montgomery County and Prince George's County to provide election materials in Spanish. Non-English materials may be provided in other jurisdictions on a voluntary basis. Contact your local board of elections to determine what is available in your jurisdiction.",
+            "s": "https://elections.maryland.gov/voting/index.html",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "Why did the voting system change? Why are we voting on paper?",
+            "a": "In 2007, the Maryland General Assembly passed Chapter 548 of the 2007 Acts (House Bill 18) requiring a new voter-verifiable paper record voting system to replace the touchscreen voting system. The law required funding to procure the system. Budget concerns delayed funding for the new system until 2014. The State Board of Elections contract to lease new voting equipment was finalized in December 2014, and the system was first used in the 2016 presidential elections.",
+            "s": "https://elections.maryland.gov/voting/index.html",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "What is the voting system?",
+            "a": "Marylands voting system is a voter-verifiable paper based solution leased from Election Systems and Software (ES&S). Voters will mark a paper ballot and then feed the ballot into a ballot scanner. The ballot scanner will read and count the voters selections and the ballot will drop into a locked ballot box. When voting ends, the system produces a total report of each vote from the paper ballots.",
+            "s": "https://elections.maryland.gov/voting/index.html",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "What is the ballot scanner?",
+            "a": "The DS200 Precinct Scanner (ballot scanner) is a high resolution image scanner with mark recognition capability. It scans paper ballots of various sizes and captures the voters selections marked on each paper ballot.",
+            "s": "https://elections.maryland.gov/voting/index.html",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "How does the ballot scanner work?",
+            "a": "The ballot scanner uses digital-image technology to identify voter selections. When you mark a paper ballot by hand, the scanner looks for marks inside of the ovals. If you make other marks (check marks or underlines) outside the ovals, the scanner lets you know that you need to correct the ballot. You can let the scanner accept the ballot as-is or ask the scanner to return the ballot and make corrections on a new ballot. An overvote is when you select too many choices in a contest or question on the ballot. When a ballot with an overvote is scanned, the scanner lets you know that you need to correct the ballot. You can let the scanner accept the ballot - and votes for all contests or questions except the overvoted contest or question will count - or ask the scanner to return the ballot to you. If you want to correct the ballot, an election judge will give you another ballot.",
+            "s": "https://elections.maryland.gov/voting/index.html",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "Is there a paper trail?",
+            "a": "Yes. All marked paper ballots are scanned, tabulated, and secured in the ballot box.You will not be issued a receipt showing how you voted.  (You will continue to get an I Voted sticker to show that you voted.)  After polls close, the local boards for elections will safely store the marked paper ballots. An overvote is when you select too many choices in a contest or question on the ballot. When a ballot with an overvote is scanned, the scanner lets you know that you need to correct the ballot. You can let the scanner accept the ballot - and votes for all contests or questions except the overvoted contest or question will count - or ask the scanner to return the ballot to you. If you want to correct the ballot, an election judge will give you another ballot.",
+            "s": "https://elections.maryland.gov/voting/index.html",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "The voting system produces a paper trail. Will I get a receipt showing how I voted?",
+            "a": "No, you will not get a receipt showing how you voted.  (You will continue to get an I Voted sticker to show that you voted.)  When you insert your ballot into the ballot scanner, you will see a message that your ballot was accepted and your votes were recorded.  Your ballot will be kept in the locked ballot box.",
+            "s": "https://elections.maryland.gov/voting/index.html",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "Has this voting system been tested?",
+            "a": "The entire system was thoroughly tested and certified by the U.S. Election Assistance Commission. State and local election officials have tested each device in Maryland, and the local boards conduct pre-election testing on all equipment used.",
+            "s": "https://elections.maryland.gov/voting/index.html",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "Is the voting system secure?",
+            "a": "Yes!  Marylands voting system produces a voter-verifiable paper record  a paper trail  of each voters selections. Election officials can compare the ballots marked by voters against the results generated by the ballot scanners to accurately confirm the intention of the voters.  All paper ballots are stored by the local board of elections and available for auditing and recounting purposes.",
+            "s": "https://elections.maryland.gov/voting/index.html",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "How will I vote?",
+            "a": "1. Go to your election location and check in. 2. An election judge will give you a paper ballot and a pen, or direct you to the ballot marking device to make your ballot selections. 3. Mark your paper ballot by filling in the ovals next to your selections, or by using the ballot marking device to make your selections. 4. Review your selections. If you are using the ballot marking device, print your marked ballot. 5. Insert your marked ballot into the ballot scanner. 6. If the ballot scanner sees an error on your ballot, it will notify you and give your ballot back. 7. The ballot scanner will count your selections and your ballot will automatically drop into the locked ballot box.",
+            "s": "https://elections.maryland.gov/voting/index.html",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "What if I make a mistake? How can I correct it?",
+            "a": "If you make a mistake marking your ballot, let an election judge know right away. In most cases, the election judge will void or cancel the ballot and give you another ballot. If the ballot scanner finds an error, it will let you know. If you have an error, an election judge can give you another ballot. Please carefully mark the replacement ballot, a voter is only allowed two replacement ballots.",
+            "s": "https://elections.maryland.gov/voting/index.html",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "What happens after I scan my ballot? How do I know my ballot was counted?",
+            "a": "When the ballot scanner accepts your ballot, you will see a message saying that your ballot was accepted. This means that the ballot scanner recorded and counted your selections after you inserted your ballot. Once your selections are counted, your ballot automatically drops into the locked ballot box.",
+            "s": "https://elections.maryland.gov/voting/index.html",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "How are ballots counted?",
+            "a": "Each ballot is counted when it is scanned. When the polls close on election night, election judges will close the ballot scanner, generate results from that unit, and drive the memory devices and voted ballots to the election headquarters. The memory devices are loaded into a database to provide countywide results.",
+            "s": "https://elections.maryland.gov/voting/index.html",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "Can you tell the order in which I voted and find my ballot in the box?",
+            "a": "No. Ballots are stored randomly as they drop into the locked ballot box. It is impossible to determine voting order from the ballots in the ballot box.",
+            "s": "https://elections.maryland.gov/voting/index.html",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "What happens to the ballots? Do I get to keep mine?",
+            "a": "Ballots automatically drop into the locked ballot box after being scanned by the ballot scanner.  The ballots are kept as the voting record.  You can review your ballot before you insert it into the ballot scanner, but you cant keep it or get a receipt showing how you voted.  (You will continue to get an I Voted sticker to show that you voted.)",
+            "s": "https://elections.maryland.gov/voting/index.html",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "Will anyone be able to see how I voted?",
+            "a": "All voting booths will have privacy panels so you can mark your ballot privately. When you check in to vote, an election judge will give you a privacy folder. You can put your marked paper ballot in the folder to carry your marked ballot to the ballot scanner. Once your ballot is scanned and automatically drops into the locked ballot box, no one can tell which ballot is yours.",
+            "s": "https://elections.maryland.gov/voting/index.html",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "Is the new voting system accessible? How is it accessible?",
+            "a": "Yes, the new voting system is accessible for most voters with disabilities. A ballot marking device will be available at early voting centers and at polling places on election day. These devices are compliant with the Americans with Disabilities Act and let you make selections using a keypad with Braille-embossed navigation buttons and an audio headset. You can also make words larger and change contrast on the screen. The ballot marking device can also be used with other assistive devices. When you check-in to vote, please advise the election judge that you need to vote using the ballot marking device.",
+            "s": "https://elections.maryland.gov/voting/index.html",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "May I take a selfie when I vote?",
+            "a": "No. Want to take a voting selfie? Great, but technology like handheld electronics and recording devices may not be used inside voting centers and polling places. You may take pictures outside of the polling place or early voting center with a sample ballot and please use the official Maryland election hashtag, #MDvotes!",
+            "s": "https://elections.maryland.gov/voting/index.html",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "What is the process for voting by mail?",
+            "a": "2024 General Election: Important Return DatesIn Maryland, voted mail-in ballots must be received by your local board of elections or postmarked by 8:00 p.m. on Election Day, November 5th.Mail-in voting is available and no excuse is required. The last day to request a mail-in ballot is 14 days before the election. You can return your mail-in ballot request form through mail, in person at your local elections office, or online. Voted ballots must be received or postmarked by 8 p.m. on Election Day in order to be counted. You can sign up to track your mail-in ballot on your Board of Elections website.Those who requested a mail-in ballot but end up voting in person will have to vote a provisional ballot. If you have not already voted, election officials will count that ballot as your vote. Do not mail a ballot and vote in person. For specifics, you can find your local county clerk contact info here.Voters who submitted a request for a mail ballot at least 60 days prior to an election will receive their mail ballots 43 days prior to the election. For those who applied for a mail ballot within 60 days of the election, their ballot will be dispatched as soon as the request is received.Cure Process for Mail-In Ballots:Effective 10/1/2023If your mail-in ballot is rejected due to a missing signature, your local board of elections is required to notify you as soon as possible, but not later than three business days after discovering the omission. The deadline to provide your missing signature is by 10 am on the 10th day after Election Day. You can sign up to track your mail-in ballot on your Board of Elections website.You can provide the missing signature byOverseas citizens and U.S. military personnel can register to vote and request a mail-in ballot at the Overseas Vote Foundation.",
+            "s": "https://www.vote411.org/maryland",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "How can I fix issues with my mail-in ballot?",
+            "a": "The deadline to cure (correct) your absentee/ballot is by 10am on November 15, 2024. A clerk will notify you as soon as possible if your ballot was rejected, and, if enough time allows, send a new ballot if your original ballot was received by mail. If you voted a provisional ballot due to a lack of ID, you have by 10am on November 20, 2024, to provide proper ID to your local board of elections. You can track the status of your ballot using your states online tool.",
+            "s": "https://www.vote411.org/maryland",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "Where can I find information about campaign finance?",
+            "a": "For information on federal campaign contributions, please visit Open Secrets.For information on state campaign contributions, please visit your state's resource.",
+            "s": "https://www.vote411.org/maryland",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "Where can I find information about candidates and ballot measures?",
+            "a": "Information on local, state and federal candidates and ballot measures may be available here.",
+            "s": "https://www.vote411.org/maryland",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "Where are ballot drop boxes located?",
+            "a": "Drop-box locations for the 2024 Primary Election can be found here.You can drop your ballot off at a drop-box location or hand-deliver it to your local board of elections.",
+            "s": "https://www.vote411.org/maryland",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "When is early voting available?",
+            "a": "There are locations in each county where you can vote before Election Day. To vote early in the 2024 Primary Election, go to a location in your county Thursday, May 2nd through Thursday, May 9th between 7 am and 8 pm.If you vote early, you cannot vote on Election Day or by mail-in ballot.Note: If you are eligible but not yet registered to vote, you can register and vote during early voting. Go to an early voting center in the county where you live and bring a document that proves where you live.",
+            "s": "https://www.vote411.org/maryland",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "When are the upcoming election dates?",
+            "a": "The next statewide primary is on May 14, 2024. The next general election is on November 5, 2024.Contact your local Board of Elections for information about local elections.",
+            "s": "https://www.vote411.org/maryland",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "What are the eligibility requirements to vote?",
+            "a": "To be eligible to register to vote you must be:- A US citizen- A Maryland resident- At least 16 years old (you can register at 16, but generally, you're not able to vote unless you'll be 18 by the next General Election)- Not have been found by a court to be incapable of voting by reason of mental disability- Not have been convicted of buying or selling votes- Not have been convicted of a felony, or if you have, you have completed serving a court ordered sentence of imprisonment.Youth VoteIn Maryland, cities can choose to lower the voting age at the local level through a city council vote. So far, the following municipalities have lowed their voting age to 16 for all local elections: Greenbelt, Hyattsville, Mount Rainier, Riverdale Park, and Takoma Park. This means that every resident of these municipalities who will be 16 years of age or older on Election Day is eligible to register and vote in local elections. You must be 18 by Election Day to vote in state or federal elections.Incarcerated Voters & Returning Citizens:In Maryland, you only lose your right to vote if you are currently incarcerated for a felony conviction. If you lost your voting rights because of a conviction, you could register to vote immediately after release. Your voting rights are not restricted by pretrial detention, misdemeanors, probation, or parole.Voters without traditional residence:It is not mandatory for citizens to possess a \"permanent home\" for voter registration. A citizen can provide an alternative description of their residence, even if they are experiencing homelessness, as long as it enables the authorities to identify and assign a voting precinct to them. This precinct assignment ensures that the voter receives the appropriate ballot. The mailing address on their registration form can be a PO box, local shelter, advocacy organization, outreach center, or the home of someone who will accept mail for them.",
+            "s": "https://www.vote411.org/maryland",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "What ID do I need to register to vote?",
+            "a": "When registering to vote, you will need to provide either your current, valid state driver's license or MVA ID card number or the last four digits of your Social Security number on your voter registration form.",
+            "s": "https://www.vote411.org/maryland",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "What forms of identification are accepted for voting?",
+            "a": "Some first-time voters may need to show ID before casting their ballot. If you are a new voter, please present one of the following forms of identification to the election judge:- A current and valid photo ID such as a Maryland driver's license, MVA ID card, student, employee, or military ID card, U.S. passport, or any other State or federal government-issued ID card.- A current document that shows your name and address Such as a utility bill, bank statement, government check, paycheck, or any other official document. The document must be dated within three months of the election to be considered current.- Such as a utility bill, bank statement, government check, paycheck, or any other official document.- The document must be dated within three months of the election to be considered current.- Such as a utility bill, bank statement, government check, paycheck, or any other official document.- The document must be dated within three months of the election to be considered current.Voters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline.",
+            "s": "https://www.vote411.org/maryland",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "When are official election results released?",
+            "a": "Official results are never available on Election Day. Election officials are working around the clock to count an unprecedented number of ballots, and itsessential that they take the time to make sure every vote is counted.Official election results will be uploaded on the Maryland Board of Elections website at the bottom of the page as they become available.",
+            "s": "https://www.vote411.org/maryland",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "How can military and overseas voters cast their ballots?",
+            "a": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation.If you have additional questions about elections and voting overseas you can use our state specific elections official directory or contact the Overseas Vote Foundation.",
+            "s": "https://www.vote411.org/maryland",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "What are the requirements to become a poll worker?",
+            "a": "You can make sure we have safe, fair, and efficient elections for all. Become a poll worker today!In order to be an Election Judge, you must be:- 16 years or older (if you are 16 you must have a parent or guardian permission)- Registered to vote in Maryland- Physically and mentally able to work at least a 15 hour day- Willing to work outside your home precinct- Able to sit and/or stand for an extended time- Able to speak, read and write EnglishYou cannot be an election judge if you are a:- Candidate or currently holding public office- Chairman, campaign manager or treasurer for a political or candidate committeeWhy should you be an election judge?- You will get paid- You will help voters- You are involved in the election process!If you'd like to apply to becoming an election judge, click here.",
+            "s": "https://www.vote411.org/maryland",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "What are the voting hours at polling places?",
+            "a": "The polling place hours of operation are from 7:00 am to 8:00 pm.",
+            "s": "https://www.vote411.org/maryland",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "Where can I find my Voter Service and Polling Center location?",
+            "a": "You can find your polling place by utilizing your state resource.If you have further questions on your polling place location, please contact your local board of elections.",
+            "s": "https://www.vote411.org/maryland",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "How does the primary election process work?",
+            "a": "The Democratic and Republican Parties are required to use primary elections to choose their candidates for the general election. The rules for who can vote in a primary vary by state.Maryland has enclosed primary elections. This means that voters must generally be registered with either the Democratic or Republican Party in order to vote. However, all voters may vote in nonpartisan primary elections, such as those for school boards. For more information on closed primary elections, see the Maryland State Board of Elections website.",
+            "s": "https://www.vote411.org/maryland",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "When would I need to vote using a provisional ballot?",
+            "a": "A provisional ballot allows someone who thinks they are an eligible voter to vote. You may vote a provisional ballot if you meet specific conditions.You might vote a provisional ballot if:- You are not listed on the precinct register- You moved and did not update your address and tried to vote at your prior address- You received an absentee ballot for this election, or that you already voted this election- You tried to register during early voting, but could not determine if you're eligible to vote- You did not prove where you live when you registered to vote- You did not show ID if you're voting for the first time in Maryland and did not provide ID when you registered- You did not provide your drivers license number or the last four digits of your Social Security Number on your voter registration form, or the number could not be verified.- Someone challenged your right to vote- A court ordered the polling location to stay open late and you voted during this extra timeFor instances where you voted a provisional ballot because you did not provide ID you must show ID or an ID number to your local board of elections before 10am on the 2nd Wednesday after election day. You can track the status of your provisional ballot here.For more information about provisional voting, see the Maryland State Board of Elections website.",
+            "s": "https://www.vote411.org/maryland",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "What accommodations are available for voters with disabilities?",
+            "a": "Maryland's voting system accommodates voters with disabilities by offering an audio ballot. Using headphones, the voter listens to the ballot and records the vote using a keypad. Both the headphones and keypad are provided. To assure the privacy of the voter, the voting unit's screen is blank while the audio ballot feature is being used.A magnified ballot is provided for voters who have low vision.An adjustable screen is available to accommodate voters who prefer or need to sit while voting.To use one of the accessibility options, ask an election judge for a particular option. A voter will not be required to provide an explanation or fill out additional paperwork. Election judges will be available to answer questions and, if needed, provide assistance. If you need assistance voting, you may select someone to assist you in the voting process. Maryland law prohibits a voter's employer or agent of the employer or an officer or agent of the voter's union from serving as a voter's assistant. An election judge may assist you, but only in the presence of another election judge of a different political party.For more information on provisions for voters with disabilities in Maryland, please see the State Board of Elections website. For more general information on voting rights and accessibility, please see the American Association of People With Disabilities (AAPD) resource.",
+            "s": "https://www.vote411.org/maryland",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "What is the deadline to register to vote?",
+            "a": "You can now register to vote or update your registration online! You may also submit a voter registration application to your local board of elections or the State Board of Elections at any time. Your application must be postmarked by the voter registration deadline (21 days before Election Day) in order to vote in the next scheduled election.The voter registration application must be received by a Maryland election office no later than 9 p.m., 21 days before an election. If your application is complete and you are found to be qualified, a Voter Notification Card will be mailed to you. You are not registered until you receive your Voter Notification Card.Election day registration is also available. Go to an early voting center in the county in where you live during early voting, or go to your assigned election day polling place and bring a document that proves where you live.- MVA-issued license- ID card- Change of address card- Paycheck, bank statement, utility bill- Any other government document with your name and new address.",
+            "s": "https://www.vote411.org/maryland",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "What are the rules for taking time off work to vote?",
+            "a": "Employers must grant employees up to two hours of paid leave to vote, unless polls are open 2 hours before or after regular working shift, or if employee has sufficient time to vote on his/her own. Employees must provide proof that they cast their vote to receive compensation for time off.",
+            "s": "https://www.vote411.org/maryland",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "How can I verify my voter registration status?",
+            "a": "To verify your voter registration status",
+            "s": "https://www.vote411.org/maryland",
+            "t": "2024-11-18T17:29:24.126651"
+        },
+        {
+            "q": "What types of voting machines are used?",
+            "a": "Maryland voters use a voter-verifiable paper record voting system.Voter-verifiable Paper Voting System: Voters will mark a paper ballot and then feed the ballot into a ballot scanner. The scanner will read the voter's selection and the ballot will drop into a locked ballot box.The scanner uses technology that can identify the voters selections. When you mark your ballot by hand, the scanner will look for marks inside the ovals. If you make any other types of marks (check marks, etc.) the scanner will let you know that you need to correct your ballot. You can ask the scanner to return your ballot and make your corrections on a new ballot.You will not get a receipt showing how you voted, however, you will continue to get your \"I Voted\" sticker to show you voted.For more information on the new voting system, check out your state's resource.",
+            "s": "https://www.vote411.org/maryland",
+            "t": "2024-11-18T17:29:24.126651"
+        }
+    ]
+}

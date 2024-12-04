@@ -1,0 +1,410 @@
+{
+    "state": "WY",
+    "num_questions": 67,
+    "num_answers": 67,
+    "contributor": "Aishneet Juneja",
+    "questions": [
+        {
+            "q": "When are the elections and what times are polls open?",
+            "a": "In even-numbered years, the primary election is held on the first Tuesday after the third Monday in August. The general election is held on the Tuesday following the first Monday in November. Polls are open from 7 a.m. to 7 p.m., or until the last person in line at 7 p.m. has voted.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "Where do I vote?",
+            "a": "Enter your address in our Polling Place Locator, found on our website or contact your county clerk\u2019s office.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What do I need to bring with me when I vote?",
+            "a": "Wyoming requires a person to show an acceptable form of ID when voting in person. You may use any one of the following forms of identification:\n\n\u25cf WY Driver's License or ID Card\n\n\u25cf Tribal ID Card\n\n\u25cf US Passport\n\n\u25cf US Military Card\n\n\u25cf DL or ID Card from Another State\n\n\u25cf University of Wyoming Student ID\n\n\u25cf Wyoming Community College Student ID\n\n\u25cf Wyoming Public School Student ID\n\n\u25cf Valid Medicare Insurance Card*\n\n\u25cf Valid Medicaid Insurance Card*\n\n\u25cf Valid Wyoming Concealed Firearm Permit\n\n\n\n*Medicare and Medicaid insurance cards will no longer be an acceptable form of identification for voting purposes after December 31st, 2029.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "Does my boss have to give me time off to vote?",
+            "a": "Wyoming law entitles voters to one hour, other than the meal hour, to vote. However, the law does not apply to certain categories of employees, such as some federal workers or those who have three or more consecutive nonworking hours during the time polls are open. (W.S. 22-2-111)",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What if I am refused the right to vote?",
+            "a": "You may vote a provisional ballot. In order for your vote to be counted, you must provide proof of your eligibility to vote to the county clerk no later than close of business the day following the election.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What qualifies me to register to vote in Wyoming?",
+            "a": "An individual must first qualify to register to vote. Qualifications for a Wyoming voter include:\n\n\u25cf 18 years of age or older on Election Day\n\n\u25cf United States Citizen\n\n\u25cf Resident of Wyoming and the precinct in which you register\n\n\u25cf Withdrawn voter registration from other jurisdiction, if applicable\n\n\u25cf Present a valid Wyoming Driver License if you have one and if not, provide the last four digits of your Social Security Number. If you have neither, please indicate this on the Voter Registration Application form.\n\n\u25cf Not declared to be mentally incompetent by a court\n\n\u25cf Not convicted of a felony (unless you were pardoned or have had your rights restored)",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "I\u2019m only 17, can I still register?",
+            "a": "A seventeen year old may register to vote if they will be eighteen (18) years old by the next general election.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "I qualify to register. Now what?",
+            "a": "If you are a resident of Wyoming, you will not be automatically registered to vote. You may register by submitting the Wyoming Voter Registration Form to your County Clerk in the following ways:\n\n1. Register in person;\n\n2. Register by mail; or\n\n3. Register at the polls on Election Day.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What identification will I need to register?",
+            "a": "One of the following:\n\n\u25cf United States Passport;\n\n\u25cf Valid driver\u2019s license or ID card issues by any state;\n\n\u25cf ID issued by a federal, state or local government/agency;\n\n\u25cf Photo ID card issued by the University of Wyoming, a Wyoming community college, or a Wyoming public school;\n\n\u25cf United States Military ID; or\n\n\u25cf ID card issued to a Dependent of a member of the United States Armed Forces.\n\nOR\n\nAny two or more of the following:\n\n\u25cf Certification of United States Citizenship;\n\n\u25cf Certificate of Naturalization;\n\n\u25cf United States Military Draft Record;\n\n\u25cf Voter\u2019s Registration Card from another State or County;\n\n\u25cf United States Social Security Card;\n\n\u25cf Certification of Birth Abroad issued by the Department of State;\n\n\u25cf Original or certified copy of a birth certificate bearing an official seal; and\n\n\u25cf Any other form of identification issued by an official agency of the United States or a State.\n\nIn the event of a challenge, if the residence address is not included in the document or if it is not current, then you may be required to produce other documentation of your residence address in accordance with W.S. 22-3-118 or 22-15-101 through 109. In the event of a challenge, the following documents, showing your name and address, are acceptable proof of identity and residency:\n\n\u25cf Current utility bill;\n\n\u25cf Current bank statement;\n\n\u25cf Current government check;\n\n\u25cf Current paycheck; or\n\n\u25cf Any other current government document showing your name and address.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "I\u2019m registered, but how will I know where I can go vote?",
+            "a": "Our website offers a polling place locator. Please enter your information and you will be directed to where you can vote*.\n\n*Some counties offer vote centers. Vote centers allow for residents in a county to vote at ANY polling place location in that county. Please contact your County Clerk to see if your county offers vote centers.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "When I get there, will I need to provide identification?",
+            "a": "Yes. Wyoming requires someone voting in pereson to provide an acceptable form of identification. Any of the following forms of identification will be accepted:\n\n\u25cf WY Driver's License or ID Card\n\n\u25cf Tribal ID Card\n\n\u25cf US Passport\n\n\u25cf US Military Card\n\n\u25cf DL or ID Card from Another State\n\n\u25cf University of Wyoming Student ID\n\n\u25cf Wyoming Community College Student ID\n\n\u25cf Wyoming Public School Student ID\n\n\u25cf Valid Medicare Insurance Card*\n\n\u25cf Valid Medicaid Insurance Card*\n\n\u25cf Valid Wyoming Concealed Firearm Permit\n\n\n\n*Medicare and Medicaid insurance cards will no longer be an acceptable form of identification for voting purposes after December 31st, 2029.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "I\u2019m not familiar with all of these candidates and races; do I need to vote for all of them?",
+            "a": "No, you are not required to vote for all the races that are shown on the ballot.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "I won\u2019t be available during the day of the election. Will I miss my opportunity to vote?",
+            "a": "No, you may still vote absentee. An absentee ballot may be requested at any time during a calendar year in which the election is held, except for the day of the election. The request must be made through your local County Clerk\u2019s office.\n\nThe ballot may be voted in person at the clerk's office or by mail 28 days before an election (45 days for military or overseas voters).",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "Once I vote in an election, will I need to register again before the next election?",
+            "a": "Your registration is good as long as you continue to vote. However, if you miss voting in a General Election, you may be purged from the voter roll and need to re-register.\n\nIf you move to a different county in the state or change your name/address, you will need to notify the county clerk.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "I\u2019m a Wyoming resident, but am not in Wyoming due to military obligations. Can I still vote?",
+            "a": "Absolutely! If you are military or an overseas citizen wanting to vote, please visit our Military/Overseas Citizens Voting page for complete information. It will direct you on how you may register and request an absentee ballot from your local County Clerk.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "Who can register and vote in Wyoming?",
+            "a": "You may register to vote if you meet all of the following qualifications:\n\n\u25cf A United States citizen\n\n\u25cf A resident of Wyoming\n\n\u25cf 18 years of age or older on election day\n\n\u25cf Not declared to be mentally incompetent by a court\n\n\u25cf Not convicted of a felony (unless you were pardoned or have had your rights restored)",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "How do I register to vote and is there a deadline?",
+            "a": "\u25cf You may register in person at the county clerk or town clerk\u2019s office.\n\n\u25cf You may register by mail. Send your completed and notarized voter registration application to your county clerk. When mailing your form, be sure to attach photocopies of your identification document(s). Click here to obtain the registration form.\n\n\u25cf You may register at your polling place on Election Day. Please bring documents that prove your eligibility to register and vote. \u25cf The deadline for voter registration is 14 days before an election. However, you may register and vote at the same time -- during the absentee voting period or on Election Day.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "How long do I have to live in Wyoming to qualify to register to vote?",
+            "a": "Wyoming law does not define the period of residency for voter registration. Applicants are asked on the voter registration application to provide their residence address in Wyoming, sign an oath affirming that they meet the legal qualifications to register and vote, and to provide a document that bears their name and residence address (e.g., driver\u2019s license, utility bill, pay stub, etc). Your Wyoming driver\u2019s license is the preferred document.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "How can I find my county clerk?",
+            "a": "There are 23 county clerks who are the chief election officers for their counties. Feel free to contact your county clerk if you have specific questions about your voter registration, polling place, or voting. Click here to obtain the roster of county clerks.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "Can I register to vote when I get my driver\u2019s license?",
+            "a": "No, you cannot register to vote at the same time as you get your driver\u2019s license. The town or county clerk\u2019s office and your polling place are the only places where you can register to vote. Wyoming is exempt from the National Voter Registration Act, also known as the Motor Voter Act, which permits voter registration at the department of motor vehicles.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "Do I need to re-register for each election?",
+            "a": "If you voted in the most recent general election, you remain on the voters\u2019 list. If you did not vote in the last general election, if you have moved to another county or changed your name, you will need to register with the county clerk.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "How do I change my party affiliation?",
+            "a": "To change or declare a new party affiliation for the primary election, voters must complete the Wyoming Voter Registration Application & Change Form and submit it to their county clerk's office no later than the day before the candidate filing period begins. The candidate filing period begins ninety-six (96) days preceding the primary election.\n\nTo change your party affiliation or to declare a new affiliation for the general election, complete the Wyoming Voter Registration Application & Change Form and submit it to your county clerk\u2019s office any time after the primary election but no later than 14 days before the general election. Voters have the option to change their party affiliation at their polling place on the day of the general election or when requesting an absentee ballot.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "I have a felony conviction from another state but I now live in Wyoming. Do I have to have my voting rights restored here before I can register and vote?",
+            "a": "\u25cf To register and vote in Wyoming, a convicted felon\u2014regardless of where they were convicted\u2014must have their right to vote restored in Wyoming. Contact the Department of Corrections at (307) 777-6341 for information on restoration of voting rights.\n\n\u25cf Felons who register and vote illegally are subject to prosecution. Persons convicted of false swearing or false voting may be sentenced to five years\u2019 imprisonment in the state penitentiary or a fine of up to $10,000, or both.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "How can I get an absentee ballot and when does it have to be returned?",
+            "a": "\u25cf Registered voters may request an absentee ballot from your county clerk at any time during an election year, but not on the day of the election. To request an absentee ballot, call or write your county clerk. You do not have to give a reason for requesting an absentee ballot.\n\n\u25cf Absentee voting begins 28 days prior to the election (45 days for military or overseas voters) and ends the day before the election.\n\n\u25cf If you registered to vote by mail and are voting by absentee ballot in your first federal election, you must enclose a copy of your photo ID or document bearing your name and residence address in the envelope with your voted ballot.\n\n\u25cf Voted absentee ballots must be received in the county clerk\u2019s office by 7 p.m. on election night in order to be counted. Ballots received after this deadline will not be counted.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "Can I change who I voted for if I already sent in my absentee ballot?",
+            "a": "No, once a ballot has been received by your local county clerk's office, the ballot is considered voted.\n\nNote: If you have marked your ballot and have not yet sent it in, but wish to change who you voted for, you may destroy that ballot and call your Local County Clerk's office for a replacement ballot or vote in person.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "If I mail in my absentee ballot, do I need to provide any additional form of identification?",
+            "a": "No. Voters who mail in their absentee ballot are not required to provide any additional form of identification.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "Who is covered under UOCAVA?",
+            "a": "\u25cf U.S. Citizens, 18 years of age or older who are active duty members of the Armed Forces, Merchant Marine, Public Health Service, the National Oceanic and Atmospheric Administration (NOAA) Commissioned Corps;\n\n\u25cf Eligible family members (U.S. citizens, 18 years or older) of military personnel; and\n\n\u25cf U.S. Citizens residing outside the United States.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "When can I request a ballot?",
+            "a": "In Wyoming, any qualified elector may apply for an absentee ballot at any time during a calendar year in which the election is held, except for on Election Day. When requesting your ballot, please allow for enough processing and mail delivery time. Wyoming statutes state that absentee ballots received after the day of the election will not be counted.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "I\u2019m still a registered Wyoming voter, how do I request a ballot?",
+            "a": "No formal absentee ballot request form is required by the State of Wyoming for citizens who are registered voters in Wyoming.\n\nA voter may request an absentee ballot by contacting the County Clerk by phone, email, fax or mail. However, if you choose to use a form, this Absentee Ballot Request Form may be completed and emailed to the county clerk of the appropriate county.\n\nWhen requesting a ballot, please include the following information:\n\n\u25cf Your full legal name;\n\n\u25cf Your date of birth or social security number;\n\n\u25cf Your Wyoming residential address; and\n\n\u25cf Your mailing or email address.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "I\u2019m not sure if I\u2019m a Wyoming registered voter, what should I do?",
+            "a": "If you are unsure if you are a registered voter in Wyoming, please contact your County Clerk.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "I am not registered to vote yet. Can I still request a ballot?",
+            "a": "Yes.\n\nThe quickest way to both register and request an absentee ballot is by using the Federal Post Card Application (FPCA). This form acts as both a registration and absentee ballot request form. Please note that this form only serves as a temporary registration. Once completed, this form must be mailed to your local County Clerk\u2019s office.\n\nIf you want to be a permanent registered voter in Wyoming, please fill out and submit the Wyoming Voter Registration Form.\n\nA registered voter may request an absentee ballot by contacting the County Clerk by phone, email, fax or mail. However, if you choose to use a form, this Absentee Ballot Request Form may be completed and emailed to the county clerk of the appropriate county.\n\nWhen requesting a ballot, please include the following information:\n\n\u25cf Your full legal name;\n\n\u25cf Your date of birth or social security number;\n\n\u25cf Your Wyoming residential address; and\n\n\u25cf Your mailing or email address.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "When will I receive my ballot?",
+            "a": "Election officials are required to send your ballot 45 days before an election for those who are registered and have requested a ballot. If you have submitted your Federal Post Card Application (FPCA) within 45 days of the election, they will send it as soon as possible. You may also determine the status of your absentee ballot by tracking your ballot here.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What happens if I do not receive my ballot?",
+            "a": "If you do not receive your ballot within 3 weeks of the election, we recommend you use the Federal Write-In Absentee Ballot (FWAB). This form can be found online at https://www.fvap.gov/wyoming.\n\nIf you receive your Wyoming absentee ballot after mailing in your FWAB, you may still complete and mail-in your Wyoming ballot. If your Wyoming ballot is received on or before the election, the county clerk will accept your Wyoming ballot in place of your FWAB.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "How do I know what state to claim as my \u201cvoting residence\u201d?",
+            "a": "For voting purposes, \"voting residence\" can be the State or territory where the voter last resided prior to entering military service OR the State or territory that the voter has since registered to vote in. Even though the voter may no longer maintain formal ties to that residence, the address determines the voter's proper voting jurisdiction. Military personnel and their eligible family members may change their voting residence when they change their permanent duty stations, or they may retain their voting residence without change. This may mean that the family's Uniformed Service member has a different voting residence than his/her family members.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "If I do not maintain a legal residence in the U.S., what is my \"legal State of residence\"?",
+            "a": "Your legal State of residence is your address in the State in which you were last domiciled, immediately prior to leaving the United States.\n\nThis residence may remain valid even if:\n\n\u25cf You no longer own property or have other ties to that State;\n\n\u25cf Your intent to return to that State is uncertain; or\n\n\u25cf Your previous address is no longer a recognized residential address.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "How do I find out what\u2019s on the ballot?",
+            "a": "Your county clerk will publish sample ballots in the newspaper and post them in the office prior to the election. The secretary of state\u2019s office publishes proposed constitutional amendments and statewide ballot propositions on this website and in newspapers.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "How does a constitutional amendment pass?",
+            "a": "In order to pass, a constitutional amendment and statewide ballot issue must receive a majority of the total ballots cast in the election. The same provision applies to statewide initiatives and referendums. As an example, if the total number of ballots cast in the general election was 250,701, the majority needed to approve a constitutional amendment would be 125,351.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "Do I have to be registered as a Republican or Democrat to vote in the primary election?",
+            "a": "\u25cf If you want to vote for Republican or Democratic candidates in the primary, you must be a registered voter of that party. Under Wyoming law, primary elections are mainly held to nominate candidates for partisan offices to be filled at the general election.\n\n\u25cf If you are unaffiliated or are a member of a minor or provisional political party, you will receive a primary ballot containing only non-partisan candidates, i.e., municipal candidates.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "How do I file to run for office?",
+            "a": "\u25cf If you are seeking a local office (county or municipal office, school or college board), contact your county clerk.\n\n\u25cf If you are seeking a state office, including state legislature, contact the Secretary of State\u2019s office at (307) 777-5860. Candidates for state office may file online or complete the application for nomination form.\n\n\u25cf Filing deadlines are posted on the Election Calendar on our website or contact your county clerk.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "Can I form a campaign committee before I file my application for nomination?",
+            "a": "Yes, you may form a committee in advance. A committee needs to have two different people serving as chairman and treasurer. Candidate campaign committees at the local level file their formation forms with the county clerk. Candidate committees for statewide candidates, including legislative, must file online using the Wyoming Campaign Finance Information System (WYCFIS) website. Visit the WYCFIS site to download the User Guide or call 307.777.5860 for assistance.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "How do I run as an independent candidate?",
+            "a": "Independent candidates must petition for ballot access. Petitions containing the required number of signatures of registered voters must be submitted to the appropriate filing office no later than the day before the primary election. Independent candidates for state or national offices submit their petitions to the Secretary of State and local candidates to the county clerk. For more information on petition requirements and gaining ballot access, visit our website.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "How do I know what\u2019s legally permissible in campaigns and what\u2019s not?",
+            "a": "Read the Wyoming Campaign Practices Act (W.S. 22-25-101 through 22-25-115) and the Campaign Guide posted on our website. In addition, check city or county ordinances for any restrictions they may have on the placement of campaign signs and advertisements.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "How do I get a list of registered voters?",
+            "a": "Voter registration lists are available from the county clerk (for local candidates and ballot issues) or from the Secretary of State (for state candidates and ballot issues). If you need a voter registration list for a local ballot issue or candidate, contact your county clerk. If you need a list on behalf of a state candidate or related to a statewide ballot proposition, send a completed request form to the Secretary of State\u2019s office.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "Is my voter registration information confidential?",
+            "a": "Your date of birth, drivers\u2019 license and social security numbers, telephone number, and e-mail address are confidential. Your name, address and party affiliation are public information. Voter registration data is provided to persons who sign an oath affirming that they will not use the data for commercial purposes.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "How can I find out how much a candidate has spent on a campaign or who has contributed to a campaign?",
+            "a": "Information on local candidates may be obtained from your county clerk. Information on state candidates, candidate committees, political action committees, and parties is posted online on Wyoming\u2019s Campaign Information System website.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "Does Wyoming law permit the recall of public officials?",
+            "a": "There is no recall provision for state elected officials or legislators. W.S. 15-4-110 provides for the recall of municipal officials who serve under the commission form of government. However, no municipality in the Wyoming currently has a commission form of government.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "I received a robocall from a candidate, is this legal?",
+            "a": "Automated telephone calls (robocalls) for political purposes are illegal in Wyoming. Violation of WS 6-6-104 is a misdemeanor punishable by six months imprisonment, a fine of up to $750, or both. Refer your complaint to your district or county attorney.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "How can I organize a voter registration drive?",
+            "a": "County clerks are not permitted to accept batches of voter registration forms. Organizations may direct people to the registration application form on our website or provide blank copies which applicants may fill out and submit individually to the county or town clerk. Contact your county clerk if you have questions regarding organized efforts to register voters.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "Where can I find election results?",
+            "a": "Statewide election results are posted on this website and local results are posted on the county clerks\u2019 websites.",
+            "s": "https://sos.wyo.gov/faqs.aspx?root=ELEC",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What is the deadline for receiving absentee ballots in Wyoming?",
+            "a": "In Wyoming, completed absentee ballots must be received by your county clerk\u2019s office by 7:00 p.m. on Election Day, November 5th, to be counted. This applies to ballots returned by mail as well as those delivered in person.",
+            "s": "https://www.vote411.org/wyoming",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What are the requirements for voting by absentee ballot?",
+            "a": "No excuse is required for a registered voter to vote by absentee ballot. To vote absentee by mail you must apply for a ballot with your county clerk or you can fill out absentee ballot request form here.",
+            "s": "https://www.vote411.org/wyoming",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "When and where can you vote absentee in person, and where can overseas citizens and U.S. military personnel find information on absentee voting?",
+            "a": "Absentee ballots must be returned by the county clerk's office no later than 7pm on Election Day.You can vote absentee in person in the office of the county clerk or by mail 45 days before an election. Overseas citizens and U.S. military personnel can find information on how to register to vote and request an absentee ballot at the Overseas Vote Foundation.",
+            "s": "https://www.vote411.org/wyoming",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "Where are ballot drop boxes located?",
+            "a": "Secure drop boxes are available in some counties across the state. Please check availability with your county clerk here.",
+            "s": "https://www.vote411.org/wyoming",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "When is early voting available?",
+            "a": "In-person absentee (early) voting takes place at the county clerk office 28 days before an election. It is not available on Election Day. For more information on times and locations contact your county clerk.",
+            "s": "https://www.vote411.org/wyoming",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What are the eligibility requirements to vote?",
+            "a": "To be eligible to vote you must be: 18 years of age on Election Day A U.S. Citizen A resident of Wyoming and the precinct in which you register Withdrawn from voter registration from any other jurisdiction, if applicable Not convicted of a felony or adjudicated mentally incompetent",
+            "s": "https://www.vote411.org/wyoming",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What ID do I need to register to vote?",
+            "a": "When registering to vote (by mail or in person) you may provide a from of acceptable identification from the list below. Acceptable ID include: Wyoming driver's license A different state's driver's license An ID card issued by a local, state or federal agency A U.S. passport School ID Military ID You can also show two of the following in any combination: Certification of U.S. citizenship Certificate of naturalization Draft record Voter registration card from another state or county Original or certified copy of a birth certificate bearing an official seal Certification of birth abroad issued by the department of state Any other form of identification issued by an official agency Wyoming is exempt from the federal motor voter law and does not offer voter registration at the driver's license division. However, you may register at the polls on Election Day with acceptable ID.",
+            "s": "https://www.vote411.org/wyoming",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What forms of identification are accepted for voting?",
+            "a": "Wyoming voters will now be required to show an acceptable form of identification when voting in person. There are many ID options for you to use. Here's a list: https://sos.wyo.gov/Elections/VoterID/Default.aspx. Note: Wyoming allows qualified voters to register at the polls on Election Day by bringing an acceptable form of ID. Any of the following documents will be accepted to register and/or vote in person: Wyoming Driver's License or ID Card A different state's driver's license An ID card issued by a local, state or federal agency A U.S. passport School ID Military ID Tribal ID Card Wyoming Community College Student ID Wyoming Public School Student ID Valid Medicare or Medicaid Insurance Card You can also show two of the following in any combination: Certification of U.S. citizenship Certificate of naturalization Draft record Voter registration card from another state or county Original or certified copy of a birth certificate bearing an official seal Certification of birth abroad issued by the department of state Any other form of identification issued by an official agency",
+            "s": "https://www.vote411.org/wyoming",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "When are official election results released?",
+            "a": "Official results are never available on Election Day. Election officials are working around the clock to count an unprecedented number of ballots, and it\u2019s essential that they take the time to make sure every vote is counted. Absentee ballots begin being counted on Election Day. Provisional ballots are counted the Friday after the election. For Presidential elections, local results will be certified no later the first Friday following Election Day. Official election results will be uploaded on Wyoming\u2019s Secretary of State website, no later than the second Wednesday after Election Day.",
+            "s": "https://www.vote411.org/wyoming",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What are the requirements to become a poll worker?",
+            "a": "In order to be a poll worker in Wyoming, you must: Be registered to vote in Wyoming Be at least 18 years of age Be entitled to compensation Political affiliation generally required Be a resident of the county Complete required training Be physically, morally and mentally competent Students who are 16 years or older may be appointed if they meet all other voter requirements",
+            "s": "https://www.vote411.org/wyoming",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What are the voting hours at polling places?",
+            "a": "Polling place hours of operation are from 7:00 am to 7:00 pm.",
+            "s": "https://www.vote411.org/wyoming",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "Where can I find my Voter Service and Polling Center location?",
+            "a": "You can find your polling place by utilizing your state resource. If you have further questions on your polling place location, please contact your county clerk.",
+            "s": "https://www.vote411.org/wyoming",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "How does the primary election process work?",
+            "a": "Wyoming is a \u201cpartially open\u201d primary state. This allows voters to vote in another parties primary. You are asked to choose your party when you register to vote, however, you are able to publicly change your party affiliation in order to vote in your selected parties primary election. If you have any questions about your state\u2019s primary election, please contact your local election officials.",
+            "s": "https://www.vote411.org/wyoming",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "When would I need to vote using a provisional ballot?",
+            "a": "You may vote a provisional ballot if you meet specific conditions. Those conditions are: Your name does not appear in the poll book Your name is in the poll back but there is an indication that you were issued an absentee ballot and you wish to vote at the polls You fail to produce identification when required Other circumstances as determined by the precinct election official Provisional ballots are counted the Friday after the election. You may contact your county elections department to confirm that your ballot was counted.",
+            "s": "https://www.vote411.org/wyoming",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What accommodations are available for voters with disabilities?",
+            "a": "Voters with disabilities have the opportunity to vote privately and independently becasue each polling place is equipped with a voting machine that allows the voter to listen to the ballot and make selection using a key pad. In addition, assistance for disabled voters is given at the poll when requested. If you have a disability you may also vote by absentee ballot. Any qualified elector may request a ballot be mailed to another qualified elector. For more information, you can utilize the American Association of People With Disabilities (AAPD) resource.",
+            "s": "https://www.vote411.org/wyoming",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What is the deadline to register to vote?",
+            "a": "The deadline for voter registration is 14 days before an election. Election Day registration is available at the polls. Not registered? Use our registration tool to fill out your application!",
+            "s": "https://www.vote411.org/wyoming",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What are the rules for taking time off work to vote?",
+            "a": "Employers must grant employees up to one hour of paid time off to vote during polling place hours, if the employee does not have 3 consecutive hours either before or after work that the polls are open.",
+            "s": "https://www.vote411.org/wyoming",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What types of voting machines are used?",
+            "a": "The voting systems used in Wyoming are optical scan and DRE. Optical Scan: With this system, you will receive a card or sheet of paper, which you take over to a private table or booth. The card has the names of the various candidates and ballot measures printed on it. With a pen or pencil you fill in a little box or circle or the space between two arrows. When you are finished filling out all the cards, you may bring the cards over to a ballot box, where poll workers will show you how to put the cards in the box. Or in some places, you may feed the completed cards or papers into a computer device that checks your card or paper right there at the polling place to make sure you have voted the way you want to and counts the votes. Direct Recording Electronic (DRE): This is the newest kind of system in use in the U.S. All the information about who and what you are voting for is on an electronic screen like a TV or computer screen. There are many variations of DREs because lots of companies are inventing new ones, and many cities, counties and states are trying them out. Usually, after you have signed in, the poll workers will give you a card that you slide into a device to start your voting session. Some of these devices will show all of the candidates and ballot choices on one big screen. Often, with these big screen devices you push a button next to the name of the candidate you want to vote for (or yes or no on a ballot measure). On other DREs, the screen is set up to show pages. On each screen or page, there will probably be one thing to vote on. For example, on one screen or page, you might vote for president. Then you might move to the next page to vote for senator. Often these small-screen devices have a touch screen, where you touch the screen next to the name of the person you want to vote for. Other devices have a key pad. And some have a keyboard, so you can write in the name of someone you want to vote for. You let the system know you are finished voting by pushing a button, touching the screen or entering something on a keypad.",
+            "s": "https://www.vote411.org/wyoming",
+            "t": "2024-10-31T00:00:00Z"
+        }
+    ]
+}

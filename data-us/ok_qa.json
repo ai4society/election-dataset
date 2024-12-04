@@ -1,0 +1,674 @@
+{
+    "state": "OK",
+    "num_questions": 111,
+    "num_answers": 111,
+    "contributor": "Gaurav Kumar",
+    "questions": [
+        {
+            "q": "I am registered to vote in Shawnee, but I work in Oklahoma City. Can I vote in Oklahoma City?",
+            "a": "No. State law requires that you register to vote according to your address of residence. You may vote only at the polling place to which you are assigned based on the address where you are registered. (But you can request an absentee ballot or vote early .)",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.564435"
+        },
+        {
+            "q": "I am registered to vote in Tulsa, but I am in college in Norman. Can I vote in Norman?",
+            "a": "You can request to have an absentee ballot mailed to you in Norman or you may choose to register to vote in Norman. If you register in Norman, your registration in Tulsa will be canceled.",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.565109"
+        },
+        {
+            "q": "What is an Address Confirmation Notice?",
+            "a": "An Address Confirmation Notice is a mailing sent to select voters by the State Election Board every two years, as part of the statutorily-mandated, voter list maintenance process required by law. Voters are selected to receive an Address Confirmation Notice for one of several reasons as outlined in 26 O.S.  4-120.2 . Voters who receive the notice must respond and confirm their registration address. Voters who do not respond will have their status changed to inactive. Inactive voters who do not vote and have no further voter activity, such as updating their address or party affiliation, are required to be removed from the voter list following two, consecutive general elections for Federal office. View a sample of the Address Confirmation Notice .",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.565572"
+        },
+        {
+            "q": "How do I reinstate my status to active?",
+            "a": "There are two ways to reinstate your status to active. Voting in any election  municipal, school district or a federal, state or county election Updating your voter registration  such as changing your name or registering at a new address in the same county",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.565958"
+        },
+        {
+            "q": "Why did I get an Address Confirmation Notice?",
+            "a": "Voters may receive an Address Confirmation Notice for one of several reasons as outlined in 26 O.S.  4-120.2 . You will find additional information on our Address Confirmation Notice page. If you would like to know the specific reason you received a notice, please contact your County Election Board .",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.566282"
+        },
+        {
+            "q": "I received an Address Confirmation notice, but my spouse did not. Why?",
+            "a": "Not every voter will receive an Address Confirmation Notice. The reasons a voter may receive an Address Confirmation Notice are specified by law. You will find the list of reasons outlined in 26 O.S.  4-120.2 . Additional information is available on our Address Confirmation Notice page. If you would like more information regarding why you received a notice, please contact your County Election Board .",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.566602"
+        },
+        {
+            "q": "Why does the return card have a different P.O. Box address than the one listed on the State Election Board website?",
+            "a": "The State Election Board has a special P.O. Box to receive the Address Confirmation Notice return cards.",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.566863"
+        },
+        {
+            "q": "Can I return the card to my County Election Board in person?",
+            "a": "Yes. Find your County Election Board .",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.567123"
+        },
+        {
+            "q": "Can the card be returned inside an envelope?",
+            "a": "Yes. However, the return card is designed to be folded, so that all personal information is inside. Please see our Address Confirmation Notice page for return instructions.",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.567401"
+        },
+        {
+            "q": "Can I verify my address over the phone or online?",
+            "a": "You cannot verify your address over the phone; however, you can verify your address online using the OK Voter Portal . You will need the 8-digit number printed above your name and address on the Address Confirmation Notice to confirm your information online.",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.567737"
+        },
+        {
+            "q": "Will every voter in the state get a notice?",
+            "a": "No. Only voters that meet the criteria in 26 O.S.  4-120.2 will receive a notice.",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.568002"
+        },
+        {
+            "q": "I still live at the same address, but my name has changed. Can I use this card to change my name?",
+            "a": "Yes. If you have not already submitted a new Voter Registration Application to change your name, the return card can be used for this purpose. Complete the card with your new last name. In the margin above the name, write name change in the margin. Be sure to sign and date the Address Confirmation Notice Return Card before mailing it. Your registration will be updated to indicate your new name and you will receive a new Voter ID card by mail.",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.568280"
+        },
+        {
+            "q": "I received an Address Confirmation Notice, but have moved to another state. Do I still need to respond?",
+            "a": "Yes. Write on the card that you no longer live in Oklahoma. Sign and date the card and mail it. County Election Board personnel in your former county can use the signed, return card to cancel your voter registration in Oklahoma. If you dont return the card, your registration will become inactive and wont be cancelled for several years.",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.568540"
+        },
+        {
+            "q": "What happens if I do not return the notice to the Election Board?",
+            "a": "By law, a voters registration will become inactive if the notice is not returned within 60 days. The law requires the Election Board to cancel the voter registration of an inactive voter who (1) does not initiate a voter registration change, or (2) does not vote in any election conducted by a county election board during a designated time period, following the mailing date of an Address Confirmation Notice. The designated time period is defined as two, consecutive general elections for Federal office. Individuals who enter inactive status are still able to vote as they normally would, even without returning the Notice.",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.568855"
+        },
+        {
+            "q": "The addressee is now in a nursing home. Should the card be returned?",
+            "a": "If the voter wants to remain registered, the voters spouse or child should take the Address Confirmation Notice to the nursing home, have the voter sign it and mail it. If the voter does not want to remain registered, the voter should ignore the notice or complete a Request to Cancel Voter Registration form and return it to their County Election Board . If the voter does not respond, the voters registration will be canceled following two, consecutive general elections for Federal office. IMPORTANT: There is no provision in state law to allow a voters next-of-kin to cancel a voter registration if the voter is still living.",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.569198"
+        },
+        {
+            "q": "The addressee no longer lives at this location. What should I do?",
+            "a": "If you know the voters address, you can forward the card to the voter or write, moved to: (address) and return the card to the Election Board. If you do not know the voters new address, no action is required.",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.569449"
+        },
+        {
+            "q": "The addressee is deceased. Should the card be returned?",
+            "a": "No. The deceased voters next-of-kin should submit a Request to Cancel Voter Registration of Deceased Voter form to the voters former County Election Board .",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.569827"
+        },
+        {
+            "q": "My voter registration was deleted. Can I register again?",
+            "a": "Yes. If you have been removed from the voter rolls, you may register again by completing a new Voter Registration Application using the OK Voter Portal's Online Voter Registration System. Voter Registration Applications are also available at your County Election Board , most tag agencies, libraries, and post offices.",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.570393"
+        },
+        {
+            "q": "How do I keep my registration from being deleted?",
+            "a": "Respond to any Address Confirmation Notice you receive and keep your registration current. You can keep your registration current by voting or updating your registration if you move or change your name using the OK Voter Portal . If you move to another county in Oklahoma, you will need to submit a new Voter Registration Application in your new county, and include your prior address in the spaces provided on the form.",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.570817"
+        },
+        {
+            "q": "I didnt get a notice, but believe I may need to update my registration. Is there a way to verify my voter information?",
+            "a": "You can verify your voter registration information and make limited changes using the OK Voter Portal . If you have moved to a new county or changed your name, you will need to complete a new Voter Registration Application and mail it to your new County Election Board .",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.571170"
+        },
+        {
+            "q": "Can I vote early?",
+            "a": "Yes! You can vote in the county where you are registered to vote from 8 a.m. to 6 p.m. on Thursday and Friday before all elections. In addition to early voting the Thursday and Friday preceding an election, early voting is also available from 8 a.m. to 2 p.m. on the Saturday immediately preceding a State or Federal Primary Election, State or Federal Runoff Primary Election, General Election or Presidential Preferential Primary Election. Early voting is also available from 8 a.m. to 6 p.m. the Wednesday preceding the General Election. In most counties early voting is held at the county election board office. However, some counties may have an alternate or additional early voting location .",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.571564"
+        },
+        {
+            "q": "Where can I find information about voter registration and absentee voting for military and overseas voters?",
+            "a": "Military voters should contact the Voting Assistance Officers in their units for application forms and information. Overseas voters may obtain the same materials at United States military installations, embassies and consulates, or online from the Federal Voting Assistance Program. (You will be redirected to an external site.) Information is available on the State Election Board website . Military and overseas voters may also contact their County Election Board directly.",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.571911"
+        },
+        {
+            "q": "I am a uniformed services voter. How can I find out whether the County Election Board received my absentee ballot?",
+            "a": "An absentee voter who is in the uniformed services or who is a civilian living or working overseas may contact the appropriate County Election Board by email or check the OK Voter Portal for confirmation that the absentee ballot has been received by that election board.",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.572227"
+        },
+        {
+            "q": "What political parties are recognized in Oklahoma?",
+            "a": "The Democratic, Republican and Libertarian parties are recognized.",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.572546"
+        },
+        {
+            "q": "What political organizations are recognized in Oklahoma?",
+            "a": "There are currently no political organizations recognized in Oklahoma.",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.572804"
+        },
+        {
+            "q": "I am a Democrat. Can I vote in another party's primary or runoff primary?",
+            "a": "No. Oklahoma is a closed primary state. Registered voters of a political party may only vote to select their party's nominees.",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.573060"
+        },
+        {
+            "q": "I am a Republican. Can I vote in another party's primary or runoff primary?",
+            "a": "No. Oklahoma is a closed primary state. Registered voters of a political party may only vote to select their party's nominees.",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.573303"
+        },
+        {
+            "q": "I am a Libertarian. Can I vote in another party's primary or runoff primary?",
+            "a": "No. Oklahoma is a closed primary state. Registered voters of a political party may only vote to select their party's nominees.",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.573545"
+        },
+        {
+            "q": "I am registered as Independent (No Party). Can I vote in party primary elections?",
+            "a": "Generally speaking, Oklahoma has closed primaries. However, every two years, all recognized political parties may choose to open their primaries and runoff primaries to Independents. The Democratic Party has granted permission for Independents to vote in its primaries and runoff primaries for the 2024 and 2025 election years. Independents cannot vote in Republican or Libertarian primaries. Learn more .",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.573835"
+        },
+        {
+            "q": "Why do I have to show proof of identity?",
+            "a": "State law requires all registered voters to show proof of identity before voting in person at the precinct polling place on Election Day or during early voting.",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.574085"
+        },
+        {
+            "q": "What can I show for proof of identity?",
+            "a": "You may show any document issued by the United States, the State of Oklahoma, or a federally recognized tribal government if it includes your name, a photograph of you, and an expiration date that is later than the election in which you are voting. For example, the following documents meet these requirements: Oklahoma driver license Oklahoma Identification Card United States passport United States military identification The law also requires that your name on your proof of identity must match your name in the Precinct Registry There are two alternatives to showing a photo identification described above: 1. You may show the free Voter Identification Card issued by the County Election Board as proof of identity even though it does not include a photograph. 2. You may vote by provisional ballot and prove your identity by signing a sworn affidavit.",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.574494"
+        },
+        {
+            "q": "May I use my tribal membership card as proof of identity?",
+            "a": "You may use a tribal membership card if it includes your name and a photograph of you, provided it is not expired.",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.574915"
+        },
+        {
+            "q": "What if I do not have proof of identity with me when I go to vote?",
+            "a": "If you do not show proof of identity, you may vote only by provisional ballot. Voters who cast provisional ballots are required to fill out and sign an affidavit that explains why their provisional ballot should be counted. Provisional ballots are sealed inside special envelopes and are not put through the voting device. After election day, but before results are certified, County Election Board officials will research the information provided by the voter on the affidavit. In order for a provisional ballot to be approved for counting, the information on the affidavit must match the information in the voter's registration record.",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.575381"
+        },
+        {
+            "q": "What happens if I refuse to show proof of identity?",
+            "a": "If you do not show proof of identity, you may vote only by provisional ballot. Voters who cast provisional ballots are required to fill out and sign an affidavit that explains why their provisional ballot should be counted. Provisional ballots are sealed inside special envelopes and are not put through the voting device. After election day, but before results are certified, County Election Board officials will research the information provided by the voter on the affidavit. In order for a provisional ballot to be approved for counting, the information on the affidavit must match the information in the voter's registration record.",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.575718"
+        },
+        {
+            "q": "If I vote by mail absentee ballot, do I have to enclose a copy of my proof of identity with my ballot?",
+            "a": "\"Standard\" absentee ballots (the most common type of absentee ballot) must be notarized. \"Physically incapacitated\" absentee ballots must have the voter's signature witnessed by two people. The law considers the notarization or witnessing sufficient to establish the identity of an absentee voter.",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.576027"
+        },
+        {
+            "q": "My mother/father/son/daughter, etc., has moved to another state, but his or her name is still on the precinct registry at the polling place. How can I have his or her name removed?",
+            "a": "Only the voter can request that his or her name be removed. The voter may complete a \"Request to Cancel Voter Registration\" form and send it to the County Election Board in the county where he or she is registered, requesting that his or her voter registration be canceled. The request must be signed by the voter and notarized or the voter's signature must be witnessed by two people.",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.576352"
+        },
+        {
+            "q": "My family member is deceased, but his or her name is still on the precinct registry at the polling place. How can I have his or her name removed?",
+            "a": "The deceased voter's next of kin may complete a \"Request to Cancel Registration of Deceased Voter\" form at the polling place. The next of kin may also download a request form from the State Election Board website and send the request to the County Election Board in the county where the deceased voter is registered. The request must be notarized.",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.576733"
+        },
+        {
+            "q": "How can I get a list of registered voters?",
+            "a": "Voter registration data is available at no cost through the State Election Board's OK Election Data Warehouse (EDW) . To obtain access to the EDW , you must complete and submit a Request to Download Files form.",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.577524"
+        },
+        {
+            "q": "How can I get voters' telephone numbers?",
+            "a": "A voter's telephone number is neither required nor requested on the Oklahoma Voter Registration Application; therefore, this information is not maintained by the State Election Board.",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.577955"
+        },
+        {
+            "q": "How can I get candidates' telephone numbers and e-mail addresses?",
+            "a": "Although it is not required, candidates may include telephone numbers, email addresses and/or website addresses on their Declaration of Candidacy. Declarations of Candidacy for county or local candidates can be requested from the appropriate county election board. Declarations of Candidacy for state or federal candidates are posted on the State Election Board website or can be requested by contacting the State Election Board .",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.578354"
+        },
+        {
+            "q": "How can I identify a voter's race/color/gender/ethnic origin, etc.?",
+            "a": "Voter registration records do not include any of these types of information.",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.578624"
+        },
+        {
+            "q": "How do I register to vote in Oklahoma?",
+            "a": "You can register to vote using the OK Voter Portal's Online Voter Registration System . Applications are also available at your County Election Board , most tag agencies, post offices, and public libraries. Visit our website for more details.",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.578980"
+        },
+        {
+            "q": "How do I change my name, address or political affiliation on my voter registration?",
+            "a": "You can make changes to your address (provided you have not moved to a new county) or party affiliation online using the OK Voter Portal . If you have moved to a new county, you will need to complete a new Voter Registration Application and mail or hand-deliver the application to your County Election Board. Applications are also available at your County Election Board , most tag agencies, post offices, and public libraries.",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.579366"
+        },
+        {
+            "q": "I lost my Voter ID card. How do I get a replacement?",
+            "a": "You can request a replacement Voter ID card using the OK Voter Portal , by contacting your County Election Board or emailing the State Election Board . Be sure to provide your date of birth and address, so that we can verify your registration.",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.579682"
+        },
+        {
+            "q": "If I don't vote in the Primary Election, can I still vote in the General Election?",
+            "a": "Whether you do or do not vote in a primary election has no bearing on your eligibility to vote in a general election. If you are properly registered, you are eligible to vote.",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.579935"
+        },
+        {
+            "q": "Will my ballot be counted if I don't vote every race on it? What if I leave some races blank?",
+            "a": "Whether you vote in all races that appear on your ballot, in only some of the races, or in only one race, any vote you cast is always counted. If you prefer not to vote for a candidate or a question, you are entitled to make that choice. It will not affect the counting of your votes in any other races on your ballot.",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.580194"
+        },
+        {
+            "q": "What is the Electoral College and how does it work?",
+            "a": "See this excellent treatment of the Electoral College from the Office of the Federal Register.",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.580448"
+        },
+        {
+            "q": "How does straight party voting work?",
+            "a": "When you mark one of the straight party boxes, the machine will record a vote for the candidate from that party in any race where there is a candidate from that party. If you mark the straight party box but also mark the box next to a candidate from a different party lower on the ballot, the individual vote in that race will override the straight party choice in that race only. You will still need to mark non-partisan races such as judicial retention and any ballot questions if you want a vote counted in those races.",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.580822"
+        },
+        {
+            "q": "When are polling places open?",
+            "a": "On Election Day, polling places are open from 7 AM until 7 PM. In-person absentee voting or \"early voting\" is also available for all elections. Please refer to our early voting page for information on dates, times, and locations.",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.581213"
+        },
+        {
+            "q": "Where do I vote?",
+            "a": "You can find your polling place, sample ballot and more in the OK Voter Portal .",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.581515"
+        },
+        {
+            "q": "May I write in a candidate's name on my ballot?",
+            "a": "No. Write-in voting is not permitted by law in Oklahoma. (There is one exception to this rule. In extraordinary circumstances, military and overseas voters may write in the names of candidates for federal offices when there is insufficient time for them to vote a normal absentee ballot. This is done on a special write-in absentee ballot. More information is available on the Federal Voting Assistance Program (FVAP) website or by contacting the State Election Board .",
+            "s": "https://oklahoma.gov/elections/faqs.html",
+            "t": "2024-11-18T08:11:32.581827"
+        },
+        {
+            "q": "I tried to register online to vote, but the Online Voter Registration System says it can't confirm my Driver License. Why?",
+            "a": "You must enter your information exactly as it appears on your Driver License/State ID card. (For example, if \"northwest\" and \"street\" are abbreviated on your card, do not spell the words out. Use the abbreviated form.) In addition to your Driver License or State ID, eligible individuals must also have a digital signature on file with Service Oklahoma. (This is the signature that you provided when you applied for, renewed, or updated your Driver License or State ID.)",
+            "s": "https://oklahoma.gov/elections/ovp/ok-voter-portal-faqs.html",
+            "t": "2024-11-18T08:11:32.810712"
+        },
+        {
+            "q": "I registered to vote, but I haven't received my Voter ID card. Why?",
+            "a": "All Voter Registration Applications regardless of how they are submitted (e.g. online, mail, in person) must be manually processed and approved by the County Election Board Secretary. You are not a registered voter until your Voter Registration Application has been approved. Once your application has been approved, you will be mailed a Voter ID card confirming your registration. If your application cannot be approved, you will be mailed a letter from your County Election Board explaining the reason(s) why your application could not be approved and the steps that may be taken to complete the process. If you do not receive your Voter ID card or a letter within 30 days of submitting your application, please contact your County Election Board directly.",
+            "s": "https://oklahoma.gov/elections/ovp/ok-voter-portal-faqs.html",
+            "t": "2024-11-18T08:11:32.811256"
+        },
+        {
+            "q": "I recently registered to vote, but the OK Voter Portal says it cant find me. Why?",
+            "a": "You are not a registered voter until your Voter Registration Application has been manually processed and approved by the County Election Board Secretary. If your application was submitted after the voter registration deadline, your application will be processed immediately following the upcoming election.",
+            "s": "https://oklahoma.gov/elections/ovp/ok-voter-portal-faqs.html",
+            "t": "2024-11-18T08:11:32.811743"
+        },
+        {
+            "q": "I know Im registered to vote, but the OK Voter Portal says it cant find me. Has my voter registration been deleted?",
+            "a": "While it is possible that your voter registration may have been removed as part of the voter registration maintenance process required by law, more often than not the problem is the result of a user error. First - Check your browser. The portal is compatible with the latest versions of Microsoft Edge, Google Chrome, Mozilla Firefox, and Apple Safari. Next - Be sure you are entering your information exactly as it appears on your voter registration record. Finally - Verify that your information is entered in the correct order before clicking \"find me.\" (Last name, first name, then date of birth xx-xx-xxxx.)",
+            "s": "https://oklahoma.gov/elections/ovp/ok-voter-portal-faqs.html",
+            "t": "2024-11-18T08:11:32.812222"
+        },
+        {
+            "q": "I use a name that is different from my given name. What should I enter when logging into portal?",
+            "a": "Use the name that you used when you registered to vote. If you are unsure which name you used when you registered, contact your County Election Board or the State Election Board for assistance or refer to your Voter ID card.",
+            "s": "https://oklahoma.gov/elections/ovp/ok-voter-portal-faqs.html",
+            "t": "2024-11-18T08:11:32.812506"
+        },
+        {
+            "q": "My name is misspelled on my Voter ID card. How should I enter my name when logging into the portal?",
+            "a": "You must enter your name exactly as it appears in the registration system in order to access your information. If you need to correct the spelling on your Voter ID card, please contact your County Election Board directly.",
+            "s": "https://oklahoma.gov/elections/ovp/ok-voter-portal-faqs.html",
+            "t": "2024-11-18T08:11:32.812806"
+        },
+        {
+            "q": "I'm known by my first and middle name. Should I enter both names as my \"first name?\"",
+            "a": "Some people are known by a combined name, such as \"Mary Jo\" or \"Bobby Ray.\" Even if you use a combined name, enter your first and last name only .",
+            "s": "https://oklahoma.gov/elections/ovp/ok-voter-portal-faqs.html",
+            "t": "2024-11-18T08:11:32.813069"
+        },
+        {
+            "q": "I have a hyphenated name. Should I enter the hyphen when logging into the portal?",
+            "a": "It depends on how your information was entered at the County Election Board. (Remember, the portal is case sensitive!) Try entering your name, both with the hyphen and without the hyphen.",
+            "s": "https://oklahoma.gov/elections/ovp/ok-voter-portal-faqs.html",
+            "t": "2024-11-18T08:11:32.813314"
+        },
+        {
+            "q": "I have verified that I am entering my name correctly, but the portal still says it can't find me. What do I do now?",
+            "a": "Contact your County Election Board or the State Election Board to verify that your date of birth matches the information in the voter registration system. If you have confirmed that your date of birth matches the voter registration system, but you are still having issues, try manually typing a \"/\" between each number before selecting \"Find Me.\" In some rare instances, when the voter clicks Find Me, the browser may transpose or shift the numbers of the voters birthdate. (e.g. 10/13/9891 instead of 01/31/1989) If this is the case, please try a different browser or device. You must have a date of birth on file to access the OK Voter Portal. If you do not have a date of birth on file, you will need to complete a new Voter Registration Application to update your registration.",
+            "s": "https://oklahoma.gov/elections/ovp/ok-voter-portal-faqs.html",
+            "t": "2024-11-18T08:11:32.813659"
+        },
+        {
+            "q": "I logged into the portal, but it says I dont have a sample ballot. Why not?",
+            "a": "If you have an election, the portal will display a sample ballot several weeks prior to the election. If you do not have an election, the portal will not display a sample ballot and a message will appear indicating that you do not have a sample ballot available. Sample ballots are tailored to each voter, so your sample ballot may not necessarily be the same as your friend or relative's ballot. If you have questions about your eligibility to vote in a particular election, contact your County Election Board and/or refer to \"Your Voting Districts\" information in the OK Voter Portal.",
+            "s": "https://oklahoma.gov/elections/ovp/ok-voter-portal-faqs.html",
+            "t": "2024-11-18T08:11:32.814073"
+        },
+        {
+            "q": "I am an Independent voter, why do I have a nonpartisan sample ballot AND a Democratic Primary sample ballot?",
+            "a": "Oklahoma is a closed primary state. However, every two years, all recognized parties may choose to open its primary elections to Independent voters. If a party chooses to open its primaries to Independent voters, the portal will display sample ballots for all elections in which Independents are eligible to vote. Independent voters will be able to view a nonpartisan ballot, as well as a primary ballot for those parties which have chosen to open its primaries to Independents. Voters should understand that they may not necessarily vote all of the ballots displayed . (The portal is simply displaying all of the possible choices.) Independent voters will receive a nonpartisan ballot at their voting location or upon request of an absentee ballot, UNLESS they specifically request to receive a primary ballot for a party has that has opened its primaries to Independents.",
+            "s": "https://oklahoma.gov/elections/ovp/ok-voter-portal-faqs.html",
+            "t": "2024-11-18T08:11:32.814456"
+        },
+        {
+            "q": "I want to view sample ballots for elections across the state. Can I do that through the portal?",
+            "a": "Voters who would like to see sample ballots for other elections may request those sample ballots by contacting the County Election Board or the State Election Board. Sample ballots are also available at your County Election Board office. Please keep in mind that there are almost two-thousand precincts across the state and hundreds of ballot styles (or combinations) for a typical statewide election. Election officials may ask you to provide more information about the sample ballots you are requesting, such as the precinct number(s).",
+            "s": "https://oklahoma.gov/elections/ovp/ok-voter-portal-faqs.html",
+            "t": "2024-11-18T08:11:32.814792"
+        },
+        {
+            "q": "What is the difference between the PDF sample ballot and the HTML sample ballot?",
+            "a": "The ballots are the same, but they are displayed in a different format. Voters who would like to print a copy of their sample ballot, should select the PDF version. The HTML version has accessibility features that are useful to some votes (such as adjustable font size.) The HTML version is also better for users using text-to-speech tools.",
+            "s": "https://oklahoma.gov/elections/ovp/ok-voter-portal-faqs.html",
+            "t": "2024-11-18T08:11:32.815068"
+        },
+        {
+            "q": "I am trying to update my registration address in the portal, but it says it doesnt recognize my new address. Why?",
+            "a": "This may be caused by one of several reasons. 1. The portal will only allow voters to update an address, provided they have not moved to a different county. If you have moved to a new county, you can submit a new Voter Registration Application through the Online Voter Registration System by clicking \"Start the Process\" at the top of the OK Voter Portal. If you do not have sufficient information to submit an online application, the portal will direct you back to the OK Voter Portal \"registration wizard to complete a new, paper Voter Registration Application. (Be sure to print, sign, and mail or hand deliver the application to your County Election Board to complete the process.) You can also download an application from the State Election Board website or pick up an application from your County Election Board . Applications are also available at most tag agencies, libraries, and post offices. 2. The portal cannot recognize an address that is not in the system. If you have moved into a new construction home or a new housing addition, you may have an address that has not yet been added to the various mapping systems. You will need to complete a new Voter Registration Application and submit it to your County Election Board . You can submit a new application using the Online Voter Registration System or use the OK Voter Portal \"wizard\" to complete an application, which can be mailed or hand delivered to your County Election Board . 3. You may have entered the address differently than what is displayed in the system. Please verify your new address to make sure you did not accidentally omit a street direction or enter the wrong street type or zip code. If you are certain no mistakes have been made, but you are unable to successfully enter your address, please complete a Voter Registration Application using the Online Voter Registration System or use the OK Voter Portal \"wizard\" to complete an application, which can be mailed or hand delivered to your County Election Board . Once the Voter Registration Application has been received, County Election Board officials and staff can use multiple resources to determine the location of your address and add it to the system.",
+            "s": "https://oklahoma.gov/elections/ovp/ok-voter-portal-faqs.html",
+            "t": "2024-11-18T08:11:32.815820"
+        },
+        {
+            "q": "I updated my mailing address and received my new Voter ID card, but the card was sent to my residence address. Why?",
+            "a": "There are a couple of reasons why this may have happened. 1. State law requires Voter ID cards to be mailed to your residence address, unless you do not have a valid USPS address, as defined by statute. (See 26 O.S.  4-113. ) If you have questions about your Voter ID card or need to confirm your residence address, please contact your County Election Board directly. 2. Updating your mailing address does not automatically update your residence address. Since these addresses may be different, you must select to update each address individually. You may use the portal to submit a new address change. Be sure to select one of the following: Change my residence address within my current county Change my residence address to another county",
+            "s": "https://oklahoma.gov/elections/ovp/ok-voter-portal-faqs.html",
+            "t": "2024-11-18T08:11:32.816877"
+        },
+        {
+            "q": "I just changed my party affiliation. Now, Im trying to change my address and the portal wont let me. Why?",
+            "a": "Changes made using the portal must be manually processed . The portal will not allow an additional change until the first one has been processed by the County Election Board. If you have questions about the status of your requests, please contact your County Election Board directly.",
+            "s": "https://oklahoma.gov/elections/ovp/ok-voter-portal-faqs.html",
+            "t": "2024-11-18T08:11:32.817253"
+        },
+        {
+            "q": "I have tried several times to make changes to my registration and I keep getting an error code. Whats causing this to happen?",
+            "a": "Error codes are generally triggered by a user error. Wait 10-15 minutes. Refresh your page and enter your information again. If the error code continues to appear, it is strongly recommended that you submit a new Voter Registration Application using the OK Voter Portal's Online Voter Registration System or submit a paper, Voter Registration Application by mail or in person to your County Election Board in order to avoid missing any upcoming deadline.",
+            "s": "https://oklahoma.gov/elections/ovp/ok-voter-portal-faqs.html",
+            "t": "2024-11-18T08:11:32.817615"
+        },
+        {
+            "q": "The election is over, but the portal isn't displaying my voter history. Why?",
+            "a": "The portal is a public-facing information system ONLY. Voter history must be manually entered into the voter registration system by election officials and then updated in the portal. For large, statewide elections this can often take 4-5 weeks or longer.",
+            "s": "https://oklahoma.gov/elections/ovp/ok-voter-portal-faqs.html",
+            "t": "2024-11-18T08:11:32.817875"
+        },
+        {
+            "q": "What do the asterisks mean next to the election date in my voter history?",
+            "a": "State law prohibits the public disclosure of your \"method of voting\" (e.g. absentee, in-person absentee, Election Day) for ALL elections, EXCEPT regularly scheduled federal elections, state elections, and statewide question elections. (See 26 O.S.  7-138 .) If you voted in an election that does not allow your \"method of voting\" to be disclosed, you will see a series of asterisks next to the election date (*********). This indicates that you cast a ballot in that election, but that your \"method of voting\" may not be publicly disclosed.",
+            "s": "https://oklahoma.gov/elections/ovp/ok-voter-portal-faqs.html",
+            "t": "2024-11-18T08:11:32.818192"
+        },
+        {
+            "q": "I didn't vote in the last election, but my voter history has a message that says \"Data Entry By County Election Bd Not Yet Complete.\" Why?",
+            "a": "This is a default message. Once your County Election Board has completed entering its voter history data, the message will disappear and the election date will no longer appear in your voter history.",
+            "s": "https://oklahoma.gov/elections/ovp/ok-voter-portal-faqs.html",
+            "t": "2024-11-18T08:11:32.818446"
+        },
+        {
+            "q": "How do I become a notary public?",
+            "a": "The Oklahoma Secretary of State commissions notaries public. Learn more here .",
+            "s": "https://oklahoma.gov/elections/voters/notary-services/faq-notaries-public.html",
+            "t": "2024-11-18T11:48:13.057486"
+        },
+        {
+            "q": "How do I find a notary public?",
+            "a": "The Oklahoma Secretary of State maintains a searchable database of notaries here .",
+            "s": "https://oklahoma.gov/elections/voters/notary-services/faq-notaries-public.html",
+            "t": "2024-11-18T11:48:13.057906"
+        },
+        {
+            "q": "What are the general duties of a notary public.",
+            "a": "The Oklahoma Secretary of State commissions notaries public. Learn more here .",
+            "s": "https://oklahoma.gov/elections/voters/notary-services/faq-notaries-public.html",
+            "t": "2024-11-18T11:48:13.058282"
+        },
+        {
+            "q": "Are absentee ballot affidavits required to be notarized?",
+            "a": "For standard absentee ballot affidavits, state law requires an absentee voters signature to be notarized. ( 26 O.S. 14-108 )",
+            "s": "https://oklahoma.gov/elections/voters/notary-services/faq-notaries-public.html",
+            "t": "2024-11-18T11:48:13.058651"
+        },
+        {
+            "q": "However, there are alternatives to notarization of absentee ballot affidavits.",
+            "a": "There are absentee ballots for certain special conditions, which have alternate methods for executing an absentee ballot affidavit. Learn more here .",
+            "s": "https://oklahoma.gov/elections/voters/notary-services/faq-notaries-public.html",
+            "t": "2024-11-18T11:48:13.058993"
+        },
+        {
+            "q": "Can a notary public charge a fee to notarize an absentee ballot affidavit?",
+            "a": "No. Under state law Oklahoma notaries are not allowed to charge a fee to notarize an absentee ballot affidavit. ( 26 O.S. 14-108 and 49 O.S. 5 )",
+            "s": "https://oklahoma.gov/elections/voters/notary-services/faq-notaries-public.html",
+            "t": "2024-11-18T11:48:13.059437"
+        },
+        {
+            "q": "How does a notary verify the identity of an absentee voter?",
+            "a": "State law requires a notary to determine the identity of a person either from personal knowledge or from satisfactory evidence. ( 49 O.S. 113 )",
+            "s": "https://oklahoma.gov/elections/voters/notary-services/faq-notaries-public.html",
+            "t": "2024-11-18T11:48:13.059807"
+        },
+        {
+            "q": "Is a notary required to keep a record of the absentee ballot affidavits that are notarized?",
+            "a": "Yes. State law requires a notary public to maintain a log of all absentee ballot affidavits that he or she notarizes for a period of at least two (2) years after the date of the election. ( 26 O.S. 14-108.1 ) Notaries may contact the Secretary of States office for recommendations about the information notaries should record and maintain for their official acts. Otherwise, state law does not specify whether a place of business or other entity shall keep and maintain any additional documentation.",
+            "s": "https://oklahoma.gov/elections/voters/notary-services/faq-notaries-public.html",
+            "t": "2024-11-18T11:48:13.060237"
+        },
+        {
+            "q": "Are there certain persons who are not allowed to notarize an absentee ballot?",
+            "a": "Yes. State law prohibits a candidate whose name appears on the ballot, a campaign chairperson, or a campaign treasurer from notarizing an absentee ballot. ( 26 O.S. 14-108 )",
+            "s": "https://oklahoma.gov/elections/voters/notary-services/faq-notaries-public.html",
+            "t": "2024-11-18T11:48:13.060585"
+        },
+        {
+            "q": "Are there limits on the number of absentee ballots a notary public may notarize?",
+            "a": "Yes. State law allows a notary to notarize up to twenty (20) absentee ballot affidavits at a single election. Subject to the exceptions below, this twenty-signature notarization limit applies statewide.",
+            "s": "https://oklahoma.gov/elections/voters/notary-services/faq-notaries-public.html",
+            "t": "2024-11-18T11:48:13.060900"
+        },
+        {
+            "q": "However, there are exceptions to this limit:",
+            "a": "The limit of twenty (20) affidavits does not apply to the notarization of absentee ballot affidavits at the place of business of a notary public that is open to the general public during the normal business hours. A notary public can request permission from a county election board secretary to notarize more than twenty (20) absentee ballots at a single election in the county served by that secretary.",
+            "s": "https://oklahoma.gov/elections/voters/notary-services/faq-notaries-public.html",
+            "t": "2024-11-18T11:48:13.061434"
+        },
+        {
+            "q": "Must a notary public possess a waiver for each county that he or she wishes to notarize ballots in?",
+            "a": "The twenty-signature notarization limit applies statewide. To the extent that a notary public may or will exceed the twenty-signature notarization limit, he or she must have a waiver from the county election board secretary in any county and for any election he or she wishes to notarize absentee ballot affidavits.",
+            "s": "https://oklahoma.gov/elections/voters/notary-services/faq-notaries-public.html",
+            "t": "2024-11-18T11:48:13.062086"
+        },
+        {
+            "q": "How long does a notary waiver remain valid?",
+            "a": "Any waiver to exceed the twenty-signature notarization limit granted by a county election board secretary is valid only for the election(s) a notary public is authorized to exceed the limit.",
+            "s": "https://oklahoma.gov/elections/voters/notary-services/faq-notaries-public.html",
+            "t": "2024-11-18T11:48:13.062483"
+        },
+        {
+            "q": "Does a political party headquarters or campaign office qualify for a place of business exception to notary's limit on notarizing 20 absentee affidavits for a single election?",
+            "a": "State law says the limit of 20 affidavits does not apply to the notarization of absentee ballot affidavits at the place of business of a notary public that is open to the general public during the normal business hours. If the office meets these requirements, the exception applies. If not, it is recommended that a notary public request permission from the county election board secretary to notarize more than 20 absentee ballot affidavits at a single election in that county. (See 26 O.S. 14-108.1 as amended in May 2020 by Section 8 of SB 1779 )",
+            "s": "https://oklahoma.gov/elections/voters/notary-services/faq-notaries-public.html",
+            "t": "2024-11-18T11:48:13.062887"
+        },
+        {
+            "q": "Can drive-thru notarization services be offered for absentee ballot affidavits?",
+            "a": "Neither federal nor state law prohibit this type of service, but participating notaries must meet one of the exceptions previously described to notarize more than twenty (20) absentee ballot affidavits at a single election.",
+            "s": "https://oklahoma.gov/elections/voters/notary-services/faq-notaries-public.html",
+            "t": "2024-11-18T11:48:13.063229"
+        },
+        {
+            "q": "Can a notary public request an absentee ballot on behalf of another person, or submit a voted absentee ballot to election officials on behalf of another voter?",
+            "a": "No. Except for a few special circumstances, a voter must apply for his or her own absentee ballot, and must return his or her absentee ballot to election officials. State law specifically prohibits a notary public or an agent working on behalf of the notary from doing any of the following ( 26 O.S. 14-108.1 ): Requesting absentee ballots on behalf of another voter; or Assisting another voter in requesting absentee ballots; or Receiving by mail an absentee ballot on behalf of another voter; or Submitting a completed absentee ballot on behalf of another voter.",
+            "s": "https://oklahoma.gov/elections/voters/notary-services/faq-notaries-public.html",
+            "t": "2024-11-18T11:48:13.063688"
+        },
+        {
+            "q": "Can an absentee ballot affidavit be notarized remotely?",
+            "a": "Yes. An absentee ballot affidavit that is legally notarized by a method allowed under Oklahoma law will be accepted as valid by a county election board. However, an Oklahoma notary cannot charge an absentee voter the fee that is customary for remotely notarizing documents.",
+            "s": "https://oklahoma.gov/elections/voters/notary-services/faq-notaries-public.html",
+            "t": "2024-11-18T11:48:13.064056"
+        },
+        {
+            "q": "Can a notary public provide a postage stamp or an envelope to an absentee voter for the purpose of returning an absentee ballot to the county election board?",
+            "a": "Yes. A stamp and/or envelope are not considered a thing of value for the purposes of voting. (See 26 O.S. 16-106 as amended in May 2020 by Section 13 of SB 1779 ) Updated 05-26-2020",
+            "s": "https://oklahoma.gov/elections/voters/notary-services/faq-notaries-public.html",
+            "t": "2024-11-18T11:48:13.064368"
+        },
+        {
+            "q": "How can I request and return an absentee ballot for an upcoming general election?",
+            "a": "2024 General Election: Important Return Dates In Oklahoma, completed absentee ballots must be received by 7:00 p.m. CST on Election Day, November 5th, to be counted. If you are returning your ballot in person, it must be submitted to your County Election Board by the close of business on the day before the election, November 4th. Absentee voting is available and no excuse is required. The last day to request an absentee ballot is the third Monday (15 days) prior to an election. You can return your absentee ballot request form through mail, in person at your local elections office , or online . Voted ballots must be received by mail no later than 7pm on Election Day to be counted. If hand-delivered, they must be received by the close of business the day before the election. You can sign up to track your absentee ballot on your State Election Board website. Absentee ballots begin being counted on Election Day. Those who requested an absentee ballot but end up voting in person: Voters must surrender their absentee ballots before receiving a regular ballot, otherwise they must vote by a provisional ballot. Do not mail a ballot and vote in person. For specifics, you can find your local county clerk contact info here . Any registered voter in Oklahoma may request an absentee ballot with no excuse. If you prefer to request an absentee ballot by mail, you may write a letter to your county election board . The letter must contain the following information: Your name Your birth date Your address Identification number that matches the identification number on your voter registration record The election(s) for which you are requesting ballot(s) The address where ballot(s) should be mailed Your signature You may apply for absentee ballots for one election, for several elections, or for all elections during the calendar year in which the application is submitted. An absentee ballot must be received by the county election board before 7:00 pm on Election Day to be counted. If you prefer, you may vote absentee in person at the county election board office from 8am-6pm on the Thursday and Friday before all elections. If the election is a state or a federal election, in person absentee voting is available from 8am-2pm on the Saturday before the election. If you become incapacitated after 5:00 pm on the third Monday (15 days) before an election, you may receive an absentee ballot through special emergency procedures. You must make a written request to the county election board. The request must be accompanied by a statement from a doctor saying you are incapacitated and will be unable to vote in person on Election Day. Your request and the doctor's statement must be taken to the county election board office by the person you choose. This person becomes your agent. The county election board can provide a form to be used for both your request and the doctor's statement. The agent will receive your ballot and will deliver it to you. After you mark the ballot, the agent must return it to the county election board office before 7:00 pm on Election Day. Overseas citizens and U.S. military personnel can find information on how to register to vote and request an absentee ballot at the Overseas Vote Foundation . Request your Ballot",
+            "s": "https://www.vote411.org/oklahoma",
+            "t": "2024-11-19T01:52:24.731275"
+        },
+        {
+            "q": "What should I do if there's an issue with my absentee or provisional ballot before the election deadline?",
+            "a": "Oklahoma does not have a ballot curing process for absentee/mail ballots or provisional ballots. If your ballot is rejected, you will not be able to fix the issues. Your ballot simply will not be counted. We recommend tracking the status of your ballot using your states online tool.",
+            "s": "https://www.vote411.org/oklahoma",
+            "t": "2024-11-19T01:52:24.733340"
+        },
+        {
+            "q": "Where can I find information on campaign contributions for candidates and ballot measures?",
+            "a": "For information on federal campaign contributions, please visit Open Secrets . For information on state campaign contributions, please visit your state's resource.",
+            "s": "https://www.vote411.org/oklahoma",
+            "t": "2024-11-19T01:52:24.733981"
+        },
+        {
+            "q": "Where can I access comprehensive details about candidates and ballot measures in the election?",
+            "a": "Information on local, state and federal candidates and ballot measures may be available here .",
+            "s": "https://www.vote411.org/oklahoma",
+            "t": "2024-11-19T01:52:24.734606"
+        },
+        {
+            "q": "What are the options and deadlines for submitting my ballot using drop boxes?",
+            "a": "No drop boxes are available. In most cases, voters return their voted absentee ballots to the county election board by U.S. mail or by a private mail service that has delivery documentation. Voters who requested a \"standard\" absentee ballot (Yellow Affidavit), which is the most common type of absentee ballot, may hand-deliver their own absentee ballot in-person to the county election board during regular business hours. Voters must deliver their own absentee ballot Proof of Identity is required when the voter drops off their ballot AND the ballot must be notarized. Standard absentee ballots that are hand delivered to the County Election Board may be delivered during regular business hours and MUST be received no later than the day before the election .",
+            "s": "https://www.vote411.org/oklahoma",
+            "t": "2024-11-19T01:52:24.735261"
+        },
+        {
+            "q": "When does early voting start and end, and how can I participate in early voting?",
+            "a": "In-person absentee voting (no-excuse early voting) will be available at your designated early voting location on the Thursday and Friday before Election Day from 8am to 6pm. Suppose it is a state or federal Primary Election, Runoff Primary Election, General Election, or Presidential Preferential Primary Election. In that case, in-person absentee voting will also be available on the Saturday (9am to 2pm) before the election. Note: Early voting is also available from 8 am to 6 pm the Wednesday before the General Election. For more information, please visit your state's resource .",
+            "s": "https://www.vote411.org/oklahoma",
+            "t": "2024-11-19T01:52:24.735940"
+        },
+        {
+            "q": "How can I find out the important dates for upcoming elections?",
+            "a": "The next election date can be found here https://www.vote411.org/oklahoma . Contact your local Board of Elections for more information.",
+            "s": "https://www.vote411.org/oklahoma",
+            "t": "2024-11-19T01:52:24.736523"
+        },
+        {
+            "q": "What are the eligibility criteria to vote in an election?",
+            "a": "To be eligible to vote you must be: At least 18 years old A U.S. citizen A resident of Oklahoma Not convicted of a felony, or if you have been convicted, a period of time equal to the original judgment and sentence has expired* Not adjudged to be an incapacitated person prohibited from voting You pay preregister to vote if you are at least 17 and a half years old, however, you cannot vote in an election until after your 18th birthday. Incarcerated Voters & Returning Citizens: In Oklahoma, you lose the right to vote when you are convicted of a felony. You can't vote while incarcerated, on probation, or on parole. Your right to vote is automatically restored once you complete your full sentence. Pretrial detention and misdemeanors do not restrict your voting rights. Voters without traditional residence: If you do not have a street address or 911 address, you may write directions to your place of residence or provide the legal description (section, township, range) of the location of your home. You must provide a mailing address if you do not receive mail at your residential address. The mailing address on their registration form can be a P.O. box, local shelter, advocacy organization, outreach center, or the home of someone who will accept mail for you. For more information, please visit your state's resource.",
+            "s": "https://www.vote411.org/oklahoma",
+            "t": "2024-11-19T01:52:24.737248"
+        },
+        {
+            "q": "What forms of identification are required to register to vote, and how can I prove my citizenship?",
+            "a": "When you register to vote you will need to provide your identification with your application . You can enter your state driver's license number or the last four digits of your Social Security number on the form. You must sign and date the oath printed on the form. When you sign the voter registration application you swear you are eligible to vote.",
+            "s": "https://www.vote411.org/oklahoma",
+            "t": "2024-11-19T01:52:24.738358"
+        },
+        {
+            "q": "What types of identification are acceptable at polling places for voting?",
+            "a": "You must show ID in order to vote. The type of ID you show must have the following information, and must be issued by the US Government, the State of Oklahoma or a federally recognized tribal government: Your name (it must match your name on the poll book) Your photo An expiration date that is after the date of the election, unless the identification is valid indefinitely Examples include: An Oklahoma driver's license State identification card A U.S. passport Military identification A voter identification card received by mail from the County Election Board when you registered to vote. The law allows use of the voter identification card even though it does not include a photograph or an expiration date. If you do not have proof of identity, you may only vote by provisional ballot. Voters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/oklahoma",
+            "t": "2024-11-19T01:52:24.739211"
+        },
+        {
+            "q": "When and where will the official election results be available, and how can I track them?",
+            "a": "Official results are never available on Election Day. Election officials are working around the clock to count an unprecedented number of ballots, and its essential that they take the time to make sure every vote is counted. Absentee ballots begin being counted on Election Day. Provisional ballots are counted after 5pm the the Friday after the election. Official election results will be uploaded on Oklahomas State Election Board website , on the Tuesday after Election Day. Official Results",
+            "s": "https://www.vote411.org/oklahoma",
+            "t": "2024-11-19T01:52:24.739952"
+        },
+        {
+            "q": "How can military personnel and overseas citizens register and vote in elections?",
+            "a": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize your state's online tool. Voters that are currently registered to vote may use the Oklahoma State Election Boards OK Voter Portal to request an absentee ballot.",
+            "s": "https://www.vote411.org/oklahoma",
+            "t": "2024-11-19T01:52:24.740578"
+        },
+        {
+            "q": "What are the requirements and steps to become a poll worker for an election?",
+            "a": "You can make sure we have safe, fair, and efficient elections for all. Become a poll worker toda y! In order to be a poll worker in Oklahoma, you must: Be registered to vote in Oklahoma Be at least 18 years of age Be a resident of the county for the 25 days prior to the election Complete required training every two years Political affiliation required. You will be entitled to compensation. To sign up, contact your local board of elections .",
+            "s": "https://www.vote411.org/oklahoma",
+            "t": "2024-11-19T01:52:24.741167"
+        },
+        {
+            "q": "What are the operating hours of polling places on Election Day?",
+            "a": "Polls will be open from 7am - 7pm.",
+            "s": "https://www.vote411.org/oklahoma",
+            "t": "2024-11-19T01:52:24.741610"
+        },
+        {
+            "q": "How can I find the exact location of my designated polling place?",
+            "a": "You can find your polling place by utilizing your state resource.",
+            "s": "https://www.vote411.org/oklahoma",
+            "t": "2024-11-19T01:52:24.741991"
+        },
+        {
+            "q": "How does the primary election process work for affiliated and unaffiliated voters?",
+            "a": "Oklahoma is a partially closed primary state. Each party has the ability to choose whether to allow unaffiliated voters or voters not registered with their party to participate in their primary. This decision is made in November of each odd-numbered year. As of 2021, the Democratic party has allowed independents to vote in their primaries, but independents are not allowed to vote in Republican or Libertarian parties. In a primary election if a candidate does not with the majority of the votes (50%+1) there will be a primary runoff election scheduled for a few weeks after the primary election date. The runoff election will have the top two candidates with the most votes to ensure that one of them receives the majority of the voters. If you have any questions about your states primary election, please contact your local election officials .",
+            "s": "https://www.vote411.org/oklahoma",
+            "t": "2024-11-19T01:52:24.743039"
+        },
+        {
+            "q": "Under what circumstances will I need to cast a provisional ballot, and how is it processed?",
+            "a": "If you do not show proof of identity, you may vote by provisional ballot. You must fill out and sign an affidavit that explains why the provisional ballot should be counted. After election day, County Election Board officials will investigate the information provided and will either approve the provisional ballot or will reject it. In order for the provisional ballot to be approved, the information on the affidavit must match the information in your voter registration record. Provisional ballots are counted after 5pm the Friday after Election Day.",
+            "s": "https://www.vote411.org/oklahoma",
+            "t": "2024-11-19T01:52:24.744008"
+        },
+        {
+            "q": "What accessible voting options are available for voters with disabilities?",
+            "a": "If you have a disability you may ask for assistance from poll workers at your polling place. If you cannot enter the polling place because of physical disabilities, need help marking your ballot because of physical disabilities, have visual disabilities, or cannot read, you may be assisted by a person of your own choosing. In all these cases, the person who provides assistance to you must swear or affirm that your ballots will be marked in accordance with your wishes. If you are unable to vote inside the polling place, two precint officials will help you to vote outside the polling place. In Oklahoma, every polling place is equipped with a voting device that has ATI capabilities. In other words, voters with disabilities may cast their ballot privately and independently using an audio ballot. NOTE: A new law goes into effect in 2023 that will allow visually impaired voters the opportunity to request the electronic delivery of an absentee ballot. For more information, you can utilize your state's resource and the American Association of People With Disabilities (AAPD) resource.",
+            "s": "https://www.vote411.org/oklahoma",
+            "t": "2024-11-19T01:52:24.744931"
+        },
+        {
+            "q": "What is the voter registration deadline for the upcoming election, and how can I register online?",
+            "a": "You can now access your voter registration application or update your voter registration address or party affiliation online . Note: You must print, sign, and submit the new voter application to your County Election Board to complete the process. You may submit your voter registration application form at any time, however, voter identification cards cannot be issued during the 24 days prior to an election. The voter registration deadline is 25 days prior to the date of an election. A valid application must be postmarked or delivered to either a motor license agency or designated voter registration agency more than 24 days prior to an election in order for you to participate in the election.",
+            "s": "https://www.vote411.org/oklahoma",
+            "t": "2024-11-19T01:52:24.745612"
+        },
+        {
+            "q": "What are my rights regarding time off work to vote in elections?",
+            "a": "In Oklahoma, employers must allow employees who are registered to vote two hours to vote either on Election Day or during early voting ; however, there are several provisions. An employee must work at such a distance that extended time off would be necessary to vote. The request must be made at least three days before the day the voter intends to be absent. The employer may select the day(s) and/or hour(s) the employee may use to vote. Time off will not be granted to employees if a three-hour voting period exists before or after the employee's regular working hours. Employers may alter an employee's work schedule to accommodate voting hours. Upon proof of voting, an employee will not be subject to any loss of compensation or other penalties for such absence. For more information, please visit your state's resource .",
+            "s": "https://www.vote411.org/oklahoma",
+            "t": "2024-11-19T01:52:24.746379"
+        },
+        {
+            "q": "How can I verify my voter registration status and address any issues?",
+            "a": "To verify your voter registration status click here!",
+            "s": "https://www.vote411.org/oklahoma",
+            "t": "2024-11-19T01:52:24.747015"
+        },
+        {
+            "q": "What types of voting machines are used at polling places, and how do they operate?",
+            "a": "The voting system used in Oklahoma is optical scan. The state has a uniform election system and all voting devices are owned and maintained by the State Election Board. For more information, please visit your state's resource.",
+            "s": "https://www.vote411.org/oklahoma",
+            "t": "2024-11-19T01:52:24.747405"
+        }
+    ]
+}

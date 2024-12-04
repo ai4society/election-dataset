@@ -1,0 +1,140 @@
+{
+    "state": "AR",
+    "num_questions": 22,
+    "num_answers": 22,
+    "contributor": "Aishneet Juneja",
+    "questions": [
+        {
+            "q": "How Do I Register to Vote?",
+            "a": "You must fill out a paper Voter Registration Application.",
+            "s": "https://www.sos.arkansas.gov/elections/voter-information/voter-registration-information/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "Where May I Obtain a Voter Registration Application?",
+            "a": "Your local county clerk. The Arkansas Secretary of State Elections Division: 1-800-482-1127. Local revenue or DMV office. Public library. Disability agency. Military recruitment office. Online Request Form: Request an application through the mail.",
+            "s": "https://www.sos.arkansas.gov/elections/voter-information/voter-registration-information/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "How Do I Know I\u2019m Registered?",
+            "a": "Once your local county clerk has processed your Voter Registration Application, he/she will send you a personalized voter registration card. This could take up to several weeks. Never assume you are registered to vote until you have received your voter registration card from the county clerk. Feel free to call your county clerk and inquire about the status of your application. You may also check your voter registration status online by visiting www.voterview.org",
+            "s": "https://www.sos.arkansas.gov/elections/voter-information/voter-registration-information/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What if I Own Property in Another County?",
+            "a": "You must register to vote wherever you actually \u201clive or reside.\u201d Owning property or a business in a county does not constitute residency there.",
+            "s": "https://www.sos.arkansas.gov/elections/voter-information/voter-registration-information/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "Is absentee voting available and what are the criteria I should meet?",
+            "a": "You can obtain an application for an absentee voting ballot from your county clerk who may mail or fax you an application, or you can fill out an absentee ballot request form here. The deadline to submit your absentee ballot is varies depending on how you return the application to the county clerk: The deadline to submit your ballot also depends on your method of delivery: Separate applications for absentee ballots are needed for every election.",
+            "s": "https://www.vote411.org/arkansas",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What ID is needed for Absentee Voting?",
+            "a": "If you are voting absentee, you must provide a copy of one of the following forms of ID: You do not need to provide ID when voting absentee if you are:",
+            "s": "https://www.vote411.org/arkansas",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "How can I vote in Person after Requesting an Absentee Ballot?",
+            "a": "Those who requested an absentee ballot but end up voting in person: A poll worker will provide you with a provisional ballot at your polling location if you do not bring your mailed absentee ballot with you, which will be counted after your county elections official has confirmed you are registered to vote and did not vote more than once in that election. Overseas citizens and U.S. military personnel can find information on how to register to vote and request an absentee ballot at the Overseas Vote Foundation.",
+            "s": "https://www.vote411.org/arkansas",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What is the eligibility to vote in Arkansas?",
+            "a": "To be eligible to vote you must be: A US citizen, An Arkansas resident, 18 before or on Election Day, Not presently adjudged mentally incompetent by a court of competent jurisdiction, Not convicted of a felony without your sentence having been discharged or pardoned",
+            "s": "https://www.vote411.org/arkansas",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "When are we not eligible to vote?",
+            "a": "In Arkansas, you are not eligible to vote if you are convicted of a felony. Your voting rights may be restored following the completion of your sentence, including prison term, probation, parole, and payment of any fines, fees, and restitution. You must submit paperwork to your County Clerk with proof that you have completed your sentence before you can register to vote. Pretrial detention and misdemeanors do not restrict your voting rights.",
+            "s": " https://www.vote411.org/arkansas",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What ID is needed for voting?",
+            "a": "You must show a photo ID in order to vote. The expiration date on the ID must not be more than 4 years before Election Day. Any photo ID is acceptable if it was issued by the United States, the State of Arkansas or an accredited post-secondary educational institution in Arkansas. If you are unable to verify your registration through a photo ID, you will be asked to vote a provisional ballot.",
+            "s": "https://www.vote411.org/arkansas",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "When are official election results released?",
+            "a": "Official results are never available on Election Day. Election officials are working around the clock to count an unprecedented number of ballots, and it\u2019s essential that they take the time to make sure every vote is counted. Absentee ballots begin being counted on Election Day. Provisional ballots are counted between 2-15 days after the election. For Presidential elections, local results will be certified no later than 8 days after Election Day.",
+            "s": " https://www.vote411.org/arkansas",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "How can military and overseas voters cast their ballots?",
+            "a": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation.",
+            "s": " https://www.vote411.org/arkansas",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What are the requirements to become a poll worker?",
+            "a": "In order to be a poll worker in Arkansas, you must: Be a qualified elector in Arkansas Be able to read and write English Be a resident of the precinct in which you serve Not have been found or plead guilty to the violation of any election law in Arkansas Not be a paid employee of any political party Not be a paid employee of any person running for any office on the county's ballot Not be a candidate for any office to be filled at an election while serving as a poll worker Not be related or married to any candidate running for office in the current election Complete the training",
+            "s": " https://www.vote411.org/arkansas",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "When is early voting available?",
+            "a": "Early voting dates depend on the type of election, ranging from 7-15 days before the election. Early voting will take place at the county clerk's office. Some counties have other early voting locations around the county. Preferential Primary and General Elections: Early voting begins 15 days before the election and is available from 8am - 6pm Monday to Friday, and 10am-4pm on Saturday. Early voting ends at 5pm on the Monday before the election. Hours may vary at the non-county clerk office locations, contact your county clerk for more information. All other elections (runoff, school, etc.): Early voting begins 7 days before the election, and is available during normal business hours at your county clerk's office.",
+            "s": " https://www.vote411.org/arkansas",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What are the voting hours at polling places?",
+            "a": "The polls will be open from 7:30 am to 7:30 pm.",
+            "s": "https://www.vote411.org/arkansas",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "How does the primary election process work?",
+            "a": "Arkansas is an \u201copen primary\u201d state. You can choose the party\u2019s ballot you wish to vote. This decision does not register you with that party and it is a private decision. In a primary election if a candidate does not with the majority of the votes (50%+1) there will be a primary runoff election scheduled for a few weeks after the primary election date. The runoff election will have the top two candidates with the most votes to ensure that one of them receives the majority of the voters.",
+            "s": "https://www.vote411.org/arkansas",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "When would I need to vote using a provisional ballot?",
+            "a": " There are several reason you may be asked to vote a provisional ballot, including: You name not on the registration list You are unable to provide acceptable photo ID (to verify your voter registration) You are not able to show acceptable ID for mail-in registrants when registering to vote The voter registration list shows you requested an absentee ballot or voted during early voting Your vote is challenged by a registered poll watcher (you must be informed of the challenge and the challenger must complete a Challenged Ballot Form) After you vote your provisional ballot, the poll worker will give you written instructions on how to determine whether the provisional vote was counted, and if not, why it was not counted. Provisional ballots are counted between 2-15 days after the election.",
+            "s": "https://www.vote411.org/arkansas",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What accommodations are available for voters with disabilities?",
+            "a": "If you are at the polling site and find that you are unable to stand in line for extended period of time due to physical, sensory or other disabilities, you can inform an election official and they will put you at the head of the line of any voters. If you are unable to mark your ballot, you may be assisted by two election officials or by any person selected by you, who will mark the ballot in accordance with your voting wishes. If you are unable to read the ballot, the election official have the entire ballot read to you, unless you instruct otherwise. The election official shall then assist you without comment or interpretation in marking the ballot. If you designate a person to assist, the election official shall allow that person to assist you, and the person designated shall read the entire ballot to you, unless you instruct otherwise, and then assist you without comment or interpretation in marking the ballot.",
+            "s": "https://www.vote411.org/arkansas",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What is the deadline to register to vote?",
+            "a": " The registration deadline is 30 days before the election. If you mail the registration application, it must be postmarked by that date. You may also give it to a voter registration agency representative or your county clerk, by that date. If you submit your application close to an election registration deadline, you are strongly advised to follow up on your registration status with your county clerk before Election Day. If an election deadline is approaching, you can ensure your eligibility by applying in person with your county clerk. If you have not received verification from your county clerk, be sure to confirm your registration before Election Day. You can register to vote at any of the following places: County clerk's office in your home county State revenue Office Driver services (pick up a paper form or ask for your information to be transmitted electronically) Public library or Arkansas state library Public assistance agency Disability agency Military recruitment office ",
+            "s": "https://www.vote411.org/arkansas",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What are the rules for taking time off work to vote?",
+            "a": "Employer shall schedule sufficient time on election days so that employees may vote. This time varies by location.",
+            "s": "https://www.vote411.org/arkansas",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What types of voting machines are used?",
+            "a": "The voting systems used in Arkansas are optical scan and DRE. Optical Scan: With this system, you will receive a card or sheet of paper, which you take over to a private table or booth. The card has the names of the various candidates and ballot measures printed on it. With a pen or pencil you fill in a little box or circle or the space between two arrows. When you are finished filling out all the cards, you may bring the cards over to a ballot box, where poll workers will show you how to put the cards in the box. Or in some places, you may feed the completed cards or papers into a computer device that checks your card or paper right there at the polling place to make sure you have voted the way you want to and counts the votes. Direct Recording Electronic (DRE): This is the newest kind of system in use in the U.S. All the information about who and what you are voting for is on an electronic screen like a TV or computer screen. There are many variations of DREs because lots of companies are inventing new ones, and many cities, counties and states are trying them out. Usually, after you have signed in, the poll workers will give you a card that you slide into a device to start your voting session.",
+            "s": "https://www.vote411.org/arkansas",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "Where are ballot drop boxes located?",
+            "a": "No drop boxes available. You can hand-deliver your ballot to the office of the county clerk.",
+            "s": "https://www.vote411.org/arkansas",
+            "t": "2024-10-31T00:00:00Z"
+        }
+    ]
+}

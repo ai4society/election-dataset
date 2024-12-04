@@ -1,0 +1,320 @@
+{
+    "state": "OH",
+    "num_questions": 52,
+    "num_answers": 52,
+    "contributor": "Gaurav Kumar",
+    "questions": [
+        {
+            "q": "How do I register to vote?",
+            "a": "You can register to vote online . You can also print out this voter registration form , fill it out, sign it, and then mail it to your county Board of Elections .",
+            "s": "https://www.ohiovoterrights.org/elections-faq",
+            "t": "2024-11-18T02:42:39.636056"
+        },
+        {
+            "q": "How do I check if I'm registered?",
+            "a": "Visit voteohio.gov to check your registration. If you find your name on the list, congratulations  youre on the rolls!",
+            "s": "https://www.ohiovoterrights.org/elections-faq",
+            "t": "2024-11-18T02:42:39.637199"
+        },
+        {
+            "q": "Im worried that I may have been purged. What should I do?",
+            "a": "If its been a while since you voted, you should check your registration here . If you do not see your name listed, re-register to vote . If you don't, you will be asked to vote a provisional ballot that will be reviewed for counting after Election Day.",
+            "s": "https://www.ohiovoterrights.org/elections-faq",
+            "t": "2024-11-18T02:42:39.637709"
+        },
+        {
+            "q": "What are the voter eligibility requirements?",
+            "a": "You are qualified to register to vote in Ohio if you meet all the following requirements: You are a citizen of the United States; You will be at least 18 years old on or before the day of the next general election. (If you will be 18 on or before the general election, you may vote in the primary election to nominate candidates, but you cannot vote on issues or party central committees until you are 18); You will be a resident of Ohio for at least 30 days immediately before the election in which you want to vote; You are not incarcerated (in prison or jail) for a felony conviction under the laws of this state, another state, or the United States; You have not been declared incompetent for voting purposes by a probate court; and You have not been permanently disenfranchised for violating the election laws. You are a citizen of the United States; You will be at least 18 years old on or before the day of the next general election. (If you will be 18 on or before the general election, you may vote in the primary election to nominate candidates, but you cannot vote on issues or party central committees until you are 18); You will be a resident of Ohio for at least 30 days immediately before the election in which you want to vote; You are not incarcerated (in prison or jail) for a felony conviction under the laws of this state, another state, or the United States; You have not been declared incompetent for voting purposes by a probate court; and You have not been permanently disenfranchised for violating the election laws. You are eligible to vote in elections held in your voting precinct 30 days after you are duly registered to vote in this state. You may request an absentee ballot during that 30 day period.",
+            "s": "https://www.ohiovoterrights.org/elections-faq",
+            "t": "2024-11-18T02:42:39.638802"
+        },
+        {
+            "q": "I moved from out of state. Is it too late to register to vote in Ohio?",
+            "a": "In order to vote in Ohio, you must first be registered in this state. The next voter registration deadline is October 7 to vote in the November 5 Presidential General Election.",
+            "s": "https://www.ohiovoterrights.org/elections-faq",
+            "t": "2024-11-18T02:42:39.639269"
+        },
+        {
+            "q": "I have moved since I last voted. What should I do?",
+            "a": "If you have moved within Ohio since you last voted, you must go to the polling place where you currently live. Find your polling place at gettothepolls.com . You will be asked to vote a provisional ballot that will be reviewed for counting after Election Day.",
+            "s": "https://www.ohiovoterrights.org/elections-faq",
+            "t": "2024-11-18T02:42:39.639690"
+        },
+        {
+            "q": "Is voting by mail safe?",
+            "a": "Voting by mail is safe and secure. In fact, you can track your ballot from the moment you request it until its received by your county board of elections. Once your ballot is received, it is securely stored until it is counted. If you would prefer not to put your absentee ballot in the mail, you can also return it to your county board of elections secure drop box.",
+            "s": "https://www.ohiovoterrights.org/elections-faq",
+            "t": "2024-11-18T02:42:39.640295"
+        },
+        {
+            "q": "Where can I find a drop box near me?",
+            "a": "Absentee ballots can be returned at your county board of elections (NOT at your neighborhood polling place). Find your drop box location here .  Remember to return your absentee ballot in the drop box by 7:30 pm on Election Day.",
+            "s": "https://www.ohiovoterrights.org/elections-faq",
+            "t": "2024-11-18T02:42:39.640734"
+        },
+        {
+            "q": "How much postage do I need to put on my ballot?",
+            "a": "Postage may vary according to the number of races on your local ballot. Check the instructions included with your ballot or contact your county board of elections to determine proper postage.",
+            "s": "https://www.ohiovoterrights.org/elections-faq",
+            "t": "2024-11-18T02:42:39.641093"
+        },
+        {
+            "q": "Whats the deadline for requesting and returning a ballot?",
+            "a": "In order to vote by mail, your Board of Elections must receive your absentee ballot request form by the Close of Business a week before Election Day (by 8:30pm on October 29) .  If you return your completed absentee ballot by hand, it must be dropped off at your county Board of Elections by 7:30pm on Election Day (November 5) . If you return your completed absentee ballot by mail, it must be postmarked the day before Election Day (November 4) and must arrive at your county Board of Elections by the 4th day after Election Day (November 9) .",
+            "s": "https://www.ohiovoterrights.org/elections-faq",
+            "t": "2024-11-18T02:42:39.641827"
+        },
+        {
+            "q": "I didn't receive my absentee ballot. What should I do?",
+            "a": "During early voting, you can go to your board of elections and tell them you changed your mind. You will be able to vote a regular ballot. If its not possible to early vote, you can go to your polling place on Election Day and vote a provisional ballot. Your provisional ballot will be counted after Election Day, once the Board of Elections verifies that you did not vote twice. Find your polling place at gettothepolls.com.",
+            "s": "https://www.ohiovoterrights.org/elections-faq",
+            "t": "2024-11-18T02:42:39.642448"
+        },
+        {
+            "q": "Can I vote by mail if I don't have a photo ID?",
+            "a": "Yes! Voting by mail will allow voters to provide a mailing address and the last 4 digits of their Social Security Number. You do not need a valid Ohio driver's license or state ID in order to vote by mail.",
+            "s": "https://www.ohiovoterrights.org/elections-faq",
+            "t": "2024-11-18T02:42:39.642857"
+        },
+        {
+            "q": "When can I vote early?",
+            "a": "Early in person voting is available in each county. Evening and weekend hours are also available. View the schedule of early voting hours here.",
+            "s": "https://www.ohiovoterrights.org/elections-faq",
+            "t": "2024-11-18T02:42:39.643336"
+        },
+        {
+            "q": "Where is my early voting center?",
+            "a": "Each county has only one location where early in person voting is permitted, typically the county board of elections. To find your countys early voting address, check here.",
+            "s": "https://www.ohiovoterrights.org/elections-faq",
+            "t": "2024-11-18T02:42:39.643644"
+        },
+        {
+            "q": "What ID do I need to bring?",
+            "a": "If you are voting early in person, you must provide your Ohio drivers license, state ID, US passport, or military ID. After HB 458, a valid photo ID is now required to vote early in person  you may no longer vote in person using the last 4 digits of your Social Security Number.",
+            "s": "https://www.ohiovoterrights.org/elections-faq",
+            "t": "2024-11-18T02:42:39.643995"
+        },
+        {
+            "q": "What if I can't vote in-person because I don't have a valid ID?",
+            "a": "If you don't have a valid photo ID, voting by mail is the best option for you. Voting by mail allows voters to provide a mailing address and the last 4 digits of their social in order to vote by mail.",
+            "s": "https://www.ohiovoterrights.org/elections-faq",
+            "t": "2024-11-18T02:42:39.644296"
+        },
+        {
+            "q": "How do I vote on Election Day?",
+            "a": "Election Day polling places are open from 6:30am  7:30pm . However, your polling place may have changed. Check your polling place before you vote.",
+            "s": "https://www.ohiovoterrights.org/elections-faq",
+            "t": "2024-11-18T02:42:39.644772"
+        },
+        {
+            "q": "I showed up at my polling place at 7:30pm. Can I still vote?",
+            "a": "If you are in line at your polling place by 7:30pm, stay in line  you have the right to vote! If you get in line by 7:30pm and any poll workers try to turn you away, call or text 866-OUR-VOTE so a trained volunteer can help you report and resolve it.",
+            "s": "https://www.ohiovoterrights.org/elections-faq",
+            "t": "2024-11-18T02:42:39.645104"
+        },
+        {
+            "q": "What Election Day ID do I need?",
+            "a": "All Election Day voters must bring acceptable identification to the polls in order to verify their identity. Valid IDs include: Ohio driver's license; State of Ohio ID card; Interim ID form issued by the Ohio BMV; A US passport; A US passport card; US military ID card; Ohio National Guard ID card; or US Department of Veterans Affairs ID card Ohio driver's license; State of Ohio ID card; Interim ID form issued by the Ohio BMV; A US passport; A US passport card; US military ID card; Ohio National Guard ID card; or US Department of Veterans Affairs ID card  An unexpired Ohio Driver License, State ID Card, or Interim Documentation with your former address IS an ACCEPTABLE form of ID when your current address is in the pollbook.",
+            "s": "https://www.ohiovoterrights.org/elections-faq",
+            "t": "2024-11-18T02:42:39.646278"
+        },
+        {
+            "q": "What ID do I need to vote in person (early or on Election Day)?",
+            "a": "Valid IDs include: Ohio driver's license; State of Ohio ID card; Interim ID form issued by the Ohio BMV; A US passport; A US passport card; US military ID card; Ohio National Guard ID card; or US Department of Veterans Affairs ID card Ohio driver's license; State of Ohio ID card; Interim ID form issued by the Ohio BMV; A US passport; A US passport card; US military ID card; Ohio National Guard ID card; or US Department of Veterans Affairs ID card An unexpired Ohio Driver License, State ID Card, or Interim Documentation with your former address IS an ACCEPTABLE form of ID when your current address is in the pollbook.",
+            "s": "https://www.ohiovoterrights.org/elections-faq",
+            "t": "2024-11-18T02:42:39.647771"
+        },
+        {
+            "q": "What forms of ID are no longer acceptable?",
+            "a": "You may no longer use : Utility or cell phone bill Bank statement Paycheck Government check Government document from Social Security or Ohio Jobs and Family Services Utility or cell phone bill Bank statement Paycheck Government check Government document from Social Security or Ohio Jobs and Family Services A student ID and county military ID also will not count .",
+            "s": "https://www.ohiovoterrights.org/elections-faq",
+            "t": "2024-11-18T02:42:39.648955"
+        },
+        {
+            "q": "How do I get a free state ID?",
+            "a": "The BMV will issue State of Ohio ID Cards for FREE to anyone 17 and older who does not have a drivers license. VoteRiders , a non-partisan, non-profit will help anyone get a free ID .",
+            "s": "https://www.ohiovoterrights.org/elections-faq",
+            "t": "2024-11-18T02:42:39.649398"
+        },
+        {
+            "q": "I'm an out of state student. How should I vote?",
+            "a": "Out of state students who get a free state ID will have their home state license revoked. Assuming you are registered to vote in Ohio, you can vote by mail with the last four digits of their Social Security Number or in person with a US passport or military ID.",
+            "s": "https://www.ohiovoterrights.org/elections-faq",
+            "t": "2024-11-18T02:42:39.650126"
+        },
+        {
+            "q": "I want to be ready to vote when my ballot arrives! How can I see whats going to be on my ballot?",
+            "a": "You can see your ballot here: https://www.ohiosos.gov/elections/voters/toolkit/sample-ballot/",
+            "s": "https://www.ohiovoterrights.org/elections-faq",
+            "t": "2024-11-18T02:42:39.650496"
+        },
+        {
+            "q": "I have a physical disability and cannot enter my polling location. Can I still vote in person?",
+            "a": "Voters with a disability who are physically unable to enter a polling place must be permitted to vote. Election officials cannot challenge the voters on their condition. Voters get to vote in their car or at the door of the polling place with the assistance of a bipartisan team of election officials.",
+            "s": "https://www.ohiovoterrights.org/elections-faq",
+            "t": "2024-11-18T02:42:39.650879"
+        },
+        {
+            "q": "Can I vote if I have been convicted of a crime?",
+            "a": "If you have been convicted of a misdemeanor, y ou have the right to vote , even if you are incarcerated.  If you have been arrested for a felony but have not been convicted, you still have the right to vote .  If you are on parole or probation, live in a halfway house, or are on house arrest, you have the right to vote.  Once you are out of jail or prison for a felony conviction, you must re-register to vote , even if you were previously registered.  The only time you may not vote is if you are currently incarcerated on a felony conviction. But, you re-gain the right to vote once you are released. Just re-register at voteohio.gov .",
+            "s": "https://www.ohiovoterrights.org/elections-faq",
+            "t": "2024-11-18T02:42:39.651649"
+        },
+        {
+            "q": "I have a voting question. Is there someone who can help me with my question or problem voting?",
+            "a": "Yes! Call the non-partisan hotline 866-OUR-VOTE if you have questions or problems voting. Visit 866ourvote.org to learn more about Election Protection resources that help ensure your vote counts.",
+            "s": "https://www.ohiovoterrights.org/elections-faq",
+            "t": "2024-11-18T02:42:39.652106"
+        },
+        {
+            "q": "How can I get a ride to the polls?",
+            "a": "There are various available resources for you to get a free ride to the polls, including RideShare2Vote and other city-specific resources.",
+            "s": "https://www.ohiovoterrights.org/elections-faq",
+            "t": "2024-11-18T02:42:39.652439"
+        },
+        {
+            "q": "I'm a Safe at Home participant. How can I register to vote?",
+            "a": "Safe at Home program participants may register to vote with a confidential voter registration record. The registration information of a program participant with a confidential voter registration record will not be accessible to the public. Learn more about Safe at Home.",
+            "s": "https://www.ohiovoterrights.org/elections-faq",
+            "t": "2024-11-18T02:42:39.652746"
+        },
+        {
+            "q": "English isn't my first language. Can I still get help with voting questions?",
+            "a": "In addition to the 866-OUR-VOTE hotline, Election Protection also has three language hotlines:  Spanish: 888-VE-Y-VOTA (888-839-8682)  Asian Languages (Mandarin, Cantonese, Vietnamese, Korean, Tagalog, Urdu, Hindi, Bengali): 888-API-VOTE (888-274-8683)  Arabic: 844-YALLA-US or 844-925-5287",
+            "s": "https://www.ohiovoterrights.org/elections-faq",
+            "t": "2024-11-18T02:42:39.653314"
+        },
+        {
+            "q": "How can I request and return an absentee ballot for an upcoming general election?",
+            "a": "2024 General Election: Important Return Dates In Ohio, absentee ballots must be postmarked by November 4th, to be counted. If you are returning your ballot in person, it must be submitted to your county board of elections office by 7:30 p.m. on Election Day, November 5th. Absentee voting in Ohio is available and no excuse is required. The last day to request an absentee ballot is 7 days before an election. Your marked absentee ballot must be postmarked by the day before Election Day and received no later than four days after the election in order to be counted. It can also be returned in person before the close of the polls on Election Day. WHO IS ELIGIBLE TO VOTE ABSENTEE? Any registered voter in Ohio. HOW DO I REQUEST AN ABSENTEE BALLOT? You can request an absentee ballot and return the completed form through mail or in person. You can request your absentee ballot for each election beginning on January 1st or 90 days before Election Day, whichever is earlier, but you must submit a separate absentee ballot application for each election in which you want to vote. To request your absentee ballot, you must use the Secretary of State's official absentee ballot application form. Previously, applications were accepted in any form as long as all the required information was included, but the law has since changed. WHAT IS THE DEADLINE TO REQUEST AN ABSENTEE BALLOT? The last day to request an absentee ballot is 7 days before the election. WHAT IS THE DEADLINE FOR SUBMITTING AN ABSENTEE BALLOT? Absentee ballots must be received before the close of the polls on Election Day, or postmarked by the day before an election and received no later than four days after the close of the polls. WHEN DOES ABSENTEE VOTING START? Absentee voting begins 29 days before an election. Once absentee ballots are available for voting, you may either vote in person at your county board of elections office or receive and return the absentee ballot via US mail or overnight delivery services, such as FedEx or UPS. HOW DO I GET MY ABSENTEE BALLOT AFTER I HAVE APPLIED? When absentee voting begins, you can receive your absentee ballot either by mail or in person. By mail: You must mail your completed absentee ballot application with your original signature to your county board of elections. The board must receive your application 7 days before the election, but you should submit your request as far in advance of the election as possible to ensure you receive your absentee ballot before the election. For more information, please contact the Ohio Secretary of States office . CAN I TRACK MY MAILED ABSENTEE BALLOT? You can sign up to track your absentee ballot through the Ohio Secretary of States website. WHAT IF I REQUESTED AN ABSENTEE BALLOT BUT WANT TO VOTE IN PERSON? If you requested an absentee ballot, you can still vote in person. If you would like to vote at the county Early Vote Center you can during the Early Voting period and you can vote a regular ballot. If you would like to vote on Election Day you can, but you will have to vote a provisional ballot . You will be asked for your absentee ballot during Early Voting, but if you do not have it with you, you can still vote on a regular ballot. HOW CAN I APPLY FOR AN ABSENTEE BALLOT IF I AM HOSPITALIZED ON ELECTION DAY? If you are hospitalized on Election Day, regardless of where you are hospitalized, you must submit a properly completed and signed request to the board of elections of the county where your voting residence is located by 3:00 p.m. on Election Day. To be eligible under this provision, you must be confined in a hospital because of an unforeseeable medical emergency, and your application must specify where, when, and why you came to be hospitalized. You may include in your absentee ballot application a request that your county board of elections give your unmarked ballot to a designated relative. A relative includes: your spouse, father, mother, father-in-law, mother-in-law, grandfather, grandmother, brother, sister, son, daughter, adopted parent, adopted child, stepparent, stepchild, uncle, aunt, nephew or niece. Your relative would then deliver the ballot to you in the hospital and return it to the board office after you have voted it. If you are hospitalized in the same county where you are registered to vote, two representatives of the board of elections can deliver the ballot to you and return it to the board office. HOW DO I REQUEST AN ABSENTEE BALLOT AS AN OVERSEAS OR US MILITARY VOTER? Overseas citizens and US military personnel can find information on how to register to vote and request an absentee ballot at the Overseas Vote Foundation. Request your Ballot",
+            "s": "https://www.vote411.org/ohio",
+            "t": "2024-11-19T01:49:06.225475"
+        },
+        {
+            "q": "What should I do if there's an issue with my absentee or provisional ballot before the election deadline?",
+            "a": "The deadline to cure (correct) your absentee/mail ballot is November 9, 2024. If an error is found with your ballot, an election official will notify you of the issue by mail. The notice will include the necessary information and instructions to make the correction. You can track your absentee ballot using your countys online tool . If you voted a provisional ballot, you have until November 9, 2024, to present evidence to support your eligibility to vote.",
+            "s": "https://www.vote411.org/ohio",
+            "t": "2024-11-19T01:49:06.228420"
+        },
+        {
+            "q": "Where can I find information on campaign contributions for candidates and ballot measures?",
+            "a": "For information on federal campaign contributions, please visit Open Secrets . For information on state campaign contributions, please visit your state's resource.",
+            "s": "https://www.vote411.org/ohio",
+            "t": "2024-11-19T01:49:06.229073"
+        },
+        {
+            "q": "Where can I access comprehensive details about candidates and ballot measures in the election?",
+            "a": "Information on local, state and federal candidates and ballot measures may be available here .",
+            "s": "https://www.vote411.org/ohio",
+            "t": "2024-11-19T01:49:06.229605"
+        },
+        {
+            "q": "What are the options and deadlines for submitting my ballot using drop boxes?",
+            "a": "Each county in Ohio has one drop box that allows voters to return their Absentee Ballot Requests and Absentee Ballots at their Board of Elections in person. Absentee Ballots must be dropped off at your Board of Elections no later than 7:30 pm on Election Day. Click here to find the address of your Board of Elections. You can track the status of your ballot request as well as your voted absentee ballot through the Voter Toolkit . Note : Only the voter can use outdoor drop boxes to return their voted absentee ballot. If a family member or someone assisting a voter with a disability needs to return it, they must bring it inside the election office and sign a form stating theyre allowed to under Ohio law.",
+            "s": "https://www.vote411.org/ohio",
+            "t": "2024-11-19T01:49:06.230160"
+        },
+        {
+            "q": "When does early voting start and end, and how can I participate in early voting?",
+            "a": "Early (in-person absentee ballot) voting starts 28 days before the election. All registered voters may request and vote an absentee ballot in person at their county board of elections or voting center as designated by the county. Note: Beginning in 2023, early voting will no longer be available on the Monday before Election Day. To find the early voting hours in your county, please click here. For specific information on times and locations, contact your board of elections .",
+            "s": "https://www.vote411.org/ohio",
+            "t": "2024-11-19T01:49:06.230800"
+        },
+        {
+            "q": "How can I find out the important dates for upcoming elections?",
+            "a": "The next election date is November 5, 2024. Register to vote, or verify your registration status by October 17, 2024.",
+            "s": "https://www.vote411.org/ohio",
+            "t": "2024-11-19T01:49:06.231311"
+        },
+        {
+            "q": "What are the eligibility criteria to vote in an election?",
+            "a": "To be eligible to vote you must be: A citizen of the United States At least 18 years old on or before the day of the general election A resident of Ohio for at least 30 days immediately before the election Not be incarcerated (in prison) for a felony conviction under the laws of the United States, this state or any other state of the United States Not been declared incompetent for voting purposes by a probate court You haven't been permanently disenfranchised for violating the election laws Incarcerated Voters & Returning Citizens: In Ohio, you only lose your right to vote if you are currently incarcerated for a felony conviction. If you lost your voting rights because of a conviction, you could register to vote immediately after release. Your voting rights are not restricted by pretrial detention, misdemeanors, probation, or parole. Voters without traditional residence: Voters who do not have a fixed place of residence but are consistent or regular inhabitants of a shelter or other location may use that shelter or other location as their residence for purposes of registering to vote. They will have to vote in the precinct closest to where they receive mail. So, if the individual registers and receives mail at the shelter, they need to vote at the precinct near the shelter.",
+            "s": "https://www.vote411.org/ohio",
+            "t": "2024-11-19T01:49:06.231994"
+        },
+        {
+            "q": "What forms of identification are required to register to vote, and how can I prove my citizenship?",
+            "a": "You may register to vote online, in person or by mail. Online To register online you will need to provide the following: Ohio drivers license or Ohio identification card number Name Date of Birth Address Last four digits of your Social Security number If you do not have any portion of the required information, follow this link to update your voting address using our paper form (PDF). Once you complete this form, you must sign and send it to your county board of elections . If you are a Safe at Home participant, before you proceed, please follow this link to contact the Safe at Home office .",
+            "s": "https://www.vote411.org/ohio",
+            "t": "2024-11-19T01:49:06.233118"
+        },
+        {
+            "q": "What types of identification are acceptable at polling places for voting?",
+            "a": "You must provide proof of ID to vote. The forms of identification that may be used include: An unexpired Ohio drivers license or state identification card with a present or former address so long as your present residential address is printed in the official list of registered voters for that precinct; U.S. military IDs, including Ohio National Guard A photo identification that was issued by the United States government or the State of Ohio that contains your name and current address and that has an expiration date that has not passed; BMV issued Ohio license or ID card (old address acceptable) U.S. Military, U.S. Dept of Veterans Affairs, or Ohio National Guard card, U.S. Passport Book/Card Note: State University IDs are not a valid form of photo ID to vote Probationary and restricted driver's licenses are permitted Note: You can no longer substitute a valid photo ID with a utility bill, bank statement, government check, paycheck, or other government document containing your name and address. If you do not have a valid photo ID at the polls, you may vote a provisional ballot. For that ballot to be counted, you must present a photo ID at the office of the Board of Elections no later than the fourth day after Election Day. Individual exceptions to the Voter ID rules may be made for religious reasons. Voters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/ohio",
+            "t": "2024-11-19T01:49:06.233961"
+        },
+        {
+            "q": "When and where will the official election results be available, and how can I track them?",
+            "a": "Official results are never available on Election Day. Election officials are working around the clock to count an unprecedented number of ballots, and its essential that they take the time to make sure every vote is counted. The cure period for absentee ballots and provisional ballots is four days. After election night, no more results will be released until final certification. Official election results will be uploaded on Ohios Secretary of State website as they become available. Official Results",
+            "s": "https://www.vote411.org/ohio",
+            "t": "2024-11-19T01:49:06.234758"
+        },
+        {
+            "q": "How can military personnel and overseas citizens register and vote in elections?",
+            "a": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation. If you have additional questions about elections and voting overseas you can use our state specific elections official directory or contact the Overseas Vote Foundation.",
+            "s": "https://www.vote411.org/ohio",
+            "t": "2024-11-19T01:49:06.235534"
+        },
+        {
+            "q": "What are the requirements and steps to become a poll worker for an election?",
+            "a": "You can make sure we have safe, fair, and efficient elections for all. Become a poll worker toda y! In order to be a poll worker in Ohio, you must: Be registered to vote in the county in which you plan to work Be at least 18 years of age Be a resident of the county and state for the 30 days prior to the election Complete required training Not have been convicted of a felony Cannot be running as a candidate for the election in which you are working Students 17 years old must be a country resident and enrolled in senior year of high school to be appointed You will be entitled to compensation To sign up, contact your local board of elections .",
+            "s": "https://www.vote411.org/ohio",
+            "t": "2024-11-19T01:49:06.236221"
+        },
+        {
+            "q": "What are the operating hours of polling places on Election Day?",
+            "a": "The polls will be open from 6:30 am - 7:30 pm.",
+            "s": "https://www.vote411.org/ohio",
+            "t": "2024-11-19T01:49:06.236764"
+        },
+        {
+            "q": "How can I find the exact location of my designated polling place?",
+            "a": "You can find your polling place by utilizing your state resource. If you have further questions on your polling place location, please contact your county clerk.",
+            "s": "https://www.vote411.org/ohio",
+            "t": "2024-11-19T01:49:06.237187"
+        },
+        {
+            "q": "How does the primary election process work for affiliated and unaffiliated voters?",
+            "a": "Ohio is a partially open primary state. This allows voters to vote in another parties primary. You are asked to choose your party when you register to vote, however, you are able to publicly change your party affiliation in order to vote in your selected parties primary election. If you have any questions about your states primary election, please contact your local election officials .",
+            "s": "https://www.vote411.org/ohio",
+            "t": "2024-11-19T01:49:06.237718"
+        },
+        {
+            "q": "Under what circumstances will I need to cast a provisional ballot, and how is it processed?",
+            "a": "A provisional ballot is used to record a vote if the voter's eligibility is in question and the voter would otherwise not be allowed to vote. There are several scenarios where a voter may cast a provisional ballot: Your name does not appear on the official poll list for the precinct or an election official asserts that you are not eligible to vote or is unable to determine your eligibility You are unable or decline to provide the required proof of identity Your name appears on the official poll list for that precinct as having already requested an absentee ballot Your name is marked on the poll list or signature book with a notation that certain registration mailings have been returned as undeliverable. A hearing on a challenge to your eligibility as an elector has been postponed until after Election Day. In the opinion of the precinct officers, your signature does not match the signature on your registration form. Your eligibility to cast a ballot has been challenged by the precinct officials. Before your provisional ballot can be included in the official count of an election, the board of elections must confirm your eligibility to cast the ballot and the validity of the ballot you cast. If you cast a provisional ballot and provided acceptable proof of identity, you typically do not need to provide any additional information. However, if you cast a provisional ballot and did not provide acceptable proof of identity at the time of voting, you must appear in person at the Board of Elections no later than seven days following the election to provide such proof within the 4 days immediately following Election Day. Acceptable proof of identity includes: Current and valid photo ID A military identification The last four digits of your Social Security number Provisional ballots are counted until the 8th day after Election Day or until any hearing required under State Law with regard to the provisional voter is held, whichever is earlier. The counting of absentee ballots begins on the 5th day following an election.",
+            "s": "https://www.vote411.org/ohio",
+            "t": "2024-11-19T01:49:06.238591"
+        },
+        {
+            "q": "What accessible voting options are available for voters with disabilities?",
+            "a": "Ohio polling places should provide touch screen voting machines and have audio adaptations for assisting the blind. There are also adaptations for voters with lack of muscle control. If you have a disability you may also have assistance by two election officials (of different political parties) or by the person of your choice (except employer or union agent). Poll workers are urged to accommodate voters with disabilities in any way they can. If the polling place is not accessible for you, you may vote a ballot from your vehicle at all polling places. Additional Resources: Access the Vote has released new videos showcasing Florida's two most-used accessible voting machines and providing instructions on how to use them. Click here to watch . For more information, you can utilize the American Association of People With Disabilities (AAPD) resource or your state resource.",
+            "s": "https://www.vote411.org/ohio",
+            "t": "2024-11-19T01:49:06.239758"
+        },
+        {
+            "q": "What is the voter registration deadline for the upcoming election, and how can I register online?",
+            "a": "Online voter registration is available! The registration deadline is 30 days before the election. If you register or update your information after the deadline, the change will apply for the next election. To register online you will need to provide the following: Name Date of Birth Address Ohio drivers license or Ohio identification card number Last four digits of your Social Security number If you are missing any of the required information listed above, follow this link to update your voting address using the paper form (PDF). Once you complete this form, you must sign and send it to your county board of elections .",
+            "s": "https://www.vote411.org/ohio",
+            "t": "2024-11-19T01:49:06.240410"
+        },
+        {
+            "q": "What are my rights regarding time off work to vote in elections?",
+            "a": "Employers are prohibited from firing an employee who takes a reasonable amount of time to vote. Salaried employees should be eligible for paid time off to vote. Specifications of time vary by employer.",
+            "s": "https://www.vote411.org/ohio",
+            "t": "2024-11-19T01:49:06.240890"
+        },
+        {
+            "q": "How can I verify my voter registration status and address any issues?",
+            "a": "To verify your voter registration status click here!",
+            "s": "https://www.vote411.org/ohio",
+            "t": "2024-11-19T01:49:06.241425"
+        },
+        {
+            "q": "What types of voting machines are used at polling places, and how do they operate?",
+            "a": "The voting systems used in Ohio are optical scan and DRE. Optical Scan: With this system, you will receive a card or sheet of paper, which you take over to a private table or booth. The card has the names of the various candidates and ballot measures printed on it. With a pen or pencil you fill in a little box or circle or the space between two arrows. When you are finished filling out all the cards, you may bring the cards over to a ballot box, where poll workers will show you how to put the cards in the box. Or in some places, you may feed the completed cards or papers into a computer device that checks your card or paper right there at the polling place to make sure you have voted the way you want to and counts the votes. Direct Recording Electronic (DRE): This is the newest kind of system in use in the U.S. All the information about who and what you are voting for is on an electronic screen like a TV or computer screen. There are many variations of DREs because lots of companies are inventing new ones, and many cities, counties and states are trying them out. Usually, after you have signed in, the poll workers will give you a card that you slide into a device to start your voting session. Some of these devices will show all of the candidates and ballot choices on one big screen. Often, with these big screen devices you push a button next to the name of the candidate you want to vote for (or yes or no on a ballot measure). On other DREs, the screen is set up to show pages. On each screen or page, there will probably be one thing to vote on. For example, on one screen or page, you might vote for president. Then you might move to the next page to vote for senator. Often these small-screen devices have a touch screen, where you touch the screen next to the name of the person you want to vote for. Other devices have a key pad. And some have a keyboard, so you can write in the name of someone you want to vote for. You let the system know you are finished voting by pushing a button, touching the screen or entering something on a keypad. You can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource.",
+            "s": "https://www.vote411.org/ohio",
+            "t": "2024-11-19T01:49:06.241998"
+        }
+    ]
+}

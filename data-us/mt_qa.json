@@ -1,0 +1,308 @@
+{
+    "state": "MT",
+    "num_questions": 50,
+    "num_answers": 50,
+    "contributor": "Bharat",
+    "questions": [
+        {
+            "q": "How do I register to vote?",
+            "a": "Eligible Montanans may register to vote by completing a voter registration application and returning it to your county election administrator. For more information, visit our Registration page!",
+            "s": "https://sosmt.gov/elections/faq/",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "How do I update my voter registration information?",
+            "a": "To update your voter registration information, including a name change, address change, or signature update, complete a voter registration application and return it to your county election administrator. For more information, click here!",
+            "s": "https://sosmt.gov/elections/faq/",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "How do I cancel my voter registration?",
+            "a": "A voter may cancel their voter registration by submitting a written request for cancellation and the reason for cancellation to their county election administrator.",
+            "s": "https://sosmt.gov/elections/faq/",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "What are the deadlines for the close of regular registration for the federal primary and general elections?",
+            "a": "Regular registration closes 30 days before the election.",
+            "s": "https://sosmt.gov/elections/faq/",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "What is late registration?",
+            "a": "Late registration is the 30-day period before an election. Eligible voters may register to vote or update their registration during the late registration period. In order to vote in the election, a voter must obtain their ballot in person. For more information, contact yourÂ county election administrator.",
+            "s": "https://sosmt.gov/elections/faq/",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "How do I get a new voter confirmation card?",
+            "a": "Voters may request a new voter confirmation card by contacting their county election administrator.",
+            "s": "https://sosmt.gov/elections/faq/",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "What are the dates of the 2024 federal elections?",
+            "a": "The 2024 Â federal primary election was held on Tuesday, June 4th, 2024.The 2024 Â federal general election will be held onÂ Tuesday, November 5th, 2024.Visit the voter calendar for more information!",
+            "s": "https://sosmt.gov/elections/faq/",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "If I didn't vote in the Primary Election, can I vote in November's General Election?",
+            "a": "Yes.Not voting in the 2024 Primary Election does not disqualify an eligible elector from voting in the 2024 General Election.",
+            "s": "https://sosmt.gov/elections/faq/",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "Where can I find polling place information and/or satellite location information?",
+            "a": "Your county elections office will designate polling places and other voter-specific information, which is available by clicking here.",
+            "s": "https://sosmt.gov/elections/faq/",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "When can I expect my absentee ballot?",
+            "a": "Absentee ballots will be mailed to registered absentee voters on October 11th for the general election.You may track your ballot by clicking here.",
+            "s": "https://sosmt.gov/elections/faq/",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "What if I haven't received my absentee ballot?",
+            "a": "During the election, registered voters can track their absentee ballot online by clicking here.If you haven't received your absentee ballot, please contact your county elections office.",
+            "s": "https://sosmt.gov/elections/faq/",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "Where can I find a sample ballot?",
+            "a": "Sample ballots are available during the federal primary and general elections. For more information, please click here!",
+            "s": "https://sosmt.gov/elections/faq/",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "Where can I find information about school elections?",
+            "a": "Visit the Office of Public Instruction website at http://opi.mt.gov/Leadership/Finance-Grants/School-Finance/Elections.",
+            "s": "https://sosmt.gov/elections/faq/",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "What is the process for voting by mail?",
+            "a": "In Montana, absentee ballots must be received at your local election office or polling place by 8:00 p.m. on Election Day, November 5th, to be counted.Absentee voting (vote by mail) is available in Montana and no excuse is required. The deadline to request an absentee ballot is the day before the election by noon, and your marked ballot must be received before the polls close on Election Day to be counted.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "How can I fix issues with my mail-in ballot?",
+            "a": "The deadline to cure (correct) your absentee/mail ballot is by 8 p.m. on November 5, 2024. Election administrators will contact you via letter, phone, or email if any errors are found. The notice will include the necessary information and instructions to correct your ballot on time. You can also track your ballot through your stateâs online tool. If your ballot was rejected, you will likely need to submit a form called a \"Ballot Rejection Notice\" to your county elections office along with a copy of your ID by the deadline listed above. If you voted a provisional ballot, you have until 5 p.m. on the day after the election to provide valid identification or eligibility information either in person, email, or by mail, postmarked no later than November 6, 2024.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "Where can I find information about campaign finance?",
+            "a": "For information on federal campaign contributions, please visit Open Secrets.For information on state campaign contributions, please visit your state's resource.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "Where can I find information about candidates and ballot measures?",
+            "a": "Information on local, state and federal candidates and ballot measures may be available here.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "Where are ballot drop boxes located?",
+            "a": "You can hand-deliver your ballot to your county election office or drop it off at any polling location in your county on election day. You can find the location of your county election office here.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "When is early voting available?",
+            "a": "Early voting takes place in the form of in-person absentee voting that allows voter, as soon as absentee ballots are available, to receive, mark and submit an absentee ballot in person at the election office or by mail to the election office.However, ballots are not counted until election day. Early-in person absentee voting does not require a reason and starts as soon as ballots are available â by not later than 30 days before an election. For more information about times and locations please contact your local election officials.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "When are the upcoming election dates?",
+            "a": "The next election dates can be found here https://www.vote411.org/montana.Check your state's resource for more information on local election dates and information.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "What are the eligibility requirements to vote?",
+            "a": "To be eligible to vote you must be:RegisteredAt least 18 years old on or before Election DayA US citizenA resident of Montana and of the county in which you intend to vote for at least 30 days (you must provide an address to prove you live in the county)Not convicted of a felony, serving a sentence in a penal institutionNot judged in a court of law to be of unsound mindIncarcerated Voters & Returning Citizens:In Montana, you only lose your right to vote if you are currently incarcerated for a felony conviction. If you lost your voting rights because of a conviction, you could register to vote immediately after release. Pretrial detention, misdemeanors, probation, or parole do not restrict your voting rights.Voters without traditional residence:Citizens don't need a \"permanent home\" for voter registration. They can provide an alternative description of their residence, even if they are experiencing homelessness, as long as it enables the authorities to identify and assign them a voting precinct. This precinct assignment ensures that the voter receives the appropriate ballot. The mailing address on their registration form can be a PO box, local shelter, advocacy organization, outreach center, or the home of someone who will accept mail for them.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "What ID do I need to register to vote?",
+            "a": "When filling out the registration form, you must provide either a driver's license number, or the last four digits of your Social Security number. If you have neither a driver's license or Social Security number, provide (in-person) or enclose (by mail) a copy of another form of ID.Acceptable forms of ID include:Any photo ID with your nameA current utility billBank statementPaycheckGovernment checkOther government document that shows your name and current address",
+            "s": "https://www.vote411.org/montana",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "What forms of identification are accepted for voting?",
+            "a": "Before you receive your ballot, you must present a valid and current photo ID. acceptable forms of ID include one of the following:Valid driver's licenseMT State ID cardMilitary IDUS PassportMT Concealed Carry PermitA school district or postsecondary education photo IDTribal photo identification with your nameOR aNotice of confirmation of voter registrationCurrent utility billBank statementPaycheckGovernment checkGovernment document that shows your name and current address",
+            "s": "https://www.vote411.org/montana",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "When are official election results released?",
+            "a": "Official results are never available on Election Day. Election officials are working around the clock to count an unprecedented number of ballots, and its essential that they take the time to make sure every vote is counted.Absentee ballots begin being counted the day before Election Day. Provisional ballots are counted 6 days after the election.For Presidential elections, local results will be certified no later than 14 days after Election Day.Official election results will be uploaded on Montanas Secretary of State website, within 27 days after Election Day.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "How can military and overseas voters cast their ballots?",
+            "a": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation.If you have additional questions about elections and voting overseas you can use our state specific elections official directory or contact the Overseas Vote Foundation.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "What are the requirements to become a poll worker?",
+            "a": "You can make sure we have safe, fair, and efficient elections for all. Become a poll worker today!In order to be a poll worker in Montana, you must:Be registered to vote in MontanaBe at least 18 years of ageBe a resident of the precinctComplete required trainingTo sign up, contact your local board of elections.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "What are the voting hours at polling places?",
+            "a": "Poll hours of operation vary. Polling places open between 7:00 am and 12:00 pm and close at 8:00 pm. Contact your local elections official for exact times.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "Where can I find my Voter Service and Polling Center location?",
+            "a": "You can find your polling place by utilizing your state resource.If you have further questions on your polling place location, please contact your county clerk.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "How does the primary election process work?",
+            "a": "Montana is an open primary state. You can choose the partys ballot you wish to vote. This decision does not register you with that party and it is a private decision.If you have any questions about your states primary election, please contact your local election officials.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "When would I need to vote using a provisional ballot?",
+            "a": "You may vote a provisional ballot if you meet specific conditions.You will be asked to vote a provisional ballot for at least one of the following reasons:Your name is not in the precinct registerThe precinct register indications that you are provisionally registered, which has not been resolvedYou have claimed registration with Motor Vehicle Division or other agency, which could not be immediately confirmedYou swore that you were eligible to vote due to not receiving or destroying your absentee ballotYour right to vote was challenged at the pollsYour ID was insufficient and/or did not include a valid form of IDYou failed to sign the registerYou are a late registrant who voted provisionallyYou show up to the polls to vote, but the register says you have an active absentee ballotIf necessary, you must provide clear and convincing evidence either on Election Day or by 5pm the day after the election in order to verify your identity and/or eligibility to have your provisional ballot counted. You may provide this information in person, by fax, by email or by mail postmarked by the day after election day.Provisional Ballots are counted 6 days after the election.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "What accommodations are available for voters with disabilities?",
+            "a": "If you have a physical disability or are unable to read or write, you may ask an election judge to help you mark your ballot for you. With the permission of the election judge, a friend or relative can go into the voting booth with you and help you vote.Every polling place in Montana is required to have at least one specialized voting machine enabling people with disabilities to vote independently.If you would like to designate an agent to assist you with the voting process, contact your local elections office to ask for an application for the designation of an agent.If you cannot enter your polling place, an election judge will assist you with curbside voting.You may also apply for an electronic ballot that can be marked on your personal computer, printed and returned by mail or in person to the election office. Please check with your local elections office for more information.For more information, you can utilize the American Association of People With Disabilities (AAPD) resource or your states resource.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "What is the deadline to register to vote?",
+            "a": "Regular registration closes at 5pm, 30 days before Election Day. Your voter registration form must be postmarked or received by the Election Department at least 30 days before the election. Late registration begins 29 days before Election Day, during which you can register in-person at the county election office. Late registration ends at noon the day before the election.You can also register and vote on Election Day, although you may encounter long lines. All voters in line by 8pm on Election Day will be served.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "What are the rules for taking time off work to vote?",
+            "a": "Time off to vote is subject to the employer, there is no requirement for employers to grant time off to vote for employees.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "How can I verify my voter registration status?",
+            "a": "To verify your voter registration status",
+            "s": "https://www.vote411.org/montana",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "What are the requirements for voting by mail?",
+            "a": "Mail ballot elections do not involve the use of polling places since all qualified active and provisionally registered voters are mailed ballots on the same day without having to request them. Any municipal (city or town) election or district election (school, fire, water and sewer, etc.) can be conducted by mail ballot, if agreed to by the governing body.Other options for returning a mail ballot:You may still choose to vote in person in the election administrators office as soon as ballots are available. Or, you can make a signed written request that the ballot be mailed to an address other than the address that appears on your registration application if you will be away during a mail ballot election.You also have the option to drop your ballot off at the county election office or, at other places of deposit noted in your mail ballot materials.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "What types of voting machines are used?",
+            "a": "The voting systems used in Montana are optical scan and paper ballot.Optical Scan: With this system, you will receive a card or sheet of paper, which you take over to a private table or booth. The card has the names of the various candidates and ballot measures printed on it. With a pen or pencil you fill in a little box or circle or the space between two arrows. When you are finished filling out all the cards, you may bring the cards over to a ballot box, where poll workers will show you how to put the cards in the box. Or in some places, you may feed the completed cards or papers into a computer device that checks your card or paper right there at the polling place to make sure you have voted the way you want to and counts the votes.Paper Ballots: Paper ballots are one of the oldest ways of voting in America. They are still used in a few places on Election Day. When you come to the polling place, you will get a paper ballot from the poll worker. You take it to the voting booth, and use a pen or pencil to mark a box next to your candidate and issue choices. You then drop the marked ballot into a sealed ballot box.You can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "HOW CAN I CHECK MY REGISTRATION STATUS?",
+            "a": "You can verify your voter registration status using Montanas voter information tool.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "WHO IS ELIGIBLE TO REGISTER IN MONTANA?",
+            "a": "To register to vote in Montana, you must be:At least 18 years old on or before Election DayA U.S. citizenA resident of Montana and of the county in which you intend to vote for at least 30 days (you must provide an address to prove you live in the county)Not convicted of a felony, serving a sentence in a penal institutionNot judged in a court of law to be of unsound mind",
+            "s": "https://www.vote411.org/montana",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "HOW DO I UPDATE MY VOTER REGISTRATION?",
+            "a": "To update your voter registration information, including a name change, address change, or signature update, complete a voter registration application and return it to your county election office.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "WHAT ADDRESS SHOULD I REGISTER AT IF I DONT HAVE A RESIDENCE?",
+            "a": "It is not mandatory for you to have a \"permanent home\" for voter registration. You can provide an alternative description of your residence, even if you are experiencing homelessness, as long as it enables the authorities to identify and assign a voting precinct to you. The mailing address on your registration form can be a PO box, local shelter, advocacy organization, outreach center, or the home of someone who will accept mail for you.Register to Vote Button",
+            "s": "https://www.vote411.org/montana",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "WHAT IF I DONT HAVE A VALID ID?",
+            "a": "If you have difficulty obtaining a valid ID, please contact [email protected]. You may also contact your county election official about the provisional voting process.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "WHO IS ELIGIBLE TO VOTE ABSENTEE?",
+            "a": "In Montana, all registered voters are eligible to vote absentee.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT?",
+            "a": "You can download the form online, pick up an application at your local election office or the secretary of states office, or call either election office and ask to have an application mailed to you.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "WHAT IS THE DEADLINE TO REQUEST AN ABSENTEE BALLOT?",
+            "a": "The deadline to request an absentee ballot is the day before the election by noon. You can drop off your application in-person or mail it to the county election office with enough time before the election for processing and mailing the ballot to you.A physical signature is required on the absentee application. If you plan to send the application to your local election office electronically, you should complete & print the online application, sign, scan, and email it attached as a PDF.Once you have submitted your application, your absentee ballot will be mailed to you, or if closer to the election, given to you unless you indicate on the application that you have designated someone to pick it up for you",
+            "s": "https://www.vote411.org/montana",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "WHEN ARE ABSENTEE BALLOTS MAILED OUT TO VOTERS WHO HAVE REQUESTED THEM?",
+            "a": "Absentee ballots for federal and state elections are mailed to eligible voters starting 25 days before Election Day.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "HOW DO I COMPLETE MY ABSENTEE BALLOT?",
+            "a": "After marking your absentee ballot, return it in the envelope provided. Be sure to sign the affirmation on the return envelope before sending it back or dropping off. Carefully read the instructions included with the packet.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "HOW DO I RETURN MY ABSENTEE BALLOT IN PERSON?",
+            "a": "Once you have marked your ballot, you can return it to your county election office before the polls close on Election Day in the secrecy envelope provided.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "CAN I TRACK MY ABSENTEE BALLOT?",
+            "a": "You can track your absentee ballot on the Secretary of State website.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "WHAT IF I REQUESTED A BALLOT BY MAIL BUT WANT TO VOTE IN PERSON?",
+            "a": "Most counties allow you to vote in person even if you requested an absentee ballot as long as you don't submit your absentee ballot. Do not mail a ballot and vote in person. Please reach out to your local election office for more information.",
+            "s": "https://www.vote411.org/montana",
+            "t": "2024-11-18T17:46:58.540108"
+        },
+        {
+            "q": "HOW DO I REQUEST AN ABSENTEE BALLOT AS AN OVERSEAS OR U.S. MILITARY VOTER?",
+            "a": "Overseas citizens and U.S. military personnel can find information on how to register to vote and request a mail ballot from the Overseas Vote Foundation.Request Your Ballot Button",
+            "s": "https://www.vote411.org/montana",
+            "t": "2024-11-18T17:46:58.540108"
+        }
+    ]
+}

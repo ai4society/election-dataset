@@ -1,0 +1,338 @@
+{
+    "state": "AK",
+    "num_questions": 55,
+    "num_answers": 55,
+    "contributor": "Deja Scott",
+    "questions": [
+        {
+            "q": "Who Can Register, Who Can Vote?",
+            "a": "To Register A U.S. Citizen (see requirements below)  An Alaskan resident  18 years of age or will be 18 on election day.  Not be a convicted felon involving moral turpitude, unless your voting rights have been restored.  Not be registered to vote in another state unless you are willing to cancel your registration in that state.  To Vote A U.S. citizen  Age 18 or older.  A resident of the state and of the election district that you seek to vote in for at least 30 days before an election.  Registered to vote on or before the registration deadline; and not registered to vote in any other jurisdiction.  Alaska Residency Requirements For voting purposes, you are considered an Alaska resident if you reside in the state and intend to remain a resident or, if you temporarily leave the state, you have intention to return (Active military members, spouses, or dependents are exempt from the intent to return requirement).  U.S. Citizen Requirements It is a crime to register and vote if you are not a U.S. Citizen. Just because you received a Voter Registration Card, does not mean you are a U.S. Citizen. Naturalized U.S. citizens are eligible to register and vote but noncitizen U.S. nationals are not. ",
+            "s": "https://www.elections.alaska.gov/voter-information/",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Why did I receive a voter registration card if I am not a U.S. Citizen?",
+            "a": "When you fill out your PFD, you are automatically registered to vote.  If you are not a U.S. Citizen, contact the Division of Elections so they can cancel your voter registration. You may have marked a DMV or PFD form indicating you are a citizen when you are not.  Be sure to contact the Division of Elections to cancel your voter registration if you are registered to vote and are not a U.S. Citizen.",
+            "s": "https://www.elections.alaska.gov/voter-information/",
+            "t": 1731801600.0
+        },
+        {
+            "q": "How do I cancel my voter registration?",
+            "a": "By Phone Cancel your voter registration in Alaska by contacting your Regional Elections Office.  Be prepared to provide your name and an identifier (voter number, Alaska drivers license number or state identification number, date of birth or last four of your Social Security Number).  In Writing To request your registration be cancelled use the cancellation form. Or, you may also send an email or letter. Your cancellation request must include the following information.  Your full name  An identifier (voter number, Alaska drivers license number or state identification number, date of birth or last four of your Social Security Number)  Send written requests by email or fax or by mail to your Regional Elections Office.",
+            "s": "https://www.elections.alaska.gov/voter-information/",
+            "t": 1731801600.0
+        },
+        {
+            "q": "How to Vote Absentee In-Person or Early?",
+            "a": "Absentee In-Person voting is like voting early at your polling place. The difference is that absentee locations do not have a secure connection with the voter registration database system, which means the poll worker cannot look you up to verify your information.",
+            "s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "t": 1731801600.0
+        },
+        {
+            "q": "For absentee voting, what should I expect?",
+            "a": "Absentee In-Person and Early Voting locations are open for voting starting 15 days prior and through Election Day. Each location has different hours and district ballots available.   Absentee In-Person voting requires you to complete an envelope with your voted ballot and drop the envelope in a ballot box. These ballots are not scanned at the voting location and are instead reviewed by the Absentee Review Board to make sure you are eligible and that you have not already voted.  At locations that are marked as an Early Voting location, your eligibility is determined at the time you vote by verifying that the information on your voter registration record is current. If everything is correct, you will vote your ballot and insert it into scanner. If your information is not current, you will have to vote using the Absentee In-Person method.",
+            "s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Can I apply for a ballot on behalf of another person?",
+            "a": "No. You cannot apply for an absentee ballot on someone elses behalf unless you have a valid power of attorney which authorizes you to apply on behalf of the voter.",
+            "s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "t": 1731801600.0
+        },
+        {
+            "q": "If I have a Power of Attorney (POA) can I sign the ballot envelope for the voter?",
+            "a": "No. The voter must sign or make a mark. You can serve as the witness to the voters signature or mark.",
+            "s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What happens if I request an absentee by-mail ballot but decide to vote early or in-person on Election Day instead?",
+            "a": "You should destroy and dispose of your absentee ballot if you choose to vote in-person. We encourage voters to make a voting plan in advance to lower the likelihood of confusion and better prepare for their chosen method of voting.",
+            "s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What if I dont have a computer?",
+            "a": "Contact the Absentee and Petition Office at 907-270-2700 or toll free 1-877-375-6508 (within the U.S.).",
+            "s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Do I have to apply separately for each election?",
+            "a": "No, you can select All in Calendar Year to receive ballots for all eligible elections.",
+            "s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What if I need to change my ballot mailing address after I have already submitted my application?",
+            "a": "Contact the Absentee and Petition Office at 907-270-2700, toll free 1-877-375-6508 (within in the U.S.) or email akabsentee@alaska.gov",
+            "s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What does this mean: Keep my residence address confidential. Mailing address in 6 MUST be different than residence in section 5. And, do I have to provide a different mailing address in Section 6?",
+            "a": "Some voters choose to keep their residence address confidential. In order to do this, they must have a different mailing address. If you do not select to keep your residence address confidential, there is no reason to complete Section 6 if your physical address and permanent mailing address are the same.",
+            "s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What if I want to cancel my request for a by-mail ballot?",
+            "a": "Contact the Absentee and Petition Office at 907-270-2700, toll free 1-877-375-6508 (within in the U.S.) or email akabsentee@alaska.gov",
+            "s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "t": 1731801600.0
+        },
+        {
+            "q": "I have received multiple absentee ballot applications, do I have to complete them all?",
+            "a": "No, one application is all that is required.",
+            "s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Do I have to complete an absentee by-mail application that was sent to me?",
+            "a": "No, you only need to complete the application if you want to receive a ballot in the mail.",
+            "s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What if I dont want to vote by-mail?",
+            "a": "You have several in-person voting options available. You may vote early at and Early Voting location or an Absentee Voting location. You may also vote in-person at your polling place on Election Day. Polling place information:  Look up your Polling Place  List of Polling Places",
+            "s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "t": 1731801600.0
+        },
+        {
+            "q": "How do I Apply for an Absentee Ballot?",
+            "a": "Apply using one of the following methods.  Online Application Valid Alaska Drivers License or State ID required for this option.  Paper Application Complete and sign the PDF form. Signature must be a handwritten signature. A typed or digital signature is not valid.  Click here for ways to send the paper application to the Absentee Office. Check the status of your application and ballot.  Check Application Status The Voter Information Tool can check registration, application, and ballot status.",
+            "s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What is the Applications Deadline for voting absentee by mail?",
+            "a": "Primary Election  August 10th, 2024  General Election  October 26th, 2024  When registering to vote or updating your information, application must be postmarked or received 30 days before Election Day.",
+            "s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What is the Deadline to Return Voted Ballot for voting absentee by mail?",
+            "a": "Primary Election  Postmarked or Received by August 20th, 2024  General Election  Postmarked or Received by November 5th, 2024  You must drop off your ballot by 8:00pm on Election Day if returning it to any voting location.",
+            "s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What is the Delivery Dates for voting absentee by mail?",
+            "a": "Ballots are mailed to:  Voters approximately 25 days prior to each Election Day.  Active military members, spouses and dependents; and U.S. citizens temporarily or permanently living overseas beginning 45 days prior to each Election Day.  Voters who selected the advance ballot due to living, working, or traveling in remote Alaska or who may be traveling overseas beginning 45 days prior to each Election Day.",
+            "s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "t": 1731801600.0
+        },
+        {
+            "q": "How do I absentee vote by mail?",
+            "a": " In your voting packet you will receive a ballot, a return mailing envelope that contains the voter certificate and identification requirements, instructions and a gray secrecy sleeve.  Vote your ballot by filling in the ovals next to your choices.  Fold your ballot and place it inside the gray secrecy sleeve. Place the gray sleeve into the return ballot envelope.  Sign your return ballot envelope in front of your witness and provide at least ONE Identifier. Your witness must be 18 years of age or older and must also sign the return ballot envelope. It is recommended to date your signatures.  Secure your ballot by folding over the flap on envelope and seal the flap at the top and the bottom.  Apply the amount of postage shown on the instructions, to the return ballot envelope.  Your mailed ballot must be postmarked on or before Election Day. To ensure timely postmarks, the division recommends you have the USPS postal clerk hand cancel your ballot at the counter. If returning your voted absentee ballot in person, it must be returned to a voting location by 8:00pm on Election Day.",
+            "s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What will I need for Vote Absentee By-Online Delivery?",
+            "a": "You will need an email address and access to a computer and a printer. Your email notification of ballot availability and voting instructions will be emailed to you within 24 to 48 hours after receipt of your application.",
+            "s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "t": 1731801600.0
+        },
+        {
+            "q": "How do I Vote Absentee By-Online Delivery?",
+            "a": "You will be emailed a notification of ballot availability and instructions. Open the link to the website that will be provided in your email and follow the instructions provided in the email. In addition, the system instructions will guide you through the online system.  Log into the online delivery system using your information.  Vote your ballot by selecting your choices on your computer screen.  After voting, you will be prompted to download and print a PDF file of your Voter Certificate and Identification sheet, voted ballot, and other voting materials to be used to return your voted ballot.  Sign your Voter Certificate and Identification sheet in front of your witness and provide at least ONE identifier. Your witness must be 18 years of age or older and must also sign the Voter Certificate and Identification sheet.  You may choose to return your ballot by mail or by fax. Ballots cannot be returned by email.  When you select to return your ballot by mail, you will print the foldable secrecy sleeve and return mailing envelope provided in your PDF file. You will also need to print your ballot. Fold and secure your ballot inside the secrecy sleeve. Wrap your completed Voter Certificate and Identification sheet around the outside of the secrecy sleeve with your ballot inside. Then fold and secure your certificate and ballot inside the return mailing envelope. The return ballot envelope must be postmarked on or before Election Day. Returning your ballot by mail will maintain the secrecy of your voted ballot. To ensure timely postmarks, the division recommends you have the USPS postal clerk hand cancel your ballot at the counter  When you select to return your ballot by fax, you will print the fax instructions provided in your PDF file to return your ballot by fax. The completed Voter Certificate, Identification sheet, and ballot must be received by fax on or before 8:00 p.m. Alaska Standard Time on Election Day. When returning a ballot by fax, you are voluntarily waiving your right to a secret ballot and are assuming the risk that a faulty transmission may occur.",
+            "s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What is the Application Deadline for voting absentee by online delivery?",
+            "a": "Your completed application must be received no later than 5:00pm Alaska Standard Time the day before Election Day.  Primary Election  August 19th, 2024  General Election  November 4th, 2024 You may request an online delivery ballot beginning 15 days prior to Election Day.  Primary Election  August 5th, 2024  General Election  October 21st, 2024  Military & Overseas Voters may apply for an electronic transmission ballot at any time during a calendar year by completing the Absentee Ballot Application. Your email notification of ballot availability will be emailed to you beginning 45 days prior to Election Day.",
+            "s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What will I need for Vote Absentee By-Fax?",
+            "a": "You will need access to a fax machine to receive your voting packet. These materials will be faxed to you within 24 to 48 hours after receipt of your application.",
+            "s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "t": 1731801600.0
+        },
+        {
+            "q": "How do I Vote Absentee By-Fax?",
+            "a": "You will be faxed a ballot, a Voter Certificate and Identification sheet, and instructions.  Vote your ballot by filling in the ovals next to your choices.  Sign your Voter Certificate and Identification sheet in front of your witness and provide at least ONE identifier. Your witness must be 18 years of age or older and must also sign the Voter Certificate and Identification sheet.  You may choose to return your ballot by mail or return it by fax.  Ballots cannot be returned by email.  When returning the ballot by mail, you will be provided with instructions and address information to return your voted ballot and completed Voter Certificate and Identification sheet. The return ballot envelope must be postmarked on or before Election Day. Returning your ballot by mail will maintain the secrecy of your voted ballot. When returning your ballot by mail, it must be postmarked on or before Election Day. To ensure timely postmarks, the division recommends you have the USPS postal clerk hand cancel your ballot at the counter.  When returning the ballot by fax, you will be provided with instructions and a return fax number to return your voted ballot and Voter Certificate and Identification sheet. The completed Voter Certificate, Identification sheet, and ballot must be received on or before 8:00 p.m. Alaska Standard Time on Election Day. When returning a ballot by fax, you are voluntarily waiving your right to a secret ballot and are assuming the risk that a faulty transmission may occur.",
+            "s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What are the Application Deadline for voting absentee by fax?",
+            "a": "You may request a faxed ballot beginning 15 days prior to Election Day.  Primary Election  August 5th, 2024  General Election  October 21st, 2024  Military & Overseas Voters may apply for an electronic transmission ballot at any time during a calendar year by completing the Absentee Ballot Application. Ballots will be faxed to you beginning 45 days prior to Election Day. Your completed application must be received no later than 5:00pm Alaska Standard Time the day before Election Day.  Primary Election  August 19th, 2024  General Election  November 4th, 2024 You may request an online delivery ballot beginning 15 days prior to Election Day.  Primary Election  August 5th, 2024  General Election  October 21st, 2024  Military & Overseas Voters may apply for an electronic transmission ballot at any time during a calendar year by completing the Absentee Ballot Application. Your email notification of ballot availability will be emailed to you beginning 45 days prior to Election Day.",
+            "s": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Are you a resident of another state but attend college in Alaska?",
+            "a": "If you are attending college in Alaska but are a resident of another state and wish to remain a resident of that state, contact the election official (external webpage) in your home state for information about voter qualifications and the procedures for voting absentee. Visit the National Association of Secretaries of State (external webpage) or the Election Assistance Commission (external webpage) for information.",
+            "s": "https://www.elections.alaska.gov/military-overseas-and-college-voters/#military",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What information do you need from military personnel for absentee voting?",
+            "a": "When completing your absentee application:  Select your military or overseas status.  Select how you wish to receive your ballot.  For online delivery, provide your email address.  For mail delivery, provide your ballot mailing address.  For fax delivery, provide your fax number.  You may check your registration, absentee application and ballot status at My Voter Information webpage.",
+            "s": "https://www.elections.alaska.gov/military-overseas-and-college-voters/#military",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What information do you need from military personnel for voter registration?",
+            "a": "When registering to vote or updating your registration, you must provide an Alaska residence address. You may maintain your Alaska residence address as it appears on your current record or at the address that you resided at prior to leaving Alaska if you are temporarily out of state and intend to return. Active members of the Uniformed Services, Merchant Marines, commissioned corps and spouses are exempt from the intent to return requirement.",
+            "s": "https://www.elections.alaska.gov/military-overseas-and-college-voters/#military",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Are you a U.S. citizen permanently residing outside the United States and do not intend to return to Alaska? Were you, or your parent or legal guardian, last domiciled in Alaska prior to leaving the United States and you, or your parent or legal guardian, did not register to vote in another jurisdiction or established a domiciled in another jurisdiction since leaving Alaska?",
+            "a": "If so, you may register to vote as a federal voter and participate in Alaskas federal elections.",
+            "s": "https://www.elections.alaska.gov/military-overseas-and-college-voters/#military",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What is Federal Absentee Information?",
+            "a": "When registering to vote for the first time as a federal voter, provide a copy of your valid U.S. passport, card of identity and registration or other identification issued under the authority of the United States Secretary of State. Send your completed application to the Absentee and Petition Office by mail, fax or by email as an attached PDF, TIFF or JPEG file.",
+            "s": "https://www.elections.alaska.gov/military-overseas-and-college-voters/#military",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What is the Absentee Ballot Process?",
+            "a": "2024 General Election: Important Return Dates   In Alaska, voted absentee ballots must be postmarked by Election Day, November 5th, or returned in person to a voting location by 8:00 p.m. on Election Day to be counted.   Absentee voting is available and no excuse is required. The last day to request an absentee ballot is 10 days before the election. You can return your absentee ballot request form through mail, in person at your local elections office, or online (if you have a valid Alaska drivers license or state ID card). Voted ballots must be postmarked by Election Day in order to be counted. You can sign up to track your absentee ballot on your Division of Elections website.   Those who requested an absentee ballot but end up voting in person may be able to. Do not mail a ballot and vote in person. Voters should destroy and dispose of their absentee ballot if they end up voting in-person. Voters should contact the Alaska Absentee and Petition Office to determine their options. Find their contact information here.  If you are unable to vote in Alaska on Election Day, you can vote absentee:  In person (available 15 days before an election) By mail (deadline for applying is 10 days before an election) By fax (available 15 days before an election) Online (available 15 days before an election) By personal representative (available 15 days before an election) Absentee ballot applications are available anytime for each calendar year. The application deadline is 10 days before the election. You can request a ballot for a one election or for all elections in the year.  Apply early to receive your ballot in time. Regular absentee ballots are mailed about one to two weeks before an election. If your absentee ballot is to be sent to a remote area of Alaska, you may request a special advance ballot on this site. A special advance ballot will be mailed 45 days before the election.  Your voted ballot must be witnessed and signed in order to be accepted.  Absentee Voting by fax should be your last alternative to casting your ballot. By using this method to return your voted ballot, you need to be aware that you are voluntarily waiving your right to a secret ballot. You must apply separately for each election. You must submit your request no later than 5:00 pm the day before Election Day. If you are returning your ballot by fax, it must be voted, witnessed and received by the appropriate fax in the absentee voting office by 8:00 pm on Election Day.  If you are a qualified voter who is disabled, you may apply for an absentee ballot through a personal representative who can bring the ballot to you. A personal representative can be anyone over 18, except a candidate for office in the election, your employer, an agent of your employer, or an officer or agent of your union. Ballots are available 15 days before the primary, general or statewide special election at any regional elections office.  The personal representative brings the completed application to an election official for a ballot and takes the ballot to you. You complete a certificate authorizing the personal representative to carry your ballot, vote the ballot privately, place it in a secrecy sleeve and seal it inside the envelope provided. The personal representative brings the voted ballot back to the election official by 8:00 pm on Election Day.  Overseas citizens and U.S. military personnel can register to vote and request an absentee ballot at the Overseas Vote Foundation.",
+            "s": "https://www.vote411.org/alaska",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What are the Ballot Notice and Cure Process?",
+            "a": "Alaska does not have a statewide ballot curing process for absentee/mail ballots. Only the City of Anchorage has a ballot curing (correcting) process, and the deadline to correct a ballot is no later than 4pm on the day the canvassing board meets, which is on or before the third Friday after the election. If the signature on a ballot return envelope is missing or is deemed invalid, Anchorage election officials will send you a letter explaining what happened, and you will have to fill out a form and direct you to return it or come to the location in the letter and present a valid ID to sign a verification form. If you voted a provisional (questioned) ballot, you will receive a letter from election officials notifying you if your ballot was rejected or partially counted. You can track the status of your ballot using your states online tool. ",
+            "s": "https://www.vote411.org/alaska#ballot-notice-and-cure-process",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Where can I find Campaign Finance Information?",
+            "a": "For information on federal campaign contributions, please visit Open Secrets.  For information on state campaign contributions, please visit your state's resource.",
+            "s": "https://www.vote411.org/alaska#campaign-finance-information",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Where can I find Candidate and Ballot Measure Information?",
+            "a": "Information on local, state and federal candidates and ballot measures may be available here.",
+            "s": "https://www.vote411.org/alaska#candidate-and-ballot-measure-information",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Where are the Drop Boxes?",
+            "a": "Secure ballot drop boxes will be located at the following locations. Voted ballots can be delivered to any Division of Elections office or any voting location. ",
+            "s": "https://www.vote411.org/alaska#drop-boxes",
+            "t": 1731801600.0
+        },
+        {
+            "q": "When is Early Voting?",
+            "a": "Early voting is available to all voters for any reason and begins 15 days before an election. Locations vary, you can find your early voting location on the Early and In-Person Voting Locations webpage.  Early ballots cast through the Thursday before the election will be counted on election night. All early ballots cast after that date, and all absentee ballots are counted beginning the 7th day after the election through the 15th day after the election.",
+            "s": "https://www.vote411.org/alaska#early-voting",
+            "t": 1731801600.0
+        },
+        {
+            "q": "When are the Election Dates?",
+            "a": "Your next election date can be found here https://www.vote411.org/alaska  Please check your local city/boroughs for local election calendar or contact your local elections office for more information on local elections. ",
+            "s": "https://www.vote411.org/alaska#election-dates",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What are the Eligibility Requirements?",
+            "a": "To be eligible to vote you must be:  A US citizen An Alaska resident 18 years or older 90 days before Election Day Not a convicted felon, unless your voting rights have been restored Not registered to vote in any other state unless you're willing to cancel your registration in that state NOTE: You may register to vote 90 days before you turn 18, however, you must be 18 on or before Election Day to cast a ballot.  Incarcerated Voters & Returning Citizens:   In Alaska, you are not eligible to vote if you are convicted of a felony. Your voting rights may be restored following the completion of your sentence, including prison term, probation, and parole. The Division of Elections must receive proof of your unconditional discharge from the supervising entity before you can register to vote. Pretrial detention and misdemeanors do not impact your voting rights.   Voters without traditional residence:   Citizens don't need a \"permanent home\" for voter registration. A citizen can provide an alternative description of their residence, even if they are experiencing homelessness, as long as it enables the authorities to identify and assign a voting precinct. The description must indicate where they live, such as highway name and milepost number, boat harbor, pier and slip number, subdivision name with lot and block or trailer park name, and space number. They may provide the community's name as their residence address if they live in rural Alaska. This precinct assignment ensures that the voter receives the appropriate ballot. The mailing address on their registration form can be a PO box, local shelter, advocacy organization, outreach center, or the home of someone who will accept mail for them. ",
+            "s": "https://www.vote411.org/alaska#eligibility-requirements",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What ID is Needed for Voter Registration?",
+            "a": "If you register by mail, you are required to include information that will verify your identity.  Such as:  Driver's license State ID Passport Birth certificate If your identity cannot be verified when you register to vote, you will be required to provide certain identification when voting.  Driver's license State ID card Birth certificate Passport Your birthdate Your Social Security number or at least the last 4 digits of your Social Security number",
+            "s": "https://www.vote411.org/alaska#id-needed-for-voter-registration",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What ID is Needed for Voting?",
+            "a": "You will need to show your signed voter ID card, or any other signed ID that will allow the election worker to verify your signature. A photo ID is not required.  Examples include:   Driver's license Voter ID card Military ID Hunting or Fishing license Passport Or other current and valid photo ID You may also present one of the following forms of ID if it includes your name and current address:  current utility bill or pay check government check or bank statement other government issued document If you do not have an acceptable ID you can get one from your local DMV.  If you do not have ID or your name does not appear on the precinct register, you must vote a questioned ballot.  Voters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/alaska#id-needed-for-voting",
+            "t": 1731801600.0
+        },
+        {
+            "q": "When are the Official Results available?",
+            "a": "Official results are never available on Election Day. Election officials are working around the clock to count an unprecedented number of ballots, and its essential that they take the time to make sure every vote is counted.  For Presidential elections, local results will be certified no later than the day after Election.  Official election results will be uploaded on Alaskas Division of Elections website as they become available. ",
+            "s": "https://www.vote411.org/alaska#official-results",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What about Overseas and Military Voters?",
+            "a": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation.  If you have additional questions about elections and voting overseas you can use our state specific elections official directory or contact the Overseas Vote Foundation.",
+            "s": "https://www.vote411.org/alaska#overseas-and-military-voters",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Where can I find Poll Worker Information?",
+            "a": "You can make sure we have safe, fair, and efficient elections for all. Become a poll worker today!  In order to be a poll worker in Alaska, you must:  Be registered to vote in Alaska Be willing to work about 16 hours a day or more on Election Day, or share a position and work a split shift or attend four to five hour paid training session Be willing to be non-partisan on Election Day and not say any political opinions while working Not have any family relationships with a candidate on the ballot Youth Ambassador Program: If you are at least 16 years old and a student in high school (public, private or qualified home school program) you may sign up to be a youth ambassador. You can find more information about this program at the Alaska Division of Elections website.  To sign up, contact your local board of elections.",
+            "s": "https://www.vote411.org/alaska#poll-worker-information",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What are the Polling Place Hours?",
+            "a": "The polling place hours are from 7:00 am to 8:00 pm for Primary, General and Statewide Special Elections and 8:00am to 8:00pm for Regional Educational Attendance Area (REAA) elections.",
+            "s": "https://www.vote411.org/alaska#polling-place-hours",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What is the Polling Place Locator?",
+            "a": "You can find your polling place here. ",
+            "s": "https://www.vote411.org/alaska#polling-place-locator",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What is the Primary Election Process?",
+            "a": "Alaska has a top four primary system. All candidates appear on the same ballot and all voters get the same ballot. Voters choose one candidate from each race. The top four candidates from each race will move on to the General Election.  If you have any questions about your states primary election, please contact your local election officials.",
+            "s": "https://www.vote411.org/alaska#primary-election-process",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What is Provisional Voting?",
+            "a": "Provisional (questioned) voting is available if you meet any of these criteria:  you do not have ID your name does not appear on the precinct register at the polling place your address has changed you ask for a ballot you are not eligible for (in a primary election) you already voted an observer challenges your qualifications to vote Once voted, questioned ballots are sent to a review board who will determine if your ballot can be counted. If your ballot is rejected or partially counted, you will receive a letter telling you the reasons. Questioned ballots are counted 15 days after the election.",
+            "s": "https://www.vote411.org/alaska#provisional-voting",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Are there Provisions for Voters with Disabilities?",
+            "a": "In addition to bilingual assistance in many polling places, the division of elections has a TTY communication device for the hearing impaired, magnifying ballot viewers at the polling places and audio recordings of the general election official election pamphlet for the visually impaired, and handicapped accessible polling places.  You may bring someone to help you at the polls. The person you bring may go into the booth with you and assist you with voting. This includes election officials, friends, family members, bystanders, campaign workers and anyone else who is not your employer, an agent of your employer, or officer or agent of your union.  If you had planned on going to your polling place on Election Day, but become ill or are home-bound, you can vote by having a personal representative bring you a ballot. If this is inconvenient, you can apply up to 10 days before an election for an absentee ballot to be mailed to you. If your specific type of special services needed are not covered here, please contact an elections office for assistance.  For more information, you can utilize the American Association of People With Disabilities (AAPD) resource.",
+            "s": "https://www.vote411.org/alaska#provisions-for-voters-with-disabilities",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What is Ranked Choice Voting?",
+            "a": "All general elections in the state of Alaska are conducted by Ranked Choice Voting (RCV). RCV allows you to rank candidates in order of preference. Only the top four candidates who received the greatest number of votes for any office in the primary will appear on the general election ballot. There will still be a space for write-in candidates. If no candidate receives a majority of 1st choice votes in the 1st round of counting, more rounds of counting continue until a candidate reaches a majority. For more information on RCV and frequently asked questions, click here.",
+            "s": "https://www.vote411.org/alaska#ranked-choice-voting",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What is the Registration Deadline?",
+            "a": "The registration deadline is 30 days before an election. You can now register to vote online! You must have a valid Alaska driver's license or state ID to register online. If you do not have either of those forms of ID, you may register using the paper form.  Alaska law allows for same day voter registration for the purposes of voting for President and Vice President.",
+            "s": "https://www.vote411.org/alaska#registration-deadline",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Do I get Time Off To Vote?",
+            "a": "Employers must allow enough paid time off to vote for their employees, unless the employer has at least two hours to vote before or after his/her work hours.",
+            "s": "https://www.vote411.org/alaska#time-off-to-vote",
+            "t": 1731801600.0
+        },
+        {
+            "q": "How do Verify Voter Registration?",
+            "a": "To verify your voter registration status click here.",
+            "s": "https://www.vote411.org/alaska#verify-voter-registration",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What Voting Machines are used?",
+            "a": "The voting systems used in Alaska are optical scan, touch screen-paper ballots and hand count.  Optical Scan: With this system, you will receive a card or sheet of paper, which you take over to a private table or booth. The card has the names of the various candidates and ballot measures printed on it. With a pen or pencil you fill in a little box or circle or the space between two arrows. When you are finished filling out all the cards, you may bring the cards over to a ballot box, where poll workers will show you how to put the cards in the box. Or in some places, you may feed the completed cards or papers into a computer device that checks your card or paper right there at the polling place to make sure you have voted the way you want to and counts the votes.  Touch Screen-Paper ballots: These units used in Alaska have a voter verifiable paper trail that allows the voter to verify the printed version of the ballot prior to casting the ballot. When voting on a touch screen, the voter has the option of having the ballot on the screen and/or listen to an audio version of the ballot and using a keypad to make the selection. Like the optical scan, when the polls close, the election board ends the election on the touch screen and then transmit results either via telephone line (for optical scan precincts) or by calling in the results to the regional office (for hand-count precincts).  Hand Count: These precincts are those precincts that are in rural areas of the state with fewer voters. After the polls close, the election boards tally the ballots using prepared tally books and then call in the results to the appropriate regional office. The regional offices then data enter the results into the regional GEMS computer and uploads the results to the GEMS system in the Director's Office via modem connection. There are 135 hand-count precincts in Alaska.  You can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource.",
+            "s": "https://www.vote411.org/alaska#voting-machines",
+            "t": 1731801600.0
+        }
+    ]
+}

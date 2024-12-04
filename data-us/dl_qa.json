@@ -1,0 +1,632 @@
+{
+    "state": "DL",
+    "num_questions": 104,
+    "num_answers": 104,
+    "contributor": "Deja Scott",
+    "questions": [
+        {
+            "q": "How can I cast my vote in Delaware?",
+            "a": "There are three options for voting in Delaware:  Early Voting: Voting in person prior to Election Day is offered in Delaware for at least ten days before Primary, General, and Special Elections, with the last day the Sunday before Election Day.  Election Day Voting: You may vote in person at your assigned Polling Place on Election Day.  Absentee Voting: If you are unable to vote in person, you may choose to vote by absentee ballot before Election Day for one of the reasons listed on the absentee ballot application. See Absentee Voting FAQs for more information.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "When can I vote in person?",
+            "a": "Early Voting: Delaware will offer Early Voting for at least 10 days prior to Primary, General, and Special Elections at designated Early Voting Sites in each county. Early Voting will be available up to and including the Sunday before Election Day. Times and locations to be announced.Election Day: Polling Places are open from 7 a.m. to 8 p.m. for General, Primary and Special elections.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Where do I vote in person?",
+            "a": "Early Voting: Voting locations called Early Voting Sites will be open for voting for at least 10 days prior to the Primary and General Elections. Delaware voters may choose to vote at any Early Voting Site within the county in which they reside. Election Day: Your Polling Place Card shows your assigned polling place. You can check your record at https://ivote.de.gov to find out where you vote, or you may contact your County Elections office.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "How are election results transmitted and reported?",
+            "a": "Results are collected from machines into dedicated USB sticks and physically transported to State facilities across Delaware. At these State facilities the USB sticks are read, and results are transmitted through dedicated elections network (non-internet connected) to a centralized repository. Results are consolidated and formatted then saved to a separate external media (USB stick). A report of the unofficial election results is published to our website at https://elections.delaware.gov.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "How are election results certified in Delaware?",
+            "a": "General Election results are certified by the Superior Court of each County acting as the Board of Canvass. They manually count/tabulate votes and declare them as official.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "How does the Department prevent someone from voting twice; in-person and by absentee ballot in the same election?",
+            "a": "When a voters absentee ballot has been received and accepted by the Department, the data on the pollbooks is updated to indicate the person has already voted. If a person who has already voted by absentee ballot shows up to the polling place to vote in person, they will not be permitted to vote as they have already voted. If a voter has been sent an absentee ballot, the pollbook displays that a ballot has been sent out. When Elections confirms the absentee ballot has not been received and accepted by the Department, the absentee ballot is cancelled, and the voter may vote inperson at the Polling Place. Voting more than once, or even attempting to vote more than once, is voter fraud in Delaware, per Title 15, Del. C.  5128 and will be prosecuted. The penalties for fraudulent voting, fined not less than $50 or more than $200, or imprisoned not less than 30 days or more than 2 years, or both.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Does Delaware require photo ID to vote in State and Federal Elections?",
+            "a": "When you arrive at a polling place or early voting site in Delaware poll workers ask voters to show proof of identity. Delaware does not require a photo ID to vote in State and Federal Elections. Showing ID expedites the voter check-in process. Delaware does not have a defined list of acceptable forms of identification. If a voter does not show ID, is present in their correct polling place or at an early voting site and appears on the poll list, the voter must fill out a form, called an Affirmation of Voter Identity and are then permitted to vote.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Why do they say my name before I vote?",
+            "a": "Two reasons: (1) It is required by law. (2) So that everyone in the Polling Place knows who is voting in case someone wants to challenge your right to vote.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": " Why do they say my party before I vote in the Primary Election?",
+            "a": "Two reasons: (1) It is required by law. (2) So that everyone in the Polling Place knows who is voting in case someone wants to challenge your right to vote.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Can I take my children with me to vote?",
+            "a": "You may take children 17 years old and younger with you when voting.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Can I talk on my cell phone at the Polling Place?",
+            "a": "No, because the noise interferes with poll workers and distracts voters.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "How long can I be in the voting booth?",
+            "a": "Three (3) minutes. If a poll worker thinks you are taking too long, he/she may ask if you need assistance.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Can I wear items about a candidate in the polling place?",
+            "a": "No, the Delaware Code forbids it.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Do you have or publish information about candidates and what they stand for?",
+            "a": "We have a list of candidates who have filed with the Department to run in an election on our website, https://elections.delaware.gov which includes candidate contact information. Elections is not permitted to publish any information on a candidate related to their positions on issues, etc. You may contact the candidate or reach out to other sources for that information.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "How do I appeal my registration status?",
+            "a": "Contact your County Elections office by email, phone, or in-person. ",
+            "s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What is a provisional ballot?",
+            "a": "A provisional ballot is a last chance ballot, mandated by Federal Law for use in Federal Elections. It is not a ballot of convenience. Poll workers will offer it to you if they cannot confirm that you are eligible to vote in their Election District. Poll Workers will attempt to send you to the correct Election District. Your provisional ballot will NOT count, if: You are at the wrong Election District, your affidavit is not complete, or you vote the wrong partys ballot in a Primary Election.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Do I have to talk to people handing out literature or taking exit polls?",
+            "a": "No.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Does Delaware offer Early Voting?",
+            "a": "Yes, Early Voting will be available to Delaware voters in Primary, General, and Special Elections per Title 15, Chapter 54 of the Delaware Code. According to law early voting sites, called Vote Centers, will be open in Delaware for at least a total of 10 days before these elections, with the last two days being the Saturday and Sunday immediately prior to Election Day. For elections with a Statewide Office on the ballot, at least one early voting site will be designated in each county, with an additional early voting location in the City of Wilmington. At least 30 days before each election, early voting site locations and voting hours will be announced by the State Election Commissioner.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "As a member of the public and a concerned Delaware citizen, am I allowed to watch what goes on in the Polling Place and challenge voters I don't think are eligible to vote?",
+            "a": "Yes, the Title 15 of the Delaware Code provides for members of the public to act as challengers, but you must first be selected and authorized by a candidate on the ballot for Primary Elections and by a political party with candidates on the ballot for General Elections in order to serve in this position. Title 15 of the Delaware Code details who is permitted in the voting room of a Polling place and specifies what activities are allowed. In General Elections, pursuant to Section 4933(a)(4) here Delaware Code Online, \"one challenger from a political party with a candidate on the ballot\" is allowed in the voting room. In Primary Elections, per Section 3164 here Delaware Code Online each candidate on the ballot may select one challenger per Polling Place, who will be allowed to challenge voters in the voting room. Section 4934 spells out what challengers may do according to law and the importance of their position. Please read this section in its entirety, here Delaware Code Online. The Code bestows upon a challenger in the voting room per 4943(b) the sacred duty of \"peace officer,\" possessing \"the same powers preserving the peace as election officers and the challengers shall be protected in the discharge of their duty by election officers.\" Challengers \"shall be permitted to observe the conduct of the election and all election records,\" per Section 4934(a). Title 15, Chapter 49 specifies what types of challenges are permitted to be made to voters in the voting room and that any challenges will be decided upon by a majority vote by the Inspector and both Judges of the Polling Place immediately to maintain the orderly flow of voters and the voting process. Per Chapter 49, a challenger may challenge a voter if they have a valid reason to believe the voter is not duly registered, the voter is not the person they say they are, the voter does not live at the address on the voter's registration record, or the voter was bribed into voting. If a challenger is purposely causing a \"disturbance or obstruction\" or acting to \"unreasonably prolong any challenge or inquiry\" as determined by the election officers, the challenger, upon majority vote by the Inspector and the two Judges may be formally \"ejected\" from the polling place per Section 4934(b).",
+            "s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "As a member of the public and a concerned Delaware citizen, am I allowed to attend the Board of Canvass which convenes in the Superior Court of each county two days after General Elections to certify the election?",
+            "a": "The Delaware Department of Elections has no authority over the Board of Canvass or its operations, intentionally, as it is designed to be the independent canvass of the election results. Per Code, the Superior Court in each county sits as the Board of Canvass, so they convene the Board and oversee the process. Please contact the Office of the Prothonotary for the Superior Court of the county with your question.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "How are all the people that verify the machine tapes and counts, absentee counts, and other election materials, selected for the Board of Canvass?",
+            "a": "The Delaware Department of Elections has no authority over the Board of Canvass or its operations, intentionally, as it is designed to be the independent canvass of the election results. Per Code, the Superior Court in each county sits as the Board of Canvass, so they convene the Board and oversee the process. Please contact the Office of the Prothonotary for the Superior Court of the county with your question.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "How do I volunteer to be one of the vote counters at the Board of Canvass?",
+            "a": "The Delaware Department of Elections has no authority over the Board of Canvass or its operations, intentionally, as it is designed to be the independent canvass of the election results. Per Code, the Superior Court in each county sits as the Board of Canvass, so they convene the Board and oversee the process. Please contact the Office of the Prothonotary for the Superior Court of the county with your question.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Can I or party representatives observe the counting and tabulation of early votes, absentee votes and the adjudication process?",
+            "a": "Yes, these processes occur in public meetings. The Department posts notices of these open meetings on the Public Meeting Calendar",
+            "s": "https://elections.delaware.gov/voter/pdfs/Voting%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What is Automatic Voter Registration (AVR)?",
+            "a": "Pursuant to Delaware law (15 Del. C.2050A), every person (1) who completes an in-person or online application for the issuance or renewal of their Delaware Drivers License, Learners Permit, or State Identification Card, or (2) who completes an in-person or online application to change their name or address on these documents, and (3) who is not already registered to vote, is of sufficient age, and whose citizenship status has been confirmed by the Division of Motor Vehicles, is automatically registered to vote by the Department of Elections.",
+            "s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "I was automatically registered at DMV. Will I get something in the mail confirming that Im registered? ",
+            "a": "All Automatically Registered Voters (AVR Voters) will receive a mailing in a standard #10 envelope that contains the following 3 items: NOTICE OF AUTOMATIC VOTER REGISTRATION letter Response to Automatic Voter Registration form A pre-addressed, postage-paid envelope to send the completed Response to Automatic Voter Registration form to the Department ",
+            "s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What does this Notice look like? ",
+            "a": "The AVR Notice is a 1 page letter (printed on both sides) containing important voter registration information for newly, automatically registered voters. Please see a sample of the letter Automatically Registered Voters will receive in the mail on the next slide. ",
+            "s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What is the purpose of the Notice?",
+            "a": "The Notice explains AVR and is mailed to AVR voters for the following four main reasons, which the Department will explain more fully in the next 9 slides: 1) Inform you that you have been automatically registered as an unaffiliated voter (No Party AVR) 2) Provide you the opportunity to choose a party affiliation 3) Provide you the opportunity to review your eligibility to register and cancel your registration if you are ineligible or do not want to be registered to vote at this time, and 4) Advise you of Delawares Address Confidentiality Program, outlined in the Delaware Code, 15 Del. C.  1303. ",
+            "s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Do you want to affiliate with a party?",
+            "a": "All voters registered to vote through the AVR process are automatically registered with no party affiliation (No Party - AVR). Delaware is a Closed Primary State, meaning you must be registered with the Democratic or Republican party in order to vote in the Primary Election of the party you choose. AVR Voters may choose a political party through the day of the FIRST Primary Election following their automatic voter registration at DMV: 1. You may complete an application to update your party at https://ivote.de.gov. 2. You may mark your choice of party on the Response to Automatic Voter Registration form included with the Notice and return the completed form to the Department of Elections. 3. If you do not submit a party change prior to Primary Day, you may register with your choice of party (Democratic or Republican) when you go to vote your party's ballot (D or R) at the first Primary Election following the date you were automatically registered, which is the DMV Transaction Date printed on the Notice.",
+            "s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Do I have to take action when I receive the Notice? Do I have to send back the Response form? ",
+            "a": "Action is NOT REQUIRED, but if you do not make any changes, you will remain a registered voter in Delaware with No Party affiliation. If you would like to choose a party affiliation or unregister to vote, please respond to the Notice by completing and submitting to the Department the Response to Automatic Voter Registration form. ",
+            "s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What if I ignore the Notice and never send back the Response form? ",
+            "a": "If you do not respond to the Notice by submitting the Response to Automatic Voter Registration form, you will simply remain registered to vote with No Party affiliation. ",
+            "s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What is the Response to Automatic Voter Registration form?",
+            "a": "The Response to Automatic Voter Registration form is included in the mailing with the Notice of Automatic Registration letter. The Response form will be pre- populated with your information in the Registrant Information section of the form. Use this form to decline to be registered to vote or to update your voter registration record with your choice of party affiliation. ",
+            "s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What if I want to vote in the Primary Election and I have not submitted to the Department my Response form with my choice of party affiliation? ",
+            "a": "If you have not submitted your Response form with your choice of party to the Department and you want to vote in the Democratic or Republican Primary Election, you may select your party (Democratic or Republican) up to and including on the first Primary Day following the day you were automatically registered at DMV. You have two options:You may complete a form to change your party at https://ivote.de.gov, or download, complete, and submit to the Department a voter registration application marked with your party selection from https://elections.delaware.gov. On the day of the first Primary Election following your automatic voter registration, go to your assigned polling place and declare your party (D or R). The Department will update your party at the polling place, and you will be permitted to vote in the Primary of the party (D or R) you selected.",
+            "s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "I do not want to be registered to vote. How can I cancel my voter registration in Delaware?",
+            "a": "To cancel your voter registration or decline to be a registered voter, you have options: You may complete the Do you want to stay registered? section of the Response form, by checking the No, I do NOT want to be registered to vote at this time. Please cancel my voter registration box. Mail your completed Response form to the Department in the postage-paid envelope provided within 30 days. You may choose to complete a voter registration cancellation form at https://ivote.de.gov or download, complete, and submit one to the Department from https://elections.delaware.gov. Call the Department at 1-302-739-4277 or your County Elections Office for assistance. ",
+            "s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What if I never sent the Department my AVR Response form and I have voted or updated my voter registration transaction after I was automatically registered (e.g., address change, name change, party change), and now I want to cancel my registration? Can I submit to the Department my AVR Response form to cancel my voter registration? ",
+            "a": "No, per Delaware law, the Department cannot process an AVR voters Response form to cancel their voter registration if they have completed a transaction to update their voter registration record after they have been automatically registered. A voter registration update transaction includes voting, and/or changing name, and/or address, and/or political party. To cancel your registration, you may choose to complete a voter registration cancellation form at https://ivote.de.gov or download, complete, and submit one to the Department from https://elections.delaware.gov. You may call the Department at 1-302-739-4277 or your County Elections Office for assistance. ",
+            "s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "I have read the voter registration eligibility requirements and found that I am not eligible to be registered. What do I do? ",
+            "a": "You may complete the Do you want to stay registered? section of the Response form, by checking the No, I am NOT eligible to register to vote at this time. Please cancel my voter registration box. Mail your completed response form to the Department in the postage-paid envelope provided within 30 days.",
+            "s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "I want to stay registered to vote. Will I receive a State of Delaware Polling Place Card?",
+            "a": "The Department provides automatically registered voters 30 days to respond to the Notice if they want to choose a party or decline to be a registered voter. If a voter submits their Response form marking their choice of party to the Department within 30 days, the Department will mail the voter a Polling Place Card displaying the party they chose. If a voter does not respond to the Notice within 30 days, the voter will remain registered to vote and the Department will mail the voter a Polling Place Card displaying their party as No Party - AVR. If within 30 days a voter submits their Response form requesting the Department to cancel their voter registration, the Department will NOT mail the voter a Polling Place Card. The Department will cancel the voters registration record and the voter will no longer be listed as a registered voter. ",
+            "s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What do I do if I receive a Notice in the mail from the Department of Elections for a person who does not live at my address? ",
+            "a": "Please write Not at this address on the front of the envelope. Do not cross out the name or address of the person on the envelope. Put the letter in a mail collection box (mailbox), hand it to your mail carrier, or take it to your local post office. The United States Postal Service will return the mail piece to the Department and the Department will start the Address Verification process. ",
+            "s": "https://elections.delaware.gov/voter/pdfs/AVR_FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Can I vote by absentee ballot?",
+            "a": "Yes, you may vote by absentee ballot if you cannot go to your polling place on Election Day for a reason listed on the Absentee Application, you are in the military, or you live outside the United States.",
+            "s": "https://elections.delaware.gov/voter/absentee/pdfs/Absentee%20Voting%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "How can I apply for an absentee ballot?",
+            "a": "The easiest way to apply for an absentee ballot is at iVote.de.gov, but you can also download a form from our website, email or call requesting a form be mailed/emailed or pick one up at the Elections office.",
+            "s": "https://elections.delaware.gov/voter/absentee/pdfs/Absentee%20Voting%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Does my ballot have to be witnessed or notarized?",
+            "a": "No.",
+            "s": "https://elections.delaware.gov/voter/absentee/pdfs/Absentee%20Voting%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "When does the Department of Elections have to receive my ballot for it to be counted?",
+            "a": "Your ballot must be in the hands of your Countys Department of Elections Office by 8 p.m. on election day",
+            "s": "https://elections.delaware.gov/voter/absentee/pdfs/Absentee%20Voting%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Who can sign up to be a permanent absentee voter?",
+            "a": "Only a person who is: sick or disabled, a uniformed service member, a uniformed service family member, or a U.S. Citizen who lives outside the United States may sign up as a permanent absentee voter. The individual must request permanent absentee status on their absentee ballot application.",
+            "s": "https://elections.delaware.gov/voter/absentee/pdfs/Absentee%20Voting%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "I have been registered for over twenty years! When I went to vote, my record did not come up when they scanned my drivers license. Why?",
+            "a": "Only over the past 10 years or so, has the Delaware Elections voter registration system captured drivers license and state ID numbers. If you have not updated your record in a while, your number may not be on file. You may add your number to your record anytime by calling the Department or completing a voter registration form at iVote.de.gov.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Pollbook%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Even when they entered my name in the pollbook, my record did not immediately appear. They eventually found me. Why did this happen?",
+            "a": "Often, if your name does not match the name on your voter registration file (hyphenated vs. non-hyphenated, or recent name change), it may take some time to find your voter record on the pollbook. You will be able to update your name at the Polling Place, but we encourage you to update it before Election Day so you will not run into this issue. You may do so at iVote.de.gov or by filling out a paper form available at our offices, for download from our website elections.delaware.gov, or by requesting Elections mail one to you.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Pollbook%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "After I have voted, what is stopping me from going to another polling place and voting there, too?",
+            "a": "When you sign the pollbook and are issued an activation card, the fact that you are voting is updated in the pollbook and system. When you try to vote at another polling place, the pollbook will indicate you have already voted. Voting more than once, or even attempting to vote more than once, is voter fraud in Delaware, per Title 15, Del. C.  5128 and will be prosecuted. The penalties for fraudulent voting, fined not less than $50 or more than $200, or imprisoned not less than 30 days or more than 2 years, or both.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Pollbook%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "I have always voted for candidates of a certain political party, but every time I go to vote in a Primary election, they tell me I am not eligible due to my party affiliation. Why?",
+            "a": "In a General Election, you may vote for candidates of any party, no matter how you are registered. Delaware is a Closed Primary State. If you are Unaffiliated (AKA Independent), you are not able to vote in Primary Elections. If you are not registered with the party, Democrat or Republican, you are not able to vote in the partys Primary Election. You may check your voter record to see how youre registered and update your record at iVote.de.gov.",
+            "s": "https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "At DMV, they put my party down incorrectly, so I am not registered with the party I want. What do I do?",
+            "a": "You may update your record at iVote.de.gov.",
+            "s": "https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "When is the last day to register to vote?",
+            "a": "If you are not yet registered, the voter registration deadline is the 4th Saturday before a Primary and General Election. Once you are registered to vote, you do not have to re-register to vote for subsequent elections.",
+            "s": "https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "When are the party change deadlines?",
+            "a": "Presidential Primary: 60 days before the Presidential Primary. Primary Election: The Friday before the last Saturday in May.",
+            "s": "https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Do I have to be registered to vote in order to vote in a School election?",
+            "a": "No, but you must: Be a citizen of the United States and the State of Delaware. Live in the school district for which the election is being conducted. Be 18 years of age on or before the day of the election.",
+            "s": "https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Is there a deadline by which I must change my address or name before an election?",
+            "a": "No, you may update your name and address when you go to vote, but we encourage you to update your record before election day, so your voting experience will be quicker and easier.",
+            "s": "https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "How old do you have to be to register to vote in the State of Delaware?",
+            "a": "18 by the date of the next General Election.",
+            "s": "https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Can you pre-register to vote, if under the age of 18?",
+            "a": "Yes, but only at DMV. Per Delaware law, preregistration to vote is available at DMV to 16 and 17-year-olds when they sign up for their drivers licenses or State IDs. Once the General Election is over, their record is updated in the State of Delaware voter registration system and they are registered to vote in the Primaries and General Elections of the next election cycle.",
+            "s": "https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Where can a person register to vote in Delaware?",
+            "a": "DMV (when getting/updating DL or State ID), Online at ivote.de.gov, Elections Offices, through the mail, Voter registration outreach events State Agencies (like DHSS when signing up for government programs)",
+            "s": "https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What form of ID do I need to present or submit when I register to vote? ",
+            "a": "You need to provide something that shows your name and current address, such as one of the following: Drivers License or State ID, Utility Bill, Bank Statement, Credit Card Statement Copy of a government mailing, check, or your paycheck",
+            "s": "https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What steps does the Department take to keep its voter registration files up to date?",
+            "a": "Mail sent by the Department (e.g., polling place cards), mail from other State agencies, or mail from elected officials that is returned as undeliverable, the Department initiates the process of address verification. This entails mailing a verification mailing to the same address with the option for the recipient to either indicate they reside at the same address, that they have moved within the State, or that they have moved out of State and that we may cancel their voter registration. If we do not receive a reply from the voter, and 60 days have elapsed from the date of the mailing of the verification mailer, the voter is placed in inactive status. If a voter in this status has no further contact with the Department/does not update their address with the Department and does not vote in the next two consecutive General Elections, the voter will be removed from the voter registration rolls after that second General Election has occurred (by June 1st of the year following that General Election). [NOTE: This process is outlined in federal law [the National Voter Registration Act], which is also incorporated into Delaware Code.] Each month the Department receives a list of Deceased persons from the Office of Vital Statistics, which is matched against the State of Delaware voter registration database. When those records are matched, the Department removes the record from the voter registration system. The Department receives monthly reports from the Division of Motor Vehicles of individuals reported to them as deceased. The Department verifies the information, then removes these voter records as deceased. Deceased records are also removed when the Department receives notification by signed correspondence by a close relative (spouse, sibling, child) or a notification that a voter has passed away and the Department is able to confirm it via an online obituary or through Vital Statistics. The Department removes records of voters who move out of Delawareand register in a new State. The Department processes these removals when it receives correspondence from other States letting Delaware know that voters who are registered in Delaware have registered in their new State, or when the Department receives a signed letter or a cancellation form signed by the voter themselves or a close relative reporting he/she has moved out of Delaware. Additional ways the Department may remove records of voters confirmed as moving out of state are detailed in the following slides. The Department is a member of the Electronic Registration Information Center (ERIC) Improving Voter Registration For Member States (ericstates.org), a consortium of 32 states and District of Columbia that securely share information regarding individuals who have registered to vote or to obtain a drivers license or state ID in an ERIC member states to identify voters who have moved from one member state to another. Membership in ERIC permits the Department to reach individuals who are believed to have moved out of the state at their new address in another ERIC member state. Via the States membership in ERIC, the State also received information from the United States Postal Services (USPS) National Change of Address (NCOA) list. Access to this list enables the Department to identify those individuals who have been registered to vote in Delaware, but who have notified the USPS that they have moved to another state. Access to the NCOA list provides the Department a tool to reach voters who have moved out of Delaware to a non-ERIC-member state to verify if they have, in fact, moved out of Delaware. Membership in ERIC also provides the Department access to those reported as deceased via the Social Security Administration (SSA). The Department also now receives monthly reports from the Division of Motor Vehicles of individuals who have surrendered their Delaware drivers license or Delaware state ID. While this list will likely include individuals already potentially reported as moved out of state from other sources (i.e., ERIC, Vital Statistics, SSA), receiving this data provides yet another potential source of information that the Department may use to ensure that our voter registration rolls may be updated.",
+            "s": "https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What if I get a piece of mail from the Department of Elections for someone who does not live at my address?",
+            "a": "Please write, Not at this Address on the front of the piece of mail. Place in a mailbox or take it to the Post Office. The USPS will mail the mail piece back to the Department of Elections. The Department of Elections will begin the address verification process per the federal National Voter Registration Act. Since two mailings must come back as undeliverable in order to fulfill the mailing requirements for removal, the Department will send another mailing to the voters address on file to verify their address. If the you receive another the mailing for the same person, please repeat the same process: Please write, Not at this Address on the front of the piece of mail. Place in a mailbox or take it to the Post Office.",
+            "s": "https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "When did Delaware change its voting system?",
+            "a": "On May 14, 2019, Delaware began using Express Vote XL machines.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Where does my card go when I press the vote button?",
+            "a": "Your activation card/ printed ballot slides up and drops into the secure card container attached to the back of the machine randomly, and in no particular order.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What happens if the secure card container on the back of the machine gets full?",
+            "a": "Elections staff swap the full bin with an empty bin & secure the full bin at the polling site until an Elections \"Security Team\" arrives to transport the full bin back to the department where it will be secured.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What does Elections do with the activation cards/printed ballots after the election?",
+            "a": "As required by law they are kept in the custody of the Department and stored in a secure location for 22 months following the Election.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Does the Department reconcile the results printed on the card with the results stored electronically in the voting machines and the paper tapes printed from the machines?",
+            "a": "Yes. At public meeting(s) following an election, there are three rounds of election audits. In the first round, one randomly selected voting machine in each county and one randomly selected election district within the City of Wilmington are selected for audits. In the second round, one randomly selected election district in each county and one randomly selected election district within the City of Wilmington are audited. The election districts randomly selected must be a different election district than the election districts selected for the first or third round audit, and different than the election district in which the voting machine was located that was randomly chosen for audit in the first round. In the third and final round, one randomly selected election district in each county and one randomly selected election district in the City of Wilmington are selected for an audit of a statewide race. The election district randomly selected must be a different election district than the election district selected for the first or second round audit, and different than the election district in which the voting machine was located that was randomly chosen for audit in the first round. In these rounds of audits, the votes cast on the machines are manually recounted by audit team members of opposite political parties for the nonpartisan audit. The teams ensure that the number of votes processed by the machine exactly match the votes from the activation cards/printed ballots and the votes recorded on the printed paper tapes. Once a machine or election district is used in one of the rounds, it is eliminated from use in any of the subsequent rounds.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Is there a way someone can find out exactly how I voted?",
+            "a": "No. Voted activation cards/paper ballots drop into the secure card container randomly and in no particular order. A voters ballot is always anonymous, and a ballot is not able to be associated with an individual voter.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Is there a date/time stamp that prints on the activation card/printed ballot when I vote?",
+            "a": "No.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "The voting machine does not print out a receipt for me showing who I voted for. Can I take a picture of my selections with my phone?",
+            "a": "Yes. Title 15 does not provide any restrictions on a voter from taking a photo of their ballot. Numerous court cases in states that do restrict voters from taking pictures of their ballots were decided in favor of the voter anyway. The courts reasoned that a photo of ones ballot is constitutionally protected speech. Therefore, pictures of ballots are allowed.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Does the barcode on the activation card contain any personally identifiable information (PII) that the machine captures, or that they can trace the card/paper ballot back to me?",
+            "a": "No. The barcode only contains your assigned Voting District, which tells the machine to pull up the ballot showing the candidates running in your districts for whom you may choose to vote. ",
+            "s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What information is contained in the barcode printed on my activation card?",
+            "a": "The barcode only contains your assigned Voting District, which tells the machine to pull up the ballot showing the candidates running in your districts for whom you may choose to vote.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": " How are votes tabulated at the end of the night?",
+            "a": "When the polls close at 8pm all the votes from the voting machines, plus from the machines that scan the absentee and early voting votes, are read into a secured State tabulation system. The tabulated vote totals are then posted to the Election Night Reporting website.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": " I put my card in the slot, but it slid right back out. Why?",
+            "a": "Paper dust, at times, accumulates on the conveyor and the strip de-magnetizes. Once the dust is cleared off, the cards slide up the ramp into the container appropriately.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Does the Department of Elections compare the results contained on the Election USB to the cards?",
+            "a": "Yes, the Department performs post-election audits and certification processes.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What if I make a mistake and want to change my vote after I press the Vote button and the card deposits in the secure card container?",
+            "a": "The vote is final. We cannot undo the action.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What happens to the machines at the end of the night?",
+            "a": "After all the tapes are printed and ballots bins removed, the machines are locked and are taken back to Department warehouse, when possible. Otherwise, they will be picked up first thing the next day.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Are Delaware's voting machines hooked up to the internet? Do the machines have wireless modems to transmit election results?",
+            "a": "No, Delaware's voting machines are not hooked up to the internet. Delaware's voting machines do not contain wireless modems and are not ever connected, nor able to ever be connected to the internet in any manner. Each machine is a strictly stand-alone device with no capability for connectivity.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What steps does Elections make to ensure that machines are not tampered with between delivery and the election and after the election?",
+            "a": "The machines are only handled by those authorized to move and transport them. The machines are kept locked. Machines have tamper-evident seals and chain-of-custody documentation from the time they leave the warehouse, until the election is over, and the machines are back at the Department.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Are the results stored on the machines hard drive?",
+            "a": "Results are stored in the voting machines internal memory, the removable media, and voter-verified, printed, paper ballots.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Can the machines be programmed to change the votes cast for one candidate versus another?",
+            "a": "No. Delawares secure election coding process and rigorous logic and accuracy testing of voting equipment ensures that Delawares ES&S Express Vote XL Voting Machines record votes exactly as entered by Delaware voters.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "How are the ballots cast transferred from the machines in the polling location to the secure location where the ballots are formally counted and recorded?",
+            "a": "At the close of polls, Election Officers detach the secure card container, the canister holding all the paper ballots cast on that specific voting machine, from the back of the machine. The process is repeated for every machine at the polling place. The secure card containers of each voting machine used in the Polling Place are held in the custody of the Inspector. Immediately following the completion of the end of the night polling place closing procedures, the Inspector transports the secure card containers to the Departments County Office warehouse and delivers them directly into the hands of authorized Department of Elections staff members. These DoE staff members transfer the secure card containers to a secure, physically and electronically surveilled and monitored repository within the building, where they are kept until the certification of election results. Once election results have been certified, the paper ballots are sealed in tamper-evident deposit bags and are locked away, undisturbed, in the secure location for 22 months in the case of state elections and five years in the case of school elections.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Are the votes stored on a thumb drive? How is that thumb drive secured? How is it transported to the Department of Elections?",
+            "a": "Yes, each vote is recorded and stored on the Elections Media stick, unique to each voting machine. The thumb drive is secured inside a locked compartment until the compartment is opened by key and the Elections Media stick is retrieved by Election Officers at the close of polls. The Elections Media sticks from each voting machine are then secured in a labeled, zippered pouch secured with a seal. The seal number on the pouch is recorded on Election District documentation. Once prepared, the pouch is transferred by the Inspector directly into the hands of one of the Polling Places Election Officers. This Election Officer is given the title of Elections Media Clerk and has been predesignated by the Inspector as the custodian and authorized delivery agent of the Elections Media pouch to the Department of Elections. The Inspector informs the Department of Elections staff at operations headquarters of the name of the chosen Elections Media Clerk. The Elections Media Clerk is dismissed from the Polling Place by the Inspector and transports the Elections Media pouch directly upon leaving the Polling Place to the designated, secure collection station and directly into the hands of authorized, badged Department of Elections staff.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What are the measures undertaken by the Department of Elections to ensure the security of the ballots on election day?",
+            "a": "The security of the ballots is the collaborative, shared responsibility of the Election Officers at the Polling Place lead by the Inspector and Department of Elections staff. The Department of Elections employs a team of pre-cleared, authorized, and badged agents to visit each Polling Place throughout the day to survey the operations and voting equipment, including checking the secure card containers holding the paper ballots for any signs of tampering and ensuring that the compartment containing the Elections Media stick remains locked. If a secure card container reaches its maximum capacity of voted paper ballots, Election Officers inform the Department of  Elections staff at operations headquarters to send an authorized agent to procure the full bin and replace it with another, sealed empty secure card container and attach it to the back of the machine. The authorized, badged Department of Elections staff member then transports the filled secure card container directly to the Department of Elections County Office warehouse and delivers it directly into the hands of a Department of Elections staff member authorized to accept the container and deposit it immediately into the secure, physically and electronically surveilled repository within the building.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What is the specific process for formally requesting a change in the process of securing ballots for the November 8, 2022 election? How are such requests considered and who makes the final determination and over what time frame?",
+            "a": "The Department of Elections develops election processes and procedures based on the legal requirements detailed in Title 15 of the Delaware Code and the State of Delaware Constitution, which is revised, updated and amended by the Delaware General Assembly. To request a change in State law, please contact your State Representative and State Senator. Suggestions from Delaware voters are always welcomed by the Department and may be submitted by email to the Commissioner of Elections for consideration and review with Department of Elections County Office Directors. Constituents may email COE_Vote@delaware.gov with any suggestions, comments, or concerns. ",
+            "s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Can the voting machines be accessed via wireless remote? I understand they are not connected to the internet, but how about wirelessly or remotely?",
+            "a": "There is no way to access a machine remotely by any means. A prerequisite for any voting machine to be considered for the State to use is that it is not capable of being accessed wirelessly or remotely in any manner, in addition to not being connected, or capable of being connected, to the internet.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "At post-election audit public meetings, I noticed that when secure card containers were opened to remove the activation cards/voted paper ballots, some cards were upside down and were not oriented in the same direction. Why arent all the cards facing the same direction?",
+            "a": "Voted activation cards/paper ballots drop into the secure card container randomly and in no particular order. Cards drop into the bin and find their own way. Theres no mechanism that arranges the cards in a particular way once they reach the bin. Therefore, when a secure card container is opened during a post-election certification or audit, you will most likely see ballots in the container facing different directions or facing up and down.",
+            "s": "https://elections.delaware.gov/voter/pdfs/Delaware's%20Express%20Vote%20XL%20Machine%20FAQs.pdf",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What is the Absentee Ballot Process?",
+            "a": "2024 General Election: Important Return Dates   In Delaware, the Department of Elections must receive voted absentee ballots by the close of polls at 8:00 p.m. on Election Day, Tuesday, November 5th.  To request an absentee ballot, track your ballot, or learn more about the absentee process, please click here.  To vote absentee you must qualify for one of the reasons listed below:  You are in public service or are a spouse or dependent living with or accompanying the person in public service. This also applies to members of the Uniformed Services.  You cannot make it to the polls due to the nature of your business or occupation. This includes people providing care to a parent, spouse or child living at home and requiring constant care; students; and otherwise eligible people who are incarcerated.  You are sick or temporarily or permanently physically disabled  You are absent from the district while on vacation  Due to the tenets or teachings of your religion  You are temporarily living outside the US or are a spouse or dependent living with the person living outside the US (if you choose this reason you will receive a full primary ballot, however, you will only have the Federal Offices on your General Ballot).  If you choose options 1, 3 or 6 above, you have the ability to make yourself a permanent absentee voter by checking the box on the request form.   You can check the status of your affidavit and your ballot here. Absentee ballots for School Board Elections have a separate application process. You can start here.    How to Vote in Person if Vote-by-Mail Ballot was Requested:  Those who requested an absentee ballot but end up voting in person: When voters arrive at their polling place, an election officer (poll worker) will confirm via the pollbook that their VBM ballot has not been returned to the Department. The voters unreturned VBM ballot will be voided, and they will be allowed to vote in person at the polling place.  Overseas citizens and U.S. military personnel can find information on how to register to vote and request an absentee ballot at the Overseas Vote Foundation.",
+            "s": "https://www.vote411.org/delaware",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What is the Ballot Notice and Cure Process?",
+            "a": "Delaware does not have an absentee/mail ballot curing process. If you voted a provisional ballot, your county election officials will determine if you are an eligible voter for your ballot to be counted. Check the status of your absentee/mail ballot or provisional ballot using your states online tool. ",
+            "s": "https://www.vote411.org/delaware#ballot-notice-and-cure-process",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Where can I find Campaign Finance Information?",
+            "a": "For information on federal campaign contributions, please visit Open Secrets.  For information on state campaign contributions, please visit your state's resource.",
+            "s": "https://www.vote411.org/delaware#campaign-finance-information",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Where can I find Candidate and Ballot Measure Information?",
+            "a": "Information on local, state and federal candidates and ballot measures may be available here.You may also check out your state's resources for more information on candidates. ",
+            "s": "https://www.vote411.org/delaware#candidate-and-ballot-measure-information",
+            "t": 1731801600.0
+        },
+        {
+            "q": " What are drop boxes?",
+            "a": "After you vote your absentee ballot you may return it by:  Mailing it to the Department's office in your county; Personally taking it to the Department's office in your county; or Having someone take it to the Department's office in your county on your behalf",
+            "s": "https://www.vote411.org/delaware#drop-boxes",
+            "t": 1731801600.0
+        },
+        {
+            "q": "When is Early Voting?",
+            "a": "Delaware will offer early voting at designated sites for 10 days before general, primary, and special elections. The final days of Early Voting are scheduled for Saturday and Sunday just before the election date. Early voting sites and dates are now available on the Department of Elections website.  When arriving at an Early Voting Site, a poll worker will ask you for proof of identity. A photo ID is not required.  Permitted forms of identification include the following:  Valid Photo ID Copy of utility bill Bank statement Government check, paycheck, or other government document that displays your address",
+            "s": "https://www.vote411.org/delaware#early-voting",
+            "t": 1731801600.0
+        },
+        {
+            "q": "when are the Election Dates?",
+            "a": "Your next election date can be found here.  For more information, contact your county clerk.",
+            "s": "https://www.vote411.org/delaware#election-dates",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What are the Eligibility Requirements?",
+            "a": "To be eligible to vote you must be:  A citizen of the United States A resident of Delaware (proof required) 18 years of age on or before the date of the next General Election mentally competent Incarcerated Voters & Returning Citizens:   In Delaware, individuals lose their voting rights upon conviction of a felony. However, once they complete their term of incarceration, probation, and/or parole, their voting rights are immediately restored, regardless of any outstanding fines, fees, costs, or restitution. It's important to note that individuals convicted of specific disqualifying felonies may need to obtain a pardon before being eligible to vote. Pretrial detention and misdemeanors do not have any impact on an individual's voting rights. For more information, visit your states resource page.    Voters without traditional residence:   Voters in Delaware lacking a fixed residence or who are unhoused and are otherwise qualified to vote in the state may register by completing the proper registration forms and providing two pieces of identification containing their name; one of the pieces must include the mailing address on the application, which may be a shelter or agency. ",
+            "s": "https://www.vote411.org/delaware#eligibility-requirements",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What ID is Needed for Voter Registration?",
+            "a": "ID is not necessary to register to vote if you use the National Voter Registration Form. However, when registering with the Department of Elections or at an alternate approved location, current identification is required. The identification must include current and valid photo ID that shows full name and address.  Examples include:  Current utility bill Bank statement Government check Paycheck Other government document that shows full name and address Delaware Drivers License or State ID Card",
+            "s": "https://www.vote411.org/delaware#id-needed-for-voter-registration",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What ID is Needed for Voting?",
+            "a": "You will be asked to show ID at the polls. However, you do not need to show ID in order to vote. If you do not show an ID you must fill out a form before you can vote, but you will still be allowed to cast your ballot.  Acceptable forms of ID include:  Delaware Drivers License or State ID US Passport Signed Polling Place or Social Security Card Signed vehicle registration Signed credit card with photo Similar document that IDs the person by photo or signature. Voters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/delaware#id-needed-for-voting",
+            "t": 1731801600.0
+        },
+        {
+            "q": "When are the Official Results available?",
+            "a": "Official results are never available on Election Day. Election officials are working around the clock to count an unprecedented number of ballots, and its essential that they take the time to make sure every vote is counted.  Absentee ballots begin being counted on Election Day. Provisional ballots begin no later than six days after Election Day.  For Presidential elections, local results will be certified no later than 48 hours after the election.  Official election results will be uploaded on Delawares Department of Elections website, on the last Wednesday of November.   ",
+            "s": "https://www.vote411.org/delaware#official-results",
+            "t": 1731801600.0
+        },
+        {
+            "q": "How do overseas and military voters participate in elections?",
+            "a": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation.  If you have questions about voting from overseas, you can use your state-specific elections official directory or visit Delaware's Absentee Voting FAQ for Uniformed and Overseas Voters resources page. ",
+            "s": "https://www.vote411.org/delaware#overseas-and-military-voters",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Where can I find Poll Worker Information?",
+            "a": "You can make sure we have safe, fair, and efficient elections for all. Become a poll worker today!  In order to be a poll worker in Delaware, you must:  Be registered to vote in Delaware Be at least 18 years of age Be entitled to compensation Political affiliation generally required Be a resident of the election district for the 30 days prior to the election Complete required training High school students with residency in the state who are 16 years or older may work with written permission from a parent or guardian College students with at least part time enrollment in their college or university can work within the respected county To sign up, contact your local board of elections.",
+            "s": "https://www.vote411.org/delaware#poll-worker-information",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What are the Polling Place Hours?",
+            "a": "Polling place hours are 7:00 am to 8:00 pm.",
+            "s": "https://www.vote411.org/delaware#polling-place-hours",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What is the Polling Place Locator?",
+            "a": "You can find your polling place by utilizing your state resource.  For School Board elections, you can vote at any open polling place within the school district. Check your local school district website for a list of open polling locations.  The Department of Elections sends you a polling place card when you register; after a change in name, address, or party affiliation; or when your polling place is changed. If you need information regarding your election district and the place where you vote, visit https://ivote.de.gov/  If you have further questions on your polling place location, please contact your county clerk.",
+            "s": "https://www.vote411.org/delaware#polling-place-locator",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What is the Primary Election Process?",
+            "a": "Delaware is a closed primary state. In order to vote in the primary election, voters must be registered with a political party. Unaffiliated or independent voters are not able to participate in the primary.  If you have any questions about your states primary election, please contact your local election officials.",
+            "s": "https://www.vote411.org/delaware#primary-election-process",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What is Provisional Voting?",
+            "a": "If you are a registered voter in your election district but your name does not appear on the official poll list, you may be able to vote by updating the record or by provisional ballot.  Provisional ballots begin being counted the day following an election. You can check the status of your provisional ballot to determine if your vote was counted.  Provisional ballots cover only federal offices such as President, Vice President, US Senate and US Congress. To be permitted to vote on a provisional ballot, you will be asked to sign an affidavit that says you are a registered voter in that election district and that you are eligible to vote in that election. If a federal or state court order extends the time established for closing the polls, votes cast after the normal poll closing time will all be by provisional ballot.  Note: You must provide proof of identity and address to vote on a provisional ballot. Acceptable forms of identification are a current, valid photo ID, copy of current utility bill, bank statement, government check, paycheck or other government document that shows your name and address. ",
+            "s": "https://www.vote411.org/delaware#provisional-voting",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What are the Provisions for Voters with Disabilities?",
+            "a": "All people qualified to vote must be given the opportunity to do so. Therefore, there will be accessible polling places, accessible voting machines, the opportunity for voting by absentee ballot and assistance at any point as a means of accommodation.  If you need help at the polls, election officers are ready to assist. You may also bring someone with you to help in the voting process.  If you are deaf or hard of hearing, all election materials, announcements and forms are available at your state's election website. You may also use the state's free TDD relay service to obtain election and voting information. Simply dial 711 and give the operator the toll free help line number for the county from which you are calling: New Castle County 800-577-000, Kent County 800-464-4357, Sussex County 800-464-4357, Outside Delaware 800-273-9500.  For more information, you can utilize the American Association of People With Disabilities (AAPD) resource.",
+            "s": "https://www.vote411.org/delaware#provisions-for-voters-with-disabilities",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What is the Registration Deadline?",
+            "a": "The registration deadline is 24 days before an election.  You can now register to vote online!  Not registered? Use our registration tool to fill out your application!",
+            "s": "https://www.vote411.org/delaware#registration-deadline",
+            "t": 1731801600.0
+        },
+        {
+            "q": "Will I have Time Off To Vote?",
+            "a": "Time off to vote is subject to the employer, there is no requirement for employers to grant time off to vote for employees.",
+            "s": "https://www.vote411.org/delaware#time-off-to-vote",
+            "t": 1731801600.0
+        },
+        {
+            "q": "How do I Verify my Voter Registration?",
+            "a": "To verify your voter registration status click here.",
+            "s": "https://www.vote411.org/delaware#verify-voter-registration",
+            "t": 1731801600.0
+        },
+        {
+            "q": "What are the Voting Machines used?",
+            "a": "The voting system used in Delaware is DRE.  Direct Recording Electronic (DRE): This is the newest kind of system in use in the U.S. All the information about who and what you are voting for is on an electronic screen like a TV or computer screen.  There are many variations of DREs because lots of companies are inventing new ones, and many cities, counties and states are trying them out. Usually, after you have signed in, the poll workers will give you a card that you slide into a device to start your voting session.  Some of these devices will show all of the candidates and ballot choices on one big screen. Often, with these big screen devices you push a button next to the name of the candidate you want to vote for (or yes or no on a ballot measure). On other DREs, the screen is set up to show pages. On each screen or page, there will probably be one thing to vote on. For example, on one screen or page, you might vote for president. Then you might move to the next page to vote for senator. Often these small-screen devices have a touch screen, where you touch the screen next to the name of the person you want to vote for. Other devices have a key pad. Some have a keyboard, so you can write in the name of someone you want to vote for.  You let the system know you are finished voting by pushing a button, touching the screen or entering something on a keypad.  You can learn more about voting systems by checking out the Elections Assistance Commission's (EAC).",
+            "s": "https://www.vote411.org/delaware#voting-machines",
+            "t": 1731801600.0
+        }
+    ]
+}

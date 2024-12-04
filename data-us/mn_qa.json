@@ -1,0 +1,482 @@
+{
+    "state": "MN",
+    "num_questions": 79,
+    "num_answers": 79,
+    "contributor": "Deja Scott",
+    "questions": [
+        {
+            "q": "Who can vote in Minnesota?",
+            "a": "To vote you must be:  A U.S. citizen At least 18 years old on Election Day (16 & 17 year olds can pre-register) A resident of Minnesota for 20 days Not currently incarcerated for a felony conviction Not under a court order that revokes your right to vote The Who can vote webpage has more details about eligibility.",
+            "s": "https://sos.state.mn.us/elections-voting/register-to-vote/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "How do I fix a typo in my registration?",
+            "a": "Contact your county election office.",
+            "s": "https://sos.state.mn.us/elections-voting/register-to-vote/common-registration-questions/#typo",
+            "t": 1732406400.0
+        },
+        {
+            "q": "How do I get a copy of my voter registration card or proof of registration?",
+            "a": "Minnesota does not issue voter registration cards. If you need proof of voter registration you can contact your county election office.",
+            "s": "https://sos.state.mn.us/elections-voting/register-to-vote/common-registration-questions/#typo",
+            "t": 1732406400.0
+        },
+        {
+            "q": "How do I change my party registration?",
+            "a": "Voters do not declare a party when they register to vote in Minnesota, so there is nothing to change! Minnesota has an \"open primary\" so voters choose which party's primary to participate in when they vote their ballot.  In most cases no one will know which party's primary you voted in. However, for the Presidential Primary, the major party chair will get a list of voters who chose their party's ballot.",
+            "s": "https://sos.state.mn.us/elections-voting/register-to-vote/common-registration-questions/#typo",
+            "t": 1732406400.0
+        },
+        {
+            "q": "How do I cancel my registration?",
+            "a": "Complete the Request to Inactivate Voter Record, and send it to your county election office.",
+            "s": "https://sos.state.mn.us/elections-voting/register-to-vote/common-registration-questions/#typo",
+            "t": 1732406400.0
+        },
+        {
+            "q": "How do I let someone know a voter has died?",
+            "a": "Minnesota election officials get death reports daily from the Minnesota Department of Health and Social Security Administration, so voters that die will be removed from the registration rolls through that process. If you would like to notify election officials separately, you can send the Report of Deceased Voter form to the county election official.",
+            "s": "https://sos.state.mn.us/elections-voting/register-to-vote/common-registration-questions/#typo",
+            "t": 1732406400.0
+        },
+        {
+            "q": "What voter data is public and private?",
+            "a": "A registered voter's name, address, year of birth, and phone number (if given by the voter) is public data. Which elections someone voted in is also public, but how a voter marked their individual ballot is never recorded--ballots are always secret.  Although the data above is public, it is not available to anyone who asks for any purpose--it is restricted to certain people for specific uses. The registered voter list webpage has details about these restrictions as well as ordering information.   Read the privacy notice for voter registration applications to learn what data is kept private and why private data is collected, or the following question if you have concerns about your privacy.",
+            "s": "https://sos.state.mn.us/elections-voting/register-to-vote/common-registration-questions/#typo",
+            "t": 1732406400.0
+        },
+        {
+            "q": "What if I have safety or privacy concerns?",
+            "a": "Your name and address are public when you register to vote. However, if you have safety or privacy concerns, there are ways to register and vote without making your information public:  Safe at Home address confidentiality program Request your address be withheld from the public voter list Inactivate your voter record and reregister later More details about these three options are on the I fear for my personal safety webpage.",
+            "s": "https://sos.state.mn.us/elections-voting/register-to-vote/common-registration-questions/#typo",
+            "t": 1732406400.0
+        },
+        {
+            "q": "How do I register close to Election Day?",
+            "a": "Unlike many states, you can wait until Election Day to register in Minnesota. However, we encourage you to register before Election Dayit will save you time at the polling place.  The deadline to register online is 11:59 p.m. 21 days before Election Day. The deadline to register on paper is 5 p.m. 21 days before Election Day. Within 20 days before the election, you can submit a registration form but it will not be processed until after Election Day. You can always register when you vote, either at a polling place, or when voting absentee.",
+            "s": "https://sos.state.mn.us/elections-voting/register-to-vote/common-registration-questions/#typo",
+            "t": 1732406400.0
+        },
+        {
+            "q": "How do I vote if I'm moving close to Election Day?",
+            "a": "If you moved to Minnesota later than 21 days before an election, you will not have time to establish residence in Minnesota for voting. If you are moving within Minnesota before an election, you will want to register and vote at the address you will be living at on Election Day.  If you're moving from Minnesota, you will need to consult the voting laws of the state you are moving to. If you move from Minnesota within 30 days before a presidential election to a state you are not eligible to register in, you can apply to vote for U.S. president in Minnesota.",
+            "s": "https://sos.state.mn.us/elections-voting/register-to-vote/common-registration-questions/#typo",
+            "t": 1732406400.0
+        },
+        {
+            "q": "Who can vote?",
+            "a": "To vote in Minnesota, you must be a U.S. citizen, at least 18 years old on Election Day, and a resident of Minnesota for at least 20 days. If you had a felony conviction, you can vote if you are not currently incarcerated, even if you are on probation or parole.  Paying out-of-state tuition or having a driver's license from another state does not necessarily mean you can't vote in Minnesota.",
+            "s": "https://sos.state.mn.us/elections-voting/register-to-vote/im-a-college-student/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "What is my voting residence?",
+            "a": "You should register to vote from the address you currently consider home. For many students, this is likely a school address or a parents house. If you still go back to visit but no longer consider it your home, then you should register to vote where you live at school.  If you moved to Minnesota from another state and currently consider Minnesota your home, you can vote here even if you pay out-of-state tuition or have a drivers license from another state.  If you do not consider your school address to be your home, you can apply to vote by mail with an absentee ballot.  Minnesota voters can apply online; otherwise, visit your home states election website.",
+            "s": "https://sos.state.mn.us/elections-voting/register-to-vote/im-a-college-student/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "How do I register to vote?",
+            "a": "You must be registered to vote at your current address. It is best to register before Election Day, but it is not required. To register on Election Day, you must show proof of your name and current address. If you don't have ID or bill with your current address, college students are able to use a photo ID along with their name and address on a student housing list from the college as proof of residence.  Colleges and universities that enroll students accepting state financial aid must send election officials a student housing list. This list includes students who live on-campus and those that have provided their current address to the school and live in the city where campus is located. If you are on the list, show any form of photo ID approved for registering on election day to complete your registration.",
+            "s": "https://sos.state.mn.us/elections-voting/register-to-vote/im-a-college-student/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "What's on my ballot?",
+            "a": "See the candidates and questions that will be on your ballot.",
+            "s": "https://sos.state.mn.us/elections-voting/register-to-vote/im-a-college-student/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "Where do I vote?",
+            "a": "Find out where you vote. Most polling places are open from 7 a.m. to 8 p.m.",
+            "s": "https://sos.state.mn.us/elections-voting/register-to-vote/im-a-college-student/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "Do I need to bring ID?",
+            "a": "If your voter registration is current and active, you do not need to bring identification. This means you were successfully registered at least 21 days before Election Day and you have not moved or changed names since then.  If you need to register or update your registration, or you have not voted in four years or more, you will need to show proof of residence before you vote.",
+            "s": "https://sos.state.mn.us/elections-voting/register-to-vote/im-a-college-student/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "Going abroad?",
+            "a": "Have an absentee ballot emailed to you wherever you are in the world. Learn how.",
+            "s": "https://sos.state.mn.us/elections-voting/register-to-vote/im-a-college-student/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "Who can apply?",
+            "a": "Military members serving outside their home precinct. Citizens living abroad temporarily or indefinitely. Spouses and dependents of military members are also eligible. A spouse, parent, sibling or child age 18 and over can apply on your behalf.  Military members include Army, Navy, Air Force, Marine Corps, Coast Guard, Merchant Marine, Commissioned corps of the Public Health Service, Commissioned corps of the National Oceanic and Atmospheric Administration, and Minnesotans enrolled as students at a U.S. Service Academy.  If you are abroad indefinitely with no plans to return to Minnesota, you can only vote for federal offices.",
+            "s": "https://sos.state.mn.us/elections-voting/other-ways-to-vote/vote-from-military-or-abroad/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "How do you Apply for your ballot?",
+            "a": "Apply online Download a paper application You will automatically receive a ballot for any elections you can vote in through December 31 of the year you apply, or through the next election held in November of an even-number year, whichever is later.  Re-apply annually and after a change of mailing address to ensure your information is up-to-date.   Your ballot application also serves as a voter registration application.",
+            "s": "https://sos.state.mn.us/elections-voting/other-ways-to-vote/vote-from-military-or-abroad/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "What is the Application deadline?",
+            "a": "You can apply for a ballot any time during the year. You are encouraged to apply for your ballot as soon as you are able so that you have enough time to mail it back by Election Day.",
+            "s": "https://sos.state.mn.us/elections-voting/other-ways-to-vote/vote-from-military-or-abroad/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "What is the Deadline to return your ballot?",
+            "a": "Your ballot will not count if it is received after Election Day. Return your materials early enough to account for delivery time via mail, a package delivery service (such as FedEx or UPS) or the diplomatic pouch at a U.S. Embassy or Consulate. You cannot return your ballot by email or fax.",
+            "s": "https://sos.state.mn.us/elections-voting/other-ways-to-vote/vote-from-military-or-abroad/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "How do you Track your ballot?",
+            "a": "You can track the status of your ballot and confirm that it was received and counted.",
+            "s": "https://sos.state.mn.us/elections-voting/other-ways-to-vote/vote-from-military-or-abroad/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "What is an Emergency Write-in Ballot ?",
+            "a": "If you have not received voting materials in time, download and print an emergency ballot called the Federal Write-In Absentee Ballot, or FWAB. The ballot will have blanks for you to write your choices. Your write-in ballot must be received by Election Day.",
+            "s": "https://sos.state.mn.us/elections-voting/other-ways-to-vote/vote-from-military-or-abroad/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "Do I need a witness to certify my ballot?",
+            "a": "No. Minnesota allows military voters and voters living abroad to self-certify their absentee ballot.",
+            "s": "https://sos.state.mn.us/elections-voting/other-ways-to-vote/vote-from-military-or-abroad/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "Can I receive my ballot by email?",
+            "a": "Yes. You can choose to have voting materials sent by email, mail or fax. If you receive materials by email, you must print them. You cannot return your ballot by email or fax.",
+            "s": "https://sos.state.mn.us/elections-voting/other-ways-to-vote/vote-from-military-or-abroad/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "When will I get my ballot?",
+            "a": "Ballots are ready at least 46 days before the election. Election officials will send your ballot as quickly as possible after receiving your application.  Election officials will airmail your ballot if you are outside the continental United States. If you provide a prepaid envelope, your county election office can send your ballot by express mail service.",
+            "s": "https://sos.state.mn.us/elections-voting/other-ways-to-vote/vote-from-military-or-abroad/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "Do I have to register to vote separately?",
+            "a": "No. Your ballot application also serves as a voter registration application.",
+            "s": "https://sos.state.mn.us/elections-voting/other-ways-to-vote/vote-from-military-or-abroad/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "How do I Register before Election Day?",
+            "a": "If you register before Election Day using an outdoor location as your residence, your voter record will be marked 'challenged' because the county could not confirm a specific street address. You will still be able to vote, but at the polling place on Election Day you will be asked to swear under oath that you are living at that location. In order to better ensure your registration remains active through Election Day, it is best to register within two months of that date.",
+            "s": "https://sos.state.mn.us/elections-voting/register-to-vote/im-homeless/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "How do I Register on Election Day?",
+            "a": "You can also register on Election Day. You will need to show proof of residence.  If you live outside, in a shelter, or are staying at a friend's house, you may not have any documents proving you live there. If so, a registered voter from your precinct can go with you to the polling place to sign an oath confirming where you live.   If you live in a shelter, a staff person can go with you to the polling place to confirm you live at the shelter.",
+            "s": "https://sos.state.mn.us/elections-voting/register-to-vote/im-homeless/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "What is a residential facility?",
+            "a": "Residential facilities include:  Adult foster care programs Assisted-living facilities Battered womens shelters Homeless shelters Housing support settings Nursing homes Residential alcohol and chemical treatment programs Residential facilities for persons with developmental disabilities Residential facilities for treatment of mental illness Supervised-living facilities Transitional housing Veterans homes",
+            "s": "https://sos.state.mn.us/elections-voting/register-to-vote/im-in-a-residential-facility/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "Can I get Help with voter registration on Election Day?",
+            "a": "If you need to register on Election Day, you must provide proof-of-residence. This can be difficult when you live in a residential facility. One simple way you can provide proof-of-residence is to ask facility staff to go with you on Election Day to vouch for you. Vouching is when the staff swears that they personally know you live in the facility.  Any staff person can vouch for all eligible voters who are residents of the facility. However, staff must prove their employment with election officials. Methods of proof include:  Showing an employee identification badge. Sending a staff list to election officials in advance. Instructions: send a certified list of residential facility employees who might vouch for residents to the county election office. Submit the list on the form at least 20 days before the election. If there are buildings in different precincts, send a separate form for each. If staff work at several locations, they can appear on multiple lists. Bringing a staff list to the polling place Instructions: prepare a list on your letterhead of staff who are vouching for residents and give it to the election judge at the polling place. The letter must be signed and dated, and include the facilitys name, address, and your name and title. Include this language in the letter: I certify that the following is a list of employees of this facility who may vouch on Election Day for eligible voters who are residents of this facility, and that this facility meets the definition of residential facility contained in Minnesota Statutes 201.061, subd. 3, para.(c).",
+            "s": "https://sos.state.mn.us/elections-voting/register-to-vote/im-in-a-residential-facility/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "Can I Have an agent pick up your ballot (agent delivery)?",
+            "a": "If you live in a nursing home, an assisted-living facility, residential treatment center, group home or battered women's shelter, you can ask someone to pick up and return an absentee ballot for you.  Read more about agent delivery",
+            "s": "https://sos.state.mn.us/elections-voting/register-to-vote/im-in-a-residential-facility/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "What is the Safe at Home Address Confidentiality Program?",
+            "a": "If you have extreme safety needs, the Safe at Home Address Confidentiality Program can help.  When you enroll in this program, all voting is done by absentee ballot through the mail through the Safe at Home office. Your name and address is never shared with your local elections office. Only your marked ballot is counted.  This program is administered by the Office of the Minnesota Secretary of State and offers much more than confidential voting. It is available for people with very high safety concerns. When you enroll in Safe at Home, the Office of the Minnesota Secretary of State assigns you a post office box address that you can use in place of your real address. This alternate address can be used for all your interactions with others and must be accepted by all public offices, private companies, and people with whom you interact while you reside in Minnesota. This allows you to keep your real address inaccessible from the person you fear. The Office of the Minnesota Secretary of State forwards all of your mail to you from the assigned post office box. Applying to Safe at Home requires the assistance of a professional victim advocate.",
+            "s": "https://sos.state.mn.us/elections-voting/register-to-vote/i-fear-for-my-personal-safety/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "What Additional options do I have?",
+            "a": "You can ask to keep your information private by sending a Request to Withhold Voter Information from Public Information to your county election office. Your name and address will still appear on the list of voters at the polling place on Election Day, but will not be available to members of the public.  As an additional safety measure, you can send a Request to Inactivate Voter Record to your county election office. This will prevent election officials from seeing the information in the private database of voters, unless they are specifically looking for your voter record. Once you inactivate your record, you must re-register before voting again.  If you register on Election Day, you can ask to keep your information private and inactivate your record in one step. Bring copies of both the above letters to attach to your registration application. Your information will be entered in the states voter database after the election only as long as needed to verify your voting address, but will be marked as private from its entry. To verify the address, a county election official will send a postcard to ensure it can be delivered to the address. When it is determined the postcard has been delivered to the address, the election official will inactivate the record.",
+            "s": "https://sos.state.mn.us/elections-voting/register-to-vote/i-fear-for-my-personal-safety/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "You can vote if...?",
+            "a": "you were charged with or convicted of a misdemeanor or gross misdemeanor. you are in jail, but are not currently serving a felony sentence. you have been charged with a felony, but you havent been convicted. you have been given a stay of adjudication. you have been convicted of a felony, but are not incarcerated. you are on work release, even if you return to a jail facility at night.  you are residing in a residential reentry center as a federal alternative to pretrial detention, state supervised release, or other non-incarcerated purpose. You should consult with your probation officer if you have questions about whether you are considered incarcerated while residing at the residential reentry center. ",
+            "s": "https://sos.state.mn.us/elections-voting/register-to-vote/i-have-a-criminal-record/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "You cannot vote if...?",
+            "a": "you are currently incarcerated serving a felony sentence in prison, jail, or (for federal felony sentences) residential reentry center.",
+            "s": "https://sos.state.mn.us/elections-voting/register-to-vote/i-have-a-criminal-record/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "Not sure about your legal status?",
+            "a": "Sometimes it is not clear whether a felony charge results in a felony conviction. If you are unsure, you may want to seek legal advice from an attorney.",
+            "s": "https://sos.state.mn.us/elections-voting/register-to-vote/i-have-a-criminal-record/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "How does automatic voter registration work?",
+            "a": "Automatic voter registration is called automatic because of its convenience for applicants. In fact, the process of registering someone to vote under this new law is complex and involves multiple points of human verification.  The verification process starts with a DVS employee reviewing the documentation provided by the applicant at current and previous transactions to determine if the applicant is a U.S. Citizen. If the applicant provided citizenship-affirming documentation, then their information will be sent to the Office of the Minnesota Secretary of State. If citizenship affirming documentation was not provided, no information is sent. State election officials will then conduct an additional review to verify that the applicants right to vote has not been taken away by a court. If confirmed, the applicants information will be provided to their county election office to be registered.  Applicants will be mailed an opt-out notice to their residence. If the opt-out is returned within 20 days, then the applicant will not be registered. If the opt-out notice is not returned, the voter will be registered to vote.  The opt-out notice is available in:  Spanish - Espaol Somali - Soomaali  Hmong - Hmoob Amharic -  Khmer -  Lao -   Oromo - Afaan Oromo Russian - P Chinese -   Vietnamese - Ting Vit",
+            "s": "https://sos.state.mn.us/elections-voting/register-to-vote/automatic-voter-registration/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "When will I be registered to vote?",
+            "a": "Since there is a 20-day opt-out period and a verification process, voter registration may take 4-6 weeks from when a person first applies for their state-issued ID. Minnesotans can check their voter registration status online.  Once a person is registered to vote, a postcard will be mailed to their address with their polling place location, precincts, and election districts. If the postal verification card is unable to be delivered by the U.S. Postal Service, their voter record will be challenged. A second postal verification card is sent and if that card cannot be delivered their voter record will be inactivated.",
+            "s": "https://sos.state.mn.us/elections-voting/register-to-vote/automatic-voter-registration/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "What if I do not want to register to vote?",
+            "a": "Once eligibility has been verified by DVS, a notification will be mailed to the applicant. The notice will include information on how to opt-out if the person does not wish to register to vote. If the opt-out notice is returned within 20 days, they will not be registered to vote. Additionally, when registered, voters may request to inactivate their voter record at any time.",
+            "s": "https://sos.state.mn.us/elections-voting/register-to-vote/automatic-voter-registration/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "Who is eligible for automatic voter registration?",
+            "a": "Only individuals who present citizenship documentation, such as a U.S. birth certificate or U.S. passport, will be registered to vote.  Eligible 16- and 17-year-olds will be pre-registered to vote and will be automatically registered to vote when they turn 18.  In Minnesota, you are eligible to register to vote if you:  Are at least 16 years old to pre-register and at least 18 years old on the day of the election in which you intend to vote Are a U.S. citizen Maintain residence in Minnesota for at least 20 days before Election Day Are not currently incarcerated for a felony conviction Are not under court-ordered guardianship in which the court order revokes your right to vote Have not been found by a court to be legally incompetent to vote",
+            "s": "https://sos.state.mn.us/elections-voting/register-to-vote/automatic-voter-registration/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "What if I am already registered to vote?",
+            "a": "If you apply for or renew your license or ID card with Driver and Vehicle Services, and the data provided matches the name and address associated with your voter record, no action will be taken.  If your name and/or address have changed, that information will be provided to your county election office to update your voter record. You will not receive the automatic voter registration notice as you are already registered to vote. However, if your address has changed, you will receive a postcard listing your updated address, along with your polling place location, precincts, and election districts.",
+            "s": "https://sos.state.mn.us/elections-voting/register-to-vote/automatic-voter-registration/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "How to Apply for absentee ballot?",
+            "a": "To request an absentee ballot for 2024 elections, use the online absentee application, or one of downloadable applications below.  Downloadable absentee applications:  Absentee Application (English) Large Print Absentee Application (English) Espaol (Spanish) Hmoob (Hmong) Soomaali (Somali) Ting Vit (Vietnamese) P (Russian)  (Chinese)  (Lao) Afaan Oromo (Oromo)  (Khmer)  (Amharic) Return your completed absentee application to your county election office by mail, fax or email.   To request an application in an alternative format such as Braille, please call 1-877-600-8683. ",
+            "s": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "What is the Application deadline?",
+            "a": "You can apply for a ballot any time during the year, except the day of the election. Leave time for election officials to mail your ballot. Your returned ballot must be received by Election Day.",
+            "s": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "How do you Track your ballot?",
+            "a": "You can track the status of your ballot and confirm that it was received and counted. ",
+            "s": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "What is the Deadline to return your ballot?",
+            "a": "Your ballot will not count if it is received after Election Day.  Returning your ballot in person You can return your ballot in person no later than 8 p.m. on Election Day to the election office that sent your ballot. You can drop off ballots for up to three other voters. You will need to show identification with name and signature when returning a ballot for someone else. Some voters may also return it in one of the designated ballot drop box locations. You may not drop your ballot off at your polling place on election day.  Returning your ballot by mail Your ballot must be received by Election Day  or it will not be counted. Return your ballot by mail or package delivery service (such as FedEx or UPS).",
+            "s": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "Can I Have an agent pick up your ballot (agent delivery)?",
+            "a": "In special situations, you may ask an agent to pick up and return an absentee ballot for you. This is called agent delivery. Learn more about agent delivery.",
+            "s": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "Will my absentee ballot count?",
+            "a": "Your absentee ballot will count as long as you return your ballot on time and fill out the forms correctly.",
+            "s": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "Who can witness my ballot?",
+            "a": "You will need a witness when you vote and complete your ballot. The witness can be either a registered Minnesota voter or a notary. Your witness must sign the signature envelope and list their address. Notaries should write their name and title, sign the signature envelope, and affix their notary stamp.",
+            "s": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "What happens after I return my ballot?",
+            "a": "Local election officials must check that you and your witness filled out the signature envelope correctly. If you did not fill out the signature envelope correctly, election officials will mail you replacement materials, including an explanation for why your signature envelope was rejected. Or, if there are fewer than five days before Election Day, election officials will try to contact you. In this case, you can vote in person at your local election office or at your polling place on Election Day.",
+            "s": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "If I have already requested an absentee ballot, can I change my mind and vote in the polling place?",
+            "a": "As long as your absentee ballot hasnt been counted by your election officials, you may still cast a ballot in person by voting in your polling place on Election Day or at your local early voting location. You can track the status of your absentee ballot to see when it is sent to you and when it is received by election officials. After voting in person, the unique ballot ID number on your original absentee ballot will be invalidated, so that if it is returned to the election office the officials will not count it. If you plan on voting in person, please do not bring your absentee ballot with you. Your election official will provide you with a new ballot to complete that day.  If you have received an absentee ballot but are unsure if it will arrive at your election office in time to be counted, you may also consider contacting your local election official to see what options you have for locations and times to drop off your absentee ballot.",
+            "s": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "What if I make a mistake on my ballot?",
+            "a": "You can ask the election office that sent your ballot for a replacement ballot. If there is not enough time to get a new ballot, completely cross out the name of the candidate you accidentally marked. Then mark the candidate you prefer. Do not initial your corrections.",
+            "s": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "What if my ballot has not arrived, is lost or damaged?",
+            "a": "Contact your county election office. You can receive a replacement ballot in person or by mail. The election official will cancel your original ballot. Do not return your original ballot, even if you eventually find or receive it. Only return your replacement ballot.",
+            "s": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "What if I returned my ballot and want to change my vote?",
+            "a": "You can ask to cancel your ballot until the close of business 19 days before Election Day. After that time, you cannot cancel your ballot. To cancel your ballot, contact the election office that sent your ballot. Your options are to have a new ballot mailed; vote in person at your local election office; or vote at your polling place on Election Day.",
+            "s": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "Can I have ballots sent automatically?",
+            "a": "You can have absentee ballots sent to your residential address before each election. Register to vote (even if your name and address have not changed) and mark the box to request an absentee ballot be sent to you before all upcoming elections you're eligible to vote in. Ballots are usually mailed about 46 days before an election. If you would like to cancel this in the future, contact your county election office. ",
+            "s": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/",
+            "t": 1732406400.0
+        },
+        {
+            "q": "What is the Absentee Ballot Process?",
+            "a": "Absentee voting is available and no excuse is required. The last day to request an absentee ballot is 1 day before the election. You can return your absentee ballot request form through mail, in person or at your local elections office. Voted ballots must be received by Election Day in order to be counted. You can sign up to track your absentee ballot on your Secretary of State website. Absentee ballots begin being counted on Election Day.    You do not need to be registered to vote to request an absentee ballot. A voter registration application will be included in the materials. You must show your witness an accepted proof of residence when registering.  Returning your ballot:  You have multiple options to return your ballot: you can mail it, deposit it in a secure drop box, use a package delivery service like Fed Ex or UPS, or personally return the ballot in person at your local elections office.   Those who requested an absentee ballot but end up voting in person have that option as long as the voter has not returned their ballot. The voter can go to their early voting location before Election Day or their polling place on Election Day. They should tell the election officials that they requested an absentee ballot but want to vote in person instead. The election official will cancel their absentee ballot and allow the voter to vote in person. The voter should shred their absentee ballot when they return home; no other voter may use it.  Permanent Mail Voter List  Effective June 2024, Minnesota will introduce a permanent mail voter list, enabling voters who apply for \"permanent absentee voter status\" to receive a mail ballot for all elections. Absentee ballots will be sent to voters on the permanent absentee voter list at least 46 days before each regularly scheduled election.  Overseas citizens and U.S. military personnel can register to vote and request an absentee ballot at the Overseas Vote Foundation.",
+            "s": "https://www.vote411.org/minnesota",
+            "t": 1732406400.0
+        },
+        {
+            "q": "What is the Ballot Notice and Cure Process?",
+            "a": "Minnesota does not have a ballot curing process for absentee/mail ballots or provisional ballots after Election Day. If you did not fill out the signature envelope correctly, election officials will mail you replacement materials, including an explanation for why your signature envelope was rejected. Or, if there are fewer than five days before Election Day, election officials will try to contact you. In this case, you can vote in person at your local election office or at your polling place on Election Day. You can track the status of your absentee/mail ballot using your states online tool. ",
+            "s": "https://www.vote411.org/minnesota#ballot-notice-and-cure-process",
+            "t": 1732406400.0
+        },
+        {
+            "q": "Where can I find Campaign Finance Information?",
+            "a": "For information on federal campaign contributions, please visit Open Secrets.",
+            "s": "https://www.vote411.org/minnesota#campaign-finance-information",
+            "t": 1732406400.0
+        },
+        {
+            "q": "Where can I find Candidate and Ballot Measure Information?",
+            "a": "Information on local, state and federal candidates and ballot measures may be available here.",
+            "s": "https://www.vote411.org/minnesota#candidate-and-ballot-measure-information",
+            "t": 1732406400.0
+        },
+        {
+            "q": "What are drop boxes?",
+            "a": "Some local election officials are using drop boxes. Staffed drop boxes can be used to drop off a voter's own ballot, as well as up to three other voters' ballots if they bring an ID. Unstaffed drop boxes can only be used to drop off a voter's own ballot. To determine what kind of drop boxes are in a voter's area and where they are located, voters should contact their local election office. ",
+            "s": "https://www.vote411.org/minnesota#drop-boxes",
+            "t": 1732406400.0
+        },
+        {
+            "q": "When is Early Voting?",
+            "a": "You can vote early at your local elections office. For most elections, early voting takes place during normal business hours, beginning 46 days before the election.  For federal, state, or county elections, early voting locations must be open the last Saturday before the election (10am-3pm) and the day before the election until 5pm.  If you are not registered before going to vote early, you may register in person as long as you show proof of residence.  Some places may have additional early voting hours. Be sure to contact your local election official for more information.",
+            "s": "https://www.vote411.org/minnesota#early-voting",
+            "t": 1732406400.0
+        },
+        {
+            "q": "When are the Election Dates?",
+            "a": "The next election date can be found here https://www.vote411.org/minnesota.  To find out information about local elections contact your local League of Women Voters or contact your local Board of Elections.",
+            "s": "https://www.vote411.org/minnesota#election-dates",
+            "t": 1732406400.0
+        },
+        {
+            "q": "What are the Eligibility Requirements?",
+            "a": "To be eligible to vote in Minnesota, you must be:  At least 18 years old on Election Day 16 and 17-year-olds may pre-register to vote beginning June 2023 A citizen of the United States A resident of Minnesota for 20 days immediately before Election Day Not been found by a court to be legally incompetent to vote. Not have been ruled legally incompetent by a court of law Incarcerated Voters and Returning Citizens  Effective June 1, 2023, individuals convicted of a felony will have their right to vote restored upon completion of incarceration, including individuals on parole or probation. Your voting rights are not restricted by pretrial detention, misdemeanors, probation, or parole.  Voters without traditional residence:   When you register to vote in Minnesota, you must provide your current residence. This is where you sleep, so if you sleep in a shelter, at a friend's house, or outside, that is your voting residence. If you sleep somewhere without a fixed address, write a description of its location on line four of your voter registration application. For example, \"In the NW corner of Jefferson Park near the intersection of Winston Ave. and Smith St.\"   If you register before Election Day using an outdoor location as your residence, you will be asked to swear under oath that you live there when you go to the polls on Election Day. You can also register on Election Day if you have proof of residence. If you live in a shelter, a staff person can go to the polling place to confirm you live there.",
+            "s": "https://www.vote411.org/minnesota#eligibility-requirements",
+            "t": 1732406400.0
+        },
+        {
+            "q": "What ID is Needed for Voter Registration?",
+            "a": "To register to vote by mail you need to provide your state driver's license number or state ID number. If you have not been issued a state driver's license or state ID, you will need to provide the last 4 digits of your Social Security number. If you have none of these, write NONE in box #10b of your voter registration application. This is required by law. To register at the polling place on Election Day, you must have authorized proof of residence.  This includes:  A valid Minnesota driver's license, learner's permit, Minnesota ID card or receipt for any of these A valid student ID card including your photo, if your college has provided a student housing list to election officials A Tribal ID card that contains your picture, name, address and signature A valid registration in the same precinct under a different name or address A notice of late registration sent to you by your county auditor or city clerk A voter registered in the same precinct as you who can confirm your address with a signed oath An employee of the residential facility where you live who can confirm your address with a signed oath Both 1) a phot ID from the list below and 2) a current bill from the list below with your name and address in the precinct Photo IDs (may be expired)  Minnesota driver's license Minnesota ID card United States passport United States military ID card Tribal ID or veteran's card that includes a signature Minnesota University, College or Technical College ID card Bills (delivered electronically or by mail)  Utility bill due within 30 days of election day (telephone, TV, internet service, electric, gas, solid waste, sewer services, water) Rent or mortgage statement dated within 30 days of election day Current student fee statement Credit card or bank statement dated within 30 days You must re-register if your name or address changes or you have not voted in more than four years.",
+            "s": "https://www.vote411.org/minnesota#id-needed-for-voter-registration",
+            "t": 1732406400.0
+        },
+        {
+            "q": "What ID is Needed for Voting?",
+            "a": "You only need ID to vote if you have not registered before arriving at the polling precinct or if you are a first time federal voter who registered by mail and whose registration was not verified. You must show one of the same IDs as are valid on Election Day registration.  Voters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/minnesota#id-needed-for-voting",
+            "t": 1732406400.0
+        },
+        {
+            "q": "When are the Official Results available?",
+            "a": "Official results are not available on Election Day. Election officials are working around the clock to count an unprecedented number of ballots, and its essential that they take the time to make sure every vote is counted.  Official election results will be uploaded on Minnesotas Secretary of State website as they become available. For more information on how Minnesota is ensuring secure and fair elections, visit the state's resource page.",
+            "s": "https://www.vote411.org/minnesota#official-results",
+            "t": 1732406400.0
+        },
+        {
+            "q": "How do overseas and military voters participate in elections?",
+            "a": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation.  If you have additional questions about elections and voting overseas you can use our state specific elections official directory or contact the Overseas Vote Foundation.",
+            "s": "https://www.vote411.org/minnesota#overseas-and-military-voters",
+            "t": 1732406400.0
+        },
+        {
+            "q": "Where can I find Poll Worker Information?",
+            "a": "You can make sure we have safe, fair, and efficient elections for all. Become a poll worker today!  In order to be a poll worker in Minnesota, you must:  Be eligible to vote Be able to read, write, and speak English Be at least 18 years of age Students 16 and 17 years-old can be election judge trainees Be entitled to compensation, but may decline it. Be a resident of the state 20 days prior to the election Complete required training. To sign up, contact your local board of elections.  Interpretation Services for Voters:  Beginning in 2024:  The Secretary of State or your County Auditor must enter into contracts with translators to ensure the provision of election materials in Minnesota's three most commonly spoken non-English languages and additional languages determined based on specific state demographic criteria and/or by request. In precincts where language minority voters exceed 20%, an election judge proficient in a specific language must be present at polling places if at least ten voters request interpretation services, through the Secretary of State or County Auditor, at least 30 days prior to the election. The Secretary of State is responsible for making translated election materials available on their website.",
+            "s": "https://www.vote411.org/minnesota#poll-worker-information",
+            "t": 1732406400.0
+        },
+        {
+            "q": "What are the Polling Place Hours?",
+            "a": "Most polling places are open from 7:00 am to 8:00 pm. Please contact your county auditor, county election office, or township clerk for details.",
+            "s": "https://www.vote411.org/minnesota#polling-place-hours",
+            "t": 1732406400.0
+        },
+        {
+            "q": "What is the Polling Place Locator?",
+            "a": "You can find your polling place by utilizing your state resource.  If you have further questions on your polling place location, please contact your county auditor, county election office, or township clerk.",
+            "s": "https://www.vote411.org/minnesota#polling-place-locator",
+            "t": 1732406400.0
+        },
+        {
+            "q": "What is the Primary Election Process?",
+            "a": "Minnesota is an open primary state. You can choose the partys ballot you wish to vote. This decision does not register you with that party and it is a private decision.  If you have any questions about your states primary election, please contact your local election officials.",
+            "s": "https://www.vote411.org/minnesota#primary-election-process",
+            "t": 1732406400.0
+        },
+        {
+            "q": "What is Provisional Voting?",
+            "a": "There is no provisional voting in Minnesota, Election Day (same-day) registration is available.",
+            "s": "https://www.vote411.org/minnesota#provisional-voting",
+            "t": 1732406400.0
+        },
+        {
+            "q": "What are the Provisions for Voters with Disabilities?",
+            "a": "If you need help with voting, you can ask the election judges at the polling place for assistance in reading or marking the ballot. You may also bring someone to help you.  All polling places should be fully accessible with clearly marked accessible doors and parking spaces. If you cannot easily leave your car, you can ask for the ballot to be brought out to you. If you are unable to go to the polling place due to an illness or disability, you can vote by absentee ballot.  If you have limited vision, you may ask for voter registration and absentee ballot instructions in an alternative format. If you are hearing impaired, every county and most cities will have a TDD device for questions. Materials can be provided in braille, on audio tape, on CD or in large print. To order any brochures or to order a voter registration application and instructions on how to fill it out, contact the secretary of state's elections division at 651-215-1440 or toll free, at 1-877-600-8683. TTY: 1-800-627-3529.  If you need assistance completing the election materials, you may bring a family member, friend, neighbor or anyone you choose to help you vote. You may NOT bring your employer, your union, or a candidate for office to help you vote.  For more information, you can utilize the American Association of People With Disabilities (AAPD) resource or your state's resource.",
+            "s": "https://www.vote411.org/minnesota#provisions-for-voters-with-disabilities",
+            "t": 1732406400.0
+        },
+        {
+            "q": "What is the Registration Deadline?",
+            "a": "Election Day registration is available in Minnesota. However, it is encouraged that you register before Election Day. Here are your options:  The deadline to register online is 11:59 p.m., 21 days before Election Day. The deadline to register on paper is 5 p.m., 21 days before Election Day. You may also register on Election Day at your polling place. Automatic Voter Registration (AVR)  Starting June 2023, Minnesota will implement automatic voter registration for eligible individuals when they apply for a driver's license, instruction permit, state ID card, or provide citizenship confirmation at the Department of Public Safety or another participating state agency. Existing registered voters will have their information updated to reflect any changes in address or name provided to the agency, and new or updated registrants will receive a postcard offering the option to decline their new registration or registration change.  Not registered? Use our registration tool to fill out your application!",
+            "s": "https://www.vote411.org/minnesota#registration-deadline",
+            "t": 1732406400.0
+        },
+        {
+            "q": "Will I have Time Off To Vote?",
+            "a": "Employers are required to allow people to take time off from work for the time necessary to vote in person on Election Day and before Election Day when in-person voting is permitted. The time off is paid.",
+            "s": "https://www.vote411.org/minnesota#time-off-to-vote",
+            "t": 1732406400.0
+        },
+        {
+            "q": "How do I Verify my Voter Registration?",
+            "a": "To verify your voter registration status click here.",
+            "s": "https://www.vote411.org/minnesota#verify-voter-registration",
+            "t": 1732406400.0
+        },
+        {
+            "q": "What are the Voting Machines used?",
+            "a": "The voting systems used in Minnesota are optical scan, paper ballots and DRE.  Optical Scan: With this system, you will receive a card or sheet of paper, which you take over to a private table or booth. The card has the names of the various candidates and ballot measures printed on it. With a pen or pencil you fill in a little box or circle or the space between two arrows. When you are finished filling out all the cards, you may bring the cards over to a ballot box, where poll workers will show you how to put the cards in the box. Or in some places, you may feed the completed cards or papers into a computer device that checks your card or paper right there at the polling place to make sure you have voted the way you want to and counts the votes.  Paper Ballots: Paper ballots are one of the oldest ways of voting in America. They are still used in a few places on Election Day. When you come to the polling place, you will get a paper ballot from the poll worker. You take it to the voting booth, and use a pen or pencil to mark a box next to your candidate and issue choices. You then drop the marked ballot into a sealed ballot box.  Direct Recording Electronic (DRE): This is the newest kind of system in use in the U.S. All the information about who and what you are voting for is on an electronic screen like a TV or computer screen.  There are many variations of DREs because lots of companies are inventing new ones, and many cities, counties and states are trying them out. Usually, after you have signed in, the poll workers will give you a card that you slide into a device to start your voting session.  Some of these devices will show all of the candidates and ballot choices on one big screen. Often, with these big screen devices you push a button next to the name of the candidate you want to vote for (or yes or no on a ballot measure). On other DREs, the screen is set up to show pages. On each screen or page, there will probably be one thing to vote on. For example, on one screen or page, you might vote for president. Then you might move to the next page to vote for senator. Often these small-screen devices have a touch screen, where you touch the screen next to the name of the person you want to vote for. Other devices have a key pad. And some have a keyboard, so you can write in the name of someone you want to vote for.  You let the system know you are finished voting by pushing a button, touching the screen or entering something on a keypad.  You can learn more about voting systems by checking out the Elections Assistance Commissions (EAC) resource.",
+            "s": "https://www.vote411.org/minnesota#voting-machines",
+            "t": 1732406400.0
+        },
+        {
+            "q": "What is the Student Voting Process?",
+            "a": "Students should register to vote from the address they currently consider home. For many, this is likely a school address or a parents house.   If you moved to Minnesota from another state and currently consider Minnesota your home, you can vote here even if you pay out-of-state tuition or have a drivers license from another state. Please note that you cannot be registered to vote in more than one state.  If you do not consider your school address to be your home, you can apply to vote-by-mail with an absentee ballot.  Providing Voter Registration Forms to Students Postsecondary schools in Minnesota are required to:  provide voter registration forms to all students each spring and fall make voter registration forms available to all students each May and September. report to the secretary of state each November the status of implementing requirements to distribute voter registration forms to students.   Election Day registration is available in Minnesota. However, it is encouraged that you register before Election Day.",
+            "s": "https://www.vote411.org/minnesota#student-voting-process",
+            "t": 1732406400.0
+        },
+        {
+            "q": "How do I Vote by Mail?",
+            "a": "Some jurisdictions in Minnesota hold elections by mail instead of voting at polling places. All non-metropolitan townships and cities with less than 400 registered voters located outside of the Minneapolis/St. Paul seven-county metropolitan area can choose to hold elections by mail. If you are an active registered voter in a mail ballot precinct, you will be sent a mail ballot to your residence without having to complete an absentee ballot application.  Other options for mail ballot precinct voters on Election Day:  Mail ballot voters on Election Day from 7 a.m. to 8 p.m. can:  Return their voted mail ballot in-person to their county elections office Have someone else return their voted mail ballot to their county elections office (limit of three others ballots can be returned). Take their unvoted ballot packet to their county election office, vote it, and turn it in. Go to their county election office and inform them that your mail ballot was spoiled, lost, thrown away, etc. and: Have a replacement ballot issued Vote the replacement ballot Turn it in Vote an absentee ballot because they are currently not an active registered voter on Election Day For more information on mail ballot precincts click here.  ",
+            "s": "https://www.vote411.org/minnesota#vote-by-mail",
+            "t": 1732406400.0
+        }
+    ]
+}

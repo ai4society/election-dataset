@@ -1,0 +1,320 @@
+{
+    "state": "ID",
+    "num_questions": 52,
+    "num_answers": 52,
+    "contributor": "Aishneet Juneja",
+    "questions": [
+        {
+            "q": "How do I register to vote?",
+            "a": "You can register when you vote in person, mail a registration form to your county clerk, or visit your county clerk\u2019s office during business hours.",
+            "s": "https://voteidaho.gov/frequently-asked-questions/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "Am I Registered to Vote?",
+            "a": "You can check your voter registration online to see if you\u2019re registered to vote.",
+            "s": "https://voteidaho.gov/frequently-asked-questions/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "I\u2019ve moved since I voted last. How do I change my address on my voter registration?",
+            "a": "Update your address or other voter information here: update your voter registration.\r\nYou can also update your information by mail, or by visiting your county elections office.",
+            "s": "https://voteidaho.gov/frequently-asked-questions/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "When is the deadline to register or to update my voter registration?",
+            "a": "The deadline to register to vote using the online portal is 24 days before an election.",
+            "s": "https://voteidaho.gov/frequently-asked-questions/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What should I do if my voter registration information is incorrect or missing?",
+            "a": "Update your address or other voter information here: update your voter registration.\r\nYou can also update your information by mail, or by visiting your county elections office.",
+            "s": "https://voteidaho.gov/frequently-asked-questions/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "Do I need an ID to register to vote?",
+            "a": "An Idaho driver\u2019s license with a current address is required to register to vote. To register to vote in person, you will need a photo ID and proof of residence. Register to vote using your primary Idaho residence. See our registration information page for more details.",
+            "s": "https://voteidaho.gov/frequently-asked-questions/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "Who can register to vote in Idaho?",
+            "a": "Requirements to register:",
+            "s": "https://voteidaho.gov/frequently-asked-questions/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "Am I considered an Idaho resident?",
+            "a": "You may only be registered to vote in one place. If you\u2019ve lived in Idaho for at least 30 days, you may register to vote in Idaho using an accepted form of ID and proof of residence.",
+            "s": "https://voteidaho.gov/frequently-asked-questions/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "How do I vote in Idaho?",
+            "a": "The first step to voting is registering and verifying your identity and proof of residence. You can choose to vote at your assigned voting location on Election Day at early voting, or by absentee.",
+            "s": "https://voteidaho.gov/frequently-asked-questions/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "Where do I vote on Election Day?",
+            "a": "To vote in person on Election Day, you must visit your assigned voting location based on your physical address. Find your voting location here: where do I vote?.",
+            "s": "https://voteidaho.gov/frequently-asked-questions/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "When is the next election?",
+            "a": "Check the election calendar for important upcoming elections and deadlines. Idaho has two possible dates for elections each year in May and November.",
+            "s": "https://voteidaho.gov/frequently-asked-questions/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What is on the ballot?",
+            "a": "Visit our election information page to view a list of contests and measures up for election in your county.",
+            "s": "https://voteidaho.gov/frequently-asked-questions/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What identification do I need to vote?",
+            "a": "If you\u2019ve already registered, you\u2019ll be asked to show one of the following forms of photo identification:",
+            "s": "https://voteidaho.gov/frequently-asked-questions/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "When does early voting start?",
+            "a": "Many Idaho counties offer early voting, typically beginning two weeks before an upcoming election. Check with your county elections office.",
+            "s": "https://voteidaho.gov/frequently-asked-questions/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What if I have a disability and want to vote in person?",
+            "a": "Voting locations on Election Day and early voting meet federal requirements for accessibility. Learn more about accessible voting in Idaho.",
+            "s": "https://voteidaho.gov/frequently-asked-questions/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "How do I vote if I live overseas?",
+            "a": "If you are a United States citizen (civilian or military) currently living abroad and eligible to vote in Idaho, you may request a ballot through the Federal Voting Assistance Program. Learn more.",
+            "s": "https://voteidaho.gov/frequently-asked-questions/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "I requested an absentee ballot, but I want to vote in person. What should I do?",
+            "a": "Bring your absentee ballot to early voting or to your voting location on Election Day. A poll worker will \u201cspoil\u201d your absentee ballot and issue you a new ballot to vote on.",
+            "s": "https://voteidaho.gov/frequently-asked-questions/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "I made a mistake on my ballot. What can I do?",
+            "a": "If you need to correct a mistake when you fill out your ballot, take the ballot to a poll worker and exchange it for a new ballot. Once you cast your ballot, you cannot correct any mistakes or have a new ballot issued to you.",
+            "s": "https://voteidaho.gov/frequently-asked-questions/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "I am unable to visit my voting location on Election Day. Can I still vote?",
+            "a": "Absentee voting allows you to vote if you are out of town on Election Day or prefer to vote from the comfort of your home. Any registered voter in Idaho may request an absentee ballot to be mailed to their address. Learn more.",
+            "s": "https://voteidaho.gov/frequently-asked-questions/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "How do I request an absentee ballot?",
+            "a": "If you are a registered voter, you may request an absentee ballot online. Learn more about absentee ballots.",
+            "s": "https://voteidaho.gov/frequently-asked-questions/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "How do I check the status of my absentee ballot?",
+            "a": "You may check to see if your county clerk has mailed an absentee ballot on your voter record. You may also check to see if your county election office has received your completed ballot.",
+            "s": "https://voteidaho.gov/frequently-asked-questions/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "Can anyone vote absentee?",
+            "a": "Any registered voter in Idaho may request an absentee ballot to be mailed to their address. Learn more about absentee voting.",
+            "s": "https://voteidaho.gov/frequently-asked-questions/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "How can I become an Election Worker?",
+            "a": "Election workers, also known as poll workers or election officials, are community members who participate in the administration of elections. Poll workers earn a daily rate that varies by county and position. To learn more and apply to be an election worker in your county, visit the information page.",
+            "s": "https://voteidaho.gov/frequently-asked-questions/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "How do I run for office?",
+            "a": "To run for office, you must meet the statutory eligibility requirements, file a declaration of candidacy, and pay the required fee or provide required number of valid signatures. Learn more.",
+            "s": "https://voteidaho.gov/frequently-asked-questions/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "How can I add a measure to the ballot?",
+            "a": "Proposed initiatives and constitutional amendments are filed with the Idaho Secretary of State. When proposals reach the required number of valid signatures, they will appear on the ballot. Learn more about the requirements.",
+            "s": "https://voteidaho.gov/frequently-asked-questions/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "How do I find election results?",
+            "a": "Find Idaho election results, including historical results dating back to 1990, on our election results page.",
+            "s": "https://voteidaho.gov/frequently-asked-questions/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "How do I contact my local county election office/county clerk?",
+            "a": "In Idaho, elections are conducted by the county clerk\u2019s offices in each of the forty-four counties. For questions about upcoming elections, what is being voted on, where you vote, registration, and more, contact your county clerk.",
+            "s": "https://voteidaho.gov/frequently-asked-questions/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What is a primary election?",
+            "a": "Party Primary Elections to select party candidates for federal, state, and county offices are held in even-numbered years on the third Tuesday in May. Those candidates who receive the most votes during the primary election go on to run in the general election.\r\nYour party choice can affect which primary election races you are eligible to vote in. Learn more.",
+            "s": "https://voteidaho.gov/frequently-asked-questions/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "How do I change my political party preference?",
+            "a": "To change your political party affiliation, you can submit a signed form to your county clerk to change your political party affiliation or become \u201cunaffiliated\u201d. Your party choice can affect which primary election races you are eligible to vote in. If you are already affiliated with a party, be aware of deadlines to change your affiliation ahead of a primary election. See more information.",
+            "s": "https://voteidaho.gov/frequently-asked-questions/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "How do I request election information?",
+            "a": "To request information not found on the VoteIdaho website, submit a public records request.",
+            "s": "https://voteidaho.gov/frequently-asked-questions/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What is redistricting?",
+            "a": "The Idaho Commission on Reapportionment establishes new Congressional and Legislative district boundaries every ten years following the national census. Based on those districts, counties define voting precincts. Precincts are used to determine where residents vote and how many residents vote in the same location.",
+            "s": "https://voteidaho.gov/frequently-asked-questions/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "Can I vote on a provisional ballot?",
+            "a": "Idaho does not utilize provisional ballots. Voters may register to vote at early voting or at their voting location on Election Day with a photo ID and proof of residence.",
+            "s": "https://voteidaho.gov/frequently-asked-questions/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What is a recall election? Is a recall allowed in Idaho?",
+            "a": "A recall election in Idaho is a process that allows eligible voters to petition for the removal of an elected official from office before their term is completed. If enough valid signatures are collected on a recall petition, a special election is held to decide whether the official should be recalled. See Idaho Code, Title 34, Chapter 17.",
+            "s": "https://voteidaho.gov/frequently-asked-questions/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "When is a recount of results conducted?",
+            "a": "A candidate may request a recount if the margin of victory is within a certain percentage. Candidates or voters who request a recount may be required to cover the costs of the recount. The process for requesting a recount can be found in the Idaho Code, Title 34, Chapter 21.",
+            "s": "https://voteidaho.gov/frequently-asked-questions/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What is voter intimidation?",
+            "a": "Voter intimidation refers to actions or behavior discouraging or preventing eligible voters from exercising their right to vote. Idaho has laws in place to protect voters from intimidation. These laws ensure voters can cast their ballots freely and without interference (see Idaho Code Title 18, Chapter 23). If you have concerns, talk to an election worker, your county election office, or local law enforcement.",
+            "s": "https://voteidaho.gov/frequently-asked-questions/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What is a poll watcher, and who is authorized to assume that role?",
+            "a": "The State of Idaho allows Poll Watchers to observe election activities to ensure fair and honest elections. The primary responsibility of the Poll Watcher is to observe the conduct of the election at a specific polling place on behalf of a candidate, party, or ballot question on Election Day. A poll watcher is not the same as a poll worker. See Idaho Statute, Chapter 34-304.",
+            "s": "https://voteidaho.gov/frequently-asked-questions/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What is \u201celectioneering\u201d?",
+            "a": "Electioneering refers to activities that promote a specific candidate or political party at or near polling places on Election Day. In Idaho, electioneering is prohibited within 250 feet of a voting location. See Idaho Code, 18-2318.",
+            "s": "https://voteidaho.gov/frequently-asked-questions/",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What is the deadline for receiving absentee ballots in Idaho?",
+            "a": "In Idaho, voted absentee ballots must be received by 8:00 p.m. MST on November 5th, whether returned by mail or in person.",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "How to request and return vote-by-Mail Ballot?",
+            "a": "You can fill out an absentee ballot request form online here, or any registered voter may apply in writing to the County Clerk to receive an absentee ballot. The application must give your name, address, and mailing address to which the ballot will be forwarded. The mail-in application must be signed personally by you and be received by the County Clerk no later than 11 days before the election. Note: only you, a relative, a caregiver, or a member of your household may return your completed ballot unless they are compensated by you, a postal worker, or an elections official.",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "How to Vote in Person if Vote-by-Mail Ballot was Requested?",
+            "a": "Those who requested an absentee ballot but end up voting in person: Voters must surrender their absentee ballots before receiving a regular ballot. Do not mail a ballot and vote in person. In-person voting at the absentee elector's polling place ends at 5:00 pm on the Friday before the election.",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What are the eligibility requirements to vote?",
+            "a": "To be eligible to vote, you must be: A US citizen A resident of Idaho and in the county for 30 days before Election Day At least 18 years old before or on Election Day Not convicted of a felony. (If you have been convicted, you must have had your civil rights restored) Incarcerated Voters & Returning Citizens:  In Idaho, you are not eligible to vote until after you finish all parts of your sentence, including any probation, parole, or supervised release. At that time, you can register to vote. Pretrial detention and misdemeanor convictions do not restrict your voting rights.  Voters without traditional residence:  Idaho voters who do not have a permanent address or are currently experiencing homelessness have the option to provide a location where they typically stay or return to when absent as their address for voter registration. This can include the address of a shelter they frequent or a description of a specific location, such as a park or street corner. If the individual does not receive postal service at their residence address, they may provide a separate mailing address, including the number, street, city, state, and zip code. The mailing address on their registration form can be a P.O. box, local shelter, advocacy organization, outreach center, or the home of someone who will accept mail for them.",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What ID do I need to register to vote?",
+            "a": "All new voter registrations will need to provide one of the approved proof of residence documents in order to complete the registration process: A current ID driver's license or identification card  A current passport or other identification card issued by an agency of the United States government  A current tribal identification card A current license or enhanced license to carry concealed weapons  If you register to vote on or after July 1, 2023, and your residential address does not match what's on your driver's license, you will need to present a valid document that confirms your new address. You can bring one of the following documents to your county elections office or the polls to complete the registration process: Any of the above photo IDs with correct residence address Current proof of insurance Deed of trust, mortgage, lease or rental agreement A property tax assessment, bill, or receipt A utility bill, excluding a cellular telephone bill A bank or credit card statement A paystub, paycheck, or government-issued check An intake document from a residential care or assisted living facility Enrollment papers issued for the current school year by a high school, or an accredited institution of higher education located within the state of Idaho. A communication on letterhead from a public or private social service agency registered with the secretary of state verifying the applicant is homeless and attesting to the applicant\u2019s residence for registration purposes.",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What forms of identification are accepted for voting?",
+            "a": "All voters are required to show photo ID or sign a Personal Identification Affidavit to cast a regular ballot. Acceptable forms of ID include: An Idaho driver's license or photo Identification Card A U.S. passport or Federal photo identification card A tribal photo identification card. A license to carry a concealed weapon issued by a county sheriff in Idaho The name on the ID must match the name on the registration list in the poll book but common abbreviations and nicknames are acceptable. NOTE: Beginning in 2024, student IDs issued by Idaho high schools or higher education institutions won't be accepted as a valid form of voter ID. If you do not have an acceptable form of ID, you can get one from your local DMV. You must bring proof of age, residency, legal presence, name change (if applicable) and your Social Security number in order to obtain your new ID. Also, if you do not have acceptable forms of ID you may be given the option to sign the Personal Identification Affidavit. Please ask in your polling location for this option if needed.",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "When are the official results released?",
+            "a": "Official results are never available on Election Day. Election officials are working around the clock to count an unprecedented number of ballots, and it\u2019s essential that they take the time to make sure every vote is counted. Absentee ballots begin being counted on Election Day. For Presidential elections, local results will be certified no later than 10 days after Election Day. Officials estimate that nearly all votes will be reported within 21 days after Election Day. Official election results will be uploaded on Idaho\u2019s Secretary of State website as they become available.",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What are the voting hours at polling places?",
+            "a": "Polls will be open from 8:00 am to 8:00 pm on Election Day.",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "Where can I find my Voter Service and Polling Center location?",
+            "a": "You can find your polling place by utilizing your state resource. If you have further questions on your polling place location, please contact your county clerk.",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "How does the primary election process work?",
+            "a": "Idaho is a \u201cpartially closed\u201d primary state. Each party has the ability to choose whether to allow unaffiliated voters or voters not registered with their party to participate in their primary. This decision is made 6 months before the primary election date each year. Unless the party chooses to allow voters not registered with their party to participate in the primary election, only voters registered with the party may vote in their primary. When there are elections on nonpartisan issues or races scheduled on the same day as a party primary election, all registered voters can vote on the nonpartisan races. If you have any questions about your state\u2019s primary election, please contact your local election officials.",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "When would I need to vote using a provisional ballot?",
+            "a": "There is no provisional voting.",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What accommodations are available for voters with disabilities?",
+            "a": "You may receive assistance to vote from any person of your choice. You may also ask for assistance from a poll worker. Curbside assistance and home voting is available in special circumstances. Please make arrangements with your county clerk's office in advance. Each polling place in the state will be equipped with a ballot marking device to assist voters who have difficulty reading or marking a ballot vote privately and independently. The ballot marking device is intended to assist the visually impaired, voters with disabilities and the elderly. Visually impaired voters can use headphones to listen to an audio ballot and make their selections using a Braille keypad. The ballot marking device has a touch screen with a zoom feature to enlarge the ballot print and a contrast feature to make the ballot easier to read for some voters. The ballot marking device only marks a ballot. No votes are stored in the machine. Votes are counted by the election board of your county. You can review and change your selections before the device marks a paper ballot. If you are using the ballot marking device, you may request a new ballot from a poll worker if you make a mistake. Additional instructions will be available at the polls and poll workers are trained to help if you request their assistance. For more information, you can utilize the American Association of People With Disabilities (AAPD) resource.",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What is the deadline to register to vote?",
+            "a": "Click here to register to vote online! Online registration deadline is 25 days before Election Day. You will need a driver's license issued by the State of Idaho DMV, a state ID or the last 4 digits of your Social Security Number in order to register online. If you do not have any of these, you can still register in person or by mail. You may also register to vote by mail. Mailed registration applications must be postmarked 25 days before the election in order to be accepted.  Any person who is qualified to vote may register in person at the polls on election day by providing proof of residence. All documents used in providing proof of residence must be accompanied with a photo ID. Acceptable documents include: A valid Idaho driver's license issued through the Department of Transportation. A valid Idaho identification card issued through the Department of Transportation Any document which contains a valid address in the precinct together with a picture identification card A current valid student photo ID and a fee statement with an address in the precinct. Not registered? Use our registration tool to fill out your application ",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What are the rules for taking time off work to vote?",
+            "a": "Time off to vote is subject to the employer, there is no requirement for employers to grant time off to vote for employees.",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2024-10-31T00:00:00Z"
+        },
+        {
+            "q": "What types of voting machines are used?",
+            "a": "The voting systems used in Idaho are optical scan and hand-counted paper ballots. Optical Scanning: With this system, you will receive a card or sheet of paper, which you take over to a private table or booth. The card has the names of the various candidates and ballot measures printed on it. With a pen or pencil you fill in a little box or circle or the space between two arrows. In some places, you can check your card or paper right there at the polling place by feeding it into a card-reading machine to make sure you have voted the way you want to. When you are finished filling out all the cards. You may bring the cards over to a ballot box, where poll workers will show you how to put the cards in the box. Or in some places, you may feed the completed cards or papers into a computer device that counts the votes. When Election Day is over, the computer counts how many votes were cast for each candidate. Paper Ballots: Paper ballots are one of the oldest ways of voting in America. They are still used on Election Day. Paper ballots are mostly used for absentee ballots. When you come to the polling place, you will get a paper ballot from the poll worker. You take it to the voting booth, and use a pen or pencil to mark a box next to your candidate and issue choices. You then drop the marked ballot into a sealed ballot box. At the end of the day, votes are counted by poll workers reading the ballots.",
+            "s": "https://www.vote411.org/idaho",
+            "t": "2024-10-31T00:00:00Z"
+        }
+    ]
+}

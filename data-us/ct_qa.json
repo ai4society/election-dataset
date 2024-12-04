@@ -1,0 +1,362 @@
+{
+    "state": "CT",
+    "num_questions": 59,
+    "num_answers": 59,
+    "contributor": "Deja Scott",
+    "questions": [
+        {
+            "q": "Can I vote absentee?",
+            "a": "Connecticut has strict laws regarding who can vote absentee.  Are you an active member of the armed forces of the United States? Will you be out of town on Election Day? Does sickness prevent you from voting in person on Election Day? Do your religious beliefs prevent you from performing secular activities like voting on Election Day? Will you be performing duties as an election official at a polling place other than your own on Election Day? Does a physical disability prevent you from voting in person on election day? If you answered yes to any of the above questions, you are eligible to vote absentee.  For Absentee Ballot Eligibility Updates, click here.",
+            "s": "https://portal.ct.gov/sots/election-services/voter-information/absentee-voting",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Who can download an application for absentee ballot?",
+            "a": "An application for absentee ballot may be downloaded by an individual for:  The individual's own use The use of a member of the individual's immediate family The use of a designee of the applicant    Note: Due to technical limitations on mobile devices, the absentee ballot application must be downloaded to the device and reviewed in a PDF viewer app to be read in ADA-compliant form or by assistive technologies. Mobile browsers do not have the same full reading capabilities as desktop/laptop browsers.",
+            "s": "https://portal.ct.gov/sots/election-services/voter-information/absentee-voting",
+            "t": 1730851200.0
+        },
+        {
+            "q": "How do I vote absentee?",
+            "a": "For an emergency ballot within 6 days of an election, please use the following Emergency Application for Absentee Ballot:    English Emergency Application for Absentee Ballot Spanish Emergency Application for Absentee Ballot For a referendum with less than 3 weeks notice, please use the following Application for Absentee Ballot for Referendum Authorized to Be Held with Less Than 3 Weeks Notice (please note these ballots cannot be mailed to you):   English Application for Referendum with less than 3 weeks notice Spanish Application for Referendum with less than 3 weeks notice If you have a permanent disability, you may be eligible to apply for a permanent absentee ballot. Contact your local Town Clerk for details. ",
+            "s": "https://portal.ct.gov/sots/election-services/voter-information/absentee-voting",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What happens after I send in my application?",
+            "a": "Your Town Clerk will process your application. The process and procedures for those who need accommodations for print disabilities are as follows: The absentee ballot application has been updated to make it accessible by screen readers and includes a check box to indicate that the voter requires a ballot emailed to them because of a print disability. Once the town clerk receives this application with the specified box checked off, they will send out a ballot packet  containing the outer envelope and inner envelope - WITHOUT a paper ballot, directly to the voter. The town clerk will notify the Office of the Secretary of the State that the voter needs an accessible ballot and will provide the voters email address. The Office of the Secretary of the State will email an accessible ballot directly to the voter. The voter will be able to read and fill out the ballot using their screen reader, print it out, and return it in the ballot packet that was sent to by the town clerk. The voter MUST sign the inner envelope, and local election officials have been instructed to approve the inner envelopes that are signed, even if the signature is not in the correct spot. Those ballots will be hand counted, as they will be printed on normal paper with normal ink and cannot be fed into the tabulator. An absentee ballot will be mailed to you beginning: 31 days before a general election 21 days before a primary 19 days before a referendum Or if your application is received after the above dates, your ballot will be mailed to you as soon as your application is processed. Complete the ballot, carefully following the instructions that are included and return it by mail or in person. Only complete absentee ballots received before the close of polls on the day of the election will be counted. ",
+            "s": "https://portal.ct.gov/sots/election-services/voter-information/absentee-voting",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What is Same Day Registration?",
+            "a": "The pre-election mail-in voter registration cutoff deadline is eighteen (18) days before an election or primary. For general elections, Connecticut also has Same Day Registration available during the period of Early Voting and on Election Day for voters who need it.  Same Day Registration permits anyone who meets the eligibility requirements for voting in this state and is not already registered or is registered in one town but has moved to another town, to register and vote in person. By law, a person is eligible to register and vote if he or she is (1) a US citizen, (2) age 18 or older, (3) a bona fide resident of the town in which he or she applies for admission, and (4) has completed confinement if previously convicted of a disfranchising felony.   Same Day Registration (SDR) is not available at your polling place but is available at a designated SDR location in each town, beginning at 6 am and ending at 8 pm on Election Day. SDR is available during the hours of Early Voting as well. You will register and vote at the designated SDR location in your town. Please plan to arrive early in the day as there may be long lines. If you are in line at the Same Day Registration site by the close of polls, you can remain in line to complete your registration and vote. For example, on Election Day you would need to be in line by 8 pm. You will need to provide proof of identity and residency.",
+            "s": "https://portal.ct.gov/sots/election-services/election-day-registration/election-day-registration",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Am I eligible to vote?",
+            "a": "Are you at least 17 and turning 18 on or before Election Day? Are you a United States citizen living in Connecticut? If you have been convicted of a felony, have you completed confinement? Restoring Voting Rights of Convicted Felons (English) Como Restaurar tu Derecho de Votar (Espaol) If you can answer yes to all three of these questions, you are eligible to register to vote in Connecticut.",
+            "s": "https://portal.ct.gov/sots/election-services/voter-information/voting-eligibility",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What if I moved recently?",
+            "a": "You will have to update your voter registration to reflect your new address. If you moved to Connecticut from another state, moved to a different town within Connecticut, or even moved within the same town, your polling location may have changed. Your voter registration should always reflect your current home address.",
+            "s": "https://portal.ct.gov/sots/election-services/voter-information/voting-eligibility",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What if I am a student?",
+            "a": "If you are a college student living away from home, you may choose to vote in one of two ways:  Either complete an absentee ballot for the election in your hometown. or Register to vote in your college town.",
+            "s": "https://portal.ct.gov/sots/election-services/voter-information/voting-eligibility",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What if I am in the military or currently living overseas?",
+            "a": "If you are in the military of currently living overseas, click here for more information.",
+            "s": "https://portal.ct.gov/sots/election-services/voter-information/voting-eligibility",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What if I have been convicted of a felony in the past?",
+            "a": "If you have been convicted of a felony in the past, click here for information pertaining to Restoration of Voting Rights.  (La traduccin al Espaol llegar pronto)",
+            "s": "https://portal.ct.gov/sots/election-services/voter-information/voting-eligibility",
+            "t": 1730851200.0
+        },
+        {
+            "q": "How do I register to vote?",
+            "a": "We recommend that you enclose the downloaded voter registration application in an envelope, as the US Postal Service cannot guarantee the intact delivery of a form printed on standard office paper.  You are not a voter until your application is approved by the Registrar of Voters. You should receive a confirmation within 3 weeks. If you do not, contact the Registrar in your town hall.   Connecticut has two major parties: Republican & Democrat  Connecticut also has numerous minor parties and a 3-month waiting period for switching parties.  Registration Cut-off: Registration by mail cut-off is eighteen (18) days before the election or primary. You may be able to register in person up until noon the day before the primary. For general elections, Connecticut offers Same Day Registration during the early voting period and on Election Day.",
+            "s": "https://portal.ct.gov/sots/election-services/voter-information/voter-registration-information",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What is the deadline for me to register to vote?",
+            "a": "Voter registration deadlines vary depending on the election. The pre-election voter registration cutoff deadline is eighteen (18) days before Election Day. Connecticut also has Same Day Registration on Election Day itself for voters who need it. If you miss the deadline for registering for an election, you can register and vote in-person on Election Day at your towns Same Day Registration location. Same Day Registration Information",
+            "s": "https://portal.ct.gov/sots/election-services/voter-information/voter-registration-information",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Can I vote in a primary?",
+            "a": "Am I registered with a party? Use our voter registration lookup tool to check whether you are already registered with a party. To register with a political party, complete a new Voter Registration and indicate your party choice in section 9. To change your party registration, complete a new Voter Registration and indicate your new choice in section 9. NOTE: A voter who changes from one party to another acquires party privileges 3 months after filing a voter registration application with the Registrar of Voters.",
+            "s": "https://portal.ct.gov/sots/election-services/voter-information/party-affiliation",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What is an unaffiliated voter?",
+            "a": "Unaffiliated is the term used to refer to voters who are not registered with a political party. This term is used instead of referring to these voters as independent to avoid confusion with the Independent Party, which is an established political party. If you write Independent in section 9 of your Voter Registration, you will be registered as a member of the Independent Party. ",
+            "s": "https://portal.ct.gov/sots/election-services/voter-information/party-affiliation",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Am I eligible to vote in CT?",
+            "a": "Are you at least 17 and turning 18 on or before Election Day?  Are you a United States Citizen and a bona fide resident of some town in Connecticut?  If you have been convicted of a felony, have you completed confinement?  Please note that if your conviction involved a violation of election law, then you should check with the Division of Criminal Justice before you attempt to register.  If you can answer YES to all three of these questions, you are eligible to vote in CT",
+            "s": "https://portal.ct.gov/sots/election-services/voter-information/voter-fact-sheet-first-time-voter",
+            "t": 1730851200.0
+        },
+        {
+            "q": "How do I register to vote in CT?",
+            "a": "There are two different ways you can register to vote in CT.  You are able to register online if you have a CT DMV ID, otherwise you are able to complete a paper registration card and deliver it to your local Registrar of Voters before the registration deadlines. CT also has Election Day Registration available. Visit myvote.ct.gov, for more info.",
+            "s": "https://portal.ct.gov/sots/election-services/voter-information/voter-fact-sheet-first-time-voter",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What is an acceptable form of identification for voting?",
+            "a": "Photo Identification is not required.  For most voters, your identification must fit one of the following requirements for it to be accepted as a valid form of ID at the  polls:  name and address, or name and signature, or, name and photograph However, for voters who are voting for the first time in a municipality, and lacked proper identification when registering, some additional types of identification may be required. Contact your local registrar of voters office or visit myvote.ct.gov, for more information on ID requirements.",
+            "s": "https://portal.ct.gov/sots/election-services/voter-information/voter-fact-sheet-first-time-voter",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What should I expect the first time I vote?",
+            "a": "You should first visit myvote.ct.gov to use the voter registration look up tool and polling place locator to verify that you are registered to vote and you know the location of your polling place.  The first time you check in at your polling place, you will need to present the proper identification to vote.  Polls are open 6am until 8pm and if a voter is in line at 8pm, that voter has the right to cast a ballot.  However, if an individual is in line at 8pm to register to vote as part of Election Day Registration, that person is not eligible because polls have closed.  Visit myvote.ct.gov, or contact your local Registrar of Voters for more information.",
+            "s": "https://portal.ct.gov/sots/election-services/voter-information/voter-fact-sheet-first-time-voter",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Can I vote in a Primary?",
+            "a": "In order to vote in a Primary in Connecticut, both major parties require that you become a party member before allowing you to vote.  Visit myvote.ct.gov, for more info.",
+            "s": "https://portal.ct.gov/sots/election-services/voter-information/voter-fact-sheet-first-time-voter",
+            "t": 1730851200.0
+        },
+        {
+            "q": "My circumstances make it difficult to appear at the polling place.  Can I vote with absentee ballot?",
+            "a": "Any citizen has the right to cast their vote by absentee ballot if they meet one of the following reasons: You are an active member of the armed forces of the US; you will be out of town during all hours of voting on election day; your illness prevents you from voting in person on election day; your religious beliefs prevent you from voting on election day; you are preforming duties as an election official at a polling location other than your own; you have a physical disability that prevents you from voting in person on election day.  Visit myvote.ct.gov, for more information and links to the application.",
+            "s": "https://portal.ct.gov/sots/election-services/voter-information/voter-fact-sheet-first-time-voter",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What happens if I miss one of the registration deadlines, can I still register and vote on the day of the election? (Election Day Registration)",
+            "a": "You may register and vote in person on Election Day if you meet the eligibility requirements for voting in this state and you are not already registered, OR you are registered in one town and want to change your registration because you currently reside in another town.  Election Day Registration is not available at your polling place.  Contact your local registrar of voters office for information about your towns designated EDR location and ID requirements.  You will need to provide proof of identity and residency.  Visit myvote.ct.gov, for more info.",
+            "s": "https://portal.ct.gov/sots/election-services/voter-information/voter-fact-sheet-first-time-voter",
+            "t": 1730851200.0
+        },
+        {
+            "q": "How do I register to vote in CT?",
+            "a": "There are two different ways you can register to vote in CT. You are able to register online at myvote.ct.gov/register if you have a Connecticut Drivers License or a non-driver ID. Otherwise, you are able to complete a paper registration card and deliver it to your local Registrar of Voters before the registration deadlines. CT also has Election Day Registration available. Visit myvote.ct.gov for more information.",
+            "s": "https://portal.ct.gov/sots/election-services/voter-information/student-voter-fact-sheet",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What is an acceptable form of identification to show at the polls?",
+            "a": "Photo Identification is not required. For most voters, your identification must fit one of the following requirements for it to be accepted as a valid form of ID at the polls: name and address, or name and signature, or name and photograph.  However, for voters who are voting for the first time, and lacked proper identification when registering, some additional types of identification may be required. Contact your local registrar of voters office or visit our FAQ - Voter Identification page for more information on ID requirements.",
+            "s": "https://portal.ct.gov/sots/election-services/voter-information/student-voter-fact-sheet",
+            "t": 1730851200.0
+        },
+        {
+            "q": "I attend college in CT, but I am from another state. Where do I vote?",
+            "a": "You can either vote in your hometown or in the town where you live while at college.  There are some college students who would prefer to vote in their home state. Each States deadlines for registering to vote and obtaining an absentee ballot are different. Make sure you check with that States election officials. Visit myvote.ct.gov for more information and links.",
+            "s": "https://portal.ct.gov/sots/election-services/voter-information/student-voter-fact-sheet",
+            "t": 1730851200.0
+        },
+        {
+            "q": "I am from CT and attending college. Where do I vote and how do I vote back in my CT town?",
+            "a": "You can either vote in your hometown or in the town where you live while at college.    Connecticut law allows you to receive an absentee ballot if, in your judgment, an absence from your town on Election Day prevents you from appearing at your polling place, or you are prevented from appearing at your assigned polling place on Election Day because of sickness or physical disability (not necessarily your sickness or disability), active service in the Military, religious tenets forbid secular activity on the day of the election, duties as an election official at a polling place other than your own during all of the hours of voting.  To apply online for your CT absentee ballot, visit myvote.ct.gov/getmyab. Or visit myvote.ct.gov/absentee for more information and links to the application.",
+            "s": "https://portal.ct.gov/sots/election-services/voter-information/student-voter-fact-sheet",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What is the difference between my physical and mailing address?",
+            "a": "Your physical address determines where you vote, not your mailing address. A mailing address is the place where you are able to receive mail and your physical address is where you are located. Some colleges use your dorm room or apartment number as both your physical and mailing address, although some do not. An example would be if you live in Smith Hall, but you get your mail delivered to the Student Center. Your mailing address could be 5555 Education Circle, College in CT, Anytown, CT, 06000; while your physical address would be 101 Smith Hall, College in CT. Visit myvote.ct.gov for more information.  Courts have said that an individual is a resident of a town if they have some nexus to that particular town, and there is an intention to return to that town when absent from it. This could be a town that you have spent time in, slept in, and intend to go back to even if you are not presently there. ",
+            "s": "https://portal.ct.gov/sots/election-services/voter-information/student-voter-fact-sheet",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What happens if I miss one of the registration deadlines? Can I still register and vote on the day of the election (Election Day Registration)?",
+            "a": "You may register and vote in person on election day if you meet the eligibility requirements for voting in this state and you are not already registered, or you are registered in one town and want to change your registration because you currently reside in another town. Election Day Registration (EDR) is not available at your polling place. Contact your local registrar of voters office for information about your towns designated EDR location and ID requirements. You will need to provide proof of identity and residency. Visit myvote.ct.gov for more information. ",
+            "s": "https://portal.ct.gov/sots/election-services/voter-information/student-voter-fact-sheet",
+            "t": 1730851200.0
+        },
+        {
+            "q": "How can a homeless person be a resident of a town in CT?",
+            "a": "Courts have said that an individual is a resident of a town if they have some nexus to that particular town, and there is an intention to return to that town when absent from it. This could be a town that you have spent time in, slept in, and intend to go back to, even if you are not presently there.",
+            "s": "https://portal.ct.gov/sots/election-services/voter-information/homeless-voter-fact-sheet",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What is an acceptable form of identification for to show at the polls?",
+            "a": "Photo Identification is not required. For most voters, your identification must fit one of the following requirements for it to be accepted as a valid form of ID at the polls: name and address, or name and signature, or name and photograph.  However, for voters who are voting for the first time, and lacked proper identification when registering, some additional types of identification may be required. Contact your local registrar of voters office or visit our FAQ - Voter Identification page for more information on ID requirements.",
+            "s": "https://portal.ct.gov/sots/election-services/voter-information/homeless-voter-fact-sheet",
+            "t": 1730851200.0
+        },
+        {
+            "q": "I am unable to vote on Election Day. Can I still to vote?",
+            "a": "Any citizen has the right to cast their vote by absentee ballot if they meet one of the following reasons: You are an active member of the armed forces of the US; you will be out of town during all hours of voting on election day; your illness prevents you from voting in person on election day; your religious beliefs prevent you from voting on election day; you are preforming duties as an election official at a polling location other than your own; you have a physical disability that prevents you from voting in person on election day. Visit myvote.ct.gov, for more information and links to the application.",
+            "s": "https://portal.ct.gov/sots/election-services/voter-information/homeless-voter-fact-sheet",
+            "t": 1730851200.0
+        },
+        {
+            "q": "When do I vote?",
+            "a": "For an election or primary, polls in Connecticut are open from 6 a.m. to 8 p.m. Any elector standing in line at the polls at 8 p.m. will be allowed to cast a vote. Check with your Town Clerk for the hours of voting on a referendum, as they vary by town.",
+            "s": "https://portal.ct.gov/sots/election-services/voter-information/where-and-how-do-i-vote",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Do I need to show photo identification in order to vote?",
+            "a": "The short answer is no. Learn more about voter identification requirements.",
+            "s": "https://portal.ct.gov/sots/election-services/voter-information/where-and-how-do-i-vote",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What happens if I am not on the list of registered voters at the polling place?",
+            "a": "Thanks to Connecticuts new Election Day Registration law, you can register and vote in person on Election Day at your towns Election Day Registration location. To register in person, you will need to supply proof of identity and residence. Contact your local registrars of voters for information about location, hours of operation, and acceptable forms of identification.",
+            "s": "https://portal.ct.gov/sots/election-services/voter-information/where-and-how-do-i-vote",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Is a driver's license or photo ID required to vote in Connecticut?",
+            "a": "No. When you arrive at the polling place the poll worker will request that you present ID but if you do not have any, then in most cases, you may sign an affidavit in lieu of presenting ID. There are several options for identification, and they do not need to be a driver's license or have a photo.",
+            "s": "https://portal.ct.gov/sots/election-services/faq/faq---voter-identification",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Can a drive-only license be used as identification at the polling place?",
+            "a": "No. A drive-only license is not valid for federal identification purposes and cannot be used to vote.",
+            "s": "https://portal.ct.gov/sots/election-services/faq/faq---voter-identification",
+            "t": 1730851200.0
+        },
+        {
+            "q": "My new drivers license indicates that it is \"Not for Federal Identification.\" May I use it as identification at the polling place?",
+            "a": "Yes. You may continue to use your current drivers license at the polling place when you vote. When you check-in to vote, in lieu of the drivers license, you may also show a credit card with your name and signature, an ID with your name and photograph, or any document with your name and address such as a checkbook or a utility bill.",
+            "s": "https://portal.ct.gov/sots/election-services/faq/faq---voter-identification",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Does my ID need to have the address printed on it?",
+            "a": "No. If your ID includes a photo, it does not need to include your address. Please see the chart below.",
+            "s": "https://portal.ct.gov/sots/election-services/faq/faq---voter-identification",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What is the Absentee Ballot Process?",
+            "a": "2024 General Election: Important Return Dates  In Connecticut, voted absentee ballots must be received in the Town Clerk's office by 8:00 pm on Election Day, November 5th.  Absentee voting is available if you meet any of the criteria below. Voted ballots must be received by Election Day in order to be counted.  You determine that you are unable to appear at your polling place on Election Day because you will be absent from the city or town in which you live You are an active member of the armed forces of the United States  You or someone you care for is sick  The term \"sickness\" is determined by the individual voter and includes identified and widespread diseases such as COVID-19 which poses a risk to a voter's health. You are unable to appear at the polling location or may only be able to appear with the assistance of another or through great personal exertion. Religion tenets that forbid secular activity on Election Day  Your required performance of duties as a primary, referendum, or election official at a polling place other than your own during all the hours on Election Day  You can fill out an absentee ballot request here.  You may vote absentee beginning 31 days before a general election, 21 days before a primary, 19 days before a referendum.  The sealed marked ballot and signed outer envelope must reach the town clerk's office before the close of the polls on Election Day.  If you have an emergency (are suddenly ill, injured or hospitalized) within 6 days of an election, you may request an emergency absentee ballot. Contact your town clerk's office for more information.  If you have submitted your executed ballot to the Town Clerk, and you change your mind and want to vote in person at the polls, you have until 10 AM on Election Day to appear at the Town Clerks office to withdraw your ballot. You can track your absentee ballot here. Overseas citizens and U.S. military personnel can register to vote and request an absentee ballot at the Overseas Vote Foundation.",
+            "s": "https://www.vote411.org/connecticut#absentee-ballot-process",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What is the Ballot Notice and Cure Process?",
+            "a": "Connecticut does not allow for curing absentee/mail ballots after Election Day. Ballots will be rejected if they lack a signature or if the signature does not match the one on file. You can track your absentee ballot using your states online tool. Voters who used a provisional ballot will have their information verified by registrars within six days after the election. Provisional ballots are only counted after the voter's eligibility is confirmed. ",
+            "s": "https://www.vote411.org/connecticut#ballot-notice-and-cure-process",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Where can I find the Campaign Finance Information?",
+            "a": "For information on federal campaign contributions, please visit Open Secrets.  For information on state campaign contributions, please visit your state's resource.",
+            "s": "https://www.vote411.org/connecticut#campaign-finance-information",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Where can I find Candidate and Ballot Measure Information?",
+            "a": "Information on local, state and federal candidates and ballot measures may be available here.  Sample ballots are posted to the CT Secretary of State website.  Sample ballots for both primary and general elections can be found here.  The 2024 general election ballot will be posted after the primaries and before the start of Early Voting on October 21.  ",
+            "s": "https://www.vote411.org/connecticut#candidate-and-ballot-measure-information",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What are Drop Boxes?",
+            "a": "You may return your absentee ballot application by using the safe and secure absentee ballot drop box that is stationed outside your Town Hall, or mail directly to your Town Clerk using the postage-paid envelope included in the mailing or your own envelope with postage. If you have any questions, you can call your Town Clerk for more information. ",
+            "s": "https://www.vote411.org/connecticut#drop-boxes",
+            "t": 1730851200.0
+        },
+        {
+            "q": "When is Early Voting?",
+            "a": "Connecticut now requires each municipality in the state to establish at least one early voting location. There will be 14 days of early voting for general elections, 7 days for most primaries, and 4 days for special elections and presidential preference primaries.   Please note that early voting will not be an option for Town Referenda or Town Committee elections.  Other exceptions:  State holidays are always excluded from the early voting period In 2024, Easter is also excluded Exclusions don't usually extend the period Early Voting Hours:  For specific hours, please contact your local elections official.   Same Day Registration for Early Voting  During a primary election, registering before noon allows you to vote the next day. Registering after noon allows you to vote the day after. For regular elections, you can register and vote on the same day at an early voting location.  Early Voting vs. Absentee Voting  No excuse is required for early voting, but an excuse is still required for absentee voting. Early voting is done in-person, while absentee ballots may be returned in-person, via mail, or to a drop box.",
+            "s": "https://www.vote411.org/connecticut#early-voting",
+            "t": 1730851200.0
+        },
+        {
+            "q": "When are Election Dates?",
+            "a": "Your next election date can be found here https://www.vote411.org/connecticut",
+            "s": "https://www.vote411.org/connecticut#election-dates",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What are the Eligibility Requirements?",
+            "a": "To be eligible to vote you must be:  A U.S. citizen living in Connecticut At least 17 years old and turning 18 years old by Election Day Done with confinement and parole if previously convicted of a felony and have had your voting rights restored Incarcerated Voters & Returning Citizens:   In Connecticut, you only lose your right to vote if you are currently incarcerated for a felony conviction. If you lost your voting rights because of a conviction, you could register to vote immediately after release. Your voting rights are not restricted by pretrial detention, misdemeanors, probation, or parole unless you have been convicted of election offenses. In that case, you must complete any terms of probation and parole.   Students  If you are a student at a college or university in Connecticut, you can choose where you want to register to vote. You can register to vote either at your university address or your home address in another state. You decide which place you consider your home.  However, you can only be registered to vote in one place. If you move, you must update your registration to your new address.  To register to vote in Connecticut, you need some form of ID. You don't need a photo ID to vote, but most voters need an ID that shows either your name and address, your name and signature, or your name and photo. If you're voting for the first time and didn't show ID when you registered, you might need to bring an extra ID. You can find a list of acceptable forms of voter IDs here.  If you choose to vote in a different state, remember that each state has its own deadlines for registering to vote and getting an absentee ballot. Make sure to check the specific requirements for the state where you plan to vote.  Voters without traditional residence:   In Connecticut, an individual is considered a town resident if they have a genuine connection to that specific town and express an intention to return to it when they are away. This connection can be established through activities such as spending time in the town, staying overnight, and planning to return to it in the future.   Voters who do not have traditional housing are allowed to utilize a local shelter or post office as their mailing address when registering to vote. At the same time, they can provide a specific location, such as a park bench, as their physical address. It is crucial to take responsibility for checking mail at the address provided. After successful registration, a confirmation letter will be sent to you via mail. ",
+            "s": "https://www.vote411.org/connecticut#eligibility-requirements",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What ID is Needed for Voter Registration?",
+            "a": "You are required to show identification when registering to vote in person.  Acceptable identification includes anything with a name and address:  Connecticut driver's license a utility bill, or even a checkbook. If you register by mail, you must provide your Connecticut driver's license or the last four digits of your Social Security number on the voter registration form, which will be confirmed by the state's centralized voter registration system. This will avoid additional ID requirements for first-time voters in federal elections.",
+            "s": "https://www.vote411.org/connecticut#id-needed-for-voter-registration",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What ID is Needed for Voting?",
+            "a": "You must either show ID or sign a one line affidavit at the polling place if you have not provided proper identification when registering. A photo ID is not required.  Acceptable forms of ID at the polling place are:  A Social Security card Any other pre-printed form of identification that shows your name and address, name and signature, or name and photograph. Any current and valid photo ID that shows your name and address Copy of a current utility bill, bank statement, government paycheck or other government document that shows your name and address If you do not have ID, the affidavit form requires your name, address, date of birth, and signature. The affidavit states, under penalty of false statement, that you are the one whose name appears on the official checklist.  First time voters who registered to vote by mail and did not provide acceptable ID at registration must show ID at the polls or with their absentee ballots. Acceptable forms of identification include:  Copy of a current and valid photo ID Copy of a current utility bill, bank statement, government check, paycheck, or government document that shows your name and address. If you are a first time voter, you will be required to present identification and may not use the secretary of state's affidavit.  Voters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline",
+            "s": "https://www.vote411.org/connecticut#id-needed-for-voting",
+            "t": 1730851200.0
+        },
+        {
+            "q": "When are the Official Results available?",
+            "a": "Official results are never available on Election Day. Election officials are working around the clock to count an unprecedented number of ballots, and its essential that they take the time to make sure every vote is counted.  Absentee ballots begin being counted on Election Day. Provisional ballots are counted no later than 6 days after the election.  For Presidential elections, local results will be certified no later than 48 hours after the polls close.  Official election results will be uploaded on Connecticuts Secretary of State website, on the last Wednesday of November.",
+            "s": "https://www.vote411.org/connecticut#official-results",
+            "t": 1730851200.0
+        },
+        {
+            "q": "How to vote as Overseas and Military Voters?",
+            "a": "You are a Military or Overseas voter if you are in uniformed services, living overseas OR a spouse or dependent of a uniformed services voter. To get registered and vote, you can utilize Overseas Vote Foundation.  If you have additional questions about elections and voting overseas you can use our state specific elections official directory or contact the Overseas Vote Foundation.",
+            "s": "https://www.vote411.org/connecticut#overseas-and-military-voters",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Where can I find Poll Worker Information?",
+            "a": "You can make sure we have safe, fair, and efficient elections for all. Become a poll worker today!  In order to be a poll worker in Connecticut, you must:  Be registered to vote in Connecticut Be at least 18 years of age Be entitled to compensation Political affiliation generally required Be a resident of the town that you apply Complete required training Students with residency in the town who are 16 years or older may work with written permission from a parent or guardian To sign up, contact your local registrar's office.",
+            "s": "https://www.vote411.org/connecticut#poll-worker-information",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What are the Polling Place Hours?",
+            "a": " Polling places will be open from 6:00 am to 8:00 pm on Election Day.",
+            "s": "https://www.vote411.org/connecticut#polling-place-hours",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What is the Polling Place Locator?",
+            "a": "You can find your polling place by utilizing your state resource. If you have further questions on your polling place location, please contact your county clerk.  Please click here for a list of Fairfield, CT polling places.",
+            "s": "https://www.vote411.org/connecticut#polling-place-locator",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What is the Primary Election Process?",
+            "a": "Connecticut is a partially closed primary state. Each party has the ability to choose whether to allow unaffiliated voters or voters not registered with their party to participate in their primary, however, currently unaffiliated voters are NOT allowed to participate in the primary elections. This decision is made before the election cycle begins.  If you have any questions about your states primary election, please contact your local election officials.",
+            "s": "https://www.vote411.org/connecticut#primary-election-process",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What is Provisional Voting?",
+            "a": "You may vote a provisional ballot if you meet a specific situation.  Provisional ballots are issued in the following situations:  You claim to be an elector in a jurisdiction, but you are not on the official voter list The registrar determines that you cannot be restored or transferred from another polling place A polling district moderator decides that you may not vote in the primary or election You fail to provide appropriate identification Connecticut does not offer a provisional ballot in elections where there is no federal office on the ballot. Provisional ballots will be counted no later than 6 days after the election.",
+            "s": "https://www.vote411.org/connecticut#provisional-voting",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What are the Provisions for Voters with Disabilities?",
+            "a": "All polling places must be accessible. If you require assistance to vote by reason of blindness, disability, or inability to write or to read the ballot, assistance may be given by a person of your choice. This person may accompany you into the voting booth. This can be a person of your choosing but cannot be:  Your employer An agent of such employer An officer or agent of your union A candidate whose name appears on the ballot, unless they are a member of your immediate family A disabled person may, at any time, request a paper ballot for electors with disabilities.  Voters who have difficulty standing may ask to move to the front of the line or ask poll workers to direct them to a chair.  You may also request a ballot be brought to you outside the polling location. You must show proper ID and must mark the ballot in front of officials, but not in a way that will violate your privacy.  For more information, you can utilize the American Association of People With Disabilities (AAPD) resource.",
+            "s": "https://www.vote411.org/connecticut#provisions-for-voters-with-disabilities",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What is the Registration Deadline?",
+            "a": "You may register to vote on Election Day at a designated Election Day Registration locations in each town (not at your polling place). You will need to provide proof of identity and residency in order to register. You can find a list of locations here. NOTE: Election Day registration is NOT available for primary elections.   For primary elections, applications must be postmarked by the 5th day before the primary. You may register to vote in person at your town clerk or registrar until 12pm the last business day before the primary. Note: In order to participate in a primary in Connecticut, you must be registered with either the Democratic or Republican party, those unaffiliated with either party cannot participate.    For a general election, your application must be postmarked by the 7th day before the election. You may register to vote in person with your registrar by the 7th day before an election.  You may now register to vote online! Click here and follow the prompts to fill out your application.  Not registered? Use our registration tool to fill out your application!",
+            "s": "https://www.vote411.org/connecticut#registration-deadline",
+            "t": 1730851200.0
+        },
+        {
+            "q": "Do I get Time Off To Vote?",
+            "a": "Connecticut allows voters to request 2 hours off of unpaid leave on Election Day if requested up to two days beforehand.",
+            "s": "https://www.vote411.org/connecticut#time-off-to-vote",
+            "t": 1730851200.0
+        },
+        {
+            "q": "How do I Verify Voter Registration?",
+            "a": "To verify your voter registration status click here.",
+            "s": "https://www.vote411.org/connecticut#verify-voter-registration",
+            "t": 1730851200.0
+        },
+        {
+            "q": "What Voting Machines are used?",
+            "a": "The voting systems used in Connecticut are the optical scan and DRE.  Optical Scan: With this system, you will receive a card or sheet of paper, which you take over to a private table or booth. The card has the names of the various candidates and ballot measures printed on it. With a pen or pencil, fill in a little box or circle or the space between two arrows. When you are finished filling out all the cards, you may bring the cards over to a ballot box, where poll workers will show you how to put the cards in the box. In some places, you may feed the completed cards or papers into a computer device which checks your card or paper on site to make sure you have voted the way you want to and counts the votes.  Direct Recording Electronic (DRE): This is the newest kind of system in use in the U.S. All the information about who and what you are voting for is on an electronic screen, such as a TV or computer screen.  There are many variations of DREs because many companies are inventing new ones, and many cities, counties and states are trying them out. Usually, after you have signed in, the poll workers will give you a card which you slide into a device to start your voting session.  Some of these devices will show all of the candidates and ballot choices on one screen. Often, with these big screen devices, you push a button next to the name of the candidate you want to vote for (or yes or no on a ballot measure). On other DREs, the screen is set up to show pages. On each screen or page, there will probably be one thing to vote on. For example, on one screen or page, you might vote for president. Then you might move to the next page to vote for senator. Often these small-screen devices have a touch screen, where you touch the screen next to the name of the person you want to vote for. Other devices have a key pad. Some have a keyboard, so that you can write in the name of someone you want to vote for.  You let the system know you are finished voting by pushing a button, touching the screen or entering something on a keypad.  You can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource.",
+            "s": "https://www.vote411.org/connecticut#voting-machines",
+            "t": 1730851200.0
+        }
+    ]
+}
